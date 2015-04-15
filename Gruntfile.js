@@ -132,18 +132,9 @@ module.exports = function(grunt){
           }
         }
       },
-
       clean: {
         all: ['./dist/*.html']
-      },
-
-      'gh-pages': {
-        options: {
-          base: 'dist'
-        },
-        src: ['**']
       }
-
   });
 
   grunt.loadNpmTasks('grunt-contrib-uglify');
@@ -157,12 +148,10 @@ module.exports = function(grunt){
   grunt.loadNpmTasks('grunt-sass');
   grunt.loadNpmTasks('grunt-autoprefixer');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
-  grunt.loadNpmTasks('grunt-gh-pages');
 
   grunt.registerTask('html', ['assemble', 'htmlmin']);
   grunt.registerTask('js', ['jshint', 'concat', 'uglify']);
   grunt.registerTask('style', ['sass', 'autoprefixer', 'cssmin']);
-  grunt.registerTask('pub', ['build','gh-pages']);
   grunt.registerTask('build', ['js', 'style', 'clean', 'html']);
 
   grunt.registerTask('default', ['build', 'connect', 'watch']);
