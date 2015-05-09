@@ -1,14 +1,17 @@
 {{ partial "head.html" . }}
 <body class="layout-reverse">
 
-{{ partial "sidebar.html" . }}
 
-    <div class="content container">
-<div class="post">
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-</div>
+<div class="content container">
+    <div class="breadcrumbs"><a href="/">Home</a> &gt; {{ .Title }}</div>
+    <div class="post">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </div>
+    <hr/>
+    <div class="prevnext"><a href="{{ (.Site.Pages.ByWeight.Prev .).Permalink }}">&lt; {{ (.Site.Pages.ByWeight.Prev .).Title }}</a> -
+        <a href="{{ (.Site.Pages.ByWeight.Next .).Permalink }}">{{ (.Site.Pages.ByWeight.Next .).Title }} &gt;</a></div>
 </div>
 
-  </body>
+</body>
 </html>
