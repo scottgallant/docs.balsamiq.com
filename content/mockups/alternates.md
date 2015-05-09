@@ -107,7 +107,7 @@ When you have finished reviewing or integrating alternate versions into an offic
 
 * * *
 
-#### Project Alternates [#](#project)
+#### Project Alternates
 
 In some cases you might want to **propose a set of alternate designs across several mockups**. This might happen if you are reviewing someone else's mockups and want them to see your proposed design changes throughout the project.
 
