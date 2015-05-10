@@ -99,7 +99,7 @@ You can then manually edit the contents to create a new official version that is
 
 * * *
 
-#### Discarding Alternates [#](#discarding)
+#### Discarding Alternates
 
 When you have finished reviewing or integrating alternate versions into an official version you can delete alternates you no longer want using the "Discard" option.
 
