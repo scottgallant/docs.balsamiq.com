@@ -1,9 +1,10 @@
 +++
 date = "2015-05-09T16:46:35+02:00"
-draft = true
+draft = false
 title = "Working with Alternates"
 weight = 70
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Alternates"]
 +++
 
 Alternates (also sometimes referred to as _versions_ or _branches_) allow you to create **variations on a single mockup design** without adding more mockups to your project.

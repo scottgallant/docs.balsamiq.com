@@ -3,6 +3,8 @@ date = "2015-05-10T10:34:44+02:00"
 draft = true
 title = "Can I export mockup notes?"
 weight = 240
+categories = ["Mockups 3 for Desktop"]
+tags = ["Export", "Notes"]
 
 +++
 

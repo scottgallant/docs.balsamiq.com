@@ -3,7 +3,8 @@ date = "2015-05-09T16:48:09+02:00"
 draft = true
 title = "Working with Data Grids / Tables"
 weight = 100
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Data Grid", "Table"]
 +++
 
 The Data Grid control functions like many other [text-based controls](http://support.balsamiq.com/customer/portal/articles/110121). It uses commas as column separators and new lines as rows. A basic table with three columns and two rows would look like this:

@@ -3,6 +3,8 @@ date = "2015-05-09T17:05:09+02:00"
 draft = true
 title = "Importing Mockups and Symbols"
 weight = 170
+categories = ["Mockups 3 for Desktop"]
+tags = ["Importing", "BMML", "Version 2", "Symbols"]
 
 +++
 

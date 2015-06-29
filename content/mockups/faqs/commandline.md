@@ -3,7 +3,8 @@ date = "2015-05-10T13:18:33+02:00"
 draft = true
 title = "Can I Install Mockups from the Command Line?"
 weight = 320
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Register", "Command Line"]
 +++
 
 Mockups for Desktop can be registered and unregistered via the command line with the following commands:

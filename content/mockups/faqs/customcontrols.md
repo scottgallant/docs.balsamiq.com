@@ -3,7 +3,8 @@ date = "2015-05-10T13:17:57+02:00"
 draft = true
 title = "Can I add a custom control or icon?"
 weight = 270
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Symbols", "Icons", "Custom"]
 +++
 
 Mockups for Desktop supports the concept of Symbols (also called templates, master pages, custom components, widgets, etc.). Please read our [symbols documentation](http://support.balsamiq.com/customer/portal/articles/110439) to learn more about this powerful feature.

@@ -3,7 +3,8 @@ date = "2015-05-10T13:18:25+02:00"
 draft = true
 title = "What are Custom Properties?"
 weight = 310
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Custom"]
 +++
 
 This feature is available if you want to use one of the [3rd party tools that extend Mockups](http://support.balsamiq.com/customer/portal/articles/135659), add additional details for developers, or anything else you can think of.

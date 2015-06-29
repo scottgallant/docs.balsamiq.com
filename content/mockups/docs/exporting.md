@@ -3,7 +3,8 @@ date = "2015-05-09T16:59:30+02:00"
 draft = true
 title = "Exporting your Mockups"
 weight = 160
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Exporting", "PDF", "PNG", "Printing", "Image"]
 +++
 
 The Export menu contains the following export options:

@@ -3,6 +3,8 @@ date = "2015-05-09T16:57:52+02:00"
 draft = true
 title = "Working with Images"
 weight = 120
+categories = ["Mockups 3 for Desktop"]
+tags = ["Images", "Assets"]
 
 +++
 

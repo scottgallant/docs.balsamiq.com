@@ -3,7 +3,8 @@ date = "2015-05-09T16:32:43+02:00"
 draft = true
 title = "Introduction to Balsamiq Mockups 3"
 weight = 30
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Overview", "Introduction"]
 +++
 
 Balsamiq Mockups 3 is the result of nearly a year of heads-down coding to create the product that our customers have been asking for and the product we wanted for ourselves.

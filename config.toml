@@ -1,6 +1,19 @@
+theme = "balsamiq"
 baseurl = "http://docs.balsamiq.com/"
 languageCode = "en-us"
 title = "Balsamiq Documentation"
 
-[blackfriday]
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+SectionPagesMenu = "main"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "Docs"
+  
+  [blackfriday]
 plainIdAnchors = true

@@ -3,6 +3,8 @@ date = "2015-05-09T16:48:21+02:00"
 draft = true
 title = "Working with Icons"
 weight = 110
+categories = ["Mockups 3 for Desktop"]
+tags = ["Icons", "Custom"]
 
 +++
 

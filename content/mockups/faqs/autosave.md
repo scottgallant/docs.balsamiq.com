@@ -3,6 +3,8 @@ date = "2015-05-10T10:34:33+02:00"
 draft = true
 title = "Does Mockups automatically save open files?"
 weight = 220
+categories = ["Mockups 3 for Desktop"]
+tags = ["Save", "Recover"]
 
 +++
 

@@ -3,7 +3,8 @@ date = "2015-05-10T10:33:47+02:00"
 draft = true
 title = "Linking Mockups Together"
 weight = 180
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Linking", "Full Screen", "Presentation Mode"]
 +++
 
 You can link mockups together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you're displaying your project Mockups in [Full Screen Presentation](http://support.balsamiq.com/customer/portal/articles/111756) mode or as an [exported PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf).

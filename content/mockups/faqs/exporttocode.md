@@ -3,7 +3,8 @@ date = "2015-05-10T13:17:25+02:00"
 draft = true
 title = "Can Mockups Export to HTML/CSS/JS, XAML, Ruby, etc.?"
 weight = 250
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Export", "Code", "HTML"]
 +++
 
 Not directly, no.

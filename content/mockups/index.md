@@ -3,6 +3,7 @@ date = "2015-05-09T16:53:30+02:00"
 draft = true
 title = "Mockups 3 Documentation Table Of Contents"
 weight = 10
+categories = ["Mockups 3 for Desktop"]
 +++
 
 The following articles describe the basic usage and features of **Balsamiq Mockups 3 for Desktop**. See [below for documentation on **myBalsamiq** and our other products](#more).

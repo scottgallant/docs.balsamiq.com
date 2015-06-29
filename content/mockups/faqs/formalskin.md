@@ -3,6 +3,8 @@ date = "2015-05-10T13:18:13+02:00"
 draft = true
 title = "Is there a more formal skin for Mockups?"
 weight = 290
+categories = ["Mockups 3 for Desktop"]
+tags = ["Skins", "Sketch Skin", "Wireframe Skin"]
 
 +++
 

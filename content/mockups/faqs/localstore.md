@@ -3,6 +3,8 @@ date = "2015-05-10T13:18:47+02:00"
 draft = true
 title = "Finding Your Local Data Storage Folder"
 weight = 340
+categories = ["Mockups 3 for Desktop"]
+tags = ["Local Store", "Troubleshooting"]
 
 +++
 

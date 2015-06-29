@@ -1,4 +1,4 @@
 #!/bin/sh
 
-hugo server --theme=hyde --buildDrafts --watch
+hugo server --buildDrafts --watch
 

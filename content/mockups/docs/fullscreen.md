@@ -3,6 +3,8 @@ date = "2015-05-10T10:33:54+02:00"
 draft = true
 title = "Full Screen Presentation Mode"
 weight = 190
+categories = ["Mockups 3 for Desktop"]
+tags = ["Full Screen", "Presentation Mode"]
 
 +++
 

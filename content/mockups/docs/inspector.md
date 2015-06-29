@@ -3,6 +3,8 @@ date = "2015-05-09T16:46:21+02:00"
 draft = true
 title = "The Property Inspector"
 weight = 60
+categories = ["Mockups 3 for Desktop"]
+tags = ["Property Inspector", "Notes"]
 
 +++
 

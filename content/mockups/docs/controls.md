@@ -3,7 +3,8 @@ date = "2015-05-09T16:45:59+02:00"
 draft = true
 title = "Working with UI Controls"
 weight = 50
-
+categories = ["Mockups 3 for Desktop"]
+tags = ["Controls", "Crop", "Group", "Shortcuts", "Elements"]
 +++
 
 #### Adding UI Controls[#](#addinguicontrols)
