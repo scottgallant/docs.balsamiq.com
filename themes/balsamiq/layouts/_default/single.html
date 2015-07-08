@@ -1,0 +1,44 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <div class="hidden-xs hidden-sm col-md-2">
+
+<h2>Heelp!</h2>
+
+<p>I want a partial here something like the <a href="https://github.com/spf13/hugo/blob/master/docs/layouts/partials/menu.html">Hugo sidebar menu</a></p>
+
+{{ partial "sidebar-left2.html" . }}
+
+</div>
+	<div  id="page-article" class="col-xs-12 col-sm-9 col-md-7">
+		<div id="support-main">
+  		<div class="support-body">
+			<article>
+				<div class="title">
+				<h2>{{ .Title }}</h2>
+				</div>
+				<div class="article-content content article">
+					{{ .Content }}
+				</div>
+			</article>
+		</div>
+		</div>
+	</div> <!-- /.doc-main -->
+
+	{{ partial "sidebar-right.html" . }}
+
+</div> <!-- /.row -->
+
+</div>
+<!-- /BODY MAIN -->
+
+<!-- /BODY WRAPPER -->
+</div><!-- /#body-wrapper -->  
+
+<script language="javascript" type="text/javascript" src="//balsamiq.com/assets/js/balsamiq_footer.js"></script>
+
+
+</div><!-- /#page-wrapper -->
+</div><!-- /#company-support-portal -->
+
+{{ partial "footer.html" . }}
