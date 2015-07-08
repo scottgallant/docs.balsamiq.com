@@ -1,6 +1,11 @@
+theme = "balsamiq"
 baseurl = "http://docs.balsamiq.com/"
 languageCode = "en-us"
 title = "Balsamiq Documentation"
+MetaDataFormat = "toml"
+pluralizeListTitles = false
+Paginate = "10"
+PageSize = "10"
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -22,6 +27,6 @@ SectionPagesMenu = "main"
 [[menu.main]]
   name = "Resources"
   url = "/resources/"
-  
+
   [blackfriday]
 plainIdAnchors = true
