@@ -1,13 +1,6 @@
+{{/* MAIN PAGE TEMPLATE */}}
 {{ partial "header.html" . }}
 
-{{ $currentNode := . }}
-<ul>
-        {{ range .Site.Menus.main }}
-        <li>
-        <a href="/mockups/{{ .Name }}">{{ .Name }}</a>
-        </li>
-        {{ end }}
-
-</ul>
+This is the home page.
 
 {{ partial "footer.html" . }}

@@ -1,0 +1,8 @@
+name = "Hyde"
+license = ""
+description = ""
+tags = ["company"]
+
+[author]
+    name = "Balsamiq"
+    homepage = "http://balsamiq.com"

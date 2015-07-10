@@ -30,6 +30,3 @@ SectionPagesMenu = "main"
   name = "Resources"
   identifier = "resources"
   url = "/resources/"
-
-[blackfriday]
-  plainIdAnchors = true
