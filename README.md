@@ -7,6 +7,9 @@ docs.calsamiq.com
 - To build hugo without watch, just run $ hugo
 
 # TODO
-[ ] Figure out what leon wants to do with the IA
-[ ] Create gulp tasks to pull header/footer from balsamiq.com repo into partials
-[ ] Update shell script to handle gulp tasks
+- [x] Generate nav
+- [x] Create balsamiq theme
+- [ ] Figure out what leon wants to do with the IA
+- [ ] Create Nav and Overview pages based on Leon's IA
+- [ ] Create gulp tasks to pull header/footer from balsamiq.com repo into partials
+- [ ] Update shell script to handle gulp tasks
