@@ -80,5 +80,3 @@ Documentation for myBalsamiq and our plugin products is listed below:
 *   [UX Apprentice](http://uxapprentice.com)
 *   [Community Forums](http://forums.balsamiq.com)
 *   ["Balsamiq Wireframes Quickstart Guide"](/desktop/docs/1075461) by Scott Faranello
-
-{{ partial "footer.html" . }}

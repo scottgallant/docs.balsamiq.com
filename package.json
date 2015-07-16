@@ -26,7 +26,7 @@
     "type": "git",
     "url": "git+https://github.com/balsamiq/docs.balsamiq.com.git"
   },
-  "author": "",
+  "author": "Balsamiq",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/balsamiq/docs.balsamiq.com/issues"

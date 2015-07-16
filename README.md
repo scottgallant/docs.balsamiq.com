@@ -12,15 +12,25 @@ docs.calsamiq.com
 
 ### Installing Gulp
 - Make sure you have gulp installed (https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md). If you don't run this:
-    $ sudo npm install -g gulp
+>    $ sudo npm install -g gulp
 - Or Install gulp in your project devDependencies:
-    $ npm install --save-dev gulp
+>    $ npm install --save-dev gulp
 - Install dev dependencies by running this from terminal in docs.balsamiq.com directory:
-    $ npm install
+>    $ npm install
 
 ### Updating Gulp
 - To update globally: $ npm update gulp -g
 - To update a local instance: cd /your/folder/ then: $ npm update gulp
+
+### Running Gulp
+- All Gulp tasks
+>    $ gulp
+- Just CSS
+>    $ gulp sass
+- Just JS
+>    $ gulp js
+- Just header/footer update
+>    $gulp getincludes
 
 # TODO
 - [x] Generate nav
