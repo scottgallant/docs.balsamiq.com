@@ -40,7 +40,7 @@ docs.calsamiq.com
 - [x] Generate nav
 - [x] Create balsamiq theme
 - [x] Figure out what leon wants to do with the IA
-- [ ] Create Local Nav Top
+- [x] Create Local Nav Top
 - [ ] Create Left Nav
 - [ ] Create Right / In-Page Nav
 - [ ] Create Overview pages based on Leon's IA
