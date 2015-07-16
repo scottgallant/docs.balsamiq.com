@@ -32,6 +32,10 @@ docs.calsamiq.com
 * Just header/footer update (Make sure you pull in balsamiq.com first)
   * $ gulp getincludes
 
+### Running Gulp during development
+* If you're working on SASS or JS, run gulp using watch to rebuild css/js files as you make changes to them.
+  * $ gulp watch
+
 # TODO
 - [x] Generate nav
 - [x] Create balsamiq theme

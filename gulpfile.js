@@ -41,12 +41,20 @@ gulp.task('js', function() {
     .pipe(notify({ message: 'JS Minify task complete' }));
 });
 
-// Get Header/Footer Includes from balsamiq.com
+// Get Header/Footer Includes from balsamiq.com and rename them
 gulp.task('getincludes', function() {
   log("Get Includes from balsamiq.com " + (new Date()).toString());
-  return gulp.src(['../balsamiq.com/includes/_tpl_header_nav.inc', '../balsamiq.com/includes/_tpl_end.inc'])
-    .pipe(gulp.dest('./themes/docs-balsamiq-com/layouts/partials/'))
+  gulp.src(['../balsamiq.com/includes/_tpl_header_nav.inc', '../balsamiq.com/includes/_tpl_end.inc'])
+    .pipe(gulp.dest('./src/build-includes/'))
     .pipe(notify({ message: 'Get Header Footer Includes task complete' }));
+  gulp.src("./src/build-includes/_tpl_header_nav.inc")
+    .pipe(rename("tpl_header_nav.html"))
+    .pipe(gulp.dest("./themes/docs-balsamiq-com/layouts/partials/"))
+    .pipe(notify({ message: 'Rename Header task complete' }));
+  gulp.src("./src/build-includes/_tpl_end.inc")
+    .pipe(rename("tpl_end.html"))
+    .pipe(gulp.dest("./themes/docs-balsamiq-com/layouts/partials/"))
+    .pipe(notify({ message: 'Rename Footer task complete' }));
 });
 
 // Clean
