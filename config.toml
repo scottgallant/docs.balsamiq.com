@@ -1,4 +1,4 @@
-theme = "balsamiq"
+theme = "docs-balsamiq-com"
 baseurl = "http://docs.balsamiq.com/"
 languageCode = "en-us"
 title = "Balsamiq Documentation"
