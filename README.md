@@ -29,14 +29,17 @@ docs.calsamiq.com
   * $ gulp sass
 * Just JS
   * $ gulp js
-* Just header/footer update
-  * $gulp getincludes
+* Just header/footer update (Make sure you pull in balsamiq.com first)
+  * $ gulp getincludes
 
 # TODO
 - [x] Generate nav
 - [x] Create balsamiq theme
 - [x] Figure out what leon wants to do with the IA
-- [ ] Create Nav and Overview pages based on Leon's IA
+- [ ] Create Local Nav Top
+- [ ] Create Left Nav
+- [ ] Create Right / In-Page Nav
+- [ ] Create Overview pages based on Leon's IA
 - [ ] Make Titles h1 and decrease headings below that
 - [x] Set up gulp and document
 - [x] Create gulp JS tasks
