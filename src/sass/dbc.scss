@@ -76,11 +76,14 @@
   // BODY MAIN
   #body-main {
     position: relative;
-    margin-top: 18px;
+    margin-top: 24px;
     padding-top: 0;
     background-image: none;
     h1 {
       margin-top: 0;
+      margin-bottom: 24px;
+      font-size: 36px;
+      line-height: 36px;
     }
     .article-content {
       // margins/padding for anchors that work with the sticky header

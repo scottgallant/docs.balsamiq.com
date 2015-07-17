@@ -68,11 +68,14 @@
     padding-bottom: 176px; }
   #company-support-portal #body-main {
     position: relative;
-    margin-top: 18px;
+    margin-top: 24px;
     padding-top: 0;
     background-image: none; }
     #company-support-portal #body-main h1 {
-      margin-top: 0; }
+      margin-top: 0;
+      margin-bottom: 24px;
+      font-size: 36px;
+      line-height: 36px; }
     #company-support-portal #body-main .article-content h3, #company-support-portal #body-main .article-content h4 {
       font-size: 28px;
       line-height: 40px; }
