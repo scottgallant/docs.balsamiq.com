@@ -9,12 +9,11 @@
   <meta name="google-site-verification" content="6X9l9L4v9PC9rvtxS_wwUkvIWz-bDDo94IW_EQLhCCc" />
 
   <link rel="stylesheet" href="//balsamiq.com/assets/css/balsamiq.css" type="text/css" media="all">
-  <link rel="stylesheet" href="//balsamiq.com/assets/css/support.css" type="text/css" media="all">
+  <link rel="stylesheet" href="{{ $baseUrl }}/css/dbc.min.css" type="text/css" media="all">
   <link rel="stylesheet" href="//balsamiq.com/assets/js/fancybox/jquery.fancybox.css" type="text/css" media="all" />
   <link rel="stylesheet" href="//balsamiq.com/assets/fonts/ss-social-regular.css">
   <link rel="stylesheet" href="//balsamiq.com/assets/fonts/ss-social-circle.css">
   <link rel="stylesheet" href="//balsamiq.com/assets/fonts/ss-standard.css">
-  <link rel="stylesheet" href="{{ $baseUrl }}/css/dbc.min.css">
   <link rel="icon" type="image/x-icon" href="//balsamiq.com/assets/favicon/favicon.ico">
   <link rel="icon" type="image/png" href="//balsamiq.com/assets/favicon/favicon-16x16.png">
   <link rel="apple-touch-icon-precomposed" sizes="114×114" href="//balsamiq.com/assets/favicon/apple-touch-icon-114×114-precomposed.png">
@@ -22,7 +21,6 @@
   <link rel="apple-touch-icon-precomposed" href="//balsamiq.com/assets/favicon/touch-icon-iphone-precomposed.png">
 
   <script type="text/javascript" src="//balsamiq.com/assets/js/fancybox/jquery.fancybox.pack.js"></script>
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script>jQuery.noConflict();</script>
   <script type="text/javascript" src="//balsamiq.com/assets/js/modernizr.js"></script>
@@ -37,12 +35,6 @@
   <title>{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
 </head>
 
-<body id='company-support-portal'>
+<body id="company-support-portal">
 
 {{ partial "tpl_header_nav.html" . }}
-{{ partial "navigation_support.html" . }}
-
-<!-- ======================================== -->
-<!-- BODY MAIN -->
-<div id="body-main">
-  <div class="container">

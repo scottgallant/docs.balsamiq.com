@@ -1,5 +1,13 @@
 {{ partial "header.html" . }}
 
+{{ partial "navigation_support.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main">
+  <div class="container">
+{{/* ======================================== */}}
+
 <div class="row">
 
 	{{ partial "sidebar_left.html" . }}
@@ -9,7 +17,7 @@
   		<div class="support-body">
 			<article>
 				<div class="title">
-				<h2>{{ .Title }}</h2>
+				<h1>{{ .Title }}</h1>
 				</div>
 				<div class="article-content content article">
 					{{ .Content }}
@@ -22,5 +30,11 @@
 	{{ partial "sidebar_right.html" . }}
 
 </div> <!-- /.row -->
+
+{{/* ======================================== */}}
+  </div>
+</div>
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
 
 {{ partial "footer.html" . }}

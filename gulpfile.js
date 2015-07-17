@@ -57,6 +57,14 @@ gulp.task('getincludes', function() {
     .pipe(notify({ message: 'Rename Footer task complete' }));
 });
 
+// Get SASS CONFIG from balsamiq.com
+gulp.task('getsassconfig', function() {
+  log("Get Includes from balsamiq.com " + (new Date()).toString());
+  gulp.src('../balsamiq.com/sass/modules/_config.scss')
+    .pipe(gulp.dest('./src/sass/modules/'))
+    .pipe(notify({ message: 'Get SASS CONFIG file task complete' }));
+});
+
 // Clean
 gulp.task('clean', function(cb) {
     del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js'], cb)
@@ -65,6 +73,10 @@ gulp.task('clean', function(cb) {
 // Default
 gulp.task('default', ['clean'], function() {
     gulp.start('sass', 'js', 'getincludes');
+});
+// Dev (CSS/JS Only)
+gulp.task('dev', ['clean'], function() {
+    gulp.start('sass', 'js');
 });
 
 // WATCH

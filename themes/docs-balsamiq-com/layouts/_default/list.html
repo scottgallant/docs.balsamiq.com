@@ -1,5 +1,13 @@
 {{ partial "header.html" . }}
 
+{{ partial "navigation_support.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main">
+  <div class="container">
+{{/* ======================================== */}}
+
 <div class="row">
 
   {{ partial "sidebar_left.html" . }}
@@ -20,5 +28,11 @@
   {{ partial "sidebar_list.html" . }}
 
 </div>{{/* /.row */}}
+
+{{/* ======================================== */}}
+  </div>
+</div>
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
 
 {{ partial "footer.html" . }}
