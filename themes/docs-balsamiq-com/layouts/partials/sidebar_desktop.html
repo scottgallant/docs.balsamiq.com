@@ -1,0 +1,12 @@
+{{ $currentNode := . }}
+{{ range .Site.Menus.menudesktop }}
+    {{ if .HasChildren }}
+  <ul class="sub">
+      {{ range .Children }}
+      <li{{if $currentNode.IsMenuCurrent "menudesktop" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+      {{ end }}
+  </ul>
+{{else}}
+  {{/* when no parent */}}
+{{end}}
+{{end}}
