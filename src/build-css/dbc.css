@@ -68,7 +68,7 @@
     padding-bottom: 176px; }
   #company-support-portal #body-main {
     position: relative;
-    margin-top: 24px;
+    margin-top: 36px;
     padding-top: 0;
     background-image: none; }
     #company-support-portal #body-main h1 {
@@ -262,45 +262,47 @@
     margin-right: 0;
     text-align: left;
     max-width: 100%; }
-  #company-support-portal #support-side .content {
+  #company-support-portal .support-side {
     font-size: 12px;
     font-size: 1.2rem;
     line-height: 14px;
     line-height: 1.4rem;
     margin-bottom: 1em;
-    background: #eee;
-    border: 1px solid #ddd;
-    border-radius: 5px; }
-    #company-support-portal #support-side .content button, #company-support-portal #support-side .content a.button {
+    background: #fff;
+    border: none; }
+    #company-support-portal .support-side button, #company-support-portal .support-side a.button {
       max-width: 180px; }
-    #company-support-portal #support-side .content h3 {
+    #company-support-portal .support-side h3 {
       margin: 10px 0 10px 0;
-      padding: 0 10px;
+      padding: 0;
       font-size: 16px;
       text-shadow: rgba(255, 255, 255, 0.75) 0 1px 0;
-      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif; }
-    #company-support-portal #support-side .content i {
+      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+      color: #666; }
+    #company-support-portal .support-side i {
       margin-top: 2px;
       cursor: pointer;
       color: #999 !important; }
-    #company-support-portal #support-side .content ul {
+    #company-support-portal .support-side ul {
       margin-left: 0;
       padding-left: 0;
       list-style-type: none; }
-      #company-support-portal #support-side .content ul li {
+      #company-support-portal .support-side ul li {
         margin: 0;
         padding: 0;
         border-top: 1px solid #ddd;
         line-height: 16px; }
-        #company-support-portal #support-side .content ul li a {
+        #company-support-portal .support-side ul li a {
           display: block;
-          padding: 8px 10px; }
-      #company-support-portal #support-side .content ul > .active,
-      #company-support-portal #support-side .content ul > .active:hover {
+          padding: 8px 0; }
+        #company-support-portal .support-side ul li.active a {
+          padding: 8px 4px; }
+      #company-support-portal .support-side ul > .active,
+      #company-support-portal .support-side ul > .active:hover {
         background: #0064AE !important; }
-      #company-support-portal #support-side .content ul > .active > a,
-      #company-support-portal #support-side .content ul > .active > a:hover,
-      #company-support-portal #support-side .content ul > .active > a:focus {
+      #company-support-portal .support-side ul > .active > a,
+      #company-support-portal .support-side ul > .active > a:hover,
+      #company-support-portal .support-side ul > .active > a:focus {
         color: #fff;
         background-color: #0064AE !important; }
   #company-support-portal #tweets .tweet_avatar {

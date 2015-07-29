@@ -76,7 +76,7 @@
   // BODY MAIN
   #body-main {
     position: relative;
-    margin-top: 24px;
+    margin-top: 36px;
     padding-top: 0;
     background-image: none;
     h1 {
@@ -320,53 +320,54 @@
 
   // ========================================
   /* SUPPORT SIDE COLUMN */
-  #support-side {
-    .content {
-      @include fontsize(12,14);
-      margin-bottom: 1em;
-      background: $graylight;
-      border: 1px solid $gray;
-      border-radius: 5px;
-      button, a.button {
-        max-width: 180px;
-      }
-      h3 {
-        margin: 10px 0 10px 0;
-        padding: 0 10px;
-        font-size: 16px;
-        @include text-shadow(dark);
-        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      }
-      i {
-        margin-top: 2px;
-        cursor:pointer;
-        color: $graydark !important;
-      }
-      // TOC
-      ul {
-        margin-left: 0;
-        padding-left: 0;
-        list-style-type: none;
-        li {
-          margin: 0;
-          padding: 0;
-          border-top: 1px solid $gray;
-          line-height: 16px;
-          a {
-            display: block;
-            padding: 8px 10px;
-          }
+  .support-side {
+    @include fontsize(12,14);
+    margin-bottom: 1em;
+    background: #fff;
+    border: none;
+    button, a.button {
+      max-width: 180px;
+    }
+    h3 {
+      margin: 10px 0 10px 0;
+      padding: 0;
+      font-size: 16px;
+      @include text-shadow(dark);
+      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+      color: $grayverydark;
+    }
+    i {
+      margin-top: 2px;
+      cursor:pointer;
+      color: $graydark !important;
+    }
+    // Nav TOC
+    ul {
+      margin-left: 0;
+      padding-left: 0;
+      list-style-type: none;
+      li {
+        margin: 0;
+        padding: 0;
+        border-top: 1px solid $gray;
+        line-height: 16px;
+        a {
+          display: block;
+          padding: 8px 0;
         }
-        & > .active,
-        & > .active:hover  {
-          background: $blue !important;
+        &.active a {
+          padding: 8px 4px;
         }
-        & > .active > a,
-        & > .active > a:hover,
-        & > .active > a:focus {
-          color: #fff;
-          background-color: $blue !important;
-        }
+      }
+      & > .active,
+      & > .active:hover  {
+        background: $blue !important;
+      }
+      & > .active > a,
+      & > .active > a:hover,
+      & > .active > a:focus {
+        color: #fff;
+        background-color: $blue !important;
       }
     }
 

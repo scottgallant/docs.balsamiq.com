@@ -67,24 +67,22 @@ gulp.task('getsassconfig', function() {
 
 // Clean
 gulp.task('clean', function(cb) {
-    del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js'], cb)
+  del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js'], cb)
 });
 
 // Default
 gulp.task('default', ['clean'], function() {
-    gulp.start('sass', 'js', 'getincludes');
+  gulp.start('sass', 'js');
 });
 // Dev (CSS/JS Only)
 gulp.task('dev', ['clean'], function() {
-    gulp.start('sass', 'js');
+  gulp.start('sass', 'js');
 });
 
 // WATCH
 gulp.task('watch', function() {
-
   // Watch .scss files
   gulp.watch('./src/sass/**/*.scss', ['sass']);
-
   // Watch .js files
   gulp.watch('./src/js/**/*.js', ['js']);
 
