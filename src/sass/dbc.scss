@@ -3,11 +3,46 @@
 @import "modules/config";
 
 // 3 Col Layout full height
-.local-nav-1,
-#page-article {
-  padding-bottom: 10000px;
-  margin-bottom: -10000px;
-  height: 100%;
+// http://www.bootply.com/126437
+html,body {
+  height:100%;
+}
+
+.row-flex, .row-flex > div[class*='col-'] {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex:1 1 auto;
+}
+
+.row-flex-wrap {
+  -webkit-flex-flow: row wrap;
+  align-content: flex-start;
+  flex:0;
+}
+
+.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
+ margin:-.2px; /* hack adjust for wrapping */
+}
+
+.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
+  width:100%;
+}
+
+
+.flex-col {
+  display: flex;
+  display: -webkit-flex;
+  flex: 1 100%;
+  flex-flow: column nowrap;
+}
+
+.flex-grow {
+  display: flex;
+  -webkit-flex: 2;
+  flex: 2;
 }
 
 // ========================================
@@ -18,6 +53,10 @@
   #page-wrapper {
     min-height: 1%;
     position: relative;
+  }
+  #body-wrapper {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
   }
 
   #site-nav {
@@ -88,44 +127,14 @@
     }
   }
 
-  // ========================================
-  // BODY WRAPPER FIXED FOOTER
-  #body-wrapper { padding-bottom:176px; }
-
   // BODY MAIN
   #body-main {
     position: relative;
     margin-top: 0;
+    margin-bottom: 0;
     padding-top: 0;
+    padding-bottom: 0;
     background-image: none;
-    h1 {
-      margin-top: 48px;
-      margin-bottom: 24px;
-      font-size: 36px;
-      line-height: 36px;
-    }
-    .article-content {
-      // margins/padding for anchors that work with the sticky header
-      // also check .home section:before below
-      // h3, h4, h5, h6 {
-        // margin-top: -88px; // 74 header + 24 margin top
-        // padding-top: 88px;
-        // position: relative;
-        // removed because it interferes with links above
-      // }
-      // make headings bigger for support articles
-      h3, h4 {
-        font-size: 28px;
-        line-height: 40px;
-      }
-      h5 {
-        font-size: 20px;
-      }
-      // images in articles
-      img {
-        max-width: 100%;
-      }
-    }
   }
 
   // ========================================
@@ -314,12 +323,6 @@
     }
   }
 
-  // ========================================
-  /* ARTICLES */
-  #page-topic ul li {
-    margin-bottom: 1em;
-  }
-
   // ARTICLES
   /* image alignment in articles */
   #page-article .content.article img {
@@ -440,20 +443,34 @@
     .support-body {
       background: $white;
     }
-    .title {
-      margin: 0;
-      h3 {
-        border-bottom: 1px solid $gray;
-        margin: 0;
-        padding: 0 0 12px 0;
-        color: #760209;
-        @include text-shadow(dark);
-        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      }
-      .meta {
-        margin: 0;
-        font-weight: bold;
-      }
+    // ========================================
+    /* ARTICLES */
+    // margins/padding for anchors that work with the sticky header
+    // also check .home section:before below
+    // h3, h4, h5, h6 {
+      // margin-top: -88px; // 74 header + 24 margin top
+      // padding-top: 88px;
+      // position: relative;
+      // removed because it interferes with links above
+    // }
+    // make headings bigger for support articles
+    h1 {
+      margin-top: 36px;
+      margin-bottom: 24px;
+      @include fontsize (36, 36);
+    }
+    h3, h4 {
+      @include fontsize (28, 40);
+    }
+    h5 {
+      font-size: 20px;
+    }
+    // images in articles
+    img {
+      max-width: 100%;
+    }
+    #page-topic ul li {
+      margin-bottom: 1em;
     }
   }
 

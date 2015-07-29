@@ -6,30 +6,30 @@
   <div class="container-fluid">
 {{/* ======================================== */}}
 
-<div class="row">
+<div class="row row-flex row-flex-wrap">
 
   <div class="col-xs-2 local-nav local-nav-1">
-  	{{ partial "sidebar_desktop.html" . }}
+    <div class="flex-col">
+    {{ partial "sidebar_desktop.html" . }}
+    </div>
   </div>
 
-	<div id="page-article" class="col-xs-12 col-sm-8">
-		<div id="support-main">
-  		<div class="support-body">
-			<article>
-				<div class="title">
-				<h1>{{ .Title }}</h1>
-				</div>
-				<div class="article-content content article">
-					{{ .Content }}
-				</div>
-			</article>
-      {{ partial "article_tags.html" . }}
-		</div>
-		</div>
-	</div> <!-- /.doc-main -->
+  <div id="page-article" class="col-xs-12 col-sm-8">
+    <div id="support-main">
+      <div class="support-body">
+        <article>
+          <h1 class="title">{{ .Title }}</h1>
+          <div class="article-content content article">
+            {{ .Content }}
+          </div>
+        </article>
+        {{ partial "article_tags.html" . }}
+      </div>
+    </div>
+  </div><!-- /.support-main -->
 
   <div class="hidden-xs col-sm-2 local-nav local-nav-2">
-  	{{ partial "sidebar_right.html" . }}
+    {{ partial "sidebar_right.html" . }}
   </div>
 
 </div> <!-- /.row -->

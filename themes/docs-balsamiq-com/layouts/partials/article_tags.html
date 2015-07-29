@@ -1,5 +1,7 @@
-<div class="tag-box">
+{{ $baseUrl := .Site.BaseUrl }}
+<p class="tag-box">
+<h5>Tags</h5>
 {{ range .Params.tags }}
 	<a class="tag-item" href="{{ $baseUrl }}/tags/{{ . | urlize }}">{{ . }}</a>
 {{ end }}
-</div>
+</p>
