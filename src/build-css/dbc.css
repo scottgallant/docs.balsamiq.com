@@ -8,6 +8,12 @@
       }
     }
 */
+.local-nav-1,
+#page-article {
+  padding-bottom: 10000px;
+  margin-bottom: -10000px;
+  height: 100%; }
+
 #company-support-portal {
   position: relative;
   /* ARTICLES */
@@ -19,6 +25,16 @@
   #company-support-portal #page-wrapper {
     min-height: 1%;
     position: relative; }
+  #company-support-portal #site-nav {
+    padding-top: 30px;
+    color: #f5f5f5; }
+    #company-support-portal #site-nav #site-id {
+      font-size: 21px;
+      font-size: 2.1rem;
+      line-height: 21px;
+      line-height: 2.1rem; }
+    #company-support-portal #site-nav a {
+      color: #fff; }
   #company-support-portal #body-header {
     width: 100%;
     border-top: 1px solid #e5e5e5 !important;
@@ -68,11 +84,11 @@
     padding-bottom: 176px; }
   #company-support-portal #body-main {
     position: relative;
-    margin-top: 36px;
+    margin-top: 0;
     padding-top: 0;
     background-image: none; }
     #company-support-portal #body-main h1 {
-      margin-top: 0;
+      margin-top: 48px;
       margin-bottom: 24px;
       font-size: 36px;
       line-height: 36px; }
@@ -262,47 +278,66 @@
     margin-right: 0;
     text-align: left;
     max-width: 100%; }
-  #company-support-portal .support-side {
-    font-size: 12px;
-    font-size: 1.2rem;
-    line-height: 14px;
-    line-height: 1.4rem;
+  #company-support-portal .local-nav {
     margin-bottom: 1em;
     background: #fff;
     border: none; }
-    #company-support-portal .support-side button, #company-support-portal .support-side a.button {
+    #company-support-portal .local-nav.local-nav-1 {
+      padding-top: 24px;
+      background: #f5f5f5;
+      font-size: 14px;
+      font-size: 1.4rem;
+      line-height: 16px;
+      line-height: 1.6rem; }
+      #company-support-portal .local-nav.local-nav-1 h3 {
+        margin: 10px 0 10px 0;
+        padding: 0;
+        font-size: 16px;
+        font-size: 1.6rem;
+        line-height: 16px;
+        line-height: 1.6rem;
+        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+        color: #666; }
+    #company-support-portal .local-nav.local-nav-2 {
+      margin-top: 36px;
+      font-size: 12px;
+      font-size: 1.2rem;
+      line-height: 16px;
+      line-height: 1.6rem; }
+      #company-support-portal .local-nav.local-nav-2 h5 {
+        font-size: 14px;
+        font-size: 1.4rem;
+        line-height: 16px;
+        line-height: 1.6rem;
+        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+        color: #666; }
+    #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
       max-width: 180px; }
-    #company-support-portal .support-side h3 {
-      margin: 10px 0 10px 0;
-      padding: 0;
-      font-size: 16px;
-      text-shadow: rgba(255, 255, 255, 0.75) 0 1px 0;
-      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      color: #666; }
-    #company-support-portal .support-side i {
+    #company-support-portal .local-nav i {
       margin-top: 2px;
       cursor: pointer;
       color: #999 !important; }
-    #company-support-portal .support-side ul {
+    #company-support-portal .local-nav ul {
       margin-left: 0;
       padding-left: 0;
       list-style-type: none; }
-      #company-support-portal .support-side ul li {
+      #company-support-portal .local-nav ul li {
         margin: 0;
         padding: 0;
         border-top: 1px solid #ddd;
         line-height: 16px; }
-        #company-support-portal .support-side ul li a {
+        #company-support-portal .local-nav ul li a {
           display: block;
           padding: 8px 0; }
-        #company-support-portal .support-side ul li.active a {
-          padding: 8px 4px; }
-      #company-support-portal .support-side ul > .active,
-      #company-support-portal .support-side ul > .active:hover {
+        #company-support-portal .local-nav ul li.selected a {
+          color: #666;
+          font-weight: bold; }
+      #company-support-portal .local-nav ul > .active,
+      #company-support-portal .local-nav ul > .active:hover {
         background: #0064AE !important; }
-      #company-support-portal .support-side ul > .active > a,
-      #company-support-portal .support-side ul > .active > a:hover,
-      #company-support-portal .support-side ul > .active > a:focus {
+      #company-support-portal .local-nav ul > .active > a,
+      #company-support-portal .local-nav ul > .active > a:hover,
+      #company-support-portal .local-nav ul > .active > a:focus {
         color: #fff;
         background-color: #0064AE !important; }
   #company-support-portal #tweets .tweet_avatar {
@@ -336,7 +371,7 @@
     #company-support-portal #support-main .title .meta {
       margin: 0;
       font-weight: bold; }
-  #company-support-portal #support-main a, #company-support-portal #support-side a {
+  #company-support-portal #support-main a, #company-support-portal .local-nav a {
     color: #0064AE; }
   #company-support-portal a.fb img,
   #company-support-portal #support-main img {

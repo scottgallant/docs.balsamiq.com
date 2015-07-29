@@ -8,11 +8,11 @@
 
 <div class="row">
 
-  <div class="col-xs-2 support-side">
+  <div class="col-xs-2 local-nav local-nav-1">
   	{{ partial "sidebar_left.html" . }}
   </div>
 
-	<div  id="page-article" class="col-xs-12 col-sm-9 col-md-7">
+	<div id="page-article" class="col-xs-12 col-sm-9 col-md-7">
 		<div id="support-main">
   		<div class="support-body">
 			<article>
@@ -27,7 +27,9 @@
 		</div>
 	</div> <!-- /.doc-main -->
 
-	{{ partial "sidebar_right.html" . }}
+  <div class="hidden-xs col-sm-2 local-nav local-nav-2">
+  	{{ partial "sidebar_right.html" . }}
+  </div>
 
 </div> <!-- /.row -->
 

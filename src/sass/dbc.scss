@@ -2,6 +2,14 @@
 // Import Mixins
 @import "modules/config";
 
+// 3 Col Layout full height
+.local-nav-1,
+#page-article {
+  padding-bottom: 10000px;
+  margin-bottom: -10000px;
+  height: 100%;
+}
+
 // ========================================
 // SUPPORT STYLESHEET
 #company-support-portal {
@@ -10,6 +18,17 @@
   #page-wrapper {
     min-height: 1%;
     position: relative;
+  }
+
+  #site-nav {
+    padding-top: 30px;
+    color: $graypale;
+    #site-id {
+      @include fontsize(21,21);
+    }
+    a {
+      color: $white;
+    }
   }
 
   // NAV
@@ -76,11 +95,11 @@
   // BODY MAIN
   #body-main {
     position: relative;
-    margin-top: 36px;
+    margin-top: 0;
     padding-top: 0;
     background-image: none;
     h1 {
-      margin-top: 0;
+      margin-top: 48px;
       margin-bottom: 24px;
       font-size: 36px;
       line-height: 36px;
@@ -320,21 +339,33 @@
 
   // ========================================
   /* SUPPORT SIDE COLUMN */
-  .support-side {
-    @include fontsize(12,14);
+  .local-nav {
     margin-bottom: 1em;
     background: #fff;
     border: none;
+    &.local-nav-1 {
+      padding-top: 24px;
+      background: $graypale;
+      @include fontsize(14,16);
+      h3 {
+        margin: 10px 0 10px 0;
+        padding: 0;
+        @include fontsize(16,16);
+        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+        color: $grayverydark;
+      }
+    }
+    &.local-nav-2 {
+      margin-top: 36px;
+      @include fontsize(12,16);
+      h5 {
+        @include fontsize(14,16);
+        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+        color: $grayverydark;
+      }
+    }
     button, a.button {
       max-width: 180px;
-    }
-    h3 {
-      margin: 10px 0 10px 0;
-      padding: 0;
-      font-size: 16px;
-      @include text-shadow(dark);
-      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      color: $grayverydark;
     }
     i {
       margin-top: 2px;
@@ -355,8 +386,9 @@
           display: block;
           padding: 8px 0;
         }
-        &.active a {
-          padding: 8px 4px;
+        &.selected a {
+          color: $grayverydark;
+          font-weight: bold;
         }
       }
       & > .active,
@@ -427,7 +459,7 @@
 
   // ========================================
   /* BODY */
-  #support-main a, #support-side a {
+  #support-main a, .local-nav a {
     color: #0064AE;
   }
   a.fb img,
