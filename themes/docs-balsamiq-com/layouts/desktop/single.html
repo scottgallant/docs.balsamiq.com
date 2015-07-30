@@ -19,6 +19,7 @@
       <div class="support-body">
         <article>
           <h1 class="title">{{ .Title }}</h1>
+          {{ partial "breadcrumbs.html" . }}
           <div class="article-content content article">
             {{ .Content }}
           </div>

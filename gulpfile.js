@@ -24,7 +24,8 @@ gulp.task("sass", function(){
     .pipe(gulp.dest("./src/build-css"))
     .pipe(rename({suffix: '.min'}))
     .pipe(minifycss())
-    .pipe(gulp.dest('./themes/docs-balsamiq-com/static/css'))    .pipe(notify({ message: 'Sass task complete' }));
+    .pipe(gulp.dest('./themes/docs-balsamiq-com/static/css'))
+    .pipe(notify({ message: 'Sass task complete' }));
 });
 
 // Minify JS

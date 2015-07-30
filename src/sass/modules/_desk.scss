@@ -1,0 +1,505 @@
+// ========================================
+#support-resources {
+  img {
+    margin-bottom: 1em;
+  }
+  a:hover img {
+    border-color: #0060AB !important;
+  }
+}
+
+// ========================================
+// STYLES FOR TUTORIALS INDEX PAGE
+.ss-video, .ss-users {
+  color: $grayverydark;
+}
+
+// STYLES FOR SOCIAL SHARING
+.meta {
+  font-size: 90%;
+  color: $graydark;
+}
+a.js-social-share, a.js-social-share:visited {
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+// ========================================
+// Support Side Column Twitter
+#tweets .tweet_avatar {
+  display: none;
+}
+
+#tweets .tweet_time a {
+  color: $graydark;
+  display: block;
+}
+
+#tweets li {
+  margin: 0 0 18px;
+  line-height: 18px;
+}
+
+// ========================================
+// FROM DESK HEAD - DEFAULT DESK STYLE
+// MODALS
+#modal-screen {
+  background: $black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#modal .inner {
+  background: rgba(0,0,0,0.4);
+  width: 80%;
+  left: 10%;
+  top: 10%;
+  margin: 0;
+  position: absolute;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+#modal .inner h1 {
+  text-align: center;
+  font-size: 27px;
+  padding: 25px 0 0;
+  margin: 0;
+  padding-top: 1em;
+}
+
+#modal .inner p.subheader {
+  font-size: 18px !important;
+  color: #767676 !important;
+  text-align: center;
+  margin: 4px 0 30px 0;
+}
+
+#modal .inner .input-button {
+  text-align: center;
+  padding: 0 0 30px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#modal .inner .input-button input {
+  margin: 0 0 0 10px;
+}
+
+#modal .inner .note {
+  text-align: center;
+  color: #616161;
+  margin: 0 0 20px 0 !important;
+  font-size: 15px;
+  font-style: italic;
+  list-style-type: none;
+}
+
+#modal .main {
+  background: #fff;
+  border-radius: 5px;
+}
+
+.fancybox-default.fancybox-opened {
+  z-index: 999999;
+  background: #fff;
+}
+.fancybox-item.fancybox-close {
+  content: "Close";
+}
+
+// AUTO COMPLETION
+.ui-autocomplete {
+  background: #fff;
+  border: 1px solid #C0C0C0;
+  width: 100px;
+  list-style: none;
+  margin: 0;
+  border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+#company-support-portal .ui-autocomplete-input {
+  border-color: $gray;
+}
+
+.ui-autocomplete a {
+  padding: 9px;
+  cursor: pointer;
+  display: block;
+}
+
+.ui-autocomplete a:hover,
+.ui-autocomplete a.ui-state-hover {
+  background: #FFFAE1;
+  text-decoration: none;
+}
+
+.ui-autocomplete li:first-child a {
+  border-radius: 5px 5px 0 0;
+}
+
+.ui-autocomplete li:last-child a {
+  border-radius: 0 0 5px 5px;
+}
+
+.ui-autocomplete .KbArticle,
+.ui-autocomplete .QnaThread {
+  background: url("//assets2.desk.com/images/portal/icon-types-small.png") 0 4px no-repeat;
+  display: block;
+  padding: 0 0 0 25px;
+  overflow: hidden;
+}
+
+.ui-autocomplete .QnaThread {
+  background-position: 0 -106px;
+}
+
+.ui-autocomplete .article-autocomplete-subject {
+  display: block;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.ui-autocomplete .article-autocomplete-body {
+  display: block;
+  font-size: 13px;
+  color: $grayverydark;
+}
+
+// ELANCE
+iframe#elance_iframe {width: 700px;}
+
+// NOTICES
+.notice {
+  border-radius: 5px;
+  padding: .9em;
+  font-size: 87.5%;
+}
+
+.notice.warning {
+  border: 1px #fac962 solid;
+  background-color: #fcf8e3;
+}
+
+.notice.info {
+   border: 1px #9fbdbf solid;
+   background-color: #dfedef;
+}
+
+div.gallery a.thumb {
+  display: block;
+  position: relative;
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin: 0 12px 12px 0;
+  border: 3px solid $graylight;
+}
+div.gallery img.thumb {
+  display: block;
+  position:absolute;
+  clip:rect(0px,200px,200px,0px);
+  width: 400px;
+}
+
+// ARTICLE VIEW ATTACHMENTS
+#attachments {
+  border-bottom: 1px solid $gray;
+  padding: 0 0 18px;
+  margin: 18px 0 0;
+}
+
+#attachments strong {
+  background: url('{{ "//assets2.desk.com/images/attachment.png" | portal_image_url: image_asset_host }}') -1px 0 no-repeat;
+  display: block;
+  margin: 0 0 10px;
+  padding: 0 0 0 16px;
+}
+
+#attachments ul {
+  list-style: none;
+}
+
+// ARTICLE VIEW RATING
+#rate_article_container {
+  margin: 36px 0 0 0;
+  padding-top: 18px;
+  border-top: 1px solid $gray;
+}
+
+#rate_article div {
+  color: #265007;
+  float: left;
+  width: 100%;
+  margin: 0 0 6px;
+  font-style: italic;
+  height: 1%;
+}
+
+#rate_article_container a {
+  background: url('{{ "/images/portal/rating-arrows.gif" | portal_image_url: image_asset_host }}') center 4px no-repeat;
+  overflow: hidden;
+  float: left;
+  width: 20px;
+  height: 16px;
+  overflow: hidden;
+  border: 1px solid $gray;
+  text-indent: -999px;
+  margin: -2px 5px 0 0;
+  border-radius: 4px;
+}
+
+#rate_article_container .rate-link-down {
+  color: #9b0909;
+}
+
+#rate_article_container .rate-link-down a {
+  background-position: center -28px;
+}
+
+#rate_article_container span {
+  float: left;
+}
+
+#support-main .question #form .input-block input[type=text],
+#support-main .question #form .input-block textarea {
+  width: 610px;
+}
+
+// PRE CREATE HEADERS
+#support-main .pre-create h4 {
+  margin: 0 0 30px 0;
+}
+
+#support-main .pre-create ul h4 {
+  margin: 0;
+}
+
+// SUPPORT FORMS
+
+#form .label {
+  display: block;
+  font-weight: bold;
+}
+
+#form .label span {
+  color: $graydark;
+}
+
+#form .input-block input[type=text],
+#form .input-block textarea {
+  font-size: 13px;
+  margin: 0 0 20px;
+  width: 96%;
+}
+
+#form .input-block textarea {
+  height: 200px;
+}
+
+#form .input-block select {
+  margin: 0 0 20px;
+}
+
+#form .input-button input {
+  border: 0;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 6px;
+  height: 32px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#form .input-button .disabled {
+  background-position: 0 -38px;
+}
+
+#form .input-button img {
+  display: none;
+  margin: 7px 0 0 5px;
+  position: absolute;
+}
+
+#form label.invalid {
+  color: red;
+  display: inline-block;
+  margin: -20px 0 20px 0;
+}
+
+// PAGINATION
+#paginate_block {
+  margin: 0;
+  position: auto;
+  text-align: center;
+  width: 100%;
+}
+
+#paginate_block .pagination {
+  background-color: #fff;
+  height: auto;
+  margin: 0;
+  padding-top: 0;
+  position: auto;
+  width: auto;
+}
+
+#paginate_block .current {
+  background-color: $gray;
+  border: 1px solid $gray;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+// SMALL SEARCH
+.support-search-small {
+  width: 200px;
+}
+
+.support-search-small #support-search-submit {
+  background-color: transparent !important;
+  background: url(//assets2.desk.com/images/portal/search.gif) no-repeat;
+  border: none;
+  cursor: pointer;
+  height: 18px;
+  line-height: 900px;
+  overflow: hidden;
+  text-indent: 900px;
+  width: 21px;
+  float: right;
+  padding: 0;
+  margin-top: -18px !important;
+  margin-right: -10px !important;
+}
+
+.support-search-small #support-search-submit.submit:hover {
+  background-color: transparent !important;
+}
+
+.support-search-small #q {
+  border: 0;
+  border: 1px solid $gray;
+  color: $black;
+  font-size: 13px;
+  font-weight: bold;
+  height: auto;
+  margin-left: 0;
+  margin-top: 0;
+  padding: 7px 30px 7px 5px;
+  width: 195px;
+  outline: none;
+  outline-width: 0;
+  border-radius: 4px;
+  float: left;
+}
+
+// BIG SEARCH
+// ========================================
+// SEARCH
+#support-search.support-search-big {
+  background: $graylight;
+  border: none;
+  border-radius: 6px;
+  margin: 0pt 0pt 20px;
+  padding: 6px;
+  font-size: 18px;
+  #question-mask {
+    color: $grayverydark;
+    position: absolute;
+  }
+  .outer {
+    position: relative;
+  }
+  .inner {
+    background: $white;
+    border: 1px solid $gray;
+    overflow: hidden;
+    height: 37px;
+    margin: 0;
+    padding: 0 5px;
+    width: 100%;
+    border-radius: 3px;
+  }
+  #q {
+    font-size: 18px;
+    border: none;
+    width: 100%;
+    padding: 6px 0;
+    margin: 0;
+    outline: none;
+    outline-width: 0;
+    background: none;
+  }
+  #support-search-submit {
+    color: #fff;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    _right: 6px;
+    top: 0;
+    padding: 0;
+    width: 83px;
+    height: 38px;
+    border: 0;
+    margin: 0;
+  }
+}
+
+.question-big {
+  font-size: 18px;
+  top: 5px;
+  left: 10px;
+}
+
+.question-small {
+  font-size: 13px;
+  top: 0;
+  left: 0;
+  padding: 8px;
+  font-weight: bold;
+}
+
+.search-bg {
+  display: none;
+}
+
+.highlight{
+  background-color: #FFFAE1;
+}
+
+// DESK ELEMENTS OUTSIDE OUR WRAPPER
+// JQUERY UI OVERRIDES
+.ui-widget {
+  font-size: 16px !important;
+}
+.ui-state-hover,
+.ui-widget-content .ui-state-hover {
+  background-image: none !important;
+}
+
+// FOOTER
+#footer {
+  display: block;
+  clear: both;
+  color: $graydark;
+  padding: 20px 0 30px;
+}
+
+#footer a {
+  color: $graydark;
+  text-decoration: none;
+}

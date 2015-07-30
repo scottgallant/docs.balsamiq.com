@@ -1,13 +1,17 @@
+// ========================================
 // DBC CSS
-// Import Mixins
-@import "modules/config";
 
+// ========================================
+// Import Mixins and Partials
+@import "modules/config";
+@import "modules/home";
+
+// ========================================
 // 3 Col Layout full height
 // http://www.bootply.com/126437
 html,body {
   height:100%;
 }
-
 .row-flex, .row-flex > div[class*='col-'] {
   display: -webkit-box;
   display: -moz-box;
@@ -16,29 +20,23 @@ html,body {
   display: flex;
   flex:1 1 auto;
 }
-
 .row-flex-wrap {
   -webkit-flex-flow: row wrap;
   align-content: flex-start;
   flex:0;
 }
-
 .row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
  margin:-.2px; /* hack adjust for wrapping */
 }
-
 .container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
   width:100%;
 }
-
-
 .flex-col {
   display: flex;
   display: -webkit-flex;
   flex: 1 100%;
   flex-flow: column nowrap;
 }
-
 .flex-grow {
   display: flex;
   -webkit-flex: 2;
@@ -46,31 +44,66 @@ html,body {
 }
 
 // ========================================
-// SUPPORT STYLESHEET
+// DBC BODY
+// ========================================
 #company-support-portal {
-  position: relative;
-  // #footer-wrapper {position: relative !important;}
-  #page-wrapper {
-    min-height: 1%;
-    position: relative;
+// ========================================
+
+  // ========================================
+  // HEADER WRAPPER
+  #header-wrapper {
+    #site-nav {
+      padding-top: 30px;
+      color: $graypale;
+      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+      font-weight: 400;
+      #balsamiq-logo {
+        @include fontsize(21,21);
+        .trademark {
+          @include fontsize(10,10);
+        }
+      }
+      #site-id {
+        @include fontsize(21,21);
+      }
+      a {
+        color: $white;
+      }
+    }
+    #search #s {
+      width: 145px;
+    }
   }
+
+  // ========================================
+  // BREADCRUMBS
+  #breadcrumbs {
+    margin: 0 0 18px 0;
+    padding: 5px 0;
+    color: $graydark;
+    font-size: 12px !important;
+    text-transform: capitalize;
+    border-bottom: 1px solid $gray;
+    list-style-type: none;
+    a {
+      color: $graydark;
+      font-size: 12px !important;
+    }
+    li {
+      list-style-type: none;
+      display: inline;
+    }
+  }
+
+  // ========================================
+  // BODY WRAPPER
   #body-wrapper {
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
   }
 
-  #site-nav {
-    padding-top: 30px;
-    color: $graypale;
-    #site-id {
-      @include fontsize(21,21);
-    }
-    a {
-      color: $white;
-    }
-  }
-
-  // NAV
+  // ========================================
+  // BODY NAV
   #body-header {
     width: 100%;
     border-top: 1px solid #e5e5e5 !important;
@@ -103,7 +136,7 @@ html,body {
         border-right: 1px solid $gray;
       }
     }
-    /* bootstrap */
+    // BOOTSTRAP
     .dropdown-menu::before {
       position: absolute;
       top: -7px;
@@ -127,6 +160,7 @@ html,body {
     }
   }
 
+  // ========================================
   // BODY MAIN
   #body-main {
     position: relative;
@@ -138,216 +172,13 @@ html,body {
   }
 
   // ========================================
-  // HOME
-
-  // ========================================
-  // ICONS
-  #page-index {
-    &.container {
-      margin-top: 0;
-    }
-    h3 {
-      font-size: 28px;
-      .ss-icon {
-        color: rgba(118,2,9,.8);
-        font-size: 21px;
-        padding-top: 4px;
-        margin-right: 12px;
-      }
-    }
-    hr {
-      margin-top: 36px;
-      margin-bottom: 36px;
-    }
-    .section:before {
-       content:"";
-       display:block;
-       height: 74px;
-       margin: -74px 0 0;
-    }
-    a.button {
-      width: auto;
-      display: block;
-      text-align: center;
-    }
-  }
-
-  #support-search-contact.container {
-    margin-top: 0;
-  }
-
-  // ========================================
-  // CONTACT
-  #support-contact {
-    h4 {
-      @include fontsize(24,24);
-      color: $black;
-      padding: 0 0 6px 0;
-      text-align: center;
-    }
-    .inner {
-      margin: 0;
-      padding: 10px;
-      background: #f5f5f5;
-      border: 1px solid $gray;
-      border-radius: 5px;
-    }
-    a.button {
-      display: block;
-      padding: 5px;
-      @include fontsize(14,14);
-      &#forum-link {
-        width: 100%;
-        margin: 0;
-      }
-      &#email-link {
-        width: 100%;
-        margin: 0;
-      }
-    }
-  }
-
-  #support-more-contact {
-    font-size: 14px;
-    .ss-icon {
-      color: #0064AE;
-      margin-right: 2px;
-    }
-  }
-
-  // ========================================
-  // BIOS
-  #bios {
-    #biopic {
-      img {
-        border: 1px solid $gray;
-        box-shadow: 0px 1px 2px $gray;
-      }
-      p {
-        margin: -20px 0 0 0;
-        @include fontsize(12,16);
-        text-align: center;
-        color: #fff;
-        text-shadow: rgba(0,0,0,.95) 0 1px 3px;
-        text-transform: capitalize;
-      }
-
-    }
-    #biotxt {
-      h4 {
-        margin: 0;
-        padding: 0 0 2px 0;
-        @include fontsize(18,18);
-        text-align: left;
-      }
-      p {
-        margin: 0;
-        padding: 0;
-        @include fontsize(13,18);
-      }
-    }
-  }
-
-  // ========================================
-  // DOCUMENTATION
-  #support-documentation {
-    margin-bottom: 10px;
-    a.button {
-      display: block;
-      padding: 5px;
-      margin-bottom: 5px;
-    }
-    .prod-core {
-      a.button {
-        @include breakpoint(mdmin) {
-          min-height: 95px;
-        }
-        text-align: left;
-        img, span {
-          display: block;
-          float: left;
-        }
-      }
-      img {
-        width: 20%;
-        @include breakpoint(smmin) {
-          width: 40%;
-        }
-        @include breakpoint(mdmin) {
-          width: 33%;
-        }
-      }
-      span {
-        padding-top: 18px;
-        @include fontsize(16,18);
-        width: 78%;
-        padding-left: 2%;
-        letter-spacing: -.25px;
-        @include breakpoint(smmin) {
-          width: 58%;
-        }
-        @include breakpoint(mdmin) {
-          width: 64%;
-          @include fontsize(21,24);
-        }
-      }
-    }
-    .prod-plugins {
-      a.button {
-        min-height: 95px;
-        width: 95px;
-        float: left;
-        margin: 0 5px 5px 0;
-        img {
-          display: block;
-          margin: 0 auto;
-          padding: 6px 0 0 0;
-          width: 48px;
-        }
-        span {
-          display: block;
-          padding: 2px 0 0 0;
-          @include fontsize(14,16);
-          letter-spacing: -.25px;
-        }
-      }
-    }
-  }
-
-  #support-resources {
-    img {
-      margin-bottom: 1em;
-    }
-    a:hover img {
-      border-color: #0060AB !important;
-    }
-  }
-
-  // ARTICLES
-  /* image alignment in articles */
-  #page-article .content.article img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    max-width: 100%;
-  }
-  #page-article .content.article .imgleft img,
-  #page-article .content.article img.imgleft {
-    margin-left: 0;
-    margin-right: 0;
-    text-align: left;
-    max-width: 100%;
-  }
-
-  // ========================================
-  /* SUPPORT SIDE COLUMN */
+  // DBC SIDE COLUMN
   .local-nav {
     margin-bottom: 1em;
     background: #fff;
     border: none;
     &.local-nav-1 {
-      padding-top: 24px;
+      padding-top: 31px;
       background: $graypale;
       @include fontsize(14,16);
       h3 {
@@ -359,7 +190,7 @@ html,body {
       }
     }
     &.local-nav-2 {
-      margin-top: 36px;
+      margin-top: 44px;
       @include fontsize(12,16);
       h5 {
         @include fontsize(14,16);
@@ -384,6 +215,9 @@ html,body {
         margin: 0;
         padding: 0;
         border-top: 1px solid $gray;
+        .local-nav-2 & {
+            border: none;
+        }
         line-height: 16px;
         a {
           display: block;
@@ -405,59 +239,23 @@ html,body {
         background-color: $blue !important;
       }
     }
-
+  // ========================================
   }
+  // END DBC SIDE COLUMN
+  // ========================================
 
   // ========================================
-  /* Support Side Column Twitter */
-  #tweets .tweet_avatar {
-    display: none;
-  }
-
-  #tweets .tweet_time a {
-    color: $graydark;
-    display: block;
-  }
-
-  #tweets li {
-    margin: 0 0 18px;
-    line-height: 18px;
-  }
-
-  // ========================================
-  /* Support Main Column */
+  // DBC Main Column
   #support-main {
     // ========================================
-    // Breadcrumbs
-    #breadcrumbs {
-      margin: 0 0 18px 0;
-      padding: 5px 0;
-      color: $graydark;
-      font-size: 12px !important;
-      border-bottom: 1px solid $gray;
-      a {
-        color: $graydark;
-        font-size: 12px !important;
-      }
-    }
     .support-body {
       background: $white;
     }
-    // ========================================
-    /* ARTICLES */
-    // margins/padding for anchors that work with the sticky header
-    // also check .home section:before below
-    // h3, h4, h5, h6 {
-      // margin-top: -88px; // 74 header + 24 margin top
-      // padding-top: 88px;
-      // position: relative;
-      // removed because it interferes with links above
-    // }
-    // make headings bigger for support articles
     h1 {
       margin-top: 36px;
-      margin-bottom: 24px;
+      margin-bottom: 0px;
       @include fontsize (36, 36);
+      font-weight: normal;
     }
     h3, h4 {
       @include fontsize (28, 40);
@@ -472,526 +270,73 @@ html,body {
     #page-topic ul li {
       margin-bottom: 1em;
     }
-  }
+
+    #support-main a, .local-nav a {
+      color: #0064AE;
+    }
+    a.fb img,
+    #support-main img {
+      margin-bottom: 12px;
+    }
+    #support-main object,
+    #support-main iframe {
+      margin-bottom: 12px;
+    }
+
+    // ARTICLES
+    /* image alignment in articles */
+    #page-article {
+      .content.article {
+        img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          text-align: center;
+          max-width: 100%;
+        }
+        .imgleft img,
+        img.imgleft {
+          margin-left: 0;
+          margin-right: 0;
+          text-align: left;
+          max-width: 100%;
+        }
+      }
+    }
 
   // ========================================
-  /* BODY */
-  #support-main a, .local-nav a {
-    color: #0064AE;
   }
-  a.fb img,
-  #support-main img {
-    margin-bottom: 12px;
-  }
-  #support-main object,
-  #support-main iframe {
-    margin-bottom: 12px;
-  }
-
-  // FROM DESK HEAD - DEFAULT DESK STYLE
-
-  // MODALS
-  #modal-screen {
-    background: $black;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  #modal {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  #modal .inner {
-    background: rgba(0,0,0,0.4);
-    width: 80%;
-    left: 10%;
-    top: 10%;
-    margin: 0;
-    position: absolute;
-    padding: 5px;
-    border-radius: 7px;
-  }
-
-  #modal .inner h1 {
-    text-align: center;
-    font-size: 27px;
-    padding: 25px 0 0;
-    margin: 0;
-    padding-top: 1em;
-  }
-
-  #modal .inner p.subheader {
-    font-size: 18px !important;
-    color: #767676 !important;
-    text-align: center;
-    margin: 4px 0 30px 0;
-  }
-
-  #modal .inner .input-button {
-    text-align: center;
-    padding: 0 0 30px;
-    font-size: 12px;
-    font-weight: bold;
-  }
-
-  #modal .inner .input-button input {
-    margin: 0 0 0 10px;
-  }
-
-  #modal .inner .note {
-    text-align: center;
-    color: #616161;
-    margin: 0 0 20px 0 !important;
-    font-size: 15px;
-    font-style: italic;
-    list-style-type: none;
-  }
-
-  #modal .main {
-    background: #fff;
-    border-radius: 5px;
-  }
-
-  .fancybox-default.fancybox-opened {
-    z-index: 999999;
-    background: #fff;
-  }
-  .fancybox-item.fancybox-close {
-    content: "Close";
-  }
-
-  // AUTO COMPLETION
-  .ui-autocomplete {
-    background: #fff;
-    border: 1px solid #C0C0C0;
-    width: 100px;
-    list-style: none;
-    margin: 0;
-    border-radius: 3px;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-  }
-
-  #company-support-portal .ui-autocomplete-input {
-    border-color: $gray;
-  }
-
-  .ui-autocomplete a {
-    padding: 9px;
-    cursor: pointer;
-    display: block;
-  }
-
-  .ui-autocomplete a:hover,
-  .ui-autocomplete a.ui-state-hover {
-    background: #FFFAE1;
-    text-decoration: none;
-  }
-
-  .ui-autocomplete li:first-child a {
-    border-radius: 5px 5px 0 0;
-  }
-
-  .ui-autocomplete li:last-child a {
-    border-radius: 0 0 5px 5px;
-  }
-
-  .ui-autocomplete .KbArticle,
-  .ui-autocomplete .QnaThread {
-    background: url("//assets2.desk.com/images/portal/icon-types-small.png") 0 4px no-repeat;
-    display: block;
-    padding: 0 0 0 25px;
-    overflow: hidden;
-  }
-
-  .ui-autocomplete .QnaThread {
-    background-position: 0 -106px;
-  }
-
-  .ui-autocomplete .article-autocomplete-subject {
-    display: block;
-    font-weight: bold;
-    font-size: 15px;
-  }
-
-  .ui-autocomplete .article-autocomplete-body {
-    display: block;
-    font-size: 13px;
-    color: $grayverydark;
-  }
-
-  // ELANCE
-  iframe#elance_iframe {width: 700px;}
-
-  // NOTICES
-  .notice {
-    border-radius: 5px;
-    padding: .9em;
-    font-size: 87.5%;
-  }
-
-  .notice.warning {
-    border: 1px #fac962 solid;
-    background-color: #fcf8e3;
-  }
-
-  .notice.info {
-     border: 1px #9fbdbf solid;
-     background-color: #dfedef;
-  }
-
-  div.gallery a.thumb {
-    display: block;
-    position: relative;
-    float: left;
-    height: 200px;
-    width: 200px;
-    margin: 0 12px 12px 0;
-    border: 3px solid $graylight;
-  }
-  div.gallery img.thumb {
-    display: block;
-    position:absolute;
-    clip:rect(0px,200px,200px,0px);
-    width: 400px;
-  }
-
-  // ARTICLE VIEW ATTACHMENTS
-  #attachments {
-    border-bottom: 1px solid $gray;
-    padding: 0 0 18px;
-    margin: 18px 0 0;
-  }
-
-  #attachments strong {
-    background: url('{{ "//assets2.desk.com/images/attachment.png" | portal_image_url: image_asset_host }}') -1px 0 no-repeat;
-    display: block;
-    margin: 0 0 10px;
-    padding: 0 0 0 16px;
-  }
-
-  #attachments ul {
-    list-style: none;
-  }
-
-  // ARTICLE VIEW RATING
-  #rate_article_container {
-    margin: 36px 0 0 0;
-    padding-top: 18px;
-    border-top: 1px solid $gray;
-  }
-
-  #rate_article div {
-    color: #265007;
-    float: left;
-    width: 100%;
-    margin: 0 0 6px;
-    font-style: italic;
-    height: 1%;
-  }
-
-  #rate_article_container a {
-    background: url('{{ "/images/portal/rating-arrows.gif" | portal_image_url: image_asset_host }}') center 4px no-repeat;
-    overflow: hidden;
-    float: left;
-    width: 20px;
-    height: 16px;
-    overflow: hidden;
-    border: 1px solid $gray;
-    text-indent: -999px;
-    margin: -2px 5px 0 0;
-    border-radius: 4px;
-  }
-
-  #rate_article_container .rate-link-down {
-    color: #9b0909;
-  }
-
-  #rate_article_container .rate-link-down a {
-    background-position: center -28px;
-  }
-
-  #rate_article_container span {
-    float: left;
-  }
-
-  #support-main .question #form .input-block input[type=text],
-  #support-main .question #form .input-block textarea {
-    width: 610px;
-  }
-
-  // PRE CREATE HEADERS
-  #support-main .pre-create h4 {
-    margin: 0 0 30px 0;
-  }
-
-  #support-main .pre-create ul h4 {
-    margin: 0;
-  }
-
-  // SUPPORT FORMS
-
-  #form .label {
-    display: block;
-    font-weight: bold;
-  }
-
-  #form .label span {
-    color: $graydark;
-  }
-
-  #form .input-block input[type=text],
-  #form .input-block textarea {
-    font-size: 13px;
-    margin: 0 0 20px;
-    width: 96%;
-  }
-
-  #form .input-block textarea {
-    height: 200px;
-  }
-
-  #form .input-block select {
-    margin: 0 0 20px;
-  }
-
-  #form .input-button input {
-    border: 0;
-    color: #fff;
-    font-size: 12px;
-    font-weight: bold;
-    padding: 0 6px;
-    height: 32px;
-    text-transform: uppercase;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-
-  #form .input-button .disabled {
-    background-position: 0 -38px;
-  }
-
-  #form .input-button img {
-    display: none;
-    margin: 7px 0 0 5px;
-    position: absolute;
-  }
-
-  #form label.invalid {
-    color: red;
-    display: inline-block;
-    margin: -20px 0 20px 0;
-  }
-
-  // PAGINATION
-  #paginate_block {
-    margin: 0;
-    position: auto;
-    text-align: center;
-    width: 100%;
-  }
-
-  #paginate_block .pagination {
-    background-color: #fff;
-    height: auto;
-    margin: 0;
-    padding-top: 0;
-    position: auto;
-    width: auto;
-  }
-
-  #paginate_block .current {
-    background-color: $gray;
-    border: 1px solid $gray;
-    padding: 4px;
-    border-radius: 4px;
-  }
-
-  // SMALL SEARCH
-  .support-search-small {
-    width: 200px;
-  }
-
-  .support-search-small #support-search-submit {
-    background-color: transparent !important;
-    background: url(//assets2.desk.com/images/portal/search.gif) no-repeat;
-    border: none;
-    cursor: pointer;
-    height: 18px;
-    line-height: 900px;
-    overflow: hidden;
-    text-indent: 900px;
-    width: 21px;
-    float: right;
-    padding: 0;
-    margin-top: -18px !important;
-    margin-right: -10px !important;
-  }
-
-  .support-search-small #support-search-submit.submit:hover {
-    background-color: transparent !important;
-  }
-
-  .support-search-small #q {
-    border: 0;
-    border: 1px solid $gray;
-    color: $black;
-    font-size: 13px;
-    font-weight: bold;
-    height: auto;
-    margin-left: 0;
-    margin-top: 0;
-    padding: 7px 30px 7px 5px;
-    width: 195px;
-    outline: none;
-    outline-width: 0;
-    border-radius: 4px;
-    float: left;
-  }
-
-  // BIG SEARCH
+  // END Support Main Column
   // ========================================
-  // SEARCH
-  #support-search.support-search-big {
-    background: $graylight;
-    border: none;
-    border-radius: 6px;
-    margin: 0pt 0pt 20px;
-    padding: 6px;
-    font-size: 18px;
-    #question-mask {
-      color: $grayverydark;
-      position: absolute;
-    }
-    .outer {
-      position: relative;
-    }
-    .inner {
-      background: $white;
-      border: 1px solid $gray;
-      overflow: hidden;
-      height: 37px;
-      margin: 0;
-      padding: 0 5px;
-      width: 100%;
-      border-radius: 3px;
-    }
-    #q {
-      font-size: 18px;
-      border: none;
-      width: 100%;
-      padding: 6px 0;
-      margin: 0;
-      outline: none;
-      outline-width: 0;
-      background: none;
-    }
-    #support-search-submit {
-      color: #fff;
-      cursor: pointer;
-      position: absolute;
-      right: 0;
-      _right: 6px;
-      top: 0;
-      padding: 0;
-      width: 83px;
-      height: 38px;
-      border: 0;
-      margin: 0;
-    }
+
+  // Tags Listing
+  ul.tags {
+    text-align: left;
+    -webkit-column-count:3;
+    -moz-column-count:3;
+    -ms-column-count:3;
+    -o-column-count:3;
+    column-count:3;
+    -webkit-column-gap:15px;
+    -moz-column-gap:15px;
+    -ms-column-gap:15px;
+    -o-column-gap:15px;
+    column-gap:15px;
+    columns:3;
+    > li {
+     font-size: 16px;
+     color: #999;
+     margin: 0 5px 5px 0;
+     display: inline-block;
+     width: 100%;
+     float: none;
+   }
+    > li:first-child {
+     display: none;
+   }
   }
 
-  .question-big {
-    font-size: 18px;
-    top: 5px;
-    left: 10px;
-  }
-
-  .question-small {
-    font-size: 13px;
-    top: 0;
-    left: 0;
-    padding: 8px;
-    font-weight: bold;
-  }
-
-  .search-bg {
-    display: none;
-  }
-
-  .highlight{
-    background-color: #FFFAE1;
-  }
-
-  // STYLES FOR TUTORIALS INDEX PAGE
-  .ss-video, .ss-users {
-    color: $grayverydark;
-  }
-
-  // STYLES FOR SOCIAL SHARING
-  .meta {
-    font-size: 90%;
-    color: $graydark;
-  }
-  a.js-social-share, a.js-social-share:visited {
-    text-decoration: none;
-    padding-left: 10px;
-  }
-
-  // FOOTER
-  #footer {
-    display: block;
-    clear: both;
-    color: $graydark;
-    padding: 20px 0 30px;
-  }
-
-  #footer a {
-    color: $graydark;
-    text-decoration: none;
-  }
-
+// ========================================
 }
-
-// DESK ELEMENTS OUTSIDE OUR WRAPPER
-// JQUERY UI OVERRIDES
-.ui-widget {
-  font-size: 16px !important;
-}
-.ui-state-hover,
-.ui-widget-content .ui-state-hover {
-  background-image: none !important;
-}
-
-// Tags Listing
-ul.tags {
-  text-align: left;
-  -webkit-column-count:3;
-  -moz-column-count:3;
-  -ms-column-count:3;
-  -o-column-count:3;
-  column-count:3;
-  -webkit-column-gap:15px;
-  -moz-column-gap:15px;
-  -ms-column-gap:15px;
-  -o-column-gap:15px;
-  column-gap:15px;
-  columns:3;
-  > li {
-   font-size: 16px;
-   color: #999;
-   margin: 0 5px 5px 0;
-   display: inline-block;
-   width: 100%;
-   float: none;
- }
-  > li:first-child {
-   display: none;
- }
-}
+// END DBC BODY
+// ========================================
