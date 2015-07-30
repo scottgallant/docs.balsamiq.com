@@ -237,31 +237,32 @@ html, body {
       -ms-flex: 2;
           flex: 2; }
 
-#company-support-portal #header-wrapper #site-nav {
-  padding-top: 30px;
-  color: #f5f5f5;
-  font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-  font-weight: 400; }
-  #company-support-portal #header-wrapper #site-nav #balsamiq-logo {
-    font-size: 21px;
-    font-size: 2.1rem;
-    line-height: 21px;
-    line-height: 2.1rem; }
-    #company-support-portal #header-wrapper #site-nav #balsamiq-logo .trademark {
-      font-size: 10px;
-      font-size: 1rem;
-      line-height: 10px;
-      line-height: 1rem; }
-  #company-support-portal #header-wrapper #site-nav #site-id {
-    font-size: 21px;
-    font-size: 2.1rem;
-    line-height: 21px;
-    line-height: 2.1rem; }
-  #company-support-portal #header-wrapper #site-nav a {
-    color: #fff; }
-
-#company-support-portal #header-wrapper #search #s {
-  width: 145px; }
+#company-support-portal #header-wrapper {
+  background: #c00; }
+  #company-support-portal #header-wrapper #site-nav {
+    padding-top: 30px;
+    color: #f5f5f5;
+    font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+    font-weight: 400; }
+    #company-support-portal #header-wrapper #site-nav #balsamiq-logo {
+      font-size: 21px;
+      font-size: 2.1rem;
+      line-height: 21px;
+      line-height: 2.1rem; }
+      #company-support-portal #header-wrapper #site-nav #balsamiq-logo .trademark {
+        font-size: 10px;
+        font-size: 1rem;
+        line-height: 10px;
+        line-height: 1rem; }
+    #company-support-portal #header-wrapper #site-nav #site-id {
+      font-size: 21px;
+      font-size: 2.1rem;
+      line-height: 21px;
+      line-height: 2.1rem; }
+    #company-support-portal #header-wrapper #site-nav a {
+      color: #fff; }
+  #company-support-portal #header-wrapper #search #s {
+    width: 145px; }
 
 #company-support-portal #breadcrumbs {
   margin: 0 0 18px 0;
@@ -405,7 +406,9 @@ html, body {
     background: #fff; }
   #company-support-portal #support-main h1 {
     margin-top: 36px;
-    margin-bottom: 0px;
+    margin-bottom: .5em;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #ddd;
     font-size: 36px;
     font-size: 3.6rem;
     line-height: 36px;
