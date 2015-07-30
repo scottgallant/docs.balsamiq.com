@@ -198,7 +198,7 @@ html,body {
         margin-bottom: .5em;
       }
       li {
-        border: none;
+        // border: none;
         a {
           padding: 7px 0 8px 0;
         }
@@ -220,8 +220,8 @@ html,body {
       li {
         margin: 0;
         padding: 0;
-        border-top: 1px solid $gray;
         line-height: 16px;
+        // border-top: 1px solid $white;
         a {
           display: block;
           padding: 8px 0;

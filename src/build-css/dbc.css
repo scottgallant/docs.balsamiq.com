@@ -368,10 +368,8 @@ html, body {
       font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
       color: #666;
       margin-bottom: .5em; }
-    #company-support-portal .local-nav.local-nav-2 li {
-      border: none; }
-      #company-support-portal .local-nav.local-nav-2 li a {
-        padding: 7px 0 8px 0; }
+    #company-support-portal .local-nav.local-nav-2 li a {
+      padding: 7px 0 8px 0; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
     max-width: 180px; }
   #company-support-portal .local-nav i {
@@ -385,7 +383,6 @@ html, body {
     #company-support-portal .local-nav ul li {
       margin: 0;
       padding: 0;
-      border-top: 1px solid #ddd;
       line-height: 16px; }
       #company-support-portal .local-nav ul li a {
         display: block;
