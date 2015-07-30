@@ -1,12 +1,12 @@
 ---
-date: 2015-07-30T15:51:47-07:00
+date: 2015-05-09T16:46:35+02:00
 draft: false
-linktitle: null
+title: ""
+linktitle:
 menu:
   menudesktop:
     parent: mybalsamiq
     weight: 0
-title: index
 ---
 
 Hello.

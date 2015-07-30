@@ -1,7 +1,7 @@
 {{ $currentNode := . }}
 {{ range .Site.Menus.menudesktop }}
     {{ if .HasChildren }}
-  <h3>Mockups for Desktop</h3>
+  <h5>Mockups for Desktop</h5>
   <ul>
       {{ range .Children }}
       <li{{if $currentNode.IsMenuCurrent "menudesktop" . }} class="selected"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>

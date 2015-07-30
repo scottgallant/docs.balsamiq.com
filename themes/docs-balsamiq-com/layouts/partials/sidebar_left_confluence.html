@@ -1,0 +1,13 @@
+{{ $currentNode := . }}
+{{ range .Site.Menus.menuconfluence }}
+    {{ if .HasChildren }}
+  <h5>myBalsamiq</h5>
+  <ul>
+      {{ range .Children }}
+      <li{{if $currentNode.IsMenuCurrent "menuconfluence" . }} class="selected"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+      {{ end }}
+  </ul>
+{{else}}
+  {{/* when no parent */}}
+{{end}}
+{{end}}

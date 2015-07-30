@@ -1,7 +1,12 @@
 # About
 docs.calsamiq.com
 
-# Usage
+# Content
+
+* Create new docs using the command line. Doing so will add the file to the content directory with the front matter template (uses the file in archetypes/ directory).
+  * hugo new jira/mypage.md
+
+# HUGO Usage
 
 ## Running Hugo
 * Run launchHugo.sh (or $ hugo server --watch)
@@ -51,7 +56,7 @@ docs.calsamiq.com
 - [x] Create gulp JS tasks
 - [x] Create gulp CSS tasks
 - [x] Create gulp tasks to pull header/footer from balsamiq.com repo into partials
-- [ ] Create Left Nav
-- [ ] Create Right / In-Page Nav
+- [x] Create Left Nav
+- [x] Create Right / In-Page Nav
 - [ ] Create Overview pages based on Leon's IA
 - [ ] Make Titles h1 and decrease headings below that

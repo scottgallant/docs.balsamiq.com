@@ -1,9 +1,1 @@
-{{ $baseUrl := .Site.BaseUrl }}
-  <ul>
-  {{ $currentNode := . }}
-  {{ range .Site.Menus.main }}
-    <li>
-      <a href="{{ .Url }}" class="sub-menu{{if $currentNode.HasMenuCurrent "main" . }} active{{end}}">{{ .Name }}</a>
-    </li>
-  {{ end }}
-  </ul>
+{{/* LEFT SIDEBAR */}}
