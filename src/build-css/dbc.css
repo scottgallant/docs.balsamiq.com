@@ -243,7 +243,8 @@ html, body {
     padding-top: 30px;
     color: #f5f5f5;
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-    font-weight: 400; }
+    font-weight: 400;
+    color: #fff; }
     #company-support-portal #header-wrapper #site-nav #balsamiq-logo {
       font-size: 21px;
       font-size: 2.1rem;

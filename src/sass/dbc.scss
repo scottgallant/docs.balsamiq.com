@@ -54,7 +54,6 @@ html,body {
   #header-wrapper {
     // new red
     background: #c00;
-
     #site-nav {
       padding-top: 30px;
       color: $graypale;
@@ -69,6 +68,7 @@ html,body {
       #site-id {
         @include fontsize(21,21);
       }
+      color: $white;
       a {
         color: $white;
       }
