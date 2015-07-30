@@ -174,7 +174,6 @@ html,body {
   // ========================================
   // DBC SIDE COLUMN
   .local-nav {
-    margin-bottom: 1em;
     background: #fff;
     border: none;
     &.local-nav-1 {
@@ -190,12 +189,19 @@ html,body {
       }
     }
     &.local-nav-2 {
-      margin-top: 44px;
-      @include fontsize(12,16);
+      padding-top: 31px;
+      @include fontsize(14,16);
       h5 {
-        @include fontsize(14,16);
+        @include fontsize(16,16);
         font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
         color: $grayverydark;
+        margin-bottom: .5em;
+      }
+      li {
+        border: none;
+        a {
+          padding: 7px 0 8px 0;
+        }
       }
     }
     button, a.button {
@@ -215,9 +221,6 @@ html,body {
         margin: 0;
         padding: 0;
         border-top: 1px solid $gray;
-        .local-nav-2 & {
-            border: none;
-        }
         line-height: 16px;
         a {
           display: block;

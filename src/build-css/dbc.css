@@ -336,7 +336,6 @@ html, body {
   background-image: none; }
 
 #company-support-portal .local-nav {
-  margin-bottom: 1em;
   background: #fff;
   border: none; }
   #company-support-portal .local-nav.local-nav-1 {
@@ -356,18 +355,23 @@ html, body {
       font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
       color: #666; }
   #company-support-portal .local-nav.local-nav-2 {
-    margin-top: 44px;
-    font-size: 12px;
-    font-size: 1.2rem;
+    padding-top: 31px;
+    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 16px;
     line-height: 1.6rem; }
     #company-support-portal .local-nav.local-nav-2 h5 {
-      font-size: 14px;
-      font-size: 1.4rem;
+      font-size: 16px;
+      font-size: 1.6rem;
       line-height: 16px;
       line-height: 1.6rem;
       font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      color: #666; }
+      color: #666;
+      margin-bottom: .5em; }
+    #company-support-portal .local-nav.local-nav-2 li {
+      border: none; }
+      #company-support-portal .local-nav.local-nav-2 li a {
+        padding: 7px 0 8px 0; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
     max-width: 180px; }
   #company-support-portal .local-nav i {
@@ -383,8 +387,6 @@ html, body {
       padding: 0;
       border-top: 1px solid #ddd;
       line-height: 16px; }
-      .local-nav-2 #company-support-portal .local-nav ul li {
-        border: none; }
       #company-support-portal .local-nav ul li a {
         display: block;
         padding: 8px 0; }
