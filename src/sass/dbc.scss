@@ -264,12 +264,16 @@ html,body {
       border-bottom: 1px solid $gray;
       @include fontsize (36, 36);
       font-weight: normal;
+      color: $grayverydark;
+    }
+    h2, h3, h4, h5, h6 {
+      color: $grayverydark;
     }
     h3, h4 {
-      @include fontsize (28, 40);
+      @include fontsize (28, 32);
     }
     h5 {
-      font-size: 20px;
+      @include fontsize (20, 20);
     }
     // images in articles
     img {
