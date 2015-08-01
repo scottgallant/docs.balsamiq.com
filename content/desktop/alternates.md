@@ -2,12 +2,10 @@
 date: "2015-05-09T16:46:35+02:00"
 draft: false
 title: "Working with Alternates"
-menu: 
+menu:
   menudesktop:
     parent: 'desktop'
     weight: 70
-categories:
-  - "desktop-docs"
 tags:
   - "Alternates"
 ---
@@ -27,7 +25,7 @@ Here's an overview:
 
 <iframe allowfullscreen="" frameborder="0" height="525" src="https://www.youtube.com/embed/495jKWV5rEY?rel=0" width="700"></iframe>
 
-#### Creating Alternates [#](#creating)
+#### Creating Alternates
 
 When viewing a mockup without any controls selected you will see a section of the [Property Inspector panel](http://support.balsamiq.com/customer/portal/articles/110114) called **"Alternate Versions"** below the notes for that mockup.
 
@@ -59,7 +57,7 @@ To **rename** the alternate double-click on the name in the alternates versions 
 
 * * *
 
-#### Editing Alternates [#](#editing)
+#### Editing Alternates
 
 Once you have created an alternate version you can edit it just like any other mockup, including adding assets and symbols. Changes that you make **will not affect the original mockup** (shown as the Official Version). You can also add notes in the notes panel for the alternate to describe your thoughts on it or communicate to others about it.
 
@@ -73,7 +71,7 @@ To switch between alternate versions of a mockup select the name of a version fr
 
 * * *
 
-#### Promoting Alternates [#](#promoting)
+#### Promoting Alternates
 
 If you decide that you like one alternate better than the original mockup you can "promote" it to the official version, which replaces and overwrites the original.
 
@@ -85,7 +83,7 @@ The alternate that was promoted is retained in case you want to preserve it as p
 
 * * *
 
-#### Merging Alternates [#](#merging)
+#### Merging Alternates
 
 If you want to combine parts of an alternate with the official version, you can use the merge option.
 

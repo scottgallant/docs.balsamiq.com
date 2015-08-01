@@ -24,7 +24,22 @@ menu.menudesktop:
   url:  "/desktop/"
 
 menu.menumybalsamiq:
-  name:  "myBalsamiq"
+  name:  "mybalsamiq"
   identifier:  "mybalsamiq"
   url:  "/mybalsamiq/"
+
+menu.menugoogledrive:
+  name:  "googledrive"
+  identifier:  "googledrive"
+  url:  "/google-drive/"
+
+menu.menujira:
+  name:  "jira"
+  identifier:  "jira"
+  url:  "/jira/"
+
+menu.menuconfluence:
+  name:  "confluence"
+  identifier:  "confluence"
+  url:  "/confluence/"
 ---

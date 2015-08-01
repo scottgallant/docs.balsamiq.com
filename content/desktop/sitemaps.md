@@ -2,17 +2,15 @@
 date: "2015-05-09T16:59:07+02:00"
 draft: false
 title: "Working with Site Maps"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 150
-categories:
-  - "desktop-docs"
 ---
 
 You can create simple site maps from a text outline using the Site Map control.
 
-#### Create a Site Map [#](#create-sitemap)
+#### Create a Site Map
 
 Add a "Site Map" control from the UI Library to the canvas.
 
@@ -35,7 +33,7 @@ This is what the outline above looks like:
 
 * * *
 
-#### Notes and Options[#](#options)
+#### Notes and Options
 
 *   Single Tree Support: Site Map expects the first line to be the top-most parent, and only one of these can exist because it only makes a single tree. If you want to make multiple trees, just add more Site Map controls.
 *   Multi-Line Text: You can use \r to create line returns on text in a box like this: About\rUs

@@ -2,7 +2,7 @@
 date: "2015-05-09T17:03:44+02:00"
 draft: false
 title: "Working with Skins (sketch vs. wireframe)"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 85
@@ -12,7 +12,7 @@ categories:
 
 We know that some people need to shift from idea generation with internal teams to presentation with clients or stakeholders, and in those situations the default "sketch" skin may present challenges with certain audiences. To address this need, we created a "wireframe" skin that allows you to switch from a sketchy, hand-drawn style to a crisper, cleaner wireframe elements.
 
-#### Switching from sketch to wireframe skin [#](switchingskins)
+#### Switching from sketch to wireframe skin
 
 To switch skins go to the [Project Info panel](http://support.balsamiq.com/customer/portal/articles/1895403) and set the Skin setting to "Wireframe".
 
@@ -24,7 +24,7 @@ The screenshots below show a comparison of a sample design in the default "sketc
 
 [![Sketch Skin](http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png)](http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png)[![Wireframe Skin](http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)](http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)
 
-#### Which skin should I use? [#](whichskin)
+#### Which skin should I use?
 
 We're glad you asked ;-) The short answer is that we still feel that the sketch skin is more appropriate most of the time while using Mockups.
 

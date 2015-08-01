@@ -2,25 +2,23 @@
 date: "2015-05-10T10:34:01+02:00"
 draft: false
 title: "Keyboard Shortcuts"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 200
-categories:
-  - "desktop-docs"
 ---
 
-<div style="float: right; width: 150px; margin-left: 18px;">[![](http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-thumb.png)​](http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-v3.png)
+<div style="float: right; width: 150px; margin-left: 18px;"><a href="http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-thumb.png"><img src="http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-v3.png"></a>
 
-<div class="t10">Download: [PDF](http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-v3.pdf) | [PNG](http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-v3.png)</div>
+<div class="t10">
+Download: [PDF](http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-v3.pdf) | [PNG](http://media.balsamiq.com/files/balsamiq-keyboard-shortcuts-v3.png)
+</div>
 
 </div>
 
 Below is a list of all the keyboard shortcuts and modifiers available in Balsamiq Mockups. While all of the shortcuts will work in the Desktop version, some might not work when you edit mockups in a browser.
 
 The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose one of the links to the right to download a cheat sheet.
-
-<style type="text/css">.subhead {background: #eee; font-    weight: bold; padding-left: 3px !important; color: #666;} #body-main h4 {font-    weight: bold; color: #333;}</style>
 
 <table class="tuftified">
 
@@ -30,7 +28,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Controls [#](#controls)
+#### Working with Controls
 
 </th>
 
@@ -382,7 +380,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Icons [#](#icons)
+#### Working with Icons
 
 </th>
 
@@ -424,7 +422,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Text [#](#text)
+#### Working with Text
 
 </th>
 
@@ -474,7 +472,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Text Formatting [#](#textformatting)
+#### Text Formatting
 
 </th>
 
@@ -556,7 +554,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Special Text Macros [#](#textmacros)
+#### Special Text Macros
 
 </th>
 
@@ -582,7 +580,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Quick Add [#](#quickadd)
+#### Quick Add
 
 </th>
 
@@ -633,7 +631,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Mockup Files [#](#files)
+#### Working with Mockup Files
 
 </th>
 
@@ -763,7 +761,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Views [#](#views)
+#### Views
 
 </th>
 
@@ -845,7 +843,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Fullscreen [#](#fullscreen)
+#### Fullscreen
 
 </th>
 

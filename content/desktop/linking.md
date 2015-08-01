@@ -2,12 +2,10 @@
 date: "2015-05-10T10:33:47+02:00"
 draft: false
 title: "Linking Mockups Together"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 180
-categories:
-  - "desktop-docs"
 tags:
   - "Linking"
   - "Full Screen"

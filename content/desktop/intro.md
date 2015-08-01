@@ -2,12 +2,10 @@
 date: "2015-05-09T16:32:43+02:00"
 draft: false
 title: "Introduction to Balsamiq Mockups 3"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 30
-categories:
-  - "desktop-docs"
 tags:
   - "Overview"
   - "Introduction"

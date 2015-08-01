@@ -3,8 +3,7 @@ date: "2015-05-09T16:46:35+02:00"
 draft: false
 title: "Mockups for Desktop Documentation"
 linktitle: 'desktop'
-categories:
-  - "desktop-docs"
+weight: 0
 ---
 
 The following articles describe the basic usage and features of **Balsamiq Mockups 3 for Desktop**. See [below for documentation on **myBalsamiq** and our other products](#more).
@@ -20,7 +19,6 @@ The following articles describe the basic usage and features of **Balsamiq Mocku
 * [Keyboard Shortcuts](/desktop/shortcuts/)
 
 ## Working with Controls
-
 * [Working with Text](/desktop/text/)
 * [Working with Data Grids / Tables](/desktop/datagrids/)
 * [Working with Icons](/desktop/icons/)
@@ -30,7 +28,6 @@ The following articles describe the basic usage and features of **Balsamiq Mocku
 * [Working with Site Maps](/desktop/sitemaps/)
 
 ## Next Steps
-
 * [Exporting your Mockups](/desktop/exporting/)
 * [Importing Mockups and Symbols](/desktop/importing/)
 * [Linking Mockups Together](/desktop/liking/)
@@ -41,7 +38,6 @@ The following articles describe the basic usage and features of **Balsamiq Mocku
 * * *
 
 ## Frequently Asked Questions
-
 * [Does Mockups automatically save open files?](/desktop/578190)
 * [Is there a Mockups viewer to share my prototypes with my clients?](/desktop/98989)
 * [Can I export mockup notes?](/desktop/1948259)
@@ -59,9 +55,7 @@ The following articles describe the basic usage and features of **Balsamiq Mocku
 * * *
 
 ## Documentation for Other Balsamiq Products
-
 Documentation for myBalsamiq and our plugin products is listed below:
-
 * [myBalsamiq](/desktop/127531)
 * [Mockups for Google Drive](/desktop/1559682)
 *   Mockups for Confluence: [User Guide](/desktop/113837) - [Admin Guide](/desktop/113839)

@@ -1,12 +1,9 @@
 ---
 date: 2015-07-30T15:51:47-07:00
 draft: false
-linktitle: null
-menu:
-  menudesktop:
-    parent: mybalsamiq
-    weight: 0
-title: index
+title: "myBalsamiq Documentation"
+linktitle: mybalsamiq
+weight: 0
 ---
 
 Hello.

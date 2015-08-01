@@ -1,12 +1,12 @@
 ---
 date: 2015-07-30T15:52:20-07:00
 draft: false
-linktitle: null
+title: "Confuence Test Page"
+linktitle: "confluence-test-page"
 menu:
-  menudesktop:
+  menuconfluence:
     parent: confluence
-    weight: 0
-title: page
+weight: 0
 ---
 
 Hello.

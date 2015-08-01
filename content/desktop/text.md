@@ -2,7 +2,7 @@
 date: "2015-05-09T16:47:53+02:00"
 draft: false
 title: "Working with Text"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 90
@@ -22,7 +22,7 @@ When editing text in a Label or Paragraph control you will see a small number in
 
 * * *
 
-#### Basic formatting[#](#basicformatting)
+#### Basic formatting
 
 ##### Text style
 
@@ -76,7 +76,7 @@ In a paragraph control, you can create a bulleted list by preceding text with ei
 
 * * *
 
-#### Making links in text actually work[#](#linking)
+#### Making links in text actually work
 
 If you are using the link notation above (e.g., [this is a link]), you can turn link-formatted text into actual links using [markdown syntax](http://daringfireball.net/projects/markdown/syntax).
 
@@ -110,7 +110,7 @@ You can link specific strings of text as well as the whole control.
 
 * * *
 
-#### More macros[#](#macros)
+#### More macros
 
 ##### lorem
 

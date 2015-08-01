@@ -1,12 +1,12 @@
 ---
 date: 2015-07-30T15:52:28-07:00
 draft: false
-linktitle: null
+title: "JIRA Test Page"
+linktitle: "jira-test-page"
 menu:
-  menudesktop:
+  menujira:
     parent: jira
-    weight: 0
-title: page
+weight: 10
 ---
 
 Hello.

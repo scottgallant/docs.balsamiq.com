@@ -2,12 +2,10 @@
 date: "2015-05-09T16:57:52+02:00"
 draft: false
 title: "Working with Images"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 120
-categories:
-  - "desktop-docs"
 tags:
   - "Images"
   - "Assets"
@@ -15,7 +13,7 @@ tags:
 
 There are multiple ways to add images to your mockups. The easiest way is to simply drag and drop an image file from your computer on to the Mockups canvas. Read on to learn more about adding and using images in your projects.
 
-#### Adding images in Mockups view [#](#mockupsview)
+#### Adding images in Mockups view
 
 As mentioned above, dragging an image from your computer to Balsamiq Mockups will add it to the canvas. Doing this will place the image into the selected mockup and copy the image file to your [Assets](#assetsview) so that you can easily reuse it in other mockups.
 
@@ -50,7 +48,7 @@ Aside from the Image control, you can also embed images in the Cover Flow contro
 
 * * *
 
-#### Adding images in Assets view [#](#assetsview)
+#### Adding images in Assets view
 
 Balsamiq Mockups 3 has a dedicated area of the user interface for managing images, called the Assets view.
 
@@ -74,20 +72,20 @@ The [Properties panel](http://support.balsamiq.com/customer/portal/articles/1091
 
 * * *
 
-#### Managing images [#](#managing)
+#### Managing images
 
 As with the Mockups view, the Assets view has a [context menu](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu) that you can open by right-clicking in the navigator or using the drop-down arrow. This allows you to rename, clone, trash, or download your images.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-context-menu.png)
 
-##### Renaming images [#](#renaming)
+##### Renaming images
 
 Renaming images using the context menu will change the name of the asset in your project. It will not affect the original file, as the image is a copy that has been added to your project. Renamed images will get updated in your mockups, so you don't need to update them manually.
 
-##### Deleting images [#](#deleting)
+##### Deleting images
 
 You can also use the context menu to delete images from your project. Just like your mockups, deleting will move images to the [trash](http://support.balsamiq.com/customer/portal/articles/1844131#trash), where you can delete them permanently or restore them. Note that deleting an image from the mockups canvas doesn't remove it from your project.
 
-##### Saving images from your project to your computer [#](#downloading)
+##### Saving images from your project to your computer
 
 You can get images from your project on to your computer by using the "Download" option in the context menu, allowing you to extract images from your project for other uses.

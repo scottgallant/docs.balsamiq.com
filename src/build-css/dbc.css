@@ -265,21 +265,6 @@ html, body {
   #company-support-portal #header-wrapper #search #s {
     width: 145px; }
 
-#company-support-portal #breadcrumbs {
-  margin: 0 0 18px 0;
-  padding: 5px 0;
-  color: #999;
-  font-size: 12px !important;
-  text-transform: capitalize;
-  border-bottom: 1px solid #ddd;
-  list-style-type: none; }
-  #company-support-portal #breadcrumbs a {
-    color: #999;
-    font-size: 12px !important; }
-  #company-support-portal #breadcrumbs li {
-    list-style-type: none;
-    display: inline; }
-
 #company-support-portal #body-wrapper {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important; }
@@ -339,39 +324,25 @@ html, body {
 
 #company-support-portal .local-nav {
   background: #fff;
-  border: none; }
+  border: none;
+  padding-top: 31px;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 16px;
+  line-height: 1.6rem; }
   #company-support-portal .local-nav.local-nav-1 {
-    padding-top: 31px;
-    background: #f5f5f5;
-    font-size: 14px;
-    font-size: 1.4rem;
+    background: #eee; }
+  #company-support-portal .local-nav h3, #company-support-portal .local-nav h4, #company-support-portal .local-nav h5 {
+    margin: 10px 0 10px 0;
+    padding: 0;
+    font-size: 18px;
+    font-size: 1.8rem;
     line-height: 16px;
-    line-height: 1.6rem; }
-    #company-support-portal .local-nav.local-nav-1 h3 {
-      margin: 10px 0 10px 0;
-      padding: 0;
-      font-size: 16px;
-      font-size: 1.6rem;
-      line-height: 16px;
-      line-height: 1.6rem;
-      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+    line-height: 1.6rem;
+    font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+    color: #666; }
+    #company-support-portal .local-nav h3 a, #company-support-portal .local-nav h4 a, #company-support-portal .local-nav h5 a {
       color: #666; }
-  #company-support-portal .local-nav.local-nav-2 {
-    padding-top: 31px;
-    font-size: 14px;
-    font-size: 1.4rem;
-    line-height: 16px;
-    line-height: 1.6rem; }
-    #company-support-portal .local-nav.local-nav-2 h5 {
-      font-size: 16px;
-      font-size: 1.6rem;
-      line-height: 16px;
-      line-height: 1.6rem;
-      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      color: #666;
-      margin-bottom: .5em; }
-    #company-support-portal .local-nav.local-nav-2 li a {
-      padding: 7px 0 8px 0; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
     max-width: 180px; }
   #company-support-portal .local-nav i {

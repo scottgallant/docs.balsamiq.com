@@ -2,12 +2,10 @@
 date: "2015-05-09T16:48:09+02:00"
 draft: false
 title: "Working with Data Grids / Tables"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 100
-categories:
-  - "desktop-docs"
 tags:
   - "Data Grid"
   - "Table"
@@ -20,7 +18,7 @@ firstname, lastname, email@email.com</pre>
 
 You can choose whether to show the first row as a header row in the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114), as well as specifying the row height, row colors, and grid lines.
 
-#### Column Width Options[#](#columnwidthoptions)
+#### Column Width Options
 
 Mockups lets you specify individual width and alignment options for each Data Grid column.
 
@@ -39,7 +37,7 @@ Here are the details for creating column widths:
 
 * * *
 
-#### Using Icons and Selection Controls in a Data Grid[#](#datagridicons)
+#### Using Icons and Selection Controls in a Data Grid
 
 Data Grid supports sort icons in headers using the following text:
 
@@ -57,7 +55,7 @@ Data Grids support a single checkbox or radio button in a table cell using the f
 
 * * *
 
-#### Creating Line Returns in a Data Grid[#](#datagridlinereturns)
+#### Creating Line Returns in a Data Grid
 
 Sometimes you want to create line returns in a table cell. To do this, you can use "\r" to create a line return.
 
@@ -67,7 +65,7 @@ The code example below would print on two lines.
 
 * * *
 
-#### Pasting Data from Excel[#](#excel)
+#### Pasting Data from Excel
 
 Some people like to prepare tables in a spreadsheet application like Excel. You can copy and paste a range of cells directly from Excel into the Data Grid/Table component. Just copy/paste and it will just work. It also works in the opposite direction from Mockups to Excel.
 

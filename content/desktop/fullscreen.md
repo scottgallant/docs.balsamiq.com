@@ -2,12 +2,10 @@
 date: "2015-05-10T10:33:54+02:00"
 draft: false
 title: "Full Screen Presentation Mode"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 190
-categories:
-  - "desktop-docs"
 tags:
   - "Full Screen"
   - "Presentation Mode"

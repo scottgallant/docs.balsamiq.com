@@ -79,26 +79,6 @@ html,body {
   }
 
   // ========================================
-  // BREADCRUMBS
-  #breadcrumbs {
-    margin: 0 0 18px 0;
-    padding: 5px 0;
-    color: $graydark;
-    font-size: 12px !important;
-    text-transform: capitalize;
-    border-bottom: 1px solid $gray;
-    list-style-type: none;
-    a {
-      color: $graydark;
-      font-size: 12px !important;
-    }
-    li {
-      list-style-type: none;
-      display: inline;
-    }
-  }
-
-  // ========================================
   // BODY WRAPPER
   #body-wrapper {
     margin-bottom: 0 !important;
@@ -179,32 +159,19 @@ html,body {
   .local-nav {
     background: #fff;
     border: none;
+    padding-top: 31px;
+    @include fontsize(14,16);
     &.local-nav-1 {
-      padding-top: 31px;
-      background: $graypale;
-      @include fontsize(14,16);
-      h3 {
-        margin: 10px 0 10px 0;
-        padding: 0;
-        @include fontsize(16,16);
-        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-        color: $grayverydark;
-      }
+      background: $graylight;
     }
-    &.local-nav-2 {
-      padding-top: 31px;
-      @include fontsize(14,16);
-      h5 {
-        @include fontsize(16,16);
-        font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+    h3, h4, h5 {
+      margin: 10px 0 10px 0;
+      padding: 0;
+      @include fontsize(18,16);
+      font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
+      color: $grayverydark;
+      a {
         color: $grayverydark;
-        margin-bottom: .5em;
-      }
-      li {
-        // border: none;
-        a {
-          padding: 7px 0 8px 0;
-        }
       }
     }
     button, a.button {

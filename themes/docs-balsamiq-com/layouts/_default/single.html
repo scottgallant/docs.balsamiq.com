@@ -13,9 +13,9 @@
     {{ if eq .Section "desktop" }}
       {{ partial "sidebar_left_desktop.html" . }}
     {{ else if eq .Section "mybalsamiq" }}
-      {{ partial "sidebar_left_desktop.html" . }}
+      {{ partial "sidebar_left_mybalsamiq.html" . }}
     {{ else if eq .Section "google-drive" }}
-      {{ partial "sidebar_left_google-drive.html" . }}
+      {{ partial "sidebar_left_googledrive.html" . }}
     {{ else if eq .Section "jira" }}
       {{ partial "sidebar_left_jira.html" . }}
     {{ else if eq .Section "confluence" }}

@@ -2,7 +2,7 @@
 date: "2015-05-09T16:44:43+02:00"
 draft: false
 title: "Mockups Application Overview"
-menu: 
+menu:
   menudesktop:
     parent: "desktop"
     weight: 40
@@ -26,7 +26,7 @@ For documentation on the UI areas that are unique to myBalsamiq, check out the [
 
 * * *
 
-#### The Toolbar[#](#appbar)
+#### The Toolbar
 
 The toolbar contains a series of icons for performing actions on other areas of the user interface.
 
@@ -53,7 +53,7 @@ The top of the toolbar shows the name of the project, which you can double-click
 
 * * *
 
-#### The Quick Add Tool[#](#quickadd)
+#### The Quick Add Tool
 
 The Quick Add tool is the fastest way to add UI controls to your mockup. To use quick add, click inside the quick add input box (or use the / or + keyboard shortcut to enter it). Type a few letters from the name of a UI control or icon and Quick Add will show you a list of suggestions. Use your mouse or arrow keys to scroll down the list and click or press Enter to add the control or icon on the mockup canvas. You can also use Shift + Enter to place the control where your mouse cursor is on the canvas.
 
@@ -65,7 +65,7 @@ Try out Quick Add now! As you become familiar with it, you could even hide the U
 
 * * *
 
-#### The UI Library[#](#uilibrary)
+#### The UI Library
 
 The UI Library, or UI Controls Library, is the long strip of UI Controls just below the Toolbar. It lists all of the UI control types that come with Mockups as well as [Assets](http://support.balsamiq.com/customer/portal/articles/110401), [Icons](http://support.balsamiq.com/customer/portal/articles/110202), and [Symbols](http://support.balsamiq.com/customer/portal/articles/110439). The main goal of the UI Library is to let you add UI Controls to the mockup canvas, but you can also use it to see what's possible and to get inspiration for your UI mockup.
 
@@ -77,7 +77,7 @@ The UI Library can be toggled on and off in several ways: clicking the icon to t
 
 * * *
 
-#### The Mockup Canvas[#](#canvas)
+#### The Mockup Canvas
 
 This is the main working area of Balsamiq Mockups, where your UI mockup comes to life. Once you add UI controls to it, you can move them, resize them and tweak them to your heart's content until your UI mockup is ready. See [Working with UI Controls](http://support.balsamiq.com/customer/portal/articles/110078) to learn more.
 
@@ -85,7 +85,7 @@ The mockup canvas grows and shrinks with your application window, so you can mak
 
 * * *
 
-#### The Navigator Panel [#](#filebrowser)
+#### The Navigator Panel
 
 The navigator panel on the left shows the list of mockups, assets or Symbols in your project. The currently selected object is highlighted. Mockups and assets can be viewed as a text-only list or as thumbnail previews.
 
@@ -95,7 +95,7 @@ You can hide the navigator panel by clicking the navigator toggle icon above the
 
 You can reorder your mockups by dragging them up and down in the navigator panel. This can be useful when [exporting to PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf), for example. The order of your mockups will be remembered when you close and reopen your project, even if opened on a different computer.
 
-##### Context menu actions[#](#contextmenu)
+##### Context menu actions
 
 A context menu is also available for the objects that are open in the navigator panel. You can either right-click on the selected object or click the small arrow that appears when you hover over it to open the menu.
 
@@ -103,7 +103,7 @@ A context menu is also available for the objects that are open in the navigator 
 
 The contents of this menu vary depending on which type of object is selected (mockup, asset, symbol, or trash) but it generally contains options such as rename, move to trash, and clone. In the Mockups view it also contains actions for working with [alternates](http://support.balsamiq.com/customer/portal/articles/1956540).
 
-##### Renaming Mockups [#](#rename)
+##### Renaming Mockups
 
 Renaming mockups can be done via the context menu or by double-clicking on the name of the mockup in the navigator panel. Mockups with [links](http://support.balsamiq.com/customer/portal/articles/111742) will automatically be updated when a linked mockup name changes.
 
@@ -111,7 +111,7 @@ Renaming mockups can be done via the context menu or by double-clicking on the n
 
 * * *
 
-#### The Properties Panel [#](#propertiespanel)
+#### The Properties Panel
 
 The panel on the right side of the application (when shown) displays properties for the selected control or object. Depending on which icon is selected it shows either the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114) or [Project Info Panel](http://support.balsamiq.com/customer/portal/articles/1895403). It can be hidden by de-selecting both panel icons in the toolbar or unchecking Inspector and Project Information in the View menu.
 
@@ -119,7 +119,7 @@ The panel on the right side of the application (when shown) displays properties 
 
 * * *
 
-#### Thumbnail Grid view [#](#thumbnailgrid)
+#### Thumbnail Grid view
 
 Clicking the icon to the right of the [navigator panel](#filebrowser) toggle will switch to thumbnail grid view, shown here.
 

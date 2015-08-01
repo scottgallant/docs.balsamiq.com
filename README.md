@@ -1,10 +1,10 @@
 # About
-docs.calsamiq.com
+docs.balsamiq.com
 
 # Content
-
-* Create new docs using the command line. Doing so will add the file to the content directory with the front matter template (uses the file in archetypes/ directory).
-  * hugo new jira/mypage.md
+* Add new files to the content/(section name) directory with a .md extensions. Markdown is accepted, and HUGO's [front matter](http://gohugo.io/content/front-matter/) is expected for the navigation to work properly.
+* You can create new docs using the command line to add the file to the content directory with architectype templates. This inserts the proper front matter including parent and creation date.
+  * $ hugo new jira/mypage.md
 
 # HUGO Usage
 
@@ -35,8 +35,6 @@ docs.calsamiq.com
   * $ gulp sass
 * Just JS
   * $ gulp js
-* Just header/footer update (Make sure you pull in balsamiq.com first)
-  * $ gulp getincludes
 
 ### Running Gulp during development (LiveReload)
 * If you're working on SASS or JS, run gulp using watch to rebuild css/js files as you make changes to them.
@@ -58,5 +56,10 @@ docs.calsamiq.com
 - [x] Create gulp tasks to pull header/footer from balsamiq.com repo into partials
 - [x] Create Left Nav
 - [x] Create Right / In-Page Nav
+- [x] Get the JS to work in the Search box
+- [x] Make Sidebar Heading Styles the same
+- [x] Remove all of the # anchors
+- [x] Make Titles h1 and decrease headings below that
 - [ ] Create Overview pages based on Leon's IA
-- [ ] Make Titles h1 and decrease headings below that
+- [ ] Try to make the TOC a toggle to expand/collapse
+- [ ] Get the equal column heights to 100%

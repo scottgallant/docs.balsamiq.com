@@ -1,7 +1,7 @@
 {{ $currentNode := . }}
 {{ range .Site.Menus.menumybalsamiq }}
     {{ if .HasChildren }}
-  <h5>myBalsamiq</h5>
+  <h5><a href="/mybalsamiq">myBalsamiq</a></h5>
   <ul>
       {{ range .Children }}
       <li{{if $currentNode.IsMenuCurrent "menumybalsamiq" . }} class="selected"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
