@@ -263,7 +263,7 @@ html, body {
     #company-support-portal #header-wrapper #site-nav a {
       color: #fff; }
   #company-support-portal #header-wrapper #search #s {
-    width: 145px; }
+    width: 125px; }
 
 #company-support-portal #body-wrapper {
   margin-bottom: 0 !important;
@@ -345,7 +345,6 @@ html, body {
     cursor: pointer;
     color: #999 !important; }
   #company-support-portal .local-nav.local-nav-1 {
-    background: #eee;
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 16px;

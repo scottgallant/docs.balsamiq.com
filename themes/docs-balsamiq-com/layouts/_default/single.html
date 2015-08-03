@@ -9,20 +9,21 @@
 <div class="row row-flex row-flex-wrap">
 
   <div class="local-nav local-nav-1 col-xs-2">
-    <div class="flex-col">
+    <div class="flex-col" data-spy="affix" data-offset-top="80">
     {{ if eq .Section "desktop" }}
-      {{ partial "sidebar_left_desktop.html" . }}
+      {{ partial "sidebar_desktop.html" . }}
     {{ else if eq .Section "mybalsamiq" }}
-      {{ partial "sidebar_left_mybalsamiq.html" . }}
+      {{ partial "sidebar_mybalsamiq.html" . }}
     {{ else if eq .Section "google-drive" }}
-      {{ partial "sidebar_left_googledrive.html" . }}
+      {{ partial "sidebar_googledrive.html" . }}
     {{ else if eq .Section "jira" }}
-      {{ partial "sidebar_left_jira.html" . }}
+      {{ partial "sidebar_jira.html" . }}
     {{ else if eq .Section "confluence" }}
-      {{ partial "sidebar_left_confluence.html" . }}
+      {{ partial "sidebar_confluence.html" . }}
     {{ else }}
       <!-- sidebar -->
     {{ end }}
+    {{ partial "sidebar_inpage.html" . }}
     </div>
   </div>
 
@@ -38,10 +39,6 @@
       </div>
     </div>
   </div><!-- /.support-main -->
-
-  <div class="hidden-xs col-sm-2 local-nav local-nav-2">
-    {{ partial "sidebar_right.html" . }}
-  </div>
 
 </div> <!-- /.row -->
 

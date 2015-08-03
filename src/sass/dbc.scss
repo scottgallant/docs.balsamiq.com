@@ -74,7 +74,7 @@ html,body {
       }
     }
     #search #s {
-      width: 145px;
+      width: 125px;
     }
   }
 
@@ -181,7 +181,7 @@ html,body {
     }
     // Nav TOC
     &.local-nav-1 {
-      background: $graylight;
+      // background: $graylight;
       @include fontsize(14,16);
     }
     &.local-nav-2 {
