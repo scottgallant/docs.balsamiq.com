@@ -160,18 +160,15 @@ html,body {
     background: #fff;
     border: none;
     padding-top: 31px;
-    @include fontsize(14,16);
-    &.local-nav-1 {
-      background: $graylight;
-    }
     h3, h4, h5 {
       margin: 10px 0 10px 0;
       padding: 0;
-      @include fontsize(18,16);
+      @include fontsize(18,18);
       font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-      color: $grayverydark;
+      font-weight: normal;
+      color: $grayverydark2;
       a {
-        color: $grayverydark;
+        color: $grayverydark2;
       }
     }
     button, a.button {
@@ -183,6 +180,13 @@ html,body {
       color: $graydark !important;
     }
     // Nav TOC
+    &.local-nav-1 {
+      background: $graylight;
+      @include fontsize(14,16);
+    }
+    &.local-nav-2 {
+      @include fontsize(13,15);
+    }
     ul {
       margin-left: 0;
       padding-left: 0;
@@ -197,8 +201,8 @@ html,body {
           padding: 8px 0;
         }
         &.selected a {
-          color: $grayverydark;
-          font-weight: bold;
+          color: $grayverydark2;
+          font-weight: normal;
         }
       }
       & > .active,
