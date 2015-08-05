@@ -1,21 +1,49 @@
 // DBC JS
 $(document).ready(function() {
+  // TOC
+  // - SCROLLSPY
+  $('body').scrollspy({ target: '#toc-menu' });
+  // - TOC LIST
+  count = 0;
+  var ToC = "<div id='toc-list'><ul>";
+  var newLine, el, title, titleclean, link;
+  $("article h2").each(function() {
+    el = $(this);
+    title = el.text();
+    // titleclean = title.slice(0,-1);
+    link = "#" + el.attr("id");
+    newLine =
+      "<li>" +
+        "<a href='" + link + "'>" +
+          title +
+        "</a>" +
+      "</li>";
+    ToC += newLine;
+    count++;
+  });
+  ToC += "</ul></div>";
+  if (count > 0) {
+    $("#toc-menu").append(ToC);
+  }
 
-  // SELECT AND GO
-  $('#doc-menu').on('change', function () {
-      var url = $(this).val(); // get selected value
-      if (url) { // require a URL
-          window.location = url; // redirect
-      }
-      return false;
+  // AFFIX SIDEBAR
+  // #header-wrapper +31px
+  // #sidebar-box
+  // #footer-wrapper +16px
+  $('#sidebar-box').affix({
+    offset: {
+      top: $('#header-wrapper').outerHeight(true) + 31,
+      // bottom: function () {
+      //   return (this.bottom = $('#footer-wrapper').outerHeight(true));
+      // }
+    }
   });
 
-  // MENU TOGGLE ICONs
+  // MENU TOGGLE
   $('.menu-toggle').click(function() {
     $(this).find('.ss-icon').toggleClass("ss-navigatedown ss-navigateright");
-    // e.preventDefault();
+    event.preventDefault();
   });
-
 
   // SMOOTH SCROLL
   $("#toc-menu a[href^='#']").on('click', function(e) {

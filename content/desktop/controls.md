@@ -14,7 +14,7 @@ tags:
   - "Elements"
 ---
 
-#### Adding UI Controls
+## Adding UI Controls
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/uilibrary.png)
 
@@ -26,7 +26,7 @@ You can also duplicate controls already on the canvas using copy and paste or th
 
 * * *
 
-#### Selecting UI Controls
+## Selecting UI Controls
 
 There are a few different ways to select UI controls. If you are familiar with graphics software, these should be of no surprise.
 
@@ -42,7 +42,7 @@ To select a control that is behind another control, right-click on the top contr
 
 * * *
 
-#### Moving UI Controls
+## Moving UI Controls
 
 Once you have selected one or more UI controls, there are a few different ways to move it on the canvas.
 
@@ -53,7 +53,7 @@ Once you have selected one or more UI controls, there are a few different ways t
 
 * * *
 
-#### Snapping and Smart Guides
+## Snapping and Smart Guides
 
 When you move objects on the canvas, Mockups tries to suggest alignment relative to other objects on the canvas using smart guides. This makes alignment a little easier and makes your Mockups generally look neater.
 
@@ -61,7 +61,7 @@ If you ever want to temporarily disable this feature, you can hold down the CTRL
 
 * * *
 
-#### Resizing UI Controls
+## Resizing UI Controls
 
 Resizing the selected controls is easy. You can just grab any edge or corner of the selection rectangle and drag it.
 
@@ -73,7 +73,7 @@ Another way to resize some controls to their "natural size" is to use the Auto-S
 
 * * *
 
-#### Aligning UI Controls
+## Aligning UI Controls
 
 You can align and distribute (space out) controls by selecting multiple controls and right-clicking to bring up the menu shown below.
 
@@ -85,7 +85,7 @@ The same options are shown in the property inspector when multiple controls are 
 
 * * *
 
-#### Layering UI Controls
+## Layering UI Controls
 
 You can layer controls as if they were pieces of paper on the mockup canvas. To do so, you select the controls you want to layer and select one of four layering commands available via the right-click menu or [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114): Bring to Front, Bring Forward, Send Backward, and Send to Back. [Keyboard shortcuts](http://support.balsamiq.com/customer/portal/articles/110445) are also available.
 
@@ -93,13 +93,13 @@ You can layer controls as if they were pieces of paper on the mockup canvas. To 
 
 * * *
 
-#### Deleting UI Controls
+## Deleting UI Controls
 
 To remove some UI controls from the mockup canvas, select them and hit the DELETE key. Alternatively you can click on the trashcan icon in the toolbar or select "Delete" from the Edit menu.
 
 * * *
 
-#### Grouping UI Controls
+## Grouping UI Controls
 
 Sometimes you might want to group some controls to better align them or to move them all at once. To group a set of controls, select them and hit CTRL+G on your keyboard or use the Group command in the toolbar Edit menu. Once grouped, the controls will behave as one when moving or aligning. To ungroup controls, press CTRL+SHIFT+G on your keyboard or use the Ungroup command in the menu or toolbar. Groups can be nested.
 
@@ -111,7 +111,7 @@ You can optionally give a group a name via the property inspector. This can be h
 
 * * *
 
-#### Cropping Groups
+## Cropping Groups
 
 It is possible to crop (mask) groups to only show a selected portion of them.
 

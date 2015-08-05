@@ -6,6 +6,11 @@
 @import "modules/config";
 @import "modules/home";
 
+// FOR SCROLLSPY
+body {
+  position: relative;
+}
+
 // ========================================
 // 3 Col Layout full height
 // http://www.bootply.com/126437
@@ -110,7 +115,7 @@ html,body {
     .navsect {
       opacity: 0;
       width: 0;
-      @include transition(2s);
+      // @include transition(all, .04s, ease);
       a {
         display: none;
         color: $red !important;
@@ -159,14 +164,17 @@ html,body {
   .local-nav {
     background: #fff;
     border: none;
-    .sidebar-box {
+    #sidebar-box {
       padding-top: 31px;
+      &.affix-top, &.affix-bottom {
+        position: relative;
+      }
       &.affix {
         padding-top: 0;
         position: fixed;
         top: 0;
         width: auto !important;
-        @include transition(all, .6s, ease);
+        // @include transition(all, .6s, ease);
       }
     }
     h3, h4, h5 {
@@ -230,6 +238,10 @@ html,body {
         color: #fff;
         background-color: $blue !important;
       }
+    }
+    // Bootstrap Collapse Speed
+    .collapsing {
+      @include transition(all, .04s, ease);
     }
   // ========================================
   }
