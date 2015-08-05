@@ -31,7 +31,7 @@ gulp.task("sass", function(){
 // Minify JS
 gulp.task('js', function() {
   log("Minify JS files " + (new Date()).toString());
-  return gulp.src('./src/js/**/*.js')
+  gulp.src('./src/js/**/*.js')
     .pipe(jshint('.jshintrc'))
     .pipe(jshint.reporter('default'))
     .pipe(concat('dbc.js'))
