@@ -324,8 +324,16 @@ html, body {
 
 #company-support-portal .local-nav {
   background: #fff;
-  border: none;
-  padding-top: 31px; }
+  border: none; }
+  #company-support-portal .local-nav .sidebar-box {
+    padding-top: 31px; }
+    #company-support-portal .local-nav .sidebar-box.affix {
+      padding-top: 0;
+      position: fixed;
+      top: 0;
+      width: auto !important;
+      -webkit-transition: all 0.6s ease;
+      transition: all 0.6s ease; }
   #company-support-portal .local-nav h3, #company-support-portal .local-nav h4, #company-support-portal .local-nav h5 {
     margin: 10px 0 10px 0;
     padding: 0;
@@ -340,10 +348,17 @@ html, body {
       color: #555; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
     max-width: 180px; }
+  #company-support-portal .local-nav a.menu-toggle {
+    text-decoration: none; }
   #company-support-portal .local-nav i {
     margin-top: 2px;
     cursor: pointer;
     color: #999 !important; }
+    #company-support-portal .local-nav i.ss-icon {
+      font-size: 10px;
+      font-size: 1rem;
+      line-height: 10px;
+      line-height: 1rem; }
   #company-support-portal .local-nav.local-nav-1 {
     font-size: 14px;
     font-size: 1.4rem;

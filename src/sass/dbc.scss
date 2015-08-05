@@ -159,7 +159,16 @@ html,body {
   .local-nav {
     background: #fff;
     border: none;
-    padding-top: 31px;
+    .sidebar-box {
+      padding-top: 31px;
+      &.affix {
+        padding-top: 0;
+        position: fixed;
+        top: 0;
+        width: auto !important;
+        @include transition(all, .6s, ease);
+      }
+    }
     h3, h4, h5 {
       margin: 10px 0 10px 0;
       padding: 0;
@@ -174,10 +183,16 @@ html,body {
     button, a.button {
       max-width: 180px;
     }
+    a.menu-toggle {
+      text-decoration: none;
+    }
     i {
       margin-top: 2px;
       cursor:pointer;
       color: $graydark !important;
+      &.ss-icon {
+        @include fontsize(10,10);
+      }
     }
     // Nav TOC
     &.local-nav-1 {
