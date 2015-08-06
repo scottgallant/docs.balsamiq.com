@@ -8,7 +8,7 @@
 
 <div class="row">
 
-  <div class="local-nav local-nav-1 col-xs-3">
+  <div class="local-nav local-nav-1 hidden-xs col-sm-3">
     <div id="sidebar-box">
     {{ if eq .Section "desktop" }}
       {{ partial "sidebar_desktop.html" . }}
@@ -32,6 +32,7 @@
       <div class="support-body">
         <article>
           <h1 class="title">{{ .Title }}</h1>
+          <div class="breadcrumbs visible-xs">{{ partial "breadcrumbs.html" . }}</a></div>
           <div class="article-content content article">
             {{ .Content }}
           </div>

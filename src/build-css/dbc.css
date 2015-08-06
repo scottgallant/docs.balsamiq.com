@@ -184,6 +184,13 @@
   line-height: 18px;
   line-height: 1.8rem; }
 
+#header-wrapper #header #rmenu {
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  margin: 0;
+  padding: 0; }
+
 body {
   position: relative; }
 
@@ -315,6 +322,21 @@ html, body {
     border-left: 6px solid transparent;
     content: ''; }
 
+#company-support-portal #breadcrumbs {
+  margin: -1em 0 18px 0;
+  padding: 5px 0;
+  color: #999;
+  font-size: 12px !important;
+  text-transform: capitalize;
+  border-bottom: 1px solid #ddd;
+  list-style-type: none; }
+  #company-support-portal #breadcrumbs a {
+    color: #999;
+    font-size: 12px !important; }
+  #company-support-portal #breadcrumbs li {
+    list-style-type: none;
+    display: inline; }
+
 #company-support-portal #body-main {
   position: relative;
   margin-top: 0;
@@ -328,7 +350,7 @@ html, body {
   border: none; }
   #company-support-portal .local-nav #sidebar-box {
     padding-top: 31px; }
-    #company-support-portal .local-nav #sidebar-box.affix-top, #company-support-portal .local-nav #sidebar-box.affix-bottom {
+    #company-support-portal .local-nav #sidebar-box.affix-top {
       position: relative; }
     #company-support-portal .local-nav #sidebar-box.affix {
       padding-top: 0;

@@ -33,14 +33,14 @@ $(document).ready(function() {
   // #footer-wrapper +16px
   $('#sidebar-box').affix({
     offset: {
-      top: $('#header-wrapper').outerHeight(true) + 31,
-      // bottom: function () {
-      //   return (this.bottom = $('#footer-wrapper').outerHeight(true));
-      // }
+      top: $('#header-wrapper').outerHeight(true) + 31
     }
   });
   // - Prevent width resize
   $('#sidebar-box').width($('#sidebar-box').parent().width());
+  $(window).resize(function () {
+    $('#sidebar-box').width($('#sidebar-box').parent().width());
+  });
 
 
   // MENU TOGGLE ICON SWAP

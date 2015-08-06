@@ -6,6 +6,15 @@
 @import "modules/config";
 @import "modules/home";
 
+// RESPONSIVE MENU
+#header-wrapper #header #rmenu {
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  margin: 0;
+  padding: 0;
+}
+
 // FOR SCROLLSPY
 body {
   position: relative;
@@ -149,6 +158,26 @@ html,body {
   }
 
   // ========================================
+  // BREADCRUMBS
+  #breadcrumbs {
+    margin: -1em 0 18px 0;
+    padding: 5px 0;
+    color: $graydark;
+    font-size: 12px !important;
+    text-transform: capitalize;
+    border-bottom: 1px solid $gray;
+    list-style-type: none;
+    a {
+      color: $graydark;
+      font-size: 12px !important;
+    }
+    li {
+      list-style-type: none;
+      display: inline;
+    }
+  }
+
+  // ========================================
   // BODY MAIN
   #body-main {
     position: relative;
@@ -166,7 +195,7 @@ html,body {
     border: none;
     #sidebar-box {
       padding-top: 31px;
-      &.affix-top, &.affix-bottom {
+      &.affix-top {
         position: relative;
       }
       &.affix {

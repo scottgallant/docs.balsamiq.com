@@ -60,6 +60,9 @@ docs.balsamiq.com
 - [x] Make Sidebar Heading Styles the same
 - [x] Remove all of the # anchors
 - [x] Make Titles h1 and decrease headings below that
+- [x] Try to make the TOC a toggle to expand/collapse
+- [x] Get the equal column heights to 100%
+- [x] Try to make the TOC a toggle to expand/collapse
+- [x] Get the equal column heights to 100%
+- [ ] Make the sidebar work when long
 - [ ] Create Overview pages based on Leon's IA
-- [ ] Try to make the TOC a toggle to expand/collapse
-- [ ] Get the equal column heights to 100%
