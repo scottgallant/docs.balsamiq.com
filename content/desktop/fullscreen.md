@@ -20,9 +20,17 @@ To enter Full Screen Presentation mode, just click on the full-screen icon in th
 
 Mockups will expand to take up your whole screen (to eliminate distractions), and your mockup will be centered on the screen.
 
+* * *
+
+## Navigating The Project
+
 You can navigate between mockups using the icons in the upper left. The far left icon will toggle the top bar on and off. You can turn it off to remove everything but the mockup (even the icon will disappear until the cursor is placed over it), this is useful for usability testing when you want a more realistic experience.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-navigation.png)
+
+* * *
+
+## Settings
 
 By default you will also see a big blue arrow pointer in place of the regular mouse cursor. This is useful for presenting your mockups. The pointer will point towards the center of the screen in order to always stay out of the way of your mockup as much as possible.
 

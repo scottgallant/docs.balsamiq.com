@@ -23,9 +23,11 @@ Some possible reasons for using alternates:
 
 Here's an overview:
 
-<iframe allowfullscreen="" frameborder="0" height="525" src="https://www.youtube.com/embed/495jKWV5rEY?rel=0" width="700"></iframe>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/495jKWV5rEY?rel=0"></iframe></div>
 
-#### Creating Alternates
+<br>
+
+## Creating Alternates
 
 When viewing a mockup without any controls selected you will see a section of the [Property Inspector panel](http://support.balsamiq.com/customer/portal/articles/110114) called **"Alternate Versions"** below the notes for that mockup.
 
@@ -57,7 +59,7 @@ To **rename** the alternate double-click on the name in the alternates versions 
 
 * * *
 
-#### Editing Alternates
+## Editing Alternates
 
 Once you have created an alternate version you can edit it just like any other mockup, including adding assets and symbols. Changes that you make **will not affect the original mockup** (shown as the Official Version). You can also add notes in the notes panel for the alternate to describe your thoughts on it or communicate to others about it.
 
@@ -71,7 +73,7 @@ To switch between alternate versions of a mockup select the name of a version fr
 
 * * *
 
-#### Promoting Alternates
+## Promoting Alternates
 
 If you decide that you like one alternate better than the original mockup you can "promote" it to the official version, which replaces and overwrites the original.
 
@@ -83,7 +85,7 @@ The alternate that was promoted is retained in case you want to preserve it as p
 
 * * *
 
-#### Merging Alternates
+## Merging Alternates
 
 If you want to combine parts of an alternate with the official version, you can use the merge option.
 
@@ -103,7 +105,7 @@ You can then manually edit the contents to create a new official version that is
 
 * * *
 
-#### Discarding Alternates
+## Discarding Alternates
 
 When you have finished reviewing or integrating alternate versions into an official version you can delete alternates you no longer want using the "Discard" option.
 
@@ -111,7 +113,7 @@ When you have finished reviewing or integrating alternate versions into an offic
 
 * * *
 
-#### Project Alternates
+## Project Alternates
 
 In some cases you might want to **propose a set of alternate designs across several mockups**. This might happen if you are reviewing someone else's mockups and want them to see your proposed design changes throughout the project.
 

@@ -8,38 +8,41 @@
       }
     }
 */
-#support-documentation {
+#company-support-portal #body-main.home {
+  padding-top: 36px; }
+
+#company-support-portal #support-documentation {
   margin-bottom: 10px; }
-  #support-documentation a.button {
+  #company-support-portal #support-documentation a.button {
     display: block;
     padding: 5px;
     margin-bottom: 5px; }
-  #support-documentation .prod-core a.button {
+  #company-support-portal #support-documentation .prod-core a.button {
     text-align: left; }
     @media only screen and (min-width: 992px) {
-      #support-documentation .prod-core a.button {
+      #company-support-portal #support-documentation .prod-core a.button {
         min-height: 95px; } }
     @media (mdmin: 0) {
-      #support-documentation .prod-core a.button {
+      #company-support-portal #support-documentation .prod-core a.button {
         min-height: 95px; } }
-    #support-documentation .prod-core a.button img, #support-documentation .prod-core a.button span {
+    #company-support-portal #support-documentation .prod-core a.button img, #company-support-portal #support-documentation .prod-core a.button span {
       display: block;
       float: left; }
-  #support-documentation .prod-core img {
+  #company-support-portal #support-documentation .prod-core img {
     width: 20%; }
     @media only screen and (min-width: 768px) {
-      #support-documentation .prod-core img {
+      #company-support-portal #support-documentation .prod-core img {
         width: 40%; } }
     @media (smmin: 0) {
-      #support-documentation .prod-core img {
+      #company-support-portal #support-documentation .prod-core img {
         width: 40%; } }
     @media only screen and (min-width: 992px) {
-      #support-documentation .prod-core img {
+      #company-support-portal #support-documentation .prod-core img {
         width: 33%; } }
     @media (mdmin: 0) {
-      #support-documentation .prod-core img {
+      #company-support-portal #support-documentation .prod-core img {
         width: 33%; } }
-  #support-documentation .prod-core span {
+  #company-support-portal #support-documentation .prod-core span {
     padding-top: 18px;
     font-size: 16px;
     font-size: 1.6rem;
@@ -49,36 +52,36 @@
     padding-left: 2%;
     letter-spacing: -.25px; }
     @media only screen and (min-width: 768px) {
-      #support-documentation .prod-core span {
+      #company-support-portal #support-documentation .prod-core span {
         width: 58%; } }
     @media (smmin: 0) {
-      #support-documentation .prod-core span {
+      #company-support-portal #support-documentation .prod-core span {
         width: 58%; } }
     @media only screen and (min-width: 992px) {
-      #support-documentation .prod-core span {
+      #company-support-portal #support-documentation .prod-core span {
         width: 64%;
         font-size: 21px;
         font-size: 2.1rem;
         line-height: 24px;
         line-height: 2.4rem; } }
     @media (mdmin: 0) {
-      #support-documentation .prod-core span {
+      #company-support-portal #support-documentation .prod-core span {
         width: 64%;
         font-size: 21px;
         font-size: 2.1rem;
         line-height: 24px;
         line-height: 2.4rem; } }
-  #support-documentation .prod-plugins a.button {
+  #company-support-portal #support-documentation .prod-plugins a.button {
     min-height: 95px;
     width: 95px;
     float: left;
     margin: 0 5px 5px 0; }
-    #support-documentation .prod-plugins a.button img {
+    #company-support-portal #support-documentation .prod-plugins a.button img {
       display: block;
       margin: 0 auto;
       padding: 6px 0 0 0;
       width: 48px; }
-    #support-documentation .prod-plugins a.button span {
+    #company-support-portal #support-documentation .prod-plugins a.button span {
       display: block;
       padding: 2px 0 0 0;
       font-size: 14px;
@@ -87,36 +90,36 @@
       line-height: 1.6rem;
       letter-spacing: -.25px; }
 
-#page-index.container {
+#company-support-portal #page-index.container {
   margin-top: 0; }
 
-#page-index h3 {
+#company-support-portal #page-index h3 {
   font-size: 28px; }
-  #page-index h3 .ss-icon {
+  #company-support-portal #page-index h3 .ss-icon {
     color: rgba(118, 2, 9, 0.8);
     font-size: 21px;
     padding-top: 4px;
     margin-right: 12px; }
 
-#page-index hr {
+#company-support-portal #page-index hr {
   margin-top: 36px;
   margin-bottom: 36px; }
 
-#page-index .section:before {
+#company-support-portal #page-index .section:before {
   content: "";
   display: block;
   height: 74px;
   margin: -74px 0 0; }
 
-#page-index a.button {
+#company-support-portal #page-index a.button {
   width: auto;
   display: block;
   text-align: center; }
 
-#support-search-contact.container {
+#company-support-portal #support-search-contact.container {
   margin-top: 0; }
 
-#support-contact h4 {
+#company-support-portal #support-contact h4 {
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 24px;
@@ -125,38 +128,38 @@
   padding: 0 0 6px 0;
   text-align: center; }
 
-#support-contact .inner {
+#company-support-portal #support-contact .inner {
   margin: 0;
   padding: 10px;
   background: #f5f5f5;
   border: 1px solid #ddd;
   border-radius: 5px; }
 
-#support-contact a.button {
+#company-support-portal #support-contact a.button {
   display: block;
   padding: 5px;
   font-size: 14px;
   font-size: 1.4rem;
   line-height: 14px;
   line-height: 1.4rem; }
-  #support-contact a.button#forum-link {
+  #company-support-portal #support-contact a.button#forum-link {
     width: 100%;
     margin: 0; }
-  #support-contact a.button#email-link {
+  #company-support-portal #support-contact a.button#email-link {
     width: 100%;
     margin: 0; }
 
-#support-more-contact {
+#company-support-portal #support-more-contact {
   font-size: 14px; }
-  #support-more-contact .ss-icon {
+  #company-support-portal #support-more-contact .ss-icon {
     color: #0064AE;
     margin-right: 2px; }
 
-#bios #biopic img {
+#company-support-portal #bios #biopic img {
   border: 1px solid #ddd;
   box-shadow: 0px 1px 2px #ddd; }
 
-#bios #biopic p {
+#company-support-portal #bios #biopic p {
   margin: -20px 0 0 0;
   font-size: 12px;
   font-size: 1.2rem;
@@ -167,7 +170,7 @@
   text-shadow: rgba(0, 0, 0, 0.95) 0 1px 3px;
   text-transform: capitalize; }
 
-#bios #biotxt h4 {
+#company-support-portal #bios #biotxt h4 {
   margin: 0;
   padding: 0 0 2px 0;
   font-size: 18px;
@@ -176,20 +179,13 @@
   line-height: 1.8rem;
   text-align: left; }
 
-#bios #biotxt p {
+#company-support-portal #bios #biotxt p {
   margin: 0;
   padding: 0;
   font-size: 13px;
   font-size: 1.3rem;
   line-height: 18px;
   line-height: 1.8rem; }
-
-#header-wrapper #header #rmenu {
-  position: absolute;
-  top: 30px;
-  right: 15px;
-  margin: 0;
-  padding: 0; }
 
 body {
   position: relative; }
@@ -221,6 +217,12 @@ body {
       color: #fff; }
   #company-support-portal #header-wrapper #search #s {
     width: 125px; }
+  #company-support-portal #header-wrapper #header #rmenu {
+    position: absolute;
+    top: 30px;
+    right: 15px;
+    margin: 0;
+    padding: 0; }
 
 #company-support-portal #body-wrapper {
   margin-bottom: 0 !important;
@@ -316,10 +318,13 @@ body {
     color: #555; }
     #company-support-portal .local-nav h3 a, #company-support-portal .local-nav h4 a, #company-support-portal .local-nav h5 a {
       color: #555; }
+  #company-support-portal .local-nav h5 {
+    margin-left: 16px; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
     max-width: 180px; }
   #company-support-portal .local-nav a.menu-toggle {
-    text-decoration: none; }
+    text-decoration: none;
+    margin-left: -15px; }
   #company-support-portal .local-nav i {
     margin-top: 2px;
     cursor: pointer;
@@ -340,7 +345,8 @@ body {
     line-height: 15px;
     line-height: 1.5rem; }
   #company-support-portal .local-nav ul {
-    margin-left: 0;
+    margin-top: 0;
+    margin-left: 16px;
     padding-left: 0;
     list-style-type: none; }
     #company-support-portal .local-nav ul li {
@@ -349,7 +355,7 @@ body {
       line-height: 16px; }
       #company-support-portal .local-nav ul li a {
         display: block;
-        padding: 8px 0; }
+        padding: 6px 0; }
       #company-support-portal .local-nav ul li.active a {
         color: #555;
         font-weight: bold; }
@@ -381,16 +387,28 @@ body {
     color: #666; }
   #company-support-portal #support-main h2, #company-support-portal #support-main h3, #company-support-portal #support-main h4, #company-support-portal #support-main h5, #company-support-portal #support-main h6 {
     color: #666; }
-  #company-support-portal #support-main h3, #company-support-portal #support-main h4 {
+  #company-support-portal #support-main h2 {
     font-size: 28px;
     font-size: 2.8rem;
-    line-height: 32px;
-    line-height: 3.2rem; }
+    line-height: 28px;
+    line-height: 2.8rem;
+    font-weight: normal; }
+  #company-support-portal #support-main h3 {
+    font-size: 21px;
+    font-size: 2.1rem;
+    line-height: 21px;
+    line-height: 2.1rem;
+    font-weight: normal; }
+  #company-support-portal #support-main h4 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 18px;
+    line-height: 1.8rem; }
   #company-support-portal #support-main h5 {
-    font-size: 20px;
-    font-size: 2rem;
-    line-height: 20px;
-    line-height: 2rem; }
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 16px;
+    line-height: 1.6rem; }
   #company-support-portal #support-main img {
     max-width: 100%; }
   #company-support-portal #support-main #page-topic ul li {
@@ -415,6 +433,10 @@ body {
     margin-right: 0;
     text-align: left;
     max-width: 100%; }
+  #company-support-portal #support-main .section-pager {
+    margin-top: 2em; }
+    #company-support-portal #support-main .section-pager .section-next {
+      text-align: right; }
 
 #company-support-portal ul.tags {
   text-align: left;
@@ -441,5 +463,5 @@ body {
   #company-support-portal ul.tags > li:first-child {
     display: none; }
 
-#footer-wrapper {
-  background: #eee; }
+#company-support-portal #footer-wrapper .main {
+  padding-top: 12px; }

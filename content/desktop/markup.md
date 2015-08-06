@@ -16,7 +16,7 @@ Commonly used Markup items include: Arrow / Line, Callout, Sticky Note, Red X, a
 
 * * *
 
-#### Toggling Markup On and Off
+## Toggling Markup On and Off
 
 When you're editing your mockups, you will sometimes want to see what the mockup looks like with Markup off. You can do this by using the Show/Hide Markup toggle button at the right end of the toolbar.
 
@@ -26,7 +26,7 @@ The screenshot below shows the previous page with Markup off.
 
 * * *
 
-#### Markup Toggling with Keyboard Shortcuts
+## Markup Toggling with Keyboard Shortcuts
 
 There are keyboard shortcuts for toggling visibility on and off.
 
@@ -36,7 +36,7 @@ In Full Screen presentation mode you can just press the "M" (or "K") key.
 
 * * *
 
-#### Making Items Markup and Non-Markup
+## Making Items Markup and Non-Markup
 
 Sometimes you will want Markup items to be treated as non-markup or vice-versa. For example, you could use the iPhone control as a guide for designing a mobile screen, but you might want to hide the iPhone itself when you export it and view it on a mobile device.
 
@@ -52,6 +52,6 @@ The video below demonstrates this process:
 
 * * *
 
-#### Exporting Markup to PNG and PDF
+## Exporting Markup to PNG and PDF
 
 If you want your Markup components to appear or be hidden in your exported PNG images or your Exported PDF, simply toggle the Markup visibility as shown above, and Export.

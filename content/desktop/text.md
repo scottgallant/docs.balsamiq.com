@@ -22,9 +22,9 @@ When editing text in a Label or Paragraph control you will see a small number in
 
 * * *
 
-#### Basic formatting
+## Basic formatting
 
-##### Text style
+### Text style
 
 You can use the following notation to format only certain parts of your control's text.
 
@@ -59,13 +59,13 @@ Some controls like Paragraph or Label allow you to "unbold" the text via the Pro
 
 If you want to show these special formatting characters as actual text, you can escape the *, _, -, [ and ] characters with \*, \_, \-, \[ and \], so if you want to write "this [is] some text" and don't want the "is" to become a link, just type "this \[is\] some text".
 
-##### Line breaks
+### Line breaks
 
 Most controls allow you to insert a line break to wrap text from one line to the next. You can do this by writing \r in front of the text you want to start on a new line. See the example below where a line break is used in the second item in a Radio Button control.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/linebreak.png)
 
-##### Bulleted lists
+### Bulleted lists
 
 In a paragraph control, you can create a bulleted list by preceding text with either a hyphen or an asterisk followed by a space.
 
@@ -76,7 +76,7 @@ In a paragraph control, you can create a bulleted list by preceding text with ei
 
 * * *
 
-#### Making links in text actually work
+## Making links in text actually work
 
 If you are using the link notation above (e.g., [this is a link]), you can turn link-formatted text into actual links using [markdown syntax](http://daringfireball.net/projects/markdown/syntax).
 
@@ -110,14 +110,14 @@ You can link specific strings of text as well as the whole control.
 
 * * *
 
-#### More macros
+## More macros
 
-##### lorem
+### lorem
 
 Type lorem in a Paragraph or Text Area to use our [Lorem Ipsum](http://www.lipsum.com/ "What is Lorem Ipsum") generator.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/lorem.gif)
 
-##### {mockup-name}
+### {mockup-name}
 
 Type {mockup-name} (all lower-case) in a Label, Text, Title or Subtitle control to show the current mockup name.

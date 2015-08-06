@@ -64,5 +64,7 @@ docs.balsamiq.com
 - [x] Get the equal column heights to 100%
 - [x] Try to make the TOC a toggle to expand/collapse
 - [x] Get the equal column heights to 100%
-- [ ] Make the sidebar work when long
+- [x] Make the sidebar work when long
+- [x] Restyle Desktop article headings
+- [x] Prev/Next Links 
 - [ ] Create Overview pages based on Leon's IA

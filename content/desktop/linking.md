@@ -14,6 +14,10 @@ tags:
 
 You can link mockups together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you're displaying your project Mockups in [Full Screen Presentation](http://support.balsamiq.com/customer/portal/articles/111756) mode or as an [exported PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf).
 
+* * *
+
+## Creating Links
+
 Linking mockups together is as easy as choosing a mockup name from a drop-down menu. Simply click on a control that supports linking (most do, and [here's a workaround for those that don't](http://support.balsamiq.com/customer/portal/articles/117684)), and you'll see a "Link" drop-down in the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114) (click the "Show Link Inspector" link if you don't see it).
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/link_inspector.png)
@@ -35,6 +39,10 @@ For controls that can have multiple targets, you'll see something like this:
 Once you have selected a mockup or web page to link to from the drop-down menu, the control will show a little arrow icon in the bottom-right corner. Links to mockups will show as a plain arrow, while links to web pages will show as an arrow with a box around it, as shown below.
 
 ![bracket_links.png](http://media.balsamiq.com/img/support/docs/m4d/b3/bracket_links.png)
+
+* * *
+
+## Using Links in Presentations &amp; Prototypes
 
 When you're done linking your mockups up you can enter [Full Screen Presentation mode](http://support.balsamiq.com/customer/portal/articles/111756) and you'll be able to click on the links you set up to test your prototype.
 

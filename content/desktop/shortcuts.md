@@ -28,7 +28,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Controls
+<h2 id="working-with-controls">Working with Controls</h2>
 
 </th>
 
@@ -380,7 +380,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Icons
+<h2 id="working-with-icons">Working with Icons</h2>
 
 </th>
 
@@ -422,7 +422,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Text
+<h2 id="working-with-text">Working with Text</h2>
 
 </th>
 
@@ -472,7 +472,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Text Formatting
+<h2 id="text-formatting">Text Formatting</h2>
 
 </th>
 
@@ -554,7 +554,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Special Text Macros
+<h2 id="special-text-macros">Special Text Macros</h2>
 
 </th>
 
@@ -580,7 +580,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Quick Add
+<h2 id="quick-add">Quick Add</h2>
 
 </th>
 
@@ -631,7 +631,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Working with Mockup Files
+<h2 id="working-with-mockup-files">Working with Mockup Files</h2>
 
 </th>
 
@@ -761,7 +761,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Views
+<h2 id="views">Views</h2>
 
 </th>
 
@@ -843,7 +843,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 
 <th colspan="2">
 
-#### Fullscreen
+<h2 id="fullscreen">Fullscreen</h2>
 
 </th>
 

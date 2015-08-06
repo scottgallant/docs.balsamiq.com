@@ -14,13 +14,15 @@ Thank you for trying out our latest version of Balsamiq Mockups! We think that y
 
 This article is intended to answer some questions you might have about switching to Balsamiq Mockups 3 from a previous version.
 
-#### Is it a free update?
+* * *
+
+## Is it a free update?
 
 Yes! And it uses the same license as the old version, so you won't even have to re-register. Balsamiq Mockups 3 comes with free minor-version updates too, so you'll be able to get 3.1, 3.2, 3.3, etc.
 
 * * *
 
-#### My BMMLs won't open, what gives?
+## My BMMLs won't open, what gives?
 
 If you are transitioning from version 2 to version 3 of Balsamiq Mockups the most important thing to know is that Balsamiq Mockups 3 uses a new file format. We made this change to greatly simplify organizing your mockups into projects and to make it much easier to share files.
 
@@ -47,19 +49,19 @@ Imported mockups should look the same as they did in your previous version, exce
 
 * * *
 
-#### What about your other products - myBalsamiq and plugins?
+## What about your other products - myBalsamiq and plugins?
 
 Our new file format and user interface is coming to all of our products soon. In the meantime, you can [import](http://support.balsamiq.com/customer/portal/articles/1895737) and [export](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) ZIP files or individual BMMLs, but you might just want to wait until BMPR comes to your other Balsamiq product. Everything will all work seamlessly soon - thanks for your patience.
 
 * * *
 
-#### How do I use Symbols from Mockups To Go in Balsamiq Mockups 3?
+## How do I use Symbols from Mockups To Go in Balsamiq Mockups 3?
 
 There is an option in the Import menu for importing Symbol Libraries. [See here for details](http://support.balsamiq.com/customer/portal/articles/1895737#importingsymbols).
 
 * * *
 
-#### Where are the old icons? Can I still use them?
+## Where are the old icons? Can I still use them?
 
 We replaced them with the [Font Awesome](http://support.balsamiq.com/customer/portal/articles/110202) icon set, which has more icons and is more current.
 

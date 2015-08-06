@@ -21,7 +21,7 @@ If you have multiple controls selected it will show properties that are common t
 
 * * *
 
-#### Adding Notes to your Mockups, Symbols and Assets
+## Adding Notes to your Mockups, Symbols and Assets
 
 When no controls are selected the Property Inspector shows notes for the selected mockup, asset, or Symbol. In the Mockups view the panel also shows [mockup alternates](http://support.balsamiq.com/customer/portal/articles/1956540).
 

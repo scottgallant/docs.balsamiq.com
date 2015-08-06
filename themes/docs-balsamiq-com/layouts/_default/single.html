@@ -36,6 +36,15 @@
           <div class="article-content content article">
             {{ .Content }}
           </div>
+          <hr>
+          <div class="row section-pager">
+            {{ if .PrevInSection }}
+              <div class="col-xs-6 section-prev"><a href="{{.PrevInSection.Permalink}}"> &lt;&nbsp;{{.PrevInSection.Title}}</a></div>
+            {{ end }}
+            {{ if .NextInSection }}
+              <div class="col-xs-6 section-next"><a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&gt;</a></div>
+            {{ end }}
+          </div>
         </article>
       </div>
     </div>
