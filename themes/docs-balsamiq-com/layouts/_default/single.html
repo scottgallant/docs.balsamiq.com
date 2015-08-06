@@ -38,12 +38,16 @@
           </div>
           <hr>
           <div class="row section-pager">
-            {{ if .PrevInSection }}
-              <div class="col-xs-6 section-prev"><a href="{{.PrevInSection.Permalink}}"> &lt;&nbsp;{{.PrevInSection.Title}}</a></div>
-            {{ end }}
+            <div class="col-xs-6 section-prev">
+              {{ if .PrevInSection }}
+              <a href="{{.PrevInSection.Permalink}}"> &lt;&nbsp;{{.PrevInSection.Title}}</a>
+              {{ end }}
+            </div>
+            <div class="col-xs-6 section-next">
             {{ if .NextInSection }}
-              <div class="col-xs-6 section-next"><a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&gt;</a></div>
+              <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&gt;</a>
             {{ end }}
+            </div>
           </div>
         </article>
       </div>

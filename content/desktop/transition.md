@@ -5,7 +5,7 @@ title: "Balsamiq Mockups 3 Transition Guide"
 menu:
   menudesktop:
     parent: "desktop"
-    weight: 20
+    weight: 30
 categories:
   - "desktop-docs"
 ---
