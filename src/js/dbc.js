@@ -2,11 +2,9 @@
 $(document).ready(function() {
 
   // TOC
-  // - SCROLLSPY
-  $('body').scrollspy({ target: '#toc-menu' });
   // - TOC LIST
   count = 0;
-  var ToC = "<div id='toc-list'><ul>";
+  var ToC = "<ul class='nav'>";
   var newLine, el, title, titleclean, link;
   $("article h2").each(function() {
     el = $(this);
@@ -22,10 +20,12 @@ $(document).ready(function() {
     ToC += newLine;
     count++;
   });
-  ToC += "</ul></div>";
+  ToC += "</ul>";
   if (count > 0) {
     $("#toc-menu").append(ToC);
   }
+  // - SCROLLSPY
+  $('body').scrollspy({ target: '#toc-menu' });
 
   // AFFIX SIDEBAR
   // #header-wrapper +31px
@@ -39,8 +39,11 @@ $(document).ready(function() {
       // }
     }
   });
+  // - Prevent width resize
+  $('#sidebar-box').width($('#sidebar-box').parent().width());
 
-  // MENU TOGGLE
+
+  // MENU TOGGLE ICON SWAP
   $('.menu-toggle').click(function() {
     $(this).find('.ss-icon').toggleClass("ss-navigatedown ss-navigateright");
     event.preventDefault();

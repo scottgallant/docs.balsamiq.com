@@ -333,8 +333,7 @@ html, body {
     #company-support-portal .local-nav #sidebar-box.affix {
       padding-top: 0;
       position: fixed;
-      top: 0;
-      width: auto !important; }
+      top: 0; }
   #company-support-portal .local-nav h3, #company-support-portal .local-nav h4, #company-support-portal .local-nav h5 {
     margin: 10px 0 10px 0;
     padding: 0;
@@ -381,17 +380,16 @@ html, body {
       #company-support-portal .local-nav ul li a {
         display: block;
         padding: 8px 0; }
-      #company-support-portal .local-nav ul li.selected a {
+      #company-support-portal .local-nav ul li.active a {
         color: #555;
-        font-weight: normal; }
-    #company-support-portal .local-nav ul > .active,
-    #company-support-portal .local-nav ul > .active:hover {
-      background: #0064AE !important; }
-    #company-support-portal .local-nav ul > .active > a,
-    #company-support-portal .local-nav ul > .active > a:hover,
-    #company-support-portal .local-nav ul > .active > a:focus {
-      color: #fff;
-      background-color: #0064AE !important; }
+        font-weight: bold; }
+      #company-support-portal .local-nav ul li:hover,
+      #company-support-portal .local-nav ul li.active,
+      #company-support-portal .local-nav ul li.active:hover,
+      #company-support-portal .local-nav ul li a,
+      #company-support-portal .local-nav ul li a:hover,
+      #company-support-portal .local-nav ul li a:focus {
+        background: none !important; }
   #company-support-portal .local-nav .collapsing {
     -webkit-transition: all 0.04s ease;
     transition: all 0.04s ease; }

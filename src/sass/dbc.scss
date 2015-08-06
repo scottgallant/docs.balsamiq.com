@@ -173,7 +173,7 @@ html,body {
         padding-top: 0;
         position: fixed;
         top: 0;
-        width: auto !important;
+        // width: auto !important;
         // @include transition(all, .6s, ease);
       }
     }
@@ -223,20 +223,20 @@ html,body {
           display: block;
           padding: 8px 0;
         }
-        &.selected a {
-          color: $grayverydark2;
-          font-weight: normal;
+        &.active {
+          a {
+            color: $grayverydark2;
+            font-weight: bold;
+          }
         }
-      }
-      & > .active,
-      & > .active:hover  {
-        background: $blue !important;
-      }
-      & > .active > a,
-      & > .active > a:hover,
-      & > .active > a:focus {
-        color: #fff;
-        background-color: $blue !important;
+        &:hover,
+        &.active,
+        &.active:hover,
+        a,
+        a:hover,
+        a:focus {
+          background: none !important;
+        }
       }
     }
     // Bootstrap Collapse Speed
