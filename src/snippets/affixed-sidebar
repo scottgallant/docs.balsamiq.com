@@ -1,3 +1,11 @@
+// - Simple Way
+//$('#sidebar-box').affix({
+//  offset: {
+//    top: $('#header-wrapper').outerHeight(true) + 31
+//  }
+//});
+
+// - With Bottom Stop
 // name your elements here
 var stickyElement   = '#sidebar-box',   // the element you want to make sticky
     bottomElement   = '#footer-wrapper'; // the bottom element where you want the sticky element to stop

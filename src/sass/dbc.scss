@@ -21,43 +21,6 @@ body {
 }
 
 // ========================================
-// 3 Col Layout full height
-// http://www.bootply.com/126437
-html,body {
-  height:100%;
-}
-.row-flex, .row-flex > div[class*='col-'] {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  flex:1 1 auto;
-}
-.row-flex-wrap {
-  -webkit-flex-flow: row wrap;
-  align-content: flex-start;
-  flex:0;
-}
-.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
- margin:-.2px; /* hack adjust for wrapping */
-}
-.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
-  width:100%;
-}
-.flex-col {
-  display: flex;
-  display: -webkit-flex;
-  flex: 1 100%;
-  flex-flow: column nowrap;
-}
-.flex-grow {
-  display: flex;
-  -webkit-flex: 2;
-  flex: 2;
-}
-
-// ========================================
 // DBC BODY
 // ========================================
 #company-support-portal {
@@ -96,7 +59,7 @@ html,body {
   // BODY WRAPPER
   #body-wrapper {
     margin-bottom: 0 !important;
-    padding-bottom: 140px;
+    padding-bottom: 166px;
   }
 
   // ========================================
@@ -195,6 +158,7 @@ html,body {
     border: none;
     #sidebar-box {
       padding-top: 31px;
+      padding-bottom: 36px;
       &.affix-top {
         position: relative;
       }
@@ -377,5 +341,11 @@ html,body {
 
 // ========================================
 }
+
+#footer-wrapper {
+  // border-top: 1px solid $gray;
+  background: $graylight;
+}
+
 // END DBC BODY
 // ========================================

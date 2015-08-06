@@ -194,59 +194,6 @@
 body {
   position: relative; }
 
-html, body {
-  height: 100%; }
-
-.row-flex, .row-flex > div[class*='col-'] {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 1 auto;
-      -ms-flex: 1 1 auto;
-          flex: 1 1 auto; }
-
-.row-flex-wrap {
-  -webkit-flex-flow: row wrap;
-  -webkit-align-content: flex-start;
-      -ms-flex-line-pack: start;
-          align-content: flex-start;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0;
-      -ms-flex: 0;
-          flex: 0; }
-
-.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
-  margin: -.2px;
-  /* hack adjust for wrapping */ }
-
-.container-flex > div[class*='col-'] div, .row-flex > div[class*='col-'] div {
-  width: 100%; }
-
-.flex-col {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  display: -webkit-flex;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 100%;
-      -ms-flex: 1 100%;
-          flex: 1 100%;
-  -webkit-flex-flow: column nowrap;
-      -ms-flex-flow: column nowrap;
-          flex-flow: column nowrap; }
-
-.flex-grow {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex: 2;
-  -webkit-box-flex: 2;
-      -ms-flex: 2;
-          flex: 2; }
-
 #company-support-portal #header-wrapper {
   background: #c00; }
   #company-support-portal #header-wrapper #site-nav {
@@ -277,7 +224,7 @@ html, body {
 
 #company-support-portal #body-wrapper {
   margin-bottom: 0 !important;
-  padding-bottom: 140px; }
+  padding-bottom: 166px; }
 
 #company-support-portal #body-header {
   width: 100%;
@@ -349,7 +296,8 @@ html, body {
   background: #fff;
   border: none; }
   #company-support-portal .local-nav #sidebar-box {
-    padding-top: 31px; }
+    padding-top: 31px;
+    padding-bottom: 36px; }
     #company-support-portal .local-nav #sidebar-box.affix-top {
       position: relative; }
     #company-support-portal .local-nav #sidebar-box.affix {
@@ -492,3 +440,6 @@ html, body {
     float: none; }
   #company-support-portal ul.tags > li:first-child {
     display: none; }
+
+#footer-wrapper {
+  background: #eee; }
