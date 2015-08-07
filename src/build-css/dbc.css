@@ -463,5 +463,7 @@ body {
   #company-support-portal ul.tags > li:first-child {
     display: none; }
 
-#company-support-portal #footer-wrapper .main {
-  padding-top: 12px; }
+#company-support-portal #footer-wrapper {
+  background: #fff; }
+  #company-support-portal #footer-wrapper .main {
+    padding-top: 12px; }

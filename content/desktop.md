@@ -3,7 +3,7 @@ date: "2015-05-09T16:46:35+02:00"
 draft: false
 title: "Mockups for Desktop Documentation"
 linktitle: 'desktop'
-weight: 0
+weight: 10
 ---
 
 The following articles describe the basic usage and features of **Balsamiq Mockups 3 for Desktop**. See [below for documentation on **myBalsamiq** and our other products](#more).

@@ -364,8 +364,11 @@ ul.tags {
 
 // ========================================
 // FOOTER
-#footer-wrapper .main {
-  padding-top: 12px;
+#footer-wrapper {
+  background: $white;
+  .main {
+    padding-top: 12px;
+  }
 }
 
 // ========================================
