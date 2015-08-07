@@ -37,34 +37,7 @@ docs.balsamiq.com
   * $ gulp js
 
 ### Running Gulp during development (LiveReload)
-* If you're working on SASS or JS, run gulp using watch to rebuild css/js files as you make changes to them.
+* If you're working on SASS or JS, run gulp using "watch" to rebuild css/js files as you make changes to them.
   * $ gulp watch dev
-* For SASS or JS only, just use these:
-  * $ gulp watch sass
-  * $ gulp watch js
 * If you think the balsamiq.com \_config.scss file has changed, you can copy a new version here before running the sass task.
   * $gulp getsassconfig  
-
-# TODO
-- [x] Generate nav
-- [x] Create balsamiq theme
-- [x] Figure out what leon wants to do with the IA
-- [x] Create Local Nav Top
-- [x] Set up gulp and document
-- [x] Create gulp JS tasks
-- [x] Create gulp CSS tasks
-- [x] Create gulp tasks to pull header/footer from balsamiq.com repo into partials
-- [x] Create Left Nav
-- [x] Create Right / In-Page Nav
-- [x] Get the JS to work in the Search box
-- [x] Make Sidebar Heading Styles the same
-- [x] Remove all of the # anchors
-- [x] Make Titles h1 and decrease headings below that
-- [x] Try to make the TOC a toggle to expand/collapse
-- [x] Get the equal column heights to 100%
-- [x] Try to make the TOC a toggle to expand/collapse
-- [x] Get the equal column heights to 100%
-- [x] Make the sidebar work when long
-- [x] Restyle Desktop article headings
-- [x] Prev/Next Links 
-- [ ] Create Overview pages based on Leon's IA
