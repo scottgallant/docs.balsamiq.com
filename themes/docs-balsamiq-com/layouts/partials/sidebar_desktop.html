@@ -1,7 +1,7 @@
 {{ $currentNode := . }}
 {{ range .Site.Menus.menudesktop }}
     {{ if .HasChildren }}
-  <h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i></a> <a href="/desktop">Mockups for Desktop</a></h5>
+  <h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> Mockups for Desktop</a></h5>
   <ul id="doc-menu" class="collapse">
     {{ range .Children }}
     <li {{if $currentNode.IsMenuCurrent "menudesktop" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }}</a></li>

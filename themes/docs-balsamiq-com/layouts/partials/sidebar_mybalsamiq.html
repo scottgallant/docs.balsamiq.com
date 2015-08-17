@@ -1,10 +1,10 @@
 {{ $currentNode := . }}
 {{ range .Site.Menus.menumybalsamiq }}
     {{ if .HasChildren }}
-  <h5><a href="/mybalsamiq">myBalsamiq</a></h5>
+  <h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> myBalsamiq</a></h5>
   <ul>
       {{ range .Children }}
-      <li{{if $currentNode.IsMenuCurrent "menumybalsamiq" . }} class="selected"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+      <li{{if $currentNode.IsMenuCurrent "menumybalsamiq" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
       {{ end }}
   </ul>
 {{else}}

@@ -14,7 +14,7 @@
         <h1>{{ .Title }}</h1>
       </div>
       <ul id="list">
-      {{ range .Paginator.Pages }}
+      {{ range .Paginator.Pages.ByWeight.Reverse }}
         {{ .Render "li"}}
       {{ end }}
       </ul>

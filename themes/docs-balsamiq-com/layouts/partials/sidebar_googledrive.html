@@ -1,10 +1,10 @@
 {{ $currentNode := . }}
 {{ range .Site.Menus.menugoogledrive }}
     {{ if .HasChildren }}
-  <h5><a href="/google-drive">Google Drive</a></h5>
+  <h5>Google Drive</h5>
   <ul>
       {{ range .Children }}
-      <li{{if $currentNode.IsMenuCurrent "menugoogledrive" . }} class="selected"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+      <li{{if $currentNode.IsMenuCurrent "menugoogledrive" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
       {{ end }}
   </ul>
 {{else}}
