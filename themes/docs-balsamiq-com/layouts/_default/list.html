@@ -1,4 +1,6 @@
 {{ partial "header.html" . }}
+{{ partial "new-styles.html" . }}
+
 
 {{/* ======================================== */}}
 {{/* BODY MAIN */}}
@@ -11,13 +13,16 @@
   <div class="col-sm-8 doc-main">
     <main role="main">
       <div class="doc-list-header">
-        <h1>{{ .Title }}</h1>
+        <h1>{{ .Title }} Documentation</h1>
       </div>
       <ul id="list">
       {{ range .Paginator.Pages.ByWeight.Reverse }}
         {{ .Render "li"}}
       {{ end }}
       </ul>
+    {{ if eq .Title "Desktop" }}
+      {{ partial "desktop_faqs.html" . }}
+    {{ end }}     
     </main>
   </div> <!-- /.doc-main -->
 

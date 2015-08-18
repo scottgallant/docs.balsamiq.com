@@ -1,61 +1,81 @@
 {{/* MAIN PAGE TEMPLATE */}}
 {{ partial "header.html" . }}
+{{ partial "new-styles.html" . }}
 
 {{/* ======================================== */}}
 {{/* BODY MAIN */}}
 <div id="body-main" class="home">
-  <div class="container-fluid">
+  <div class="container">
 {{/* ======================================== */}}
 
 {{/* 1. SEARCH & CONTACT */}}
 <div class="row">
-  <div class="col-sm-12 col-md-8">
-    Help Us Help You
+<h2 class="text-center">You've got questions. We've got answers.</h2>
+  <div class="col-md-12">
+<form>
+  <div class="form-group">
+    <label for="search">Search</label>
+   <input class="form-control" type="text" id="search" placeholder="Search our documentation and FAQs">
   </div>
-  <div class="col-sm-12 col-md-4">
-    Contact
+</form>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <span><strong>Popular articles:</strong> <a href="#">Introduction to Balsamiq Mockups 3</a>, <a href="#">Balsamiq Mockups 3 Transition Guide</a>, <a href="#">Mockups Application Overview</a>, <a href="#">Working with Symbols</a></span>
   </div>
 </div>
 
 <hr>
 
 {{/* 2. */}}
-<div class="row">
-  <div class="col-sm-12 col-md-8">
 <!--     Product Documentation -->
-<div class="col-xs-24 col-sm-8 prod-core mockups">
-        <a class="button submit clearfix" href="http://support.balsamiq.com/customer/portal/articles/127377"><img src="http://media.balsamiq.com/img/appicon/mockups-nobg.png"><span>Mockups 3 for Desktop</span></a>
-      </div>
-<div class="col-xs-24 col-sm-8 prod-core myb">
-        <a class="button submit clearfix" href="http://support.balsamiq.com/customer/portal/articles/127531"><img src="http://media.balsamiq.com/img/appicon/mybalsamiq-nobg.png"><span>myBalsamiq</span></a><p></p>
-      </div>
-      <div class="col-xs-24 col-sm-8 last prod-plugins">
-        <a class="button" href="http://support.balsamiq.com/customer/portal/articles/1559682"><img src="http://media.balsamiq.com/img/appicon/gdrive-nobg.png"><span>Google Drive</span></a>
-        <a class="button" href="http://support.balsamiq.com/customer/portal/articles/113837"><img src="http://media.balsamiq.com/img/appicon/confluence-nobg.png"><span>Confluence</span></a>
-        <a class="button" href="http://support.balsamiq.com/customer/portal/articles/113842"><img src="http://media.balsamiq.com/img/appicon/jira-nobg.png"><span>JIRA</span></a>
-      </div>
-<!--
-    <ul>
-      <li><a href="desktop/">Mockups for Desktop</a></li>
-      <li><a href="mybalsamiq/">myBalsamiq</a></li>
-      <li><a href="google-drive/">Google Drive</a></li>
-      <li><a href="jira/">JIRA</a></li>
-      <li><a href="confluence/">Confluence</a></li>
-    </ul>
--->
+<div class="container">
+<div class="row">
+<h2 class="text-center">Product Documentation</h2>
+  <div class="col-xs-12 col-md-6">
+    <a href="desktop/" class="btn btn-default btn-lg btn-block featured"><img src="https://media.balsamiq.com/images/ico-desktop.png"> Mockups for Desktop</a>
+    <p class="text-center">Our original, stand-alone desktop version</p>
   </div>
-  <div class="col-sm-12 col-md-4">
-    Troubleshooting
+  <div class="col-xs-12 col-md-6">
+    <a href="mybalsamiq/" class="btn btn-default btn-lg btn-block featured"><img src="https://media.balsamiq.com/images/ico-myb.png"> myBalsamiq</a>
+    <p class="text-center">Our hosted web-based version</p>
   </div>
 </div>
-
+<div class="row">
+  <div class="col-xs-12 col-md-4">
+    <a href="google-drive/user-guide/" class="btn btn-default btn-lg btn-block"><img src="https://media.balsamiq.com/images/m4gdrive.gif"> Google Drive</a>
+<p class="text-center">Our <a href="https://www.google.com/drive/">Google Drive</a> App</p>
+  </div>
+  <div class="col-xs-12 col-md-4">
+    <a href="confluence/user-guide/" class="btn btn-default btn-lg btn-block"><img src="https://media.balsamiq.com/images/m4confluence.gif"> Confluence</a>
+<p class="text-center">Our plugin version for <a href="https://www.atlassian.com/software/confluence">Atlassian Confluence</a></p>
+  </div>
+  <div class="col-xs-12 col-md-4">
+    <a href="jira/user-guide/" class="btn btn-default btn-lg btn-block"><img src="https://media.balsamiq.com/images/m4jira.gif"> JIRA</a>
+<p class="text-center">Our plugin version for <a href="https://www.atlassian.com/software/jira">Atlassian JIRA</a></p>
+  </div>
+</div>
 <hr>
 
 {{/* */}}
-<div class="row">
-  <div class="col-xs-12">
-    Resources and Community
+<div class="row more">
+<h2 class="text-center">More Resources</h2>
+  <div class="col-xs-12 col-md-4">
+        <a href="/" class="btn btn-default btn-lg btn-block"><i class="ss-icon">&#xE673;</i> Tutorials</a>
+        <p class="text-center">Videos and step-by-step guides</p>
+    </div>
+  <div class="col-xs-12 col-md-4">
+    <a href="http://uxapprentice.com/" class="btn btn-default btn-lg btn-block"><i class="ss-icon">&#xF4C0;</i> UX Apprentice</a>
+    <p class="text-center">Learn UX design basics</p>
+</div>
+  <div class="col-xs-12 col-md-4 panel panel-default">
+  <div class="panel-body">
+  <h3 class="text-center">Need help?</h3>
+  <p class="text-center">Try our <strong><a href="#">Support site</a></strong> for answers about <a href="#">licensing and purchasing</a>, <a href="#">installation and updating</a>, and more.</p>
   </div>
+  </div>
+</div>
 </div>
 
 {{/* ======================================== */}}
