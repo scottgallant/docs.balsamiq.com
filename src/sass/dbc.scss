@@ -403,6 +403,7 @@ ul.tags {
   > li {
     color: $graydark !important;
     @include fontsize(14,14);
+    margin-left: 0;
     margin-right: 3px;
     border: 1px solid $graymed;
     border-radius: 15px;
