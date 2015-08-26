@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main">
+  <div class="container-fluid">
+{{/* ======================================== */}}
+
+<div class="row">
+
+  <div class="col-xs-12">
+    <div id="support-main">
+      <div class="support-body tag-listing">
+
+      <h2>{{ .Title }}</h2>
+
+      <section class="article-list">
+
+          {{ range .Data.Pages }}
+          {{ .Render "li"}}
+          <li><a href="/tags">Browse All Tags...</a></li>
+          {{ end }}
+
+      </section>
+
+      </div><!-- /.support-body -->
+    </div><!-- /#support-main -->
+  </div>{{/* /.col */}}
+
+</div>{{/* /.row */}}
+
+{{/* ======================================== */}}
+  </div>
+</div>
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
+
+{{ partial "footer.html" . }}
