@@ -2,7 +2,6 @@
 date: 2015-07-30T15:52:20-07:00
 draft: false
 title: "Confluence User Guide"
-linktitle: "confluence-user-guide"
 menu:
   menuconfluence:
     parent: confluence
