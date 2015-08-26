@@ -14,10 +14,12 @@
 
 <h1>Tags</h1>
 
-<ul class="tags">
+<ul class="tags listing">
 {{ $data := .Data }}
 {{ range $key, $value := .Data.Terms.Alphabetical }}
-  <li><a href="/tags/{{ $value.Name | urlize }}">{{ $value.Name }}</a> <span class="tag-count">{{ $value.Count }}</span></li>
+  <li><a href="/tags/{{ $value.Name | urlize }}">
+    <span class="tag-name">{{ $value.Name }}</span> 
+    <span class="tag-count">{{ $value.Count }}</span></a></li>
 {{ end }}
 </ul>
 

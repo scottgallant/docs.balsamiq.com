@@ -391,8 +391,6 @@ body {
     transition: all 0.04s ease; }
 
 #company-support-portal .doc-overview ul {
-  padding-left: 5px;
-  list-style: circle inside;
   padding-bottom: 12px;
   padding-top: 12px; }
   #company-support-portal .doc-overview ul#list {
@@ -484,26 +482,21 @@ body {
       text-align: right; }
 
 #company-support-portal ul.tags.listing {
-  text-align: left;
-  -webkit-column-count: 3;
-  -moz-column-count: 3;
-  -ms-column-count: 3;
-  -o-column-count: 3;
-  column-count: 3;
-  -webkit-column-gap: 15px;
-  -moz-column-gap: 15px;
-  -ms-column-gap: 15px;
-  -o-column-gap: 15px;
-  column-gap: 15px;
-  -webkit-columns: 3;
-     -moz-columns: 3;
-          columns: 3; }
+  -webkit-column-width: 370px;
+     -moz-column-width: 370px;
+          column-width: 370px; }
   #company-support-portal ul.tags.listing > li {
-    color: #999;
-    margin: 0 5px 5px 0;
+    margin: 0 9px 9px 0;
     display: inline-block;
     width: 100%;
-    float: none; }
+    float: none;
+    background: #eee; }
+    #company-support-portal ul.tags.listing > li a {
+      display: block; }
+    #company-support-portal ul.tags.listing > li .tag-count {
+      display: inline-block;
+      float: right;
+      color: #bbb; }
   #company-support-portal ul.tags.listing > li:first-child {
     display: none; }
 
@@ -522,6 +515,7 @@ body {
     #company-support-portal ul.tags > li:last-child {
       margin-right: 0px; }
   #company-support-portal ul.tags > li {
+    color: #999 !important;
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 14px;
@@ -532,15 +526,25 @@ body {
     #company-support-portal ul.tags > li a {
       display: inline-block;
       padding: 5px 10px;
-      color: #bbb !important;
+      color: #999 !important;
       text-decoration: none; }
     #company-support-portal ul.tags > li:hover {
       background: #bbb; }
       #company-support-portal ul.tags > li:hover a {
         text-decoration: none;
         color: #fff !important; }
+        #company-support-portal ul.tags > li:hover a span {
+          color: #fff !important; }
 
 #company-support-portal #footer-wrapper {
   background: #fff; }
   #company-support-portal #footer-wrapper .main {
     padding-top: 12px; }
+  #company-support-portal #footer-wrapper ul li:first-child {
+    margin-left: 0; }
+
+#company-support-portal ul {
+  padding-left: 0;
+  list-style-type: circle; }
+  #company-support-portal ul li {
+    margin-left: 1.25em; }
