@@ -12,7 +12,34 @@
 // HOME
 #body-main.home {
   padding-top: 36px;
+  h2 {
+    margin-bottom: 1em;
+  }
+  .panel-default {
+    background-color: $graylight;
+    border-radius: 3px;
+  }
+  a.btn {
+    text-decoration: none;
+  }
+  a.btn-lg {
+    border: 1px solid #C00;
+    border-radius: 3px;
+    padding: 1em .5em;
+    /*   margin-bottom: 2em; */
+    margin-bottom: 5px;
+    text-decoration: none;
+    &.featured {
+      background-color: #FCC;
+    }
+    &:hover {
+      background-color: #C00;
+      color: #FFF;
+      text-decoration: none;
+    }
+  }
 }
+
 
 // ========================================
 // DOCUMENTATION

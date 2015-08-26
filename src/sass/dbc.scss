@@ -248,6 +248,32 @@ body {
 // END DBC SIDE COLUMN
 // ========================================
 
+
+// ========================================
+// DOC OVERVIEW PAGES
+.doc-overview {
+  // ========================================
+  ul {
+    padding-left: 5px;
+    list-style: circle inside;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    &#list {
+     column-width: 370px;
+     li .ss-icon {
+       color: $grayverydark;
+     }
+    }
+    &.faq-list {
+     column-width: 590px;
+    }
+    &.faq-list li, &#list li {
+      line-height: 24px;
+      padding-bottom: 18px;
+    }
+  }
+}
+
 // ========================================
 // DBC Main Column
 #support-main {
@@ -264,8 +290,11 @@ body {
     font-weight: normal;
     color: $grayverydark;
   }
-  h2, h3, h4, h5, h6 {
+  h2 {
     color: $grayverydark;
+  }
+  h3, h4, h5, h6 {
+    color: $grayverydark2;
   }
   h2 {
     @include fontsize (28, 28);
@@ -275,6 +304,13 @@ body {
     @include fontsize (21, 21);
     font-weight: normal;
   }
+
+  h3 {
+    color: #292E31;
+    font-size: 24px;
+    margin-top: 0;
+  }
+
   h4 {
     @include fontsize (18, 18);
   }
@@ -285,20 +321,21 @@ body {
   img {
     max-width: 100%;
   }
-  #page-topic ul li {
-    margin-bottom: 1em;
-  }
-
-  #support-main a, .local-nav a {
+  a, .local-nav a {
     color: #0064AE;
   }
   a.fb img,
-  #support-main img {
+  img {
     margin-bottom: 12px;
   }
-  #support-main object,
-  #support-main iframe {
+  object,
+  iframe {
     margin-bottom: 12px;
+  }
+
+  // TOPIC?
+  #page-topic ul li {
+    margin-bottom: 1em;
   }
 
   // ARTICLES
@@ -336,7 +373,7 @@ body {
 // ========================================
 
 // Tags Listing
-ul.tags {
+ul.tags.listing {
   text-align: left;
   -webkit-column-count:3;
   -moz-column-count:3;
@@ -350,7 +387,6 @@ ul.tags {
   column-gap:15px;
   columns:3;
   > li {
-   font-size: 16px;
    color: #999;
    margin: 0 5px 5px 0;
    display: inline-block;
@@ -360,6 +396,33 @@ ul.tags {
   > li:first-child {
    display: none;
  }
+}
+// Tags in Single
+.tag-box {
+  text-align: center;
+}
+ul.tags {
+  display: inline-block;
+  @include navigation-list();
+  > li {
+    @include fontsize(14,14);
+    margin-right: 3px;
+    border: 1px solid $graymed;
+    border-radius: 15px;
+    a {
+      display: inline-block;
+      padding: 5px 10px;
+      color: $graymed !important;
+      text-decoration: none;
+    }
+    &:hover {
+      background: $graymed;
+      a {
+        text-decoration: none;
+        color: $white !important;;
+      }
+    }
+  }
 }
 
 // ========================================

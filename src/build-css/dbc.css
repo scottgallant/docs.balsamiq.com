@@ -10,6 +10,26 @@
 */
 #company-support-portal #body-main.home {
   padding-top: 36px; }
+  #company-support-portal #body-main.home h2 {
+    margin-bottom: 1em; }
+  #company-support-portal #body-main.home .panel-default {
+    background-color: #eee;
+    border-radius: 3px; }
+  #company-support-portal #body-main.home a.btn {
+    text-decoration: none; }
+  #company-support-portal #body-main.home a.btn-lg {
+    border: 1px solid #C00;
+    border-radius: 3px;
+    padding: 1em 0.5em;
+    /*   margin-bottom: 2em; */
+    margin-bottom: 5px;
+    text-decoration: none; }
+    #company-support-portal #body-main.home a.btn-lg.featured {
+      background-color: #FCC; }
+    #company-support-portal #body-main.home a.btn-lg:hover {
+      background-color: #C00;
+      color: #FFF;
+      text-decoration: none; }
 
 #company-support-portal #support-documentation {
   margin-bottom: 10px; }
@@ -370,6 +390,25 @@ body {
     -webkit-transition: all 0.04s ease;
     transition: all 0.04s ease; }
 
+#company-support-portal .doc-overview ul {
+  padding-left: 5px;
+  list-style: circle inside;
+  padding-bottom: 12px;
+  padding-top: 12px; }
+  #company-support-portal .doc-overview ul#list {
+    -webkit-column-width: 370px;
+       -moz-column-width: 370px;
+            column-width: 370px; }
+    #company-support-portal .doc-overview ul#list li .ss-icon {
+      color: #666; }
+  #company-support-portal .doc-overview ul.faq-list {
+    -webkit-column-width: 590px;
+       -moz-column-width: 590px;
+            column-width: 590px; }
+  #company-support-portal .doc-overview ul.faq-list li, #company-support-portal .doc-overview ul#list li {
+    line-height: 24px;
+    padding-bottom: 18px; }
+
 #company-support-portal #support-main {
   /* image alignment in articles */ }
   #company-support-portal #support-main .support-body {
@@ -385,8 +424,10 @@ body {
     line-height: 3.6rem;
     font-weight: normal;
     color: #666; }
-  #company-support-portal #support-main h2, #company-support-portal #support-main h3, #company-support-portal #support-main h4, #company-support-portal #support-main h5, #company-support-portal #support-main h6 {
+  #company-support-portal #support-main h2 {
     color: #666; }
+  #company-support-portal #support-main h3, #company-support-portal #support-main h4, #company-support-portal #support-main h5, #company-support-portal #support-main h6 {
+    color: #555; }
   #company-support-portal #support-main h2 {
     font-size: 28px;
     font-size: 2.8rem;
@@ -399,6 +440,10 @@ body {
     line-height: 21px;
     line-height: 2.1rem;
     font-weight: normal; }
+  #company-support-portal #support-main h3 {
+    color: #292E31;
+    font-size: 24px;
+    margin-top: 0; }
   #company-support-portal #support-main h4 {
     font-size: 18px;
     font-size: 1.8rem;
@@ -411,16 +456,16 @@ body {
     line-height: 1.6rem; }
   #company-support-portal #support-main img {
     max-width: 100%; }
-  #company-support-portal #support-main #page-topic ul li {
-    margin-bottom: 1em; }
-  #company-support-portal #support-main #support-main a, #company-support-portal #support-main .local-nav a {
+  #company-support-portal #support-main a, #company-support-portal #support-main .local-nav a {
     color: #0064AE; }
   #company-support-portal #support-main a.fb img,
-  #company-support-portal #support-main #support-main img {
+  #company-support-portal #support-main img {
     margin-bottom: 12px; }
-  #company-support-portal #support-main #support-main object,
-  #company-support-portal #support-main #support-main iframe {
+  #company-support-portal #support-main object,
+  #company-support-portal #support-main iframe {
     margin-bottom: 12px; }
+  #company-support-portal #support-main #page-topic ul li {
+    margin-bottom: 1em; }
   #company-support-portal #support-main #page-article .content.article img {
     display: block;
     margin-left: auto;
@@ -438,7 +483,7 @@ body {
     #company-support-portal #support-main .section-pager .section-next {
       text-align: right; }
 
-#company-support-portal ul.tags {
+#company-support-portal ul.tags.listing {
   text-align: left;
   -webkit-column-count: 3;
   -moz-column-count: 3;
@@ -453,15 +498,47 @@ body {
   -webkit-columns: 3;
      -moz-columns: 3;
           columns: 3; }
-  #company-support-portal ul.tags > li {
-    font-size: 16px;
+  #company-support-portal ul.tags.listing > li {
     color: #999;
     margin: 0 5px 5px 0;
     display: inline-block;
     width: 100%;
     float: none; }
-  #company-support-portal ul.tags > li:first-child {
+  #company-support-portal ul.tags.listing > li:first-child {
     display: none; }
+
+#company-support-portal .tag-box {
+  text-align: center; }
+
+#company-support-portal ul.tags {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden; }
+  #company-support-portal ul.tags > li {
+    display: block;
+    float: left; }
+    #company-support-portal ul.tags > li:last-child {
+      margin-right: 0px; }
+  #company-support-portal ul.tags > li {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 14px;
+    line-height: 1.4rem;
+    margin-right: 3px;
+    border: 1px solid #bbb;
+    border-radius: 15px; }
+    #company-support-portal ul.tags > li a {
+      display: inline-block;
+      padding: 5px 10px;
+      color: #bbb !important;
+      text-decoration: none; }
+    #company-support-portal ul.tags > li:hover {
+      background: #bbb; }
+      #company-support-portal ul.tags > li:hover a {
+        text-decoration: none;
+        color: #fff !important; }
 
 #company-support-portal #footer-wrapper {
   background: #fff; }
