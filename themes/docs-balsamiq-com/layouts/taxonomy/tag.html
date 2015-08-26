@@ -15,12 +15,10 @@
       <h1>Tag: {{ .Title }}</h1>
 
       <ul>
-
-          {{ range .Data.Pages }}
-          {{ .Render "li"}}
-          <li><a href="/tags/">Browse All Tags...</a></li>
-          {{ end }}
-
+        {{ range .Data.Pages }}
+        {{ .Render "li"}}
+        {{ end }}
+        <li><a href="/tags/">Browse All Tags...</a></li>
       </ul>
 
       </div><!-- /.support-body -->
