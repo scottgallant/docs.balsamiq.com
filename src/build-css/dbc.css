@@ -73,8 +73,6 @@ $linkcolorhover: $orange;
     border: 2px solid #eee; }
     #company-support-portal #home-search #search:focus {
       border-color: #3975a4; }
-  #company-support-portal #home-search p {
-    margin-bottom: 2em; }
 
 #company-support-portal #documentation {
   margin-top: 24px; }
@@ -158,6 +156,8 @@ $linkcolorhover: $orange;
 #company-support-portal #resources {
   margin-top: 24px;
   margin-bottom: 48px; }
+  #company-support-portal #resources .ss-icon {
+    color: #555; }
 
 #company-support-portal #page-index.container {
   margin-top: 0; }
@@ -188,8 +188,16 @@ $linkcolorhover: $orange;
 body {
   position: relative; }
 
-.container-fluid {
+#company-support-portal .container-fluid.fluid-max {
   max-width: 1300px; }
+
+#company-support-portal.desktop #gnav li#gnav-desktop a,
+#company-support-portal.mybalsamiq #gnav li#gnav-mybalsamiq a,
+#company-support-portal.confluence #gnav li#gnav-plugins > a,
+#company-support-portal.jira #gnav li#gnav-plugins > a,
+#company-support-portal.google-drive #gnav li#gnav-plugins > a {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 3px; }
 
 #company-support-portal #header-wrapper {
   background: #c00; }
@@ -268,14 +276,6 @@ body {
     list-style-type: none;
     display: inline; }
 
-#company-support-portal #body-main {
-  position: relative;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-top: 0;
-  padding-bottom: 0;
-  background-image: none; }
-
 #company-support-portal .local-nav {
   background: #fff;
   border: none; }
@@ -299,7 +299,7 @@ body {
     font-weight: normal;
     color: #292E31; }
     #company-support-portal .local-nav h3 a, #company-support-portal .local-nav h4 a, #company-support-portal .local-nav h5 a {
-      color: #292E31; }
+      color: #292E31 !important; }
   #company-support-portal .local-nav h5 {
     margin-left: 16px; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
@@ -339,7 +339,7 @@ body {
         display: block;
         padding: 6px 0; }
       #company-support-portal .local-nav ul li.active a {
-        color: #555;
+        color: #292E31 !important;
         font-weight: bold; }
       #company-support-portal .local-nav ul li:hover,
       #company-support-portal .local-nav ul li.active,
@@ -370,9 +370,12 @@ body {
     padding-bottom: 18px; }
 
 #company-support-portal #body-main {
-  /* image alignment in articles */ }
-  #company-support-portal #body-main .support-body {
-    background: #fff; }
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-image: none; }
   #company-support-portal #body-main h1 {
     margin-top: 36px;
     margin-bottom: .5em;
@@ -524,22 +527,7 @@ body {
   border-left: 6px solid transparent;
   content: ''; }
 
-#company-support-portal ul {
-  padding-left: 0;
-  list-style-type: circle; }
-  #company-support-portal ul li {
-    margin-left: 1.25em; }
-
-#company-support-portal .uppercase {
-  text-transform: uppercase; }
-
-#company-support-portal .bold {
-  font-weight: bold; }
-
-#company-support-portal .red {
-  color: #c00 !important; }
-
-body#company-support-portal #design-select {
+#company-support-portal #design-select {
   position: absolute;
   top: 0;
   right: 18px;
@@ -553,45 +541,70 @@ body#company-support-portal #design-select {
   line-height: 1.8rem;
   border-radius: 0 0 5px 5px;
   color: #fff; }
-  body#company-support-portal #design-select a {
+  #company-support-portal #design-select a {
     color: #fff;
     font-weight: bold;
     cursor: pointer; }
 
-body#company-support-portal.design-2 {
+#company-support-portal.design-2 {
   border-top: 3px solid #c00; }
-  body#company-support-portal.design-2 #header-wrapper {
+  #company-support-portal.design-2 #header-wrapper {
     background: #fff;
     border-bottom: 1px solid #ddd; }
-    body#company-support-portal.design-2 #header-wrapper #site-nav a {
+    #company-support-portal.design-2 #header-wrapper #site-nav a {
       color: #c00 !important; }
-    body#company-support-portal.design-2 #header-wrapper a {
+    #company-support-portal.design-2 #header-wrapper a {
       color: #c00 !important; }
-    body#company-support-portal.design-2 #header-wrapper #header #gnav a.gnava {
+    #company-support-portal.design-2 #header-wrapper #header #gnav a.gnava {
       text-shadow: none; }
-      body#company-support-portal.design-2 #header-wrapper #header #gnav a.gnava:hover {
+      #company-support-portal.design-2 #header-wrapper #header #gnav a.gnava:hover {
         background: rgba(0, 0, 0, 0.05); }
-    body#company-support-portal.design-2 #header-wrapper #header #gnav #gnav-download {
-      border-left: 1px solid #ddd;
-      margin-left: 3px;
-      padding-left: 3px; }
-    body#company-support-portal.design-2 #header-wrapper #search .search #s, body#company-support-portal.design-2 #header-wrapper #search .search #ss {
+    @media only screen and (min-width: 768px) {
+      #company-support-portal.design-2 #header-wrapper #header #gnav #gnav-download {
+        border-left: 1px solid #ddd;
+        margin-left: 3px;
+        padding-left: 3px; } }
+    @media (smmin: 0) {
+      #company-support-portal.design-2 #header-wrapper #header #gnav #gnav-download {
+        border-left: 1px solid #ddd;
+        margin-left: 3px;
+        padding-left: 3px; } }
+    #company-support-portal.design-2 #header-wrapper #header #rmenu .icon-bar {
+      background: #c00; }
+    #company-support-portal.design-2 #header-wrapper #search .search #s, #company-support-portal.design-2 #header-wrapper #search .search #ss {
       border: 1px solid #ddd; }
-    body#company-support-portal.design-2 #header-wrapper #search .search #ss {
+    #company-support-portal.design-2 #header-wrapper #search .search #ss {
       border-left: none; }
 
-body#company-support-portal.design-3 {
+#company-support-portal.design-3 {
   border-top: 3px solid #c00; }
-  body#company-support-portal.design-3 #header-wrapper {
-    background: #F0F0F0;
-    border-bottom: 1px solid #eee; }
-    body#company-support-portal.design-3 #header-wrapper a {
+  #company-support-portal.design-3 #header-wrapper {
+    background: #eee;
+    border-bottom: 1px solid #ddd; }
+    #company-support-portal.design-3 #header-wrapper a {
       color: #c00 !important; }
-    body#company-support-portal.design-3 #header-wrapper #header #gnav a.gnava {
+    #company-support-portal.design-3 #header-wrapper #header #gnav a.gnava {
       text-shadow: none; }
-      body#company-support-portal.design-3 #header-wrapper #header #gnav a.gnava:hover {
+      #company-support-portal.design-3 #header-wrapper #header #gnav a.gnava:hover {
         background: rgba(0, 0, 0, 0.05); }
-    body#company-support-portal.design-3 #header-wrapper #search .search #s, body#company-support-portal.design-3 #header-wrapper #search .search #ss {
+    #company-support-portal.design-3 #header-wrapper #search .search #s, #company-support-portal.design-3 #header-wrapper #search .search #ss {
       border: 1px solid #ddd; }
-    body#company-support-portal.design-3 #header-wrapper #search .search #ss {
+    #company-support-portal.design-3 #header-wrapper #search .search #ss {
       border-left: none; }
+  #company-support-portal.design-3 .home #home-search {
+    background: #fff !important; }
+
+ul {
+  padding-left: 0;
+  list-style-type: circle; }
+  ul li {
+    margin-left: 1.25em; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.bold {
+  font-weight: bold; }
+
+.red {
+  color: #c00 !important; }

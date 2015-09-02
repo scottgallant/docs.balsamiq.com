@@ -21,28 +21,28 @@
           <!-- GNAV -->
           <div class="collapse navbar-collapse" id="gnav">
             <ul class="menubar gnav nav navbar">
-              <li id="gnav-">
-                <a href="/desktop/" class="gnava">Desktop</a>
+              <li id="gnav-desktop">
+                <a href="{{ .Site.BaseUrl }}/desktop/" class="gnava">Desktop</a>
               </li>
-              <li id="gnav-">
-                <a href="/mybalsamiq/" class="gnava">myBalsamiq</a>
+              <li id="gnav-mybalsamiq">
+                <a href="{{ .Site.BaseUrl }}/mybalsamiq/" class="gnava">myBalsamiq</a>
               </li>
-              <li id="gnav-">
+              <li id="gnav-plugins">
                 <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Plugins <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
                 <ul class="dropdown-menu nav" aria-labelledby="dDocs">
-                  <li><a href="/confluence/user-guide/">Mockups for Confluence</a></li>
-                  <li><a href="/jira/user-guide/">Mockups for JIRA</a></li>
-                  <li><a href="/google-drive/user-guide/">Mockups for Google Drive</a></li>
+                  <li><a href="{{ .Site.BaseUrl }}/confluence/user-guide/">Mockups for Confluence</a></li>
+                  <li><a href="{{ .Site.BaseUrl }}/jira/user-guide/">Mockups for JIRA</a></li>
+                  <li><a href="{{ .Site.BaseUrl }}/google-drive/user-guide/">Mockups for Google Drive</a></li>
                 </ul>
               </li>
               <li id="gnav-download">
-                <a href="/download/" class="gnava">Download</a>
+                <a href="https://balsamiq.com/download/" class="gnava">Download</a>
               </li>
               <li id="gnav-buy">
-                <a href="/buy/" class="gnava">Buy</a>
+                <a href="https://balsamiq.com/buy/" class="gnava">Buy</a>
               </li>
               <li id="gnav-search" class="visible-xs visible-sm">
-                <a href="/search/" class="gnava"><i class="ss-icon">&#x1F50E;</i></a>
+                <a href="{{ .Site.BaseUrl }}" class="gnava"><i class="ss-icon">&#x1F50E;</i></a>
               </li>
               <li id="gnav-search-form" class="hidden-xs hidden-sm last">
                 <!-- SEARCH -->

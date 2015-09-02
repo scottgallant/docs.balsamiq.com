@@ -111,4 +111,8 @@ $(document).ready(function() {
     return false;
   });
 
+  // SET GNAV
+  var navsect = window.location.href.split('/');
+  $("body").addClass(navsect[3]);
+
 });
