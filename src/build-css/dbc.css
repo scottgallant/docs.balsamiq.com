@@ -11,8 +11,7 @@
 #company-support-portal #body-main.home {
   padding-top: 36px; }
   #company-support-portal #body-main.home h2 {
-    margin-bottom: 1em;
-    font-weight: normal; }
+    margin-bottom: 1em; }
   #company-support-portal #body-main.home .panel-default {
     background-color: #eee;
     border-radius: 3px; }
@@ -396,11 +395,11 @@ body {
     line-height: 24px;
     padding-bottom: 18px; }
 
-#company-support-portal #support-main {
+#company-support-portal #body-main {
   /* image alignment in articles */ }
-  #company-support-portal #support-main .support-body {
+  #company-support-portal #body-main .support-body {
     background: #fff; }
-  #company-support-portal #support-main h1 {
+  #company-support-portal #body-main h1 {
     margin-top: 36px;
     margin-bottom: .5em;
     padding-bottom: .5em;
@@ -411,62 +410,58 @@ body {
     line-height: 3.6rem;
     font-weight: normal;
     color: #666; }
-  #company-support-portal #support-main h2 {
-    color: #666; }
-  #company-support-portal #support-main h3, #company-support-portal #support-main h4, #company-support-portal #support-main h5, #company-support-portal #support-main h6 {
+  #company-support-portal #body-main h2, #company-support-portal #body-main h3, #company-support-portal #body-main h4, #company-support-portal #body-main h5, #company-support-portal #body-main h6 {
     color: #555; }
-  #company-support-portal #support-main h2 {
+  #company-support-portal #body-main h2 {
     font-size: 28px;
     font-size: 2.8rem;
     line-height: 28px;
     line-height: 2.8rem;
     font-weight: normal; }
-  #company-support-portal #support-main h3 {
+  #company-support-portal #body-main h3 {
     font-size: 21px;
     font-size: 2.1rem;
     line-height: 21px;
     line-height: 2.1rem;
     font-weight: normal; }
-  #company-support-portal #support-main h3 {
-    font-size: 24px;
-    margin-top: 0; }
-  #company-support-portal #support-main h4 {
+  #company-support-portal #body-main h4 {
     font-size: 18px;
     font-size: 1.8rem;
     line-height: 18px;
-    line-height: 1.8rem; }
-  #company-support-portal #support-main h5 {
+    line-height: 1.8rem;
+    font-weight: normal; }
+  #company-support-portal #body-main h5 {
     font-size: 16px;
     font-size: 1.6rem;
     line-height: 16px;
     line-height: 1.6rem; }
-  #company-support-portal #support-main img {
+  #company-support-portal #body-main img {
     max-width: 100%; }
-  #company-support-portal #support-main a, #company-support-portal #support-main .local-nav a {
+  #company-support-portal #body-main a, #company-support-portal #body-main .local-nav a {
     color: #0064AE; }
-  #company-support-portal #support-main a.fb img,
-  #company-support-portal #support-main img {
+  #company-support-portal #body-main a.fb img,
+  #company-support-portal #body-main img {
     margin-bottom: 12px; }
-  #company-support-portal #support-main object,
-  #company-support-portal #support-main iframe {
+  #company-support-portal #body-main object,
+  #company-support-portal #body-main iframe {
     margin-bottom: 12px; }
-  #company-support-portal #support-main #page-topic ul li {
+  #company-support-portal #body-main #page-topic ul li {
     margin-bottom: 1em; }
-  #company-support-portal #support-main #page-article .content.article img {
+  #company-support-portal #body-main #page-article .content.article img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     max-width: 100%; }
-  #company-support-portal #support-main #page-article .content.article .imgleft img,
-  #company-support-portal #support-main #page-article .content.article img.imgleft {
+  #company-support-portal #body-main #page-article .content.article .imgleft img,
+  #company-support-portal #body-main #page-article .content.article img.imgleft {
     margin-left: 0;
     margin-right: 0;
     text-align: left;
     max-width: 100%; }
-  #company-support-portal #support-main .section-pager {
+  #company-support-portal #body-main .section-pager {
     margin-top: 2em; }
-    #company-support-portal #support-main .section-pager .section-next {
+    #company-support-portal #body-main .section-pager .section-next {
       text-align: right; }
 
 #company-support-portal ul.tags.listing {

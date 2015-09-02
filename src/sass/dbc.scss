@@ -257,7 +257,7 @@ body {
 
 // ========================================
 // DBC Main Column
-#support-main {
+#body-main {
   // ========================================
   .support-body {
     background: $white;
@@ -271,10 +271,7 @@ body {
     font-weight: normal;
     color: $grayverydark;
   }
-  h2 {
-    color: $grayverydark;
-  }
-  h3, h4, h5, h6 {
+  h2, h3, h4, h5, h6 {
     color: $grayverydark2;
   }
   h2 {
@@ -285,14 +282,9 @@ body {
     @include fontsize (21, 21);
     font-weight: normal;
   }
-
-  h3 {
-    font-size: 24px;
-    margin-top: 0;
-  }
-
   h4 {
     @include fontsize (18, 18);
+    font-weight: normal;
   }
   h5 {
     @include fontsize (16, 16);
