@@ -99,4 +99,16 @@ $(document).ready(function() {
     });
    });
 
+  // ========================================
+  // HOME SEARCH
+  $("#home-search #search").focus();
+
+  // ========================================
+  // STYLE SWITCHER
+  $("#design-select a").click(function(){
+    $("body").removeClass();
+    $("body").addClass($(this).attr('data-design'));
+    return false;
+  });
+
 });

@@ -14,6 +14,7 @@
   padding-top: 36px;
   h2 {
     margin-bottom: 1em;
+    font-weight: normal;
   }
   .panel-default {
     background-color: $graylight;
@@ -23,19 +24,35 @@
     text-decoration: none;
   }
   a.btn-lg {
-    border: 1px solid #C00;
+    // border: 1px solid #C00;
     border-radius: 3px;
     padding: 1em .5em;
     /*   margin-bottom: 2em; */
     margin-bottom: 5px;
     text-decoration: none;
     &.featured {
-      background-color: #FCC;
+      // background-color: #FCC;
     }
     &:hover {
-      background-color: #C00;
-      color: #FFF;
+      // background-color: #C00;
+      // color: #FFF;
       text-decoration: none;
+    }
+  }
+}
+
+// ========================================
+// SEARCH
+#home-search {
+  input#search {
+    // min-height: 52px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  #search {
+    border: 2px solid $graylight;
+    &:focus {
+      border-color: $bluelight;
     }
   }
 }

@@ -12,6 +12,11 @@ body {
   position: relative;
 }
 
+// GIVE A MAX WIDTH TO FLUID CONTAINERS
+.container-fluid {
+  max-width: 1300px;
+}
+
 // ========================================
 // DBC BODY
 // ========================================
@@ -95,28 +100,6 @@ body {
       padding-right: 1em;
       border-right: 1px solid $gray;
     }
-  }
-  // BOOTSTRAP
-  .dropdown-menu::before {
-    position: absolute;
-    top: -7px;
-    left: 9px;
-    display: inline-block;
-    border-right: 7px solid transparent;
-    border-bottom: 7px solid #CCC;
-    border-left: 7px solid transparent;
-    border-bottom-color: rgba(0, 0, 0, 0.2);
-    content: '';
-  }
-  .dropdown-menu::after {
-    position: absolute;
-    top: -6px;
-    left: 10px;
-    display: inline-block;
-    border-right: 6px solid transparent;
-    border-bottom: 6px solid white;
-    border-left: 6px solid transparent;
-    content: '';
   }
 }
 
@@ -304,7 +287,6 @@ body {
   }
 
   h3 {
-    color: #292E31;
     font-size: 24px;
     margin-top: 0;
   }
@@ -438,6 +420,35 @@ ul.tags {
   }
 }
 
+// BOOTSTRAP
+// BS FIX INPUTS
+.form-group .form-control {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+// BS DROP DOWN MENUS
+.dropdown-menu::before {
+  position: absolute;
+  top: -7px;
+  left: 9px;
+  display: inline-block;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid #CCC;
+  border-left: 7px solid transparent;
+  border-bottom-color: rgba(0, 0, 0, 0.2);
+  content: '';
+}
+.dropdown-menu::after {
+  position: absolute;
+  top: -6px;
+  left: 10px;
+  display: inline-block;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid white;
+  border-left: 6px solid transparent;
+  content: '';
+}
+
 // ========================================
 // BASE STYLES
 ul {
@@ -453,3 +464,77 @@ ul {
 }
 // END DBC BODY
 // ========================================
+
+
+// ========================================
+// THEME SWITCHER
+// THEME 2
+body#company-support-portal {
+  // SWITCHER
+  #design-select {
+    position: absolute;
+    top: 0;
+    right: 18px;
+    height: 18px;
+    width: 120px;
+    text-align: center;
+    background: rgba( 0, 0, 0,.25);
+    @include fontsize(12,18);
+    border-radius: 0 0 5px 5px;
+    color: $white;
+    a {
+      color: $white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  }
+  // DESIGN 2
+  &.design-2 {
+    border-top: 3px solid $red;
+    #header-wrapper {
+      background: $white;
+      border-bottom: 1px solid $gray;
+      #site-nav a {
+        color: $red !important;
+      }
+      a {
+        color: $linkcolor !important;
+      }
+      #header #gnav a.gnava {
+        text-shadow: none;
+        &:hover {
+          background: rgba(0,0,0,.05);
+        }
+      }
+      #search .search #s, #search .search #ss  {
+        border: 1px solid $gray;
+      }
+      #search .search #ss {
+        border-left: none;
+      }
+    }
+  }
+  // THEME 3
+  &.design-3 {
+    border-top: 3px solid $red;
+    #header-wrapper {
+      background: $graypale;
+      a {
+        color: $red !important;
+      }
+      #header #gnav a.gnava {
+        text-shadow: none;
+        &:hover {
+          background: rgba(0,0,0,.05);
+        }
+      }
+      #search .search #s, #search .search #ss  {
+        border: 1px solid $gray;
+      }
+      #search .search #ss {
+        border-left: none;
+      }
+    }
+  }
+
+}
