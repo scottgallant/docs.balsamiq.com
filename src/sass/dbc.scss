@@ -498,7 +498,7 @@ body#company-support-portal {
         color: $red !important;
       }
       a {
-        color: $linkcolor !important;
+        color: $red !important;
       }
       #header #gnav a.gnava {
         text-shadow: none;
@@ -519,6 +519,7 @@ body#company-support-portal {
     border-top: 3px solid $red;
     #header-wrapper {
       background: $graypale;
+      border-bottom: 1px solid $graylight;
       a {
         color: $red !important;
       }
