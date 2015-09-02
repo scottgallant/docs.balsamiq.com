@@ -8,32 +8,73 @@
       }
     }
 */
-#company-support-portal #body-main.home {
-  padding-top: 36px; }
-  #company-support-portal #body-main.home h2 {
-    margin-bottom: 1em; }
-  #company-support-portal #body-main.home .panel-default {
-    background-color: #eee;
-    border-radius: 3px; }
-  #company-support-portal #body-main.home a.btn {
+/*
+$black: #0a0a0a;
+$graypale: #F0F0F0;
+$graylight: #eee;
+$gray: #ddd;
+$graymed: #bbb;
+$graydark: #999;
+$grayverydark: #666;
+$grayverydark2: #555;
+$grayblack: #292E31;
+$red: #c00;
+$redlight: #A7262E;
+$white: #fff;
+$blue: #0064AE;
+$bluelight: #9ac7e4;
+$orange: #e5a110;
+// ##THEME COLORS
+$bodycolor: $white;
+$textcolor: $black;
+$linkcolor: $blue;
+$linkcolorhover: $orange;
+*/
+#company-support-portal #body-main.home h2 {
+  margin-bottom: 1em; }
+
+#company-support-portal #body-main.home .panel-default {
+  border-radius: 3px; }
+
+#company-support-portal #body-main.home a.btn {
+  text-decoration: none; }
+
+#company-support-portal #body-main.home a.btn-lg {
+  border: 1px solid #ddd;
+  background: #F0F0F0;
+  border-radius: 3px;
+  padding: 1em 0.5em;
+  /*   margin-bottom: 2em; */
+  margin-bottom: 5px;
+  text-decoration: none; }
+  #company-support-portal #body-main.home a.btn-lg:hover {
+    background-color: #ddd;
+    border-color: #bbb;
+    color: #094E83 !important;
+    text-shadow: none !important;
     text-decoration: none; }
-  #company-support-portal #body-main.home a.btn-lg {
-    border-radius: 3px;
-    padding: 1em 0.5em;
-    /*   margin-bottom: 2em; */
-    margin-bottom: 5px;
-    text-decoration: none; }
-    #company-support-portal #body-main.home a.btn-lg:hover {
+  #company-support-portal #body-main.home a.btn-lg.featured {
+    background-color: #c00;
+    border: 2px solid #a60000;
+    color: #fff; }
+    #company-support-portal #body-main.home a.btn-lg.featured:hover {
+      background-color: #a60000;
+      border-color: 7c 0;
+      color: #fff !important;
       text-decoration: none; }
 
-#company-support-portal #home-search input#search {
-  padding-top: 24px;
-  padding-bottom: 24px; }
-
-#company-support-portal #home-search #search {
-  border: 2px solid #eee; }
-  #company-support-portal #home-search #search:focus {
-    border-color: #9ac7e4; }
+#company-support-portal #home-search {
+  background: #F0F0F0; }
+  #company-support-portal #home-search input#search {
+    border: 1px solid #bbb;
+    padding-top: 24px;
+    padding-bottom: 24px; }
+  #company-support-portal #home-search #search {
+    border: 2px solid #eee; }
+    #company-support-portal #home-search #search:focus {
+      border-color: #3975a4; }
+  #company-support-portal #home-search p {
+    margin-bottom: 2em; }
 
 #company-support-portal #support-documentation {
   margin-bottom: 10px; }
@@ -422,14 +463,12 @@ body {
     font-size: 21px;
     font-size: 2.1rem;
     line-height: 21px;
-    line-height: 2.1rem;
-    font-weight: normal; }
+    line-height: 2.1rem; }
   #company-support-portal #body-main h4 {
     font-size: 18px;
     font-size: 1.8rem;
     line-height: 18px;
-    line-height: 1.8rem;
-    font-weight: normal; }
+    line-height: 1.8rem; }
   #company-support-portal #body-main h5 {
     font-size: 16px;
     font-size: 1.6rem;
@@ -558,6 +597,12 @@ body {
   #company-support-portal ul li {
     margin-left: 1.25em; }
 
+#company-support-portal .uppercase {
+  text-transform: uppercase; }
+
+#company-support-portal .bold {
+  font-weight: bold; }
+
 body#company-support-portal #design-select {
   position: absolute;
   top: 0;
@@ -590,6 +635,10 @@ body#company-support-portal.design-2 {
       text-shadow: none; }
       body#company-support-portal.design-2 #header-wrapper #header #gnav a.gnava:hover {
         background: rgba(0, 0, 0, 0.05); }
+    body#company-support-portal.design-2 #header-wrapper #header #gnav #gnav-download {
+      border-left: 1px solid #ddd;
+      margin-left: 3px;
+      padding-left: 3px; }
     body#company-support-portal.design-2 #header-wrapper #search .search #s, body#company-support-portal.design-2 #header-wrapper #search .search #ss {
       border: 1px solid #ddd; }
     body#company-support-portal.design-2 #header-wrapper #search .search #ss {

@@ -280,11 +280,9 @@ body {
   }
   h3 {
     @include fontsize (21, 21);
-    font-weight: normal;
   }
   h4 {
     @include fontsize (18, 18);
-    font-weight: normal;
   }
   h5 {
     @include fontsize (16, 16);
@@ -451,6 +449,13 @@ ul {
     margin-left: 1.25em;
   }
 }
+// TO MOVE TO BALSMIQ BASE
+.uppercase {
+  text-transform: uppercase;
+}
+.bold {
+  font-weight: bold;
+}
 
 // ========================================
 }
@@ -497,6 +502,11 @@ body#company-support-portal {
         &:hover {
           background: rgba(0,0,0,.05);
         }
+      }
+      #header #gnav #gnav-download {
+        border-left: 1px solid $gray;
+        margin-left: 3px;
+        padding-left: 3px;
       }
       #search .search #s, #search .search #ss  {
         border: 1px solid $gray;
