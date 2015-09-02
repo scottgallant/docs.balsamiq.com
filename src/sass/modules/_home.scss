@@ -13,6 +13,7 @@
 #body-main.home {
   h2 {
     margin-bottom: 1em;
+    color: $red;
   }
   .panel-default {
     // background-color: $graylight;
@@ -23,7 +24,7 @@
   }
   a.btn-lg {
     border: 1px solid $gray;
-    background: $graypale;
+    // background: $graypale;
     border-radius: 3px;
     padding: 1em .5em;
     /*   margin-bottom: 2em; */
@@ -72,8 +73,8 @@
 
 // ========================================
 // DOCUMENTATION
-#support-documentation {
-  margin-bottom: 10px;
+#documentation {
+  margin-top: 24px;
   a.button {
     display: block;
     padding: 5px;
@@ -137,6 +138,13 @@
 }
 
 // ========================================
+// RESOURCES
+#resources {
+  margin-top: 24px;
+  margin-bottom: 48px;
+}
+
+// ========================================
 // ICONS
 #page-index {
   &.container {
@@ -165,82 +173,6 @@
     width: auto;
     display: block;
     text-align: center;
-  }
-}
-
-#support-search-contact.container {
-  margin-top: 0;
-}
-
-// ========================================
-// CONTACT
-#support-contact {
-  h4 {
-    @include fontsize(24,24);
-    color: $black;
-    padding: 0 0 6px 0;
-    text-align: center;
-  }
-  .inner {
-    margin: 0;
-    padding: 10px;
-    background: #f5f5f5;
-    border: 1px solid $gray;
-    border-radius: 5px;
-  }
-  a.button {
-    display: block;
-    padding: 5px;
-    @include fontsize(14,14);
-    &#forum-link {
-      width: 100%;
-      margin: 0;
-    }
-    &#email-link {
-      width: 100%;
-      margin: 0;
-    }
-  }
-}
-
-#support-more-contact {
-  font-size: 14px;
-  .ss-icon {
-    color: #0064AE;
-    margin-right: 2px;
-  }
-}
-
-// ========================================
-// BIOS
-#bios {
-  #biopic {
-    img {
-      border: 1px solid $gray;
-      box-shadow: 0px 1px 2px $gray;
-    }
-    p {
-      margin: -20px 0 0 0;
-      @include fontsize(12,16);
-      text-align: center;
-      color: #fff;
-      text-shadow: rgba(0,0,0,.95) 0 1px 3px;
-      text-transform: capitalize;
-    }
-
-  }
-  #biotxt {
-    h4 {
-      margin: 0;
-      padding: 0 0 2px 0;
-      @include fontsize(18,18);
-      text-align: left;
-    }
-    p {
-      margin: 0;
-      padding: 0;
-      @include fontsize(13,18);
-    }
   }
 }
 

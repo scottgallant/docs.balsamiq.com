@@ -31,7 +31,8 @@ $linkcolor: $blue;
 $linkcolorhover: $orange;
 */
 #company-support-portal #body-main.home h2 {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  color: #c00; }
 
 #company-support-portal #body-main.home .panel-default {
   border-radius: 3px; }
@@ -41,7 +42,6 @@ $linkcolorhover: $orange;
 
 #company-support-portal #body-main.home a.btn-lg {
   border: 1px solid #ddd;
-  background: #F0F0F0;
   border-radius: 3px;
   padding: 1em 0.5em;
   /*   margin-bottom: 2em; */
@@ -76,38 +76,38 @@ $linkcolorhover: $orange;
   #company-support-portal #home-search p {
     margin-bottom: 2em; }
 
-#company-support-portal #support-documentation {
-  margin-bottom: 10px; }
-  #company-support-portal #support-documentation a.button {
+#company-support-portal #documentation {
+  margin-top: 24px; }
+  #company-support-portal #documentation a.button {
     display: block;
     padding: 5px;
     margin-bottom: 5px; }
-  #company-support-portal #support-documentation .prod-core a.button {
+  #company-support-portal #documentation .prod-core a.button {
     text-align: left; }
     @media only screen and (min-width: 992px) {
-      #company-support-portal #support-documentation .prod-core a.button {
+      #company-support-portal #documentation .prod-core a.button {
         min-height: 95px; } }
     @media (mdmin: 0) {
-      #company-support-portal #support-documentation .prod-core a.button {
+      #company-support-portal #documentation .prod-core a.button {
         min-height: 95px; } }
-    #company-support-portal #support-documentation .prod-core a.button img, #company-support-portal #support-documentation .prod-core a.button span {
+    #company-support-portal #documentation .prod-core a.button img, #company-support-portal #documentation .prod-core a.button span {
       display: block;
       float: left; }
-  #company-support-portal #support-documentation .prod-core img {
+  #company-support-portal #documentation .prod-core img {
     width: 20%; }
     @media only screen and (min-width: 768px) {
-      #company-support-portal #support-documentation .prod-core img {
+      #company-support-portal #documentation .prod-core img {
         width: 40%; } }
     @media (smmin: 0) {
-      #company-support-portal #support-documentation .prod-core img {
+      #company-support-portal #documentation .prod-core img {
         width: 40%; } }
     @media only screen and (min-width: 992px) {
-      #company-support-portal #support-documentation .prod-core img {
+      #company-support-portal #documentation .prod-core img {
         width: 33%; } }
     @media (mdmin: 0) {
-      #company-support-portal #support-documentation .prod-core img {
+      #company-support-portal #documentation .prod-core img {
         width: 33%; } }
-  #company-support-portal #support-documentation .prod-core span {
+  #company-support-portal #documentation .prod-core span {
     padding-top: 18px;
     font-size: 16px;
     font-size: 1.6rem;
@@ -117,36 +117,36 @@ $linkcolorhover: $orange;
     padding-left: 2%;
     letter-spacing: -.25px; }
     @media only screen and (min-width: 768px) {
-      #company-support-portal #support-documentation .prod-core span {
+      #company-support-portal #documentation .prod-core span {
         width: 58%; } }
     @media (smmin: 0) {
-      #company-support-portal #support-documentation .prod-core span {
+      #company-support-portal #documentation .prod-core span {
         width: 58%; } }
     @media only screen and (min-width: 992px) {
-      #company-support-portal #support-documentation .prod-core span {
+      #company-support-portal #documentation .prod-core span {
         width: 64%;
         font-size: 21px;
         font-size: 2.1rem;
         line-height: 24px;
         line-height: 2.4rem; } }
     @media (mdmin: 0) {
-      #company-support-portal #support-documentation .prod-core span {
+      #company-support-portal #documentation .prod-core span {
         width: 64%;
         font-size: 21px;
         font-size: 2.1rem;
         line-height: 24px;
         line-height: 2.4rem; } }
-  #company-support-portal #support-documentation .prod-plugins a.button {
+  #company-support-portal #documentation .prod-plugins a.button {
     min-height: 95px;
     width: 95px;
     float: left;
     margin: 0 5px 5px 0; }
-    #company-support-portal #support-documentation .prod-plugins a.button img {
+    #company-support-portal #documentation .prod-plugins a.button img {
       display: block;
       margin: 0 auto;
       padding: 6px 0 0 0;
       width: 48px; }
-    #company-support-portal #support-documentation .prod-plugins a.button span {
+    #company-support-portal #documentation .prod-plugins a.button span {
       display: block;
       padding: 2px 0 0 0;
       font-size: 14px;
@@ -154,6 +154,10 @@ $linkcolorhover: $orange;
       line-height: 16px;
       line-height: 1.6rem;
       letter-spacing: -.25px; }
+
+#company-support-portal #resources {
+  margin-top: 24px;
+  margin-bottom: 48px; }
 
 #company-support-portal #page-index.container {
   margin-top: 0; }
@@ -180,77 +184,6 @@ $linkcolorhover: $orange;
   width: auto;
   display: block;
   text-align: center; }
-
-#company-support-portal #support-search-contact.container {
-  margin-top: 0; }
-
-#company-support-portal #support-contact h4 {
-  font-size: 24px;
-  font-size: 2.4rem;
-  line-height: 24px;
-  line-height: 2.4rem;
-  color: #0a0a0a;
-  padding: 0 0 6px 0;
-  text-align: center; }
-
-#company-support-portal #support-contact .inner {
-  margin: 0;
-  padding: 10px;
-  background: #f5f5f5;
-  border: 1px solid #ddd;
-  border-radius: 5px; }
-
-#company-support-portal #support-contact a.button {
-  display: block;
-  padding: 5px;
-  font-size: 14px;
-  font-size: 1.4rem;
-  line-height: 14px;
-  line-height: 1.4rem; }
-  #company-support-portal #support-contact a.button#forum-link {
-    width: 100%;
-    margin: 0; }
-  #company-support-portal #support-contact a.button#email-link {
-    width: 100%;
-    margin: 0; }
-
-#company-support-portal #support-more-contact {
-  font-size: 14px; }
-  #company-support-portal #support-more-contact .ss-icon {
-    color: #0064AE;
-    margin-right: 2px; }
-
-#company-support-portal #bios #biopic img {
-  border: 1px solid #ddd;
-  box-shadow: 0px 1px 2px #ddd; }
-
-#company-support-portal #bios #biopic p {
-  margin: -20px 0 0 0;
-  font-size: 12px;
-  font-size: 1.2rem;
-  line-height: 16px;
-  line-height: 1.6rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: rgba(0, 0, 0, 0.95) 0 1px 3px;
-  text-transform: capitalize; }
-
-#company-support-portal #bios #biotxt h4 {
-  margin: 0;
-  padding: 0 0 2px 0;
-  font-size: 18px;
-  font-size: 1.8rem;
-  line-height: 18px;
-  line-height: 1.8rem;
-  text-align: left; }
-
-#company-support-portal #bios #biotxt p {
-  margin: 0;
-  padding: 0;
-  font-size: 13px;
-  font-size: 1.3rem;
-  line-height: 18px;
-  line-height: 1.8rem; }
 
 body {
   position: relative; }
@@ -364,9 +297,9 @@ body {
     line-height: 1.8rem;
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: normal;
-    color: #555; }
+    color: #292E31; }
     #company-support-portal .local-nav h3 a, #company-support-portal .local-nav h4 a, #company-support-portal .local-nav h5 a {
-      color: #555; }
+      color: #292E31; }
   #company-support-portal .local-nav h5 {
     margin-left: 16px; }
   #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
@@ -450,9 +383,9 @@ body {
     line-height: 36px;
     line-height: 3.6rem;
     font-weight: normal;
-    color: #666; }
+    color: #292E31; }
   #company-support-portal #body-main h2, #company-support-portal #body-main h3, #company-support-portal #body-main h4, #company-support-portal #body-main h5, #company-support-portal #body-main h6 {
-    color: #555; }
+    color: #292E31; }
   #company-support-portal #body-main h2 {
     font-size: 28px;
     font-size: 2.8rem;
@@ -602,6 +535,9 @@ body {
 
 #company-support-portal .bold {
   font-weight: bold; }
+
+#company-support-portal .red {
+  color: #c00 !important; }
 
 body#company-support-portal #design-select {
   position: absolute;

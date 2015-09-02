@@ -159,9 +159,9 @@ body {
     @include fontsize(18,18);
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: normal;
-    color: $grayverydark2;
+    color: $grayblack;
     a {
-      color: $grayverydark2;
+      color: $grayblack;
     }
   }
   h5 {
@@ -269,10 +269,10 @@ body {
     border-bottom: 1px solid $gray;
     @include fontsize (36, 36);
     font-weight: normal;
-    color: $grayverydark;
+    color: $grayblack;
   }
   h2, h3, h4, h5, h6 {
-    color: $grayverydark2;
+    color: $grayblack;
   }
   h2 {
     @include fontsize (28, 28);
@@ -455,6 +455,9 @@ ul {
 }
 .bold {
   font-weight: bold;
+}
+.red {
+  color: $red !important;
 }
 
 // ========================================
