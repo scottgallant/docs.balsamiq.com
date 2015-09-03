@@ -55,6 +55,12 @@
 // SEARCH
 #home-search {
   background: $graypale;
+  h2 {
+    margin-top: 52px;
+  }
+  p {
+    margin-bottom: 48px;
+  }
   input#search {
     border: 1px solid $graymed;
     padding-top: 24px;

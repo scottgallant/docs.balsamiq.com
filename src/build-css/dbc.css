@@ -65,6 +65,10 @@ $linkcolorhover: $orange;
 
 #company-support-portal #home-search {
   background: #F0F0F0; }
+  #company-support-portal #home-search h2 {
+    margin-top: 52px; }
+  #company-support-portal #home-search p {
+    margin-bottom: 48px; }
   #company-support-portal #home-search input#search {
     border: 1px solid #bbb;
     padding-top: 24px;
