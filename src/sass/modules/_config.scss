@@ -3,7 +3,6 @@
 // - Clearfix
 // - Font Sizes
 // - Breakpoints
-// - Colors
 // - Boxes
 //   - Border Radius
 //   - Box Sizing
@@ -107,78 +106,6 @@ $screen-lg-min:1200px;
     @content;
   }
 }
-
-
-// ========================================
-// #COLORS
-// ========================================
-//
-// Provides color variables for black, graylight, gray, graymed, graydark, red, white
-//   Usage:
-//   .myclass-red-text {
-//     color: $red;
-//   }
-//
-//   <span class="myclass-red-text">Red Text</span>
-// ##BASE COLORS OLD
-/*
-$black: #0a0a0a;
-$graypale: #F0F0F0;
-$graylight: #eee;
-$gray: #ddd;
-$graymed: #bbb;
-$graydark: #999;
-$grayverydark: #666;
-$grayverydark2: #555;
-$grayblack: #292E31;
-$red: #c00;
-$redlight: #A7262E;
-$white: #fff;
-$blue: #0064AE;
-$bluelight: #9ac7e4;
-$orange: #e5a110;
-// ##THEME COLORS
-$bodycolor: $white;
-$textcolor: $black;
-$linkcolor: $blue;
-$linkcolorhover: $orange;
-*/
-
-// ##BASE COLORS NEW
-// USE RGBA WITH OPACITY FOR VERY LIGHTS
-$black: #0a0a0a;
-$white: #fff;
-$graypale: #F0F0F0;
-$graylight: #eee;
-$gray: #ddd;
-$graymed: #bbb;
-$graydark: #999;
-$grayverydark: #666;
-$grayverydark2: #555;
-$grayblack: #292E31;
-$red: #c00;
-$redverylight: rgba(255, 76, 76, .15);
-$redlight: #ff4c4c;
-$redmed: #f71717;
-$reddark: #a60000;
-$redverydark: 7c0000;
-$blue: #094E83;
-$blueverylight: rgba(204, 117, 0, .25);
-$bluelight: #3975a4;
-$bluemed: #18649f;
-$bluedark: #063F6b;
-$blueverydark: #032E50;
-$orange: #cc7500;
-$orangelight: #ffb34c;
-$orangemed: #f79717;
-$orangedark: #a65f00;
-$orangeverydark: #7c4700;
-// ##THEME COLORS
-$bodycolor: $white;
-$textcolor: $black;
-$linkcolor: $blue;
-$linkcolorhover: $orange;
-
 
 // ========================================
 // #BOXES

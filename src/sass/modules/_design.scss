@@ -1,0 +1,84 @@
+// ========================================
+// THEME SWITCHER
+// SWITCHER
+#design-select {
+  position: absolute;
+  top: 0;
+  right: 18px;
+  height: 18px;
+  width: 120px;
+  text-align: center;
+  background: rgba( 0, 0, 0,.25);
+  @include fontsize(12,18);
+  border-radius: 0 0 5px 5px;
+  color: $white;
+  a {
+    color: $white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+}
+// DESIGN 2
+body#company-support-portal.design-2 {
+  border-top: 3px solid $red;
+  #header-wrapper {
+    background: $white;
+    border-bottom: 1px solid $gray;
+    #site-nav a {
+      color: $red !important;
+    }
+    a {
+      color: $red !important;
+    }
+    #header {
+      #gnav a.gnava {
+        text-shadow: none;
+        &:hover {
+          background: rgba(0,0,0,.05);
+        }
+      }
+      #gnav #gnav-download {
+        @include breakpoint(smmin) {
+          border-left: 1px solid $gray;
+          margin-left: 3px;
+          padding-left: 3px;
+        }
+      }
+      #rmenu .icon-bar {
+        background: $red;
+      }
+    }
+    #search .search #s, #search .search #ss  {
+      border: 1px solid $gray;
+    }
+    #search .search #ss {
+      border-left: none;
+    }
+  }
+}
+// THEME 3
+body#company-support-portal.design-3 {
+  border-top: 3px solid $red;
+  #header-wrapper {
+    background: $graylight;
+    border-bottom: 1px solid $gray;
+    a {
+      color: $red !important;
+    }
+    #header #gnav a.gnava {
+      text-shadow: none;
+      &:hover {
+        background: rgba(0,0,0,.05);
+      }
+    }
+    #search .search #s, #search .search #ss  {
+      border: 1px solid $gray;
+    }
+    #search .search #ss {
+      border-left: none;
+    }
+  }
+  .home #home-search {
+    background: $white !important;
+  }
+}
