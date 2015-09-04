@@ -12,17 +12,16 @@
   margin-bottom: 1em;
   color: #C00; }
 
-#company-support-portal #body-main.home .panel-default {
-  border-radius: 3px; }
-
 #company-support-portal #body-main.home a.btn {
   text-decoration: none; }
+  #company-support-portal #body-main.home a.btn:hover {
+    text-shadow: none !important; }
 
 #company-support-portal #body-main.home a.btn-lg {
   border: 1px solid #DDD;
   border-radius: 3px;
   padding: 1em 0.5em;
-  /*   margin-bottom: 2em; */
+  margin-bottom: 1em;
   margin-bottom: 5px;
   text-decoration: none; }
   #company-support-portal #body-main.home a.btn-lg:hover {
@@ -32,13 +31,14 @@
     text-shadow: none !important;
     text-decoration: none; }
   #company-support-portal #body-main.home a.btn-lg.featured {
-    background-color: #C00;
-    border: 2px solid #7C0000;
+    background: #C00;
+    border: 2px solid #A60000;
     color: #FFF; }
     #company-support-portal #body-main.home a.btn-lg.featured:hover {
-      background-color: #7C0000;
-      border-color: #6D0000;
+      background: #A60000;
+      border-color: #7C0000;
       color: #FFF !important;
+      text-shadow: none !important;
       text-decoration: none; }
 
 #company-support-portal #home-search {

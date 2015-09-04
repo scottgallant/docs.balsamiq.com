@@ -1,6 +1,7 @@
 // ========================================
 // DBC - HOME CSS
 // ========================================
+@import "colors";
 
 // ========================================
 // DBC BODY
@@ -15,19 +16,17 @@
     margin-bottom: 1em;
     color: $red;
   }
-  .panel-default {
-    // background-color: $graylight;
-    border-radius: 3px;
-  }
   a.btn {
     text-decoration: none;
+    &:hover {
+      text-shadow: none !important;
+    }
   }
   a.btn-lg {
     border: 1px solid $gray;
-    // background: $graypale;
     border-radius: 3px;
     padding: 1em .5em;
-    /*   margin-bottom: 2em; */
+    margin-bottom: 1em;
     margin-bottom: 5px;
     text-decoration: none;
     &:hover {
@@ -38,13 +37,14 @@
       text-decoration: none;
     }
     &.featured {
-      background-color: $red;
-      border: 2px solid $reddark;
+      background: $red;
+      border: 2px solid $redmed;
       color: $white;
       &:hover {
-        background-color: $reddark;
-        border-color: $redverydark;
+        background: $redmed;
+        border-color: $reddark;
         color: $white !important;
+        text-shadow: none !important;
         text-decoration: none;
       }
     }
