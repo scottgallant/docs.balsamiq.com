@@ -47,13 +47,13 @@
     margin-top: 52px; }
   #company-support-portal #home-search p {
     margin-bottom: 48px; }
-  #company-support-portal #home-search input#search {
+  #company-support-portal #home-search input#search_home {
     border: 1px solid #BBB;
     padding-top: 24px;
     padding-bottom: 24px; }
-  #company-support-portal #home-search #search {
+  #company-support-portal #home-search #search_home {
     border: 2px solid #EEE; }
-    #company-support-portal #home-search #search:focus {
+    #company-support-portal #home-search #search_home:focus {
       border-color: #008AF4; }
 
 #company-support-portal #documentation {

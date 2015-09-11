@@ -61,12 +61,12 @@
   p {
     margin-bottom: 48px;
   }
-  input#search {
+  input#search_home {
     border: 1px solid $graymed;
     padding-top: 24px;
     padding-bottom: 24px;
   }
-  #search {
+  #search_home {
     border: 2px solid $graylight;
     &:focus {
       border-color: $bluelight;
