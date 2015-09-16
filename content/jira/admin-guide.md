@@ -8,7 +8,7 @@ menu:
 weight: 20
 ---
 
-#### Welcome[#](#welcome)
+## Welcome
 
 This page contains installation, registration, updating and uninstalling instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira) **when installed on your own server**.
 
@@ -18,7 +18,7 @@ Usage instructions for the plugin are [here](http://support.balsamiq.com/custome
 
 * * *
 
-#### Installation Instructions[#](#install)
+## Installation Instructions
 
 Like most plugins, Balsamiq Mockups for JIRA is installed via Atlassian's [Universal Plugin Manager](https://plugins.atlassian.com/plugins/com.atlassian.upm.atlassian-universal-plugin-manager-plugin), or UPM. Make sure you are running an updated version of UPM before attempting to install the plugin ([UPM installation instructions](http://confluence.atlassian.com/display/JIRA042/Managing+JIRA's+Plugins#ManagingJIRAsPlugins-ManagingPluginsviatheUniversalPluginManager)).
 
@@ -35,7 +35,7 @@ You will then begin a 30-day trial evaluation of Mockups for JIRA.
 
 * * *
 
-#### Registration Instructions[#](#register)
+## Registration Instructions
 
 Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](http://support.balsamiq.com/customer/portal/articles/542517) first.
 
@@ -65,7 +65,7 @@ If you receive an error when registering, [this FAQ](http://support.balsamiq.com
 
 * * *
 
-#### Selecting Mockup Editors[#](#users)
+## Selecting Mockup Editors
 
 **If you purchased your plugin license via Atlassian Marketplace**
 
@@ -83,7 +83,7 @@ Using both Mockups for Confluence and Mockups for JIRA? Please see [this article
 
 * * *
 
-#### Updating Instructions[#](#update)
+## Updating Instructions
 
 Installing via UPM automatically replaces the old plugin with the new version.
 
@@ -91,7 +91,7 @@ If you are running an old version of JIRA and want to figure out which version o
 
 * * *
 
-#### Uninstalling Instructions[#](#uninstall)
+## Uninstalling Instructions
 
 Uninstalling via UPM automatically removes all plugin modules from your JIRA.
 
@@ -99,6 +99,6 @@ The mockups created with the plugin will NOT be deleted, they'll just stay where
 
 * * *
 
-#### Troubleshooting[#](#troubleshooting)
+## Troubleshooting
 
 If you have trouble, [email us](mailto:support@balsamiq.com) and we'll help you!

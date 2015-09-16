@@ -13,7 +13,7 @@ weight: 20
 
 * * *
 
-#### Application Overview [#](#overview)
+## Application Overview 
 
 This short video should give you an idea of what you can do with myBalsamiq.
 
@@ -23,7 +23,7 @@ You can also watch this video [on our YouTube channel](http://www.youtube.com/wa
 
 * * *
 
-#### A Note About Roles and Access [#](#anoteaboutrolesandaccess)
+## A Note About Roles and Access 
 
 Many features of myBalsamiq are role-specific. Many of the instructions in this documentation are dependent upon permissions.
 

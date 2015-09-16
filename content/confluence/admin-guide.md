@@ -8,7 +8,7 @@ menu:
 weight: 20
 ---
 
-#### Welcome[#](#welcome)
+## Welcome
 
 The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](http://balsamiq.com/products/mockups/confluence) **when installed on your own server**.
 
@@ -18,7 +18,7 @@ Usage instructions for the plugin are [here](http://support.balsamiq.com/custome
 
 * * *
 
-#### Installation Instructions[#](#install)
+## Installation Instructions
 
 Like most plugins, Balsamiq Mockups for Confluence is installed via Atlassian's [Universal Plugin Manager](https://plugins.atlassian.com/plugins/com.atlassian.upm.atlassian-universal-plugin-manager-plugin), or UPM. Make sure you are running an updated version of UPM before attempting to install the plugin.
 
@@ -36,7 +36,7 @@ You will then begin a 30-day trial evaluation of Mockups for Confluence.
 
 * * *
 
-#### Registration Instructions[#](#register)
+## Registration Instructions
 
 Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](http://support.balsamiq.com/customer/portal/articles/542517) first.
 
@@ -72,7 +72,7 @@ UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install t
 
 * * *
 
-#### Selecting Mockup Editors[#](#users)
+## Selecting Mockup Editors
 
 **If you purchased your plugin license via Atlassian Marketplace**
 
@@ -90,7 +90,7 @@ Using both Mockups for Confluence and Mockups for JIRA? Please see [this article
 
 * * *
 
-#### Updating Instructions[#](#update)
+## Updating Instructions
 
 Click on the Update button on your UPM to download and install the latest version of the plugin.
 
@@ -98,7 +98,7 @@ If you are running an old version of Confluence and want to figure out which ver
 
 * * *
 
-#### Uninstalling Instructions[#](#uninstall)
+## Uninstalling Instructions
 
 You can uninstall the plugin from UPM.
 
@@ -106,7 +106,7 @@ The mockups created so far will disappear from the wiki pages because the {mocku
 
 * * *
 
-#### Troubleshooting[#](#troubleshooting)
+## Troubleshooting
 
 ##### If you get an error when trying to save large mockups
 
@@ -118,7 +118,7 @@ If you have other troubles, [email us](mailto:support@balsamiq.com) and we'll he
 
 * * *
 
-#### Mockups and Adaptivist's Theme Builder integration[#](#themebuilder)
+## Mockups and Adaptivist's Theme Builder integration
 
 If you are using Adaptivist's Theme Builder, you'll have to manually add a "Add UI Mockup..." link to the edit menu. Here's how:
 

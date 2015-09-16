@@ -13,7 +13,7 @@ The history functions allow you to view recent activity on the site, on a projec
 
 The type of events that will be recorded in the history are shown below.
 
-##### Site History [#](#sitehistory)
+### Site History 
 
 *   New Project Created
 *   Project Archived
@@ -26,7 +26,7 @@ The type of events that will be recorded in the history are shown below.
 *   Mockup Restored
 *   New Comment Added to Mockup
 
-##### Project History [#](#projecthistory)
+### Project History 
 
 *   New User Added
 *   New Mockups Added
@@ -35,14 +35,14 @@ The type of events that will be recorded in the history are shown below.
 *   Mockup Restored
 *   New Comment Added to Mockup
 
-##### Mockup History [#](#mockuphistory)
+### Mockup History 
 
 *   Mockup Updated
 *   Mockup Deleted
 *   Mockup Restored
 *   New Comment Added to Mockup
 
-##### Example History Page [#](#examplehistorypage)
+### Example History Page 
 
 The annotated screenshot below gives you an idea of what you can do on the pages.
 

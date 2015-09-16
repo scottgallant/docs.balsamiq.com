@@ -17,7 +17,7 @@ You can also [watch the Working with Projects section of our intro video](http:/
 
 * * *
 
-#### Anatomy of a Project Page [#](#anatomyofaprojectpage)
+## Anatomy of a Project Page 
 
 The image screenshot below shows all the parts and functions on a typical project page. Take a look to get an idea about what you can do on the project page.
 
@@ -27,7 +27,7 @@ The image screenshot below shows all the parts and functions on a typical projec
 
 * * *
 
-#### Changing Project Information [#](#changingprojectinformation)
+## Changing Project Information 
 
 Once you’ve created a project, it’s easy to change the project name and description from the project page.
 
@@ -52,7 +52,7 @@ You can use the same text formatting options we provide in Mockups!
 
 * * *
 
-#### Viewing Project History [#](#viewingprojecthistory)
+## Viewing Project History 
 
 You may have noticed below the big project name that there’s a single line of text showing you the last update to the project, and who made it. The “View History…” text at the end of this line is a link to view the entire project history of updates.
 
@@ -73,7 +73,7 @@ You can learn more about the history feature, and view example history screens i
 
 * * *
 
-#### Adding Mockups [#](#addingmockups)
+## Adding Mockups 
 
 To add a new mockup from any page in a project, click the New Mockup button in the upper right.
 
@@ -85,9 +85,9 @@ You can also upload an existing mockup from your computer by clicking the drop-d
 
 * * *
 
-#### Manipulating Mockups [#](#manipulatingmockups)
+## Manipulating Mockups 
 
-##### Mockup Action Menus [#](#mockupmenus)
+### Mockup Action Menus 
 
 To the right of every Mockup title is a little down arrow. That’s the drop down menu that lets you perform actions on each Mockup.
 
@@ -95,7 +95,7 @@ Depending on the permissions you have, the menu provides access to features incl
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-mockupmenu.png)
 
-##### Re-ordering Mockups [#](#re-orderingmockups)
+### Re-ordering Mockups 
 
 Mockups can be arranged arbitrarily in whatever order makes sense for your project.
 
@@ -109,7 +109,7 @@ Now when you use pagination and story mode, the mockup will appear in the order 
 
 * * *
 
-#### Adding and Managing Project Assets [#](#addingandmanagingprojectassets)
+## Adding and Managing Project Assets 
 
 An assets manager is provided store re-usable images, Mockups, or other files you want to share in your project.
 
@@ -125,7 +125,7 @@ For more information, view the [Assets](http://support.balsamiq.com/customer/por
 
 * * *
 
-#### Adding Project Team Members [#](#addingprojectteammembers)
+## Adding Project Team Members 
 
 Project members have to be added to projects to be able to work on mockups and add comments.
 
@@ -150,7 +150,7 @@ Notes:
 
 * * *
 
-#### Setting Access Control [#](#settingaccesscontrol)
+## Setting Access Control 
 
 By default, all sites are set to private and only invited staff and project members will have any access.
 
@@ -174,7 +174,7 @@ Please refer to the [myBalsamiq Access Control Matrix](http://support.balsamiq.c
 
 * * *
 
-#### Mockup Views [#](#mockupviewsgridstoryandmap)
+## Mockup Views 
 
 You can view your project using one of 4 main views: Grid, Story, List, and Prototype.
 
@@ -200,7 +200,7 @@ Prototype mode follows permissions settings, but allows you to share a private U
 
 * * *
 
-#### Project Actions [#](#managingproject)
+## Project Actions 
 
 From the Edit menu on the project page you can perform the following actions:
 
@@ -234,11 +234,11 @@ Only the site owner and the project owner are able to archive projects, and only
 
 * * *
 
-#### Uploading and Downloading Projects [#](#uploadingproject)
+## Uploading and Downloading Projects 
 
 You can download a project to your desktop so that you have a local archive, or so you can work on your project files from Mockups for Desktop or move projects from one myBalsamiq site to another.
 
-##### Upload [#](#upload)
+### Upload 
 
 From a site home page, you can upload a .zip compressed file of a project folder. The project folder you'll compress should contain all your project BMML files, and any assets (images and symbols) used by the project should be in an assets/ subdirectory.
 
@@ -248,7 +248,7 @@ To upload, simply click the Upload New Project link in the upper right of the si
 
 When prompted by the dialog, browse for your .zip file on your computer and click Upload. Your project .zip will be uploaded in the background and will show up on the home page when the upload is complete.
 
-##### Download [#](#downloadfromhome)
+### Download 
 
 **Download from Home Page**
 

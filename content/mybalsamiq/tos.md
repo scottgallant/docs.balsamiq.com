@@ -13,9 +13,9 @@ Please read this document carefully before accessing or using myBalsamiq.
 
 * * *
 
-#### Introduction [#](#intro)
+## Introduction 
 
-##### English, not Legalese[#](#english)
+### English, not Legalese
 
 Most Terms of Service and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 
@@ -27,13 +27,13 @@ When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([con
 
 Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
 
-##### Using myBalsamiq means accepting these terms[#](#useisaccept)
+### Using myBalsamiq means accepting these terms
 
 By accessing or using myBalsamiq in any way, whether you have created your own myBalsamiq site or are invited to someone else's site as a project member, or are just browsing around, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, do not access myBalsamiq.
 
-##### This is a living document[#](#living)
+### This is a living document
 
 This is a living document. With your help, we want to make it the best in the industry.
 
@@ -49,7 +49,7 @@ If you'd like to be notified every time we make a change to this document, pleas
 
 <form action="http://balsamiq.createsend.com/t/y/s/bdrjiy/" id="subForm" method="post"><label for="bdrjiy-bdrjiy">Email:</label> <input id="bdrjiy-bdrjiy" name="cm-bdrjiy-bdrjiy" size="50" type="text"><input type="submit" value="Subscribe"> </form>
 
-##### Breach of Terms[#](#breach)
+### Breach of Terms
 
 If you breach any of the terms and conditions in this document, your authorization to access or use myBalsamiq automatically terminates. Any materials downloaded or printed from myBalsamiq in violation of the Terms of Use must be immediately destroyed.
 
@@ -59,7 +59,7 @@ If you think we removed your access by mistake, [get in touch](mailto:sales@bals
 
 * * *
 
-#### Support[#](#support)
+## Support
 
 Support for myBalsamiq is provided via our Community Forums at [forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [support.balsamiq.com](http://support.balsamiq.com)
 
@@ -73,7 +73,7 @@ We take pride in providing excellent customer support, but we are also a small t
 
 * * *
 
-#### Access to your data [#](#access)
+## Access to your data 
 
 ##### What personal data do you collect and why?
 
@@ -94,7 +94,7 @@ Please be aware that your browser must be enabled to accept cookies from mybalsa
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
 
-##### Who can see my password?[#](#password)
+### Who can see my password?
 
 No-one. We store your password encrypted so no-one can read it. For encrypting the passwords, we use SHA512 hashing and a unique random salt for each user.
 
@@ -106,17 +106,17 @@ User management is done inside myBalsamiq, we don't have LDAP or OAuth integrati
 
 Balsamiq staff will never change a password for you, nor change the site owner. Here's an article that describes how you can [change the site owner of a myBalsamiq site yourself](http://support.balsamiq.com/customer/portal/articles/835846).
 
-##### Who can see my credit card number?[#](#ccnumber)
+### Who can see my credit card number?
 
 No-one at Balsamiq. We use the very trustworthy and secure [Pin Payments](https://pinpayments.com/) payment service. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) (in short, they encrypt your credit card info).
 
 Once you sign up Pin Payments will charge your card each month. Both Pin Payments and Balsamiq are PCI-DSS compliant. Even though Balsamiq employees never see your credit card information, Balsamiq has an internal security policy to follow in case we accidentally come across a customer's credit card info.
 
-##### Our Commitment to Children’s Privacy[#](#children)
+### Our Commitment to Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-##### How can I access or correct my information?[#](#update)
+### How can I access or correct my information?
 
 You can access all your personally identifiable information that we collect online and maintain by logging in to any myBalsamiq site you have access to and visiting the settings pages.
 
@@ -126,13 +126,13 @@ You can delete your user account or site at any time. We keep your data around f
 
 If you delete your site manually, or if your site gets suspended for payment and stays in that state for more than 1 month, we retain the right to destroy your site completely (thus "releasing" its subdomain), based on our best judgment.
 
-##### What are the system requirements for using myBalsamiq?[#](#sysreq)
+### What are the system requirements for using myBalsamiq?
 
 A modern web browser (Internet Explorer users need IE9 or higher) with cookies and javascript enabled and Adobe Flash Player version 10.2 and above is all that's needed. Your clients have to be able to access the myBalsamiq servers, on ports 80 and 443.
 
 myBalsamiq stores auto-save data and other settings in Flash Local SharedObjects on the end user's computer. We do not clear those on exit. myBalsamiq does not use ActiveX or Java in the browser.
 
-##### Who can see my wireframes?[#](#see)
+### Who can see my wireframes?
 
 It depends on the project access level you choose for your projects. By default, each project is private, but the site owner or any staff member who's part of that project can [make it public](http://support.balsamiq.com/customer/portal/articles/112399#settingaccesscontrol).
 
@@ -146,7 +146,7 @@ We use HTTPS and SSL (256-encryption) to transfer all data. Other than passwords
 
 Users cannot create other users but they can invite them to the site. The site owner has the ability to [get notified](http://support.balsamiq.com/customer/portal/articles/231911#administration) for any invitation and joining action, and to remove users at any time. The [myBalsamiq access control matrix](http://support.balsamiq.com/customer/portal/articles/229097) has all the details.
 
-##### What are the guidelines Balsamiq follows when accessing my data?[#](#balsamiqaccess)
+### What are the guidelines Balsamiq follows when accessing my data?
 
 *   We restrict who at Balsamiq can access customer data to only senior members of the team, and never to outside parties.
 *   We only do it in response to a customer support question.
@@ -156,7 +156,7 @@ Users cannot create other users but they can invite them to the site. The site o
 *   We never ever ever share what we see with other customers or the general public.
 *   We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government. We'll also keep your site owner informed as much as we can if this happens.
 
-##### Who else has access to my data?[#](#externalaccess)
+### Who else has access to my data?
 
 We host our data on Amazon Web Services (AWS). Specifically, our database runs on RDS and other data is stored on S3\. Amazon employees have access to this data. Here's their [privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations. We don't control physical access to our locations, other than standard locked doors.
 
@@ -168,11 +168,11 @@ As mentioned [above](#ccnumber), we rely on Pin Payments for payment processing.
 
 We use [PubNub](http://www.pubnub.com/) to provide real-time updates, always sent over SSL. Here's their [privacy policy](http://www.pubnub.com/privacy-policy).
 
-##### How is my data protected from another customer's data?[#](#othercustomers)
+### How is my data protected from another customer's data?
 
 All of our customers' data resides in the same database. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our customer data via software. We do our best and are very confident we're doing a good job at it, but, like every other web app that hosts their customers data on the same database, cannot guarantee that a sophisticated hacker cannot access other people's data.
 
-##### How are you protecting my data from hacker attacks?[#](#attacks)
+### How are you protecting my data from hacker attacks?
 
 Security is one of the main reasons we chose Amazon Web Services as the infrastructure provider for myBalsamiq. It has the best track record out there, look at [this article](http://money.cnn.com/2010/12/09/technology/amazon_wikileaks_attack/index.htm) for instance.
 
@@ -184,21 +184,21 @@ Our myBalsamiq service has never been compromised so far.
 
 Should our systems get compromised, we will replace the server(s) that have been hacked with new ones (we can do this with very few clicks). If this doesn't stop the attack, we'll shut down the service until we can fix the vulnerability. We will also hire experts to help us and verify that we're safe to resume service.
 
-##### What should I do if I find a security vulnerability in myBalsamiq?[#](#whitehat)
+### What should I do if I find a security vulnerability in myBalsamiq?
 
 If you have discovered a security concern, please email us at [security@balsamiq.com](mailto:security@balsamiq.com). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@balsamiq.com](mailto:security@balsamiq.com) our highest priority, and work to address any issues that arise as quickly as possible.
 
 Please act in good faith towards our users’ privacy and data during your disclosure. We won’t take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
 
-##### Can I run myBalsamiq on my own servers, behind the firewall?[#](#behind)
+### Can I run myBalsamiq on my own servers, behind the firewall?
 
 Not at the moment, no. We offer other solutions (Mockups for Desktop, plugin versions) that allow you to keep your data on your servers. Compare our products [here](http://www.balsamiq.com/products).
 
 * * *
 
-#### Intellectual Property Rights[#](#ip)
+## Intellectual Property Rights
 
-##### Who owns Balsamiq Materials?[#](#balsamiqip)
+### Who owns Balsamiq Materials?
 
 Balsamiq Materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on myBalsamiq produced by Balsamiq.
 
@@ -219,7 +219,7 @@ The trademarks, logos and service marks displayed on this Site are the property 
 *   The rights granted to you constitute a license and not a transfer of title.
 *   Any Balsamiq Materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
-##### Who owns the IP of my wireframes and assets?[#](#wireframesip)
+### Who owns the IP of my wireframes and assets?
 
 Balsamiq does not claim intellectual property rights over wireframes created on myBalsamiq nor the [project and account assets](http://support.balsamiq.com/customer/portal/articles/112403) your users upload.
 
@@ -235,9 +235,9 @@ You are solely and entirely responsible for all of your user materials that you 
 
 * * *
 
-#### Reliability[#](#reliability)
+## Reliability
 
-##### Do you guarantee that myBalsamiq will be accessible at all times?[#](#sla)
+### Do you guarantee that myBalsamiq will be accessible at all times?
 
 In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet. We do not offer contracted SLA for availability to myBalsamiq and your data.
 
@@ -251,13 +251,13 @@ You can see for yourself how we're doing on this front by looking at this [Pingd
 
 You acknowledge and agree that Balsamiq shall not be liable for any failure to store your materials on myBalsamiq at any time.
 
-##### How is our data backed up?[#](#backups)
+### How is our data backed up?
 
 Your wireframe images are saved on [Amazon Simple Storage Service](http://aws.amazon.com/s3/), which provides an SLA of 99.999999999% durability and 99.99% availability of object over a given year ([link](http://aws.amazon.com/s3-sla/)).
 
 Your wireframe data, site settings and projects information are saved (unencrypted other than passwords) in our database, which runs on [Amazon RDS](http://aws.amazon.com/rds/). We have a real-time backup to a slave instance in a different availability zone (for added resilience) and we keept daily database snapshots of the last 3 days. Data is replicated in 3 different data centers.
 
-##### How quickly can you recover from a data center disaster?[#](#recover)
+### How quickly can you recover from a data center disaster?
 
 This depends on the scale of the disaster, of course.
 
@@ -267,9 +267,9 @@ Should the whole us-east-1 region be affected by an outage (atomic bomb over Vir
 
 * * *
 
-#### Play Nice Clauses[#](#playnice)
+## Play Nice Clauses
 
-##### Use of myBalsamiq[#](#use)
+### Use of myBalsamiq
 
 You agree that you shall not:
 
@@ -295,11 +295,11 @@ You agree that you shall not:
 
 Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. Balsamiq offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, Balsamiq Materials, the myBalsamiq service or another third-party service. You agree that you will not hold Balsamiq responsible or liable with respect to the third-party services.
 
-##### Special Treatment for Spammers[#](#nospam)
+### Special Treatment for Spammers
 
 In the event of your or others’ access to or use of the myBalsamiq service in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Use, you acknowledge and agree that Balsamiq would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that Balsamiq is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). Balsamiq may without restriction block, filter or delete unsolicited e-mail.
 
-##### Subdomain Squatting[#](#nosquatting)
+### Subdomain Squatting
 
 You may not engage in subdomain squatting. myBalsamiq sites that are inactive for more than 6 months may also be removed without further notice. Some of the factors that we take into account when determining what conduct is considered to be subdomain squatting are:
 
@@ -309,11 +309,11 @@ You may not engage in subdomain squatting. myBalsamiq sites that are inactive fo
 
 Attempts to sell, buy, or solicit other forms of payment in exchange for myBalsamiq subdomains are also violations and may result in permanent account suspension.
 
-##### Restriction and Termination of Use[#](#termination)
+### Restriction and Termination of Use
 
 Balsamiq may block, restrict, disable, suspend or terminate your access to all or part of myBalsamiq at any time in Balsamiq’s sole discretion, without prior notice or liability to you.
 
-##### Notification of Copyright Infringement[#](#dmca)
+### Notification of Copyright Infringement
 
 Balsamiq will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. Balsamiq will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”).
 
@@ -337,15 +337,15 @@ By telephone: (415) 367-3531
 
 By e-mail: [sales@balsamiq.com](mailto:sales@balsamiq.com)
 
-##### Links to Third Party Sites[#](#links)
+### Links to Third Party Sites
 
 myBalsamiq may include links that will take you to other sites outside of the myBalsamiq service. The linked sites are provided by Balsamiq to you as a convenience and the inclusion of the links do not imply any endorsement by Balsamiq of any linked site. Balsamiq has no control of the linked sites and you therefore acknowledge and agree that Balsamiq is not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that Balsamiq is not responsible for any form of transmission (e.g. webcasting) received from any linked site.
 
-##### Advertisements and Promotions[#](#ads)
+### Advertisements and Promotions
 
 Balsamiq may run advertisements and promotions from third parties via myBalsamiq in any manner or mode and to any extent. Your communications, activities, relationships and business dealings with any third parties advertising or promoting via myBalsamiq, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, shall be solely matters between you and such third parties. You acknowledge and agree that Balsamiq is not responsible or liable for any loss or damage of any kind incurred as the result of any such dealings or as the result of the presence of such non-Balsamiq advertisers on myBalsamiq.
 
-##### Warranties and Disclaimers[#](#warranties)
+### Warranties and Disclaimers
 
 The myBalsamiq service and Balsamiq Materials are provided by Balsamiq under these terms of use “as is” without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, Balsamiq makes no warranty that:
 
@@ -370,7 +370,7 @@ The use of myBalsamiq service, Balsamiq Materialsor the downloading or other use
 
 Some states or jurisdictions do not allow the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety (90) days.
 
-##### Indemnity and Liability[#](#indemnity)
+### Indemnity and Liability
 
 You agree to indemnify and hold Balsamiq and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
 
@@ -384,7 +384,7 @@ You agree to indemnify and hold Balsamiq and its officers, co-branders, other pa
 8.  your access to or use of linked sites and your connections thereto; or
 9.  any dealings between you and any third parties advertising or promoting via myBalsamiq.
 
-##### International Users[#](#international)
+### International Users
 
 The myBalsamiq service can be accessed from countries around the world and may contain references to Balsamiq products, services and programs that are not available in your country. These references do not imply that Balsamiq intends to announce such products, services or programs in your country. The Site is controlled, operated and administered by Balsamiq Studios, LLC and its affiliates from their offices within the United States of America and Italy. Balsamiq makes no representation that the myBalsamiq service and Balsamiq Materials are appropriate or available for use at other locations outside the United States, and access to the Site from territories where the Site, the Services or Materials are illegal is prohibited. If you access the Site from a location outside the United States, you are responsible for compliance with all local laws.
 
@@ -394,7 +394,7 @@ By downloading Software, you are certifying that you are not a national of Cuba,
 
 All Balsamiq Software, products and publications are commercial in nature. The Software and documentation available on this Site are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other users pursuant to the Terms of Use and the applicable license agreement.
 
-##### Limitation of Liability[#](#liability)
+### Limitation of Liability
 
 In no event shall Balsamiq, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Balsamiq has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
 
@@ -412,19 +412,19 @@ Some jurisdictions prohibit the exclusion or limitation of liability for consequ
 
 * * *
 
-#### Governing Law and Jurisdiction[#](#governinglaw)
+## Governing Law and Jurisdiction
 
 The myBalsamiq service (excluding linked sites) is controlled by Balsamiq Studios, LLC from its offices within the state of California, United States of America. By accessing myBalsamiq, you agree that all matters relating to your access to, or use of, myBalsamiq shall be governed by the statutes and laws of the State of California, without regard to the conflicts of laws principles thereof. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods. You also agree and hereby submit to the exclusive personal jurisdiction and venue of the Superior Court of San Francisco County and the United States District Court for the Northern District of California with respect to such matters.
 
 * * *
 
-#### General[#](#general)
+## General
 
 The Terms of Use and other rules, guidelines, licenses and disclaimers posted via myBalsamiq or in connection with the Materials and Services constitute the entire agreement between Balsamiq and you with respect to your access to or use of the myBalsamiq service and materials superseding any prior agreements between you and Balsamiq on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and Balsamiq regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Balsamiq services, third party content or third party software. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Balsamiq to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
 
 * * *
 
-#### Document History[#](#history)
+## Document History
 
 *   2014, Nov 20: changed "outside contractors" to "outside parties" in [this section](http://support.balsamiq.com/customer/portal/articles/174898#balsamiqaccess), for clarity.
 *   2014, June 23: removed this sentence from General section: _You may not assign or otherwise transfer the Terms of Use nor any right granted hereunder without Balsamiq’s prior written consent._

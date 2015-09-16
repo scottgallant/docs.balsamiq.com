@@ -15,7 +15,7 @@ This document outlines a few different ways, so that you can pick the right one 
 
 **For sharing with colleagues:** just have your site owner invite them as [staff members](http://support.balsamiq.com/customer/portal/articles/231911#staffmembers). Once they're set up as staff members on your myBalsamiq site you can quickly add them to projects via the [Project Members](http://support.balsamiq.com/customer/portal/articles/112399#addingprojectteammembers) menu.
 
-#### Make them a project member[#](#projectmembers)
+## Make them a project member
 
 This is what we expect people will use the most.
 
@@ -31,7 +31,7 @@ To add someone as a project member, just invite them via the [Project Members](h
 
 * * *
 
-#### Send them a prototype view link[#](#prototype)
+## Send them a prototype view link
 
 If you want to keep your project private but don't want to force your customers to create a myBalsamiq login, and if your mockups are linked together, you could use the [Prototype view](http://support.balsamiq.com/customer/portal/articles/112399#mockupviewsgridstoryandmap) feature.
 
@@ -43,7 +43,7 @@ Note: Once the URL is shared, it will be accessible to whomever has it.
 
 * * *
 
-#### Send them individual mockup image permalinks[#](#image)
+## Send them individual mockup image permalinks
 
 Similar to the approach above, you could simply send them single mockup images using the [Image Permalink](http://support.balsamiq.com/customer/portal/articles/112401#mockupdescriptionpermalinkdownload) feature.
 
@@ -57,7 +57,7 @@ Note: People you share this URL with will NOT be able to add comments within myB
 
 * * *
 
-#### Make your project public[#](#public)
+## Make your project public
 
 If you are not concerned with keeping the work secret, this is a very quick way to allow external stakeholders to review, comment or even edit your wireframes.
 
@@ -67,7 +67,7 @@ Just set the project's [access control slider](http://support.balsamiq.com/custo
 
 * * *
 
-#### Export the project to PDF[#](#pdf)
+## Export the project to PDF
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-manage.png)
 
@@ -86,7 +86,7 @@ Some tips about exporting to PDF:
 
 * * *
 
-#### Print the Story View as PDF[#](#story)
+## Print the Story View as PDF
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-gridstorymap.png)
 
@@ -94,7 +94,7 @@ If you are looking for a more traditional "spec", what you could do is go to the
 
 * * *
 
-#### Download the project and send them a zip[#](#zip)
+## Download the project and send them a zip
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-manage.png)
 

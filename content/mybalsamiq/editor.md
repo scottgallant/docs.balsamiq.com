@@ -11,7 +11,7 @@ weight: 70
 
 The Mockups editor in myBalsamiq is very much like the editor in the desktop version. See the [Balsamiq Mockups for Desktop editor documentation](http://support.balsamiq.com/customer/portal/articles/109151) for any aspects of the editor not covered below.
 
-#### UI Overview [#](#ui)
+## UI Overview 
 
 The myBalsamiq editor is made up of four main parts, as shown below: **The Menu Bar, the UI Library, the Mockups editor canvas, and the Project Browser.**
 
@@ -19,13 +19,13 @@ The myBalsamiq editor is made up of four main parts, as shown below: **The Menu 
 
 * * *
 
-#### The Menu Bar [#](#menubar)
+## The Menu Bar 
 
 The Menu Bar is where you will find menus and icons for performing common actions, as well as the [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) box. It is very similar to the Application Bar found in the Desktop version, which you can [read about in the Desktop documentation](http://support.balsamiq.com/customer/portal/articles/109151#appbar).
 
 * * *
 
-#### The Project Browser [#](#projectbrowser)
+## The Project Browser 
 
 ##### Navigating the Project Browser
 
@@ -51,7 +51,7 @@ To change the order of a mockup in the list, hold down the mouse button to selec
 
 * * *
 
-#### Auto-Save [#](#autosave)
+## Auto-Save 
 
 myBalsamiq auto-saves often, so if your browser or editor crashes you should be able to recover your work when you relaunch the editor. Also, if you lose your network connection while editing you will get a notification like this:
 
@@ -59,7 +59,7 @@ myBalsamiq auto-saves often, so if your browser or editor crashes you should be 
 
 * * *
 
-#### Simultaneous Editing [#](#coediting)
+## Simultaneous Editing 
 
 While you are editing a project myBalsamiq looks for changes that are being made by another user. If a change is made, such as rename, reorder, or delete, you will receive a small notification that looks like this:
 

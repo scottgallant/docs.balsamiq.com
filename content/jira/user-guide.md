@@ -8,7 +8,7 @@ menu:
 weight: 10
 ---
 
-#### Welcome to the Online Help of Mockups for JIRA[#](#welcome)
+## Welcome to the Online Help of Mockups for JIRA
 
 This page contains usage instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira).
 
@@ -16,7 +16,7 @@ JIRA Administrators: the [Mockups for JIRA Admin Guide](http://support.balsamiq.
 
 * * *
 
-#### Adding a UI Mockup to a JIRA Issue[#](#adding)
+## Adding a UI Mockup to a JIRA Issue
 
 To add a UI Mockup to a particular JIRA issue you simply click on the “Add/Edit UI Mockup to this issue” link:
 
@@ -52,7 +52,7 @@ So that’s the basic workflow of creating a new mockup for an issue. It gets be
 
 * * *
 
-#### How to edit / iterate on Mockups[#](#edit)
+## How to edit / iterate on Mockups
 
 Say you want to tweak an existing UI mockup or create a new mockup as a variation of an existing one. The workflow is simple. Click the “Add/Edit UI Mockup to this issue” link again:
 

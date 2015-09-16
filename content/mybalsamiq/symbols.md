@@ -15,7 +15,7 @@ First, make sure you read and understand the introduction to Symbols in generalÂ
 
 * * *
 
-#### Creating or Uploading Symbols Libraries [#](#creating)
+## Creating or Uploading Symbols Libraries 
 
 **To create a Symbols library within myBalsamiq**
 
@@ -39,7 +39,7 @@ First, make sure you read and understand the introduction to Symbols in generalÂ
 
 * * *
 
-#### Using Symbols[#](#using)
+## Using Symbols
 
 When editing a Mockup, select the Project Assets or Site Assets tab in the UI Library and drag and drop your symbol into your mockup.
 
@@ -47,7 +47,7 @@ When editing a Mockup, select the Project Assets or Site Assets tab in the UI Li
 
 * * *
 
-#### Editing a Symbol Source [#](#editing)
+## Editing a Symbol Source 
 
 You can select the symbol library in the Project Browser on the right, make your edits and save the symbol library.
 

@@ -21,7 +21,7 @@ You can also [watch the Mockup section of our intro video](http://www.youtube.co
 
 * * *
 
-#### Creating Mockups [#](#creatingmockups)
+## Creating Mockups 
 
 To Create a mockup, select the New Mockup button in the upper right of a project or mockup page.
 
@@ -33,7 +33,7 @@ If you use the New Mockup button dropdown menu while on a single mockup page, th
 
 * * *
 
-#### Mockup Description, Permalink, Download [#](#mockupdescriptionpermalinkdownload)
+## Mockup Description, Permalink, Download 
 
 Below a Mockup, you’ll see 4 bits of information:
 
@@ -62,7 +62,7 @@ You can use the same text formatting options we provide in Mockups!
 
 * * *
 
-#### Navigating Mockups in the Project [#](#navigatingmockupsintheproject)
+## Navigating Mockups in the Project 
 
 When you’re browsing through project, you can navigate easily between the Mockups two ways: Prev/Next arrows and Mockup Sidebar.
 
@@ -82,7 +82,7 @@ Each Mockup has a down icon to the right that opens the action menu for the Mock
 
 * * *
 
-#### Adding Comments [#](#addingcomments)
+## Adding Comments 
 
 You can add comments to Mockups, just as you would to a blog entry. This is especially important in myBalsamiq, because we use comments when reviewing different versions of Mockups.
 
@@ -103,7 +103,7 @@ Your comment will be added, and will show other project members what version of 
 
 * * *
 
-#### Proposing Alternate Versions [#](#proposingalternateversions)
+## Proposing Alternate Versions 
 
 Working on wireframes is an iterative process, so one of the most important aspects of the review process is proposing alternate versions.
 
@@ -125,7 +125,7 @@ Alternatively, users can also click the “Merge into Main Mockup…” link bel
 
 * * *
 
-#### Viewing Mockup History [#](#viewingmockuphistory)
+## Viewing Mockup History 
 
 You may have noticed below the big project name that there’s a single line of text showing you the last update to the project, and who made it. The “View History…” text at the end of this line is a link to view the entire history of updates to the project.
 
@@ -142,7 +142,7 @@ You can learn more about the history feature, and view example history screens i
 
 * * *
 
-#### Restoring Versions [#](#restoringversions)
+## Restoring Versions 
 
 We keep versions of each mockup that’s committed to your project.
 
@@ -152,7 +152,7 @@ If you’re looking at the mockup history, each earlier version will have a butt
 
 * * *
 
-#### Restoring Deleted Mockups [#](#restoringdeleted)
+## Restoring Deleted Mockups 
 
 You can restore deleted mockups by going to the history and clicking the "Restore this version" button. You can also download the file without restoring it by clicking the "Download BMML" link. Deleted mockups may take a few minutes to appear in the history.
 
@@ -164,7 +164,7 @@ You will then see a message indicating that your mockup was restored.
 
 * * *
 
-#### Cloning Mockups [#](#cloningmockup)
+## Cloning Mockups 
 
 The “New Mockup” button on a Mockup page has a drop-down menu with options to copy it to a new mockup using the Clone menu.
 
@@ -174,6 +174,6 @@ Select the New Mockup drop down and choose “Clone this Mockup” and we’ll c
 
 * * *
 
-#### Mockups Editor [#](#mockupseditor)
+## Mockups Editor 
 
 The Mockups Editor is the application used for creating wireframes. Documentation for most aspects of the editor can be found in the [myBalsamiq Mockups Editor Documentation](http://support.balsamiq.com/customer/portal/articles/1366973).

@@ -27,7 +27,7 @@ The Assets Manager dialog is show below. This screenshot was opened from a proje
 
 * * *
 
-#### Assets in the Mockups editor[#](#editor)
+## Assets in the Mockups editor
 
 **Using Assets:** in the mockup editor you will find your images and symbols in the Project Assets and Site Assets tabs of the UI Library. Just double-click or drag-and-drop your selected asset to the canvas to use it. Mockups supports GIF, JPG/JPEG, and PNG image file formats.
 
@@ -41,6 +41,6 @@ Select the Project Asset or Site Asset tab depending on where you'd like the ima
 
 * * *
 
-#### Symbols [#](#symbols)
+## Symbols 
 
 For creating and editing Symbol libraries, please refer to the [Using Symbols in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/229142) document or read the step-by-step instructions [How to Use an Existing File as a Symbol in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/1311321).

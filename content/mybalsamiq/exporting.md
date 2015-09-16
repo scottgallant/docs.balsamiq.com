@@ -9,7 +9,7 @@ menu:
 weight: 100
 ---
 
-# Exporting to PDF
+## Exporting to PDF
 
 Unlike the [Desktop version](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf), exporting to PDF from myBalsamiq is done outside of the [Editor](http://support.balsamiq.com/customer/portal/articles/1366973).
 
@@ -21,7 +21,7 @@ You will see an option listed there to **export to PDF**. When you select it you
 
 **Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](http://support.balsamiq.com/customer/portal/articles/112398) in myBalsamiq.
 
-# Exporting to PNG Images
+## Exporting to PNG Images
 
 Unlike the [Desktop version](http://support.balsamiq.com/customer/portal/articles/111730#exportimage), exporting to a PNG image from myBalsamiq is done outside of the [Editor](http://support.balsamiq.com/customer/portal/articles/1366973).
 
