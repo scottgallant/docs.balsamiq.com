@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Team Communication in myBalsamiq"
-linktitle: "Team Communication in myBalsamiq"
+linktitle: "Team Communication"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

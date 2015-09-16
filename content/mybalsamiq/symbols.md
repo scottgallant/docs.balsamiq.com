@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Using Symbols in myBalsamiq"
-linktitle: "Using Symbols in myBalsamiq"
+linktitle: "Using Symbols"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

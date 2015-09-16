@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Access Control Matrix"
-linktitle: "myBalsamiq Access Control Matrix"
+linktitle: "Access Control Matrix"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

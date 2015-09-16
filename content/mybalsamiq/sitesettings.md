@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Site Settings"
-linktitle: "myBalsamiq Site Settings"
+linktitle: "Site Settings"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Using Assets in myBalsamiq"
-linktitle: "Using Assets in myBalsamiq"
+linktitle: "Using Assets"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

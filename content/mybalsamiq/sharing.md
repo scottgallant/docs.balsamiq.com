@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Sharing your work with outside clients in myBalsamiq"
-linktitle: "Sharing your work with outside clients in myBalsamiq"
+linktitle: "Sharing your work with outside clients"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

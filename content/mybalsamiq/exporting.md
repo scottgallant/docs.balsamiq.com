@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Exporting to PDF or PNG in myBalsamiq"
-linktitle: "Exporting to PDF or PNG in myBalsamiq"
+linktitle: "Exporting to PDF or PNG"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

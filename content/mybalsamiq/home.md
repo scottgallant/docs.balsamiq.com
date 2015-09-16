@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Home Page (All Projects)"
-linktitle: "myBalsamiq Home Page (All Projects)"
+linktitle: "Home Page (All Projects)"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

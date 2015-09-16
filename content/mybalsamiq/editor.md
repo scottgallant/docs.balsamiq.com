@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Mockups Editor"
-linktitle: "myBalsamiq Mockups Editor"
+linktitle: "Mockups Editor"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

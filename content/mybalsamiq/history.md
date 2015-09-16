@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Site, Project and Mockup History in myBalsamiq"
-linktitle: "Site, Project and Mockup History in myBalsamiq"
+linktitle: "Site, Project and Mockup History"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

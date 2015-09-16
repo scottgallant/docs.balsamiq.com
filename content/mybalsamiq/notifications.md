@@ -2,7 +2,7 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Email Notifications"
-linktitle: "myBalsamiq Email Notifications"
+linktitle: "Email Notifications"
 menu:
   menumybalsamiq:
     parent: mybalsamiq
