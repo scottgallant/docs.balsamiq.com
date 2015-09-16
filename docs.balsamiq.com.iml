@@ -7,6 +7,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/themes" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/public" />
+      <excludeFolder url="file://$MODULE_DIR$/src/build-css" />
+      <excludeFolder url="file://$MODULE_DIR$/src/build-includes" />
+      <excludeFolder url="file://$MODULE_DIR$/src/build-js" />
+      <excludeFolder url="file://$MODULE_DIR$/themes/docs-balsamiq-com/static" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
