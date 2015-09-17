@@ -13,11 +13,11 @@
       <div class="doc-list-header">
         <h1>{{ .Title }} Documentation</h1>
       </div>
-      <ul id="list">
+      <ol id="list">
       {{ range .Paginator.Pages.ByWeight.Reverse }}
         {{ .Render "li"}}
       {{ end }}
-      </ul>
+      </ol>
     {{ if eq .Title "Desktop" }}
       {{ partial "desktop_faqs.html" . }}
     {{ end }}

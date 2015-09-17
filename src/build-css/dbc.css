@@ -401,22 +401,24 @@ body {
     -webkit-transition: all 0.04s ease;
     transition: all 0.04s ease; }
 
-#company-support-portal .doc-overview ul {
+#company-support-portal .doc-overview ul, #company-support-portal .doc-overview ol {
   padding-bottom: 12px;
-  padding-top: 12px; }
-  #company-support-portal .doc-overview ul#list {
+  padding-top: 12px;
+  padding-left: 0; }
+  #company-support-portal .doc-overview ul#list, #company-support-portal .doc-overview ol#list {
     -webkit-column-width: 370px;
        -moz-column-width: 370px;
             column-width: 370px; }
-    #company-support-portal .doc-overview ul#list li .ss-icon {
+    #company-support-portal .doc-overview ul#list li .ss-icon, #company-support-portal .doc-overview ol#list li .ss-icon {
       color: #666; }
-  #company-support-portal .doc-overview ul.faq-list {
+  #company-support-portal .doc-overview ul.faq-list, #company-support-portal .doc-overview ol.faq-list {
     -webkit-column-width: 590px;
        -moz-column-width: 590px;
             column-width: 590px; }
-  #company-support-portal .doc-overview ul.faq-list li, #company-support-portal .doc-overview ul#list li {
+  #company-support-portal .doc-overview ul.faq-list li, #company-support-portal .doc-overview ul#list li, #company-support-portal .doc-overview ol.faq-list li, #company-support-portal .doc-overview ol#list li {
     line-height: 24px;
-    padding-bottom: 18px; }
+    padding-bottom: 18px;
+    margin-left: 2em; }
 
 #company-support-portal #body-main {
   position: relative;

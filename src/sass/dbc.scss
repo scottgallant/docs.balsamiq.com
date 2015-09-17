@@ -237,9 +237,10 @@ body {
   // DOC OVERVIEW PAGES
   .doc-overview {
     // ========================================
-    ul {
+    ul, ol {
       padding-bottom: 12px;
       padding-top: 12px;
+      padding-left: 0;
       &#list {
        column-width: 370px;
        li .ss-icon {
@@ -252,6 +253,7 @@ body {
       &.faq-list li, &#list li {
         line-height: 24px;
         padding-bottom: 18px;
+        margin-left: 2em;
       }
     }
   }
