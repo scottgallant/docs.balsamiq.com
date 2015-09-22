@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Project Page"
-linktitle: "Project Page"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 40
+    parent: 'mybalsamiq'
+    weight: 40
 ---
 
 An individual project page holds all the Mockups for a project.

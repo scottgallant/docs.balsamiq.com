@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Using Symbols in myBalsamiq"
-linktitle: "Using Symbols"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 90
+    parent: 'mybalsamiq'
+    weight: 90
 ---
 
 If you want to use symbols in your site, there are 2 ways to create them: uploading a symbols library file from the desktop, or creating them when you're editing a project on the site.

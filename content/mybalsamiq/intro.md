@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Application Overview"
-linktitle: "Application Overview"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 20
+    parent: 'mybalsamiq'
+    weight: 20
 ---
 
 [myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq/) lets you organize your work by project, create mockups collaboratively, review and iterate designs, and even deploy click-through prototypes for testing. See the [myBalsamiq documentation index page](http://support.balsamiq.com/customer/portal/articles/127531) for all the myBalsamiq documentation.

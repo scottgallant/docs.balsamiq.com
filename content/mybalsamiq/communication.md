@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Team Communication in myBalsamiq"
-linktitle: "Team Communication"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 120
+    parent: 'mybalsamiq'
+    weight: 120
 ---
 
 myBalsamiq offers 3 different ways of communicating via the Project Team menu displayed within a project: Skype Chat, Skype Voice Call, and Email.

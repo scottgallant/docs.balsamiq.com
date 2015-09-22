@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Home Page (All Projects)"
-linktitle: "Home Page (All Projects)"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 30
+    parent: 'mybalsamiq'
+    weight: 30
 ---
 
 Your home page is where Staff Members create and navigate to all the projects your team is working on.

@@ -2,11 +2,11 @@
 date:
 draft: false
 title:
-linktitle:
 menu:
   menuconfluence:
-    parent: confluence
-weight: 0
+    parent: 'confluence'
+    weight: 0
+tags:
 ---
 
 Hello.

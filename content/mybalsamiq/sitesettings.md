@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Site Settings"
-linktitle: "Site Settings"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 180
+    parent: 'mybalsamiq'
+    weight: 180
 ---
 
 **Note:** the actions described below are available to **site owners** only.

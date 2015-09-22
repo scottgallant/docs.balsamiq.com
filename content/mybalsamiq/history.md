@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "Site, Project and Mockup History in myBalsamiq"
-linktitle: "Site, Project and Mockup History"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 110
+    parent: 'mybalsamiq'
+    weight: 110
 ---
 
 The history functions allow you to view recent activity on the site, on a project, or on a mockup. You’ll notice below the project or mockup name that there’s a single line of text showing you the last update and who made it. The “View History…” text at the end of this line is a link to view the entire history of updates.

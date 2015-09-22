@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Single Mockup Page"
-linktitle: "Single Mockup Page"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 60
+    parent: 'mybalsamiq'
+    weight: 60
 ---
 
 ​

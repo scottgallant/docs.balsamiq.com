@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Email Notifications"
-linktitle: "Email Notifications"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 130
+    parent: 'mybalsamiq'
+    weight: 130
 ---
 
 myBalsamiq uses email notifications to keep team members updated on changes to a site. Only people that belong to a project who have also confirmed their account after being added to a site will email get the notification. Read on to learn more.

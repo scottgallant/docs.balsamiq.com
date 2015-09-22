@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Terms of Use and Privacy Policy"
-linktitle: "Terms of Use and Privacy Policy"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 10
+    parent: 'mybalsamiq'
+    weight: 10
 ---
 
 Please read this document carefully before accessing or using myBalsamiq.

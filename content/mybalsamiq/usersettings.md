@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq User Settings"
-linktitle: "User Settings"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 170
+    parent: 'mybalsamiq'
+    weight: 170
 ---
 
 Users can access their user settings by clicking your username in the header bar at the top of the page.

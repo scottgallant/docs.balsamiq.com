@@ -2,11 +2,11 @@
 date:
 draft: false
 title:
-linktitle:
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 0
+    parent: 'mybalsamiq'
+    weight: 0
+tags:
 ---
 
 Hello.

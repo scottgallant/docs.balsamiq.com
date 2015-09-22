@@ -2,11 +2,10 @@
 date: 2015-07-30T15:52:36-07:00
 draft: false
 title: "myBalsamiq Mockups Editor"
-linktitle: "Mockups Editor"
 menu:
   menumybalsamiq:
-    parent: mybalsamiq
-weight: 70
+    parent: 'mybalsamiq'
+    weight: 70
 ---
 
 The Mockups editor in myBalsamiq is very much like the editor in the desktop version. See the [Balsamiq Mockups for Desktop editor documentation](http://support.balsamiq.com/customer/portal/articles/109151) for any aspects of the editor not covered below.
