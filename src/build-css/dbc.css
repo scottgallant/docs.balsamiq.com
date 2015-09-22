@@ -8,8 +8,14 @@
       }
     }
 */
-.swiftype-widget .autocomplete ul li {
-  color: red !important; }
+#company-support-portal .st-autocomplete-results.st-ui-autocomplete a.st-ui-result {
+  padding: 8px 12px 8px 12px; }
+  #company-support-portal .st-autocomplete-results.st-ui-autocomplete a.st-ui-result .st-ui-type-heading {
+    color: #0062AE !important;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 14px;
+    line-height: 1.4rem; }
 
 #company-support-portal #body-main.home h2 {
   margin-bottom: 1em;
