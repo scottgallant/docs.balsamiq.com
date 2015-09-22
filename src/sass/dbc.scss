@@ -6,12 +6,14 @@
 // Import Mixins and Partials
 @import "modules/config";
 @import "modules/colors";
+@import "modules/search";
 @import "modules/home";
 @import "modules/design";
 
 // FOR SCROLLSPY
 body {
   position: relative;
+  border-top: 3px solid $red;
 }
 
 // ========================================
@@ -38,8 +40,8 @@ body {
   // ========================================
   // HEADER WRAPPER
   #header-wrapper {
-    // NEW RED
-    background: #c00;
+    background: $white;
+    border-bottom: 1px solid $gray;
     #site-nav {
       padding-top: 30px;
       color: $graypale;
@@ -54,9 +56,22 @@ body {
       #site-id {
         @include fontsize(21,21);
       }
-      color: $white;
       a {
-        color: $white;
+        color: $red;
+      }
+    }
+    #header #gnav a.gnava {
+      color: $red;
+      text-shadow: none;
+      &:hover {
+        background: rgba(0,0,0,.05);
+      }
+    }
+    #gnav #gnav-download {
+      @include breakpoint(smmin) {
+        border-left: 1px solid $gray;
+        margin-left: 3px;
+        padding-left: 3px;
       }
     }
     #search #s {
@@ -69,8 +84,23 @@ body {
       right: 15px;
       margin: 0;
       padding: 0;
+      .icon-bar {
+        background: $red;
+      }
     }
-  }
+    // SEARCH
+    #search {
+      .search {
+        #s, #ss  {
+          border: 1px solid $gray;
+        }
+        #ss {
+          border-left: none;
+        }
+      }
+    }
+
+  } // END header-wrapper
 
   // ========================================
   // BODY WRAPPER

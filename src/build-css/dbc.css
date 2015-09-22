@@ -8,6 +8,9 @@
       }
     }
 */
+.swiftype-widget .autocomplete ul li {
+  color: red !important; }
+
 #company-support-portal #body-main.home h2 {
   margin-bottom: 1em;
   color: #C00; }
@@ -235,7 +238,8 @@ body#company-support-portal.design-3 {
     background: #FFF !important; }
 
 body {
-  position: relative; }
+  position: relative;
+  border-top: 3px solid #C00; }
 
 #company-support-portal .container-fluid.fluid-max {
   max-width: 1300px; }
@@ -249,13 +253,13 @@ body {
   border-radius: 3px; }
 
 #company-support-portal #header-wrapper {
-  background: #c00; }
+  background: #FFF;
+  border-bottom: 1px solid #DDD; }
   #company-support-portal #header-wrapper #site-nav {
     padding-top: 30px;
     color: #F0F0F0;
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
-    font-weight: 400;
-    color: #FFF; }
+    font-weight: 400; }
     #company-support-portal #header-wrapper #site-nav #balsamiq-logo {
       font-size: 21px;
       font-size: 2.1rem;
@@ -272,7 +276,22 @@ body {
       line-height: 21px;
       line-height: 2.1rem; }
     #company-support-portal #header-wrapper #site-nav a {
-      color: #FFF; }
+      color: #C00; }
+  #company-support-portal #header-wrapper #header #gnav a.gnava {
+    color: #C00;
+    text-shadow: none; }
+    #company-support-portal #header-wrapper #header #gnav a.gnava:hover {
+      background: rgba(0, 0, 0, 0.05); }
+  @media only screen and (min-width: 768px) {
+    #company-support-portal #header-wrapper #gnav #gnav-download {
+      border-left: 1px solid #DDD;
+      margin-left: 3px;
+      padding-left: 3px; } }
+  @media (smmin: 0) {
+    #company-support-portal #header-wrapper #gnav #gnav-download {
+      border-left: 1px solid #DDD;
+      margin-left: 3px;
+      padding-left: 3px; } }
   #company-support-portal #header-wrapper #search #s {
     width: 125px; }
   #company-support-portal #header-wrapper #header #rmenu {
@@ -281,6 +300,12 @@ body {
     right: 15px;
     margin: 0;
     padding: 0; }
+    #company-support-portal #header-wrapper #header #rmenu .icon-bar {
+      background: #C00; }
+  #company-support-portal #header-wrapper #search .search #s, #company-support-portal #header-wrapper #search .search #ss {
+    border: 1px solid #DDD; }
+  #company-support-portal #header-wrapper #search .search #ss {
+    border-left: none; }
 
 #company-support-portal #body-wrapper {
   margin-bottom: 0 !important;

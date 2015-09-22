@@ -105,11 +105,11 @@ $(document).ready(function() {
 
   // ========================================
   // STYLE SWITCHER
-  $("#design-select a").click(function(){
-    $("body").removeClass();
-    $("body").addClass($(this).attr('data-design'));
-    return false;
-  });
+  // $("#design-select a").click(function(){
+  //  $("body").removeClass();
+  //  $("body").addClass($(this).attr('data-design'));
+  //  return false;
+  // });
 
   // SET GNAV
   var navsect = window.location.href.split('/');
