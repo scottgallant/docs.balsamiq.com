@@ -14,7 +14,7 @@
         <h1>{{ .Title }} Documentation</h1>
       </div>
       <ol id="list">
-      {{ range .Paginator.Pages.ByWeight.Reverse }}
+      {{ range .Data.Pages.ByWeight }}
         {{ .Render "li"}}
       {{ end }}
       </ol>

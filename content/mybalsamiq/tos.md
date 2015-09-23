@@ -1,18 +1,17 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: "2015-05-09T16:46:35+02:00"
 title: "myBalsamiq Terms of Use and Privacy Policy"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 10
+weight: 10
 ---
 
 Please read this document carefully before accessing or using myBalsamiq.
 
 * * *
 
-## Introduction 
+## Introduction
 
 ### English, not Legalese
 
@@ -72,7 +71,7 @@ We take pride in providing excellent customer support, but we are also a small t
 
 * * *
 
-## Access to your data 
+## Access to your data
 
 ##### What personal data do you collect and why?
 

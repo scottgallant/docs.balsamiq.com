@@ -366,6 +366,7 @@ body {
     transition: all 0.04s ease; }
 
 #company-support-portal .doc-overview ul, #company-support-portal .doc-overview ol {
+  margin: 0;
   padding-bottom: 12px;
   padding-top: 12px;
   padding-left: 0; }
@@ -380,8 +381,13 @@ body {
        -moz-column-width: 590px;
             column-width: 590px; }
   #company-support-portal .doc-overview ul.faq-list li, #company-support-portal .doc-overview ul#list li, #company-support-portal .doc-overview ol.faq-list li, #company-support-portal .doc-overview ol#list li {
+    margin-left: 2em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 18px;
+    font-size: 1.8rem;
     line-height: 36px;
-    margin-left: 2em; }
+    line-height: 3.6rem; }
 
 #company-support-portal #body-main {
   position: relative;

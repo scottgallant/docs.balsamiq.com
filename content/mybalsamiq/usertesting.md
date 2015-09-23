@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: "2015-05-09T16:46:35+02:00"
 title: "User Testing your myBalsamiq Prototypes"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 160
+weight: 150
 ---
 
 The prototype view of myBalsamiq projects allows you to show your Mockup without all of the surrounding interface of myBalsamiq.

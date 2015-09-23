@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "Using Symbols in myBalsamiq"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 90
+weight: 90
 ---
 
 If you want to use symbols in your site, there are 2 ways to create them: uploading a symbols library file from the desktop, or creating them when you're editing a project on the site.
@@ -14,7 +13,7 @@ First, make sure you read and understand the introduction to Symbols in generalÂ
 
 * * *
 
-## Creating or Uploading Symbols Libraries 
+## Creating or Uploading Symbols Libraries
 
 **To create a Symbols library within myBalsamiq**
 
@@ -46,7 +45,7 @@ When editing a Mockup, select the Project Assets or Site Assets tab in the UI Li
 
 * * *
 
-## Editing a Symbol Source 
+## Editing a Symbol Source
 
 You can select the symbol library in the Project Browser on the right, make your edits and save the symbol library.
 

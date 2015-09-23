@@ -1,12 +1,10 @@
 ---
 date:
-draft: false
-title:
 menu:
-  menujira:
+  menumybalsamiq:
     parent: 'jira'
-    weight: 0
-tags:
+title:
+weight: 0
 ---
 
 Hello.

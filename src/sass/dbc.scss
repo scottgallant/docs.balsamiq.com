@@ -267,6 +267,7 @@ body {
   .doc-overview {
     // ========================================
     ul, ol {
+      margin: 0;
       padding-bottom: 12px;
       padding-top: 12px;
       padding-left: 0;
@@ -280,8 +281,11 @@ body {
        column-width: 590px;
       }
       &.faq-list li, &#list li {
-        line-height: 36px;
+        // don't use bottom margin/padding - it will wrap to next column
         margin-left: 2em;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        @include fontsize(18,36);
       }
     }
   }

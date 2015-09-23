@@ -1,12 +1,10 @@
 ---
 date:
-draft: false
-title: 
 menu:
-  menudesktop:
+  menumybalsamiq:
     parent: 'desktop'
-    weight: 0
-tags:
+title:
+weight: 0
 ---
 
 Hello.

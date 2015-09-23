@@ -1,12 +1,10 @@
 ---
 date:
-draft: false
-title:
 menu:
-  menugoogledrive:
+  menumybalsamiq:
     parent: 'google-drive'
-    weight: 0
-tags:
+title:
+weight: 0
 ---
 
 Hello.

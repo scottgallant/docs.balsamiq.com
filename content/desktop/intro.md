@@ -5,7 +5,7 @@ title: "Introduction to Balsamiq Mockups 3"
 menu:
   menudesktop:
     parent: "desktop"
-    weight: 20
+    weight: 1
 tags:
   - "Overview"
   - "Introduction"

@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "Using Assets in myBalsamiq"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 80
+weight: 80
 ---
 
 myBalsamiq sites provide an assets manager for Site Assets and Project Assets. You can use this as a place to store re-usable images, Mockups, or other files you want to share with your team.
@@ -40,6 +39,6 @@ Select the Project Asset or Site Asset tab depending on where you'd like the ima
 
 * * *
 
-## Symbols 
+## Symbols
 
 For creating and editing Symbol libraries, please refer to the [Using Symbols in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/229142) document or read the step-by-step instructions [How to Use an Existing File as a Symbol in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/1311321).

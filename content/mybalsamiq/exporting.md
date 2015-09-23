@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "Exporting to PDF or PNG in myBalsamiq"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 100
+weight: 100
 ---
 
 ## Exporting to PDF

@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "myBalsamiq Site Settings"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 180
+weight: 170
 ---
 
 **Note:** the actions described below are available to **site owners** only.
@@ -16,13 +15,13 @@ The Site Settings page allows the site owner to change information about your co
 
 * * *
 
-## Site Info 
+## Site Info
 
 Basic Site Information is created at signup. The Site Info form allows you to change the company name or URL, upload a logo to use in the header, and set design colors using our custom design form.
 
 * * *
 
-## Staff Members 
+## Staff Members
 
 The Staff Members page is where you invite new staff members, and view them by geographic location using our Staff Members map (once they’ve set their locale in their own user settings).
 
@@ -49,13 +48,13 @@ Invited staff members will appear on the right side of the Add Staff Members sec
 
 * * *
 
-## Desktop Licenses 
+## Desktop Licenses
 
 Please see the [myBalsamiq and Mockups for Desktop](http://support.balsamiq.com/customer/portal/articles/232919) article for details.
 
 * * *
 
-## Payment Info 
+## Payment Info
 
 Site owners and [secondary billing administrators](#secondarybilling) are able to sign up for plans that suit their company needs, and upgrade or downgrade their plan at any time as their needs change. When upgrading or downgrading, sites will automatically receive credit for any time remaining on the old plan level.
 
@@ -63,7 +62,7 @@ Please see the [instructions for managing your myBalsamiq subscription](http://s
 
 * * *
 
-## Administration 
+## Administration
 
 Site owners have access to 4 administrative functions:
 

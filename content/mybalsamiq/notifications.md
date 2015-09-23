@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "myBalsamiq Email Notifications"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 130
+weight: 130
 ---
 
 myBalsamiq uses email notifications to keep team members updated on changes to a site. Only people that belong to a project who have also confirmed their account after being added to a site will email get the notification. Read on to learn more.
@@ -36,6 +35,6 @@ Site owners have the option option to be bcc:ed on all email notifications perta
 
 ![](http://media.balsamiq.com/img/support/docs/myb/notification_siteowner.png)
 
-## Problems receiving notifications? 
+## Problems receiving notifications?
 
 Maybe the person you invited hasn't confirmed their account? If they haven't gotten an invitation by email, please check the FAQ on [troubleshooting email confirmation and notifications](http://support.balsamiq.com/customer/portal/articles/236482#troubleshoot) from myBalsamiq.

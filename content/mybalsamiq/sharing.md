@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "Sharing your work with outside clients in myBalsamiq"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 140
+weight: 140
 ---
 
 Since myBalsamiq is all about collaboration, we offer many ways for you to get feedback on your designs.

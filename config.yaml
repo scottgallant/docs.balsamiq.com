@@ -19,7 +19,7 @@ taxonomies:
   tag:  "tags"
 
 menu.menudesktop:
-  name:  "Desktop"
+  name:  "desktop"
   identifier:  "desktop"
   url:  "/desktop/"
 

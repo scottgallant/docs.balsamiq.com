@@ -1,11 +1,10 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "myBalsamiq Home Page (All Projects)"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 30
+weight: 30
 ---
 
 Your home page is where Staff Members create and navigate to all the projects your team is working on.
@@ -16,7 +15,7 @@ Keep reading to get an idea of what Staff Members can do on the home page, or [w
 
 * * *
 
-## Anatomy of the Home Page 
+## Anatomy of the Home Page
 
 The screenshot below shows all the parts and functions on your site home page.
 
@@ -34,13 +33,13 @@ You can always sign in using the “Log in” link in the upper right corner of 
 
 * * *
 
-## Creating Projects 
+## Creating Projects
 
 One of the first things you’ll do in your site is create projects to organize your mockups.
 
 Creating projects is simple. Click one of the these two options: the book icon that reads “New Project” in the body of the page, or the little plus icon that reads “New Project” in the upper right of the screen.
 
-### New Project Menus 
+### New Project Menus
 
 ![](http://media.balsamiq.com/img/support/docs/myb/new-project.png)
 
@@ -50,7 +49,7 @@ Creating projects is simple. Click one of the these two options: the book icon t
 **2\. New Project Link**
  In the top right, below the global navigation bar is a New Project Link. You can click this to create a new project.
 
-### New Project Dialog 
+### New Project Dialog
 
 Clicking on either of the New Project links will open up the new project dialog you see below.
 
@@ -72,7 +71,7 @@ See also the instructions for [uploading an entire project from your desktop](ht
 
 * * *
 
-## Renaming and Setting a Style 
+## Renaming and Setting a Style
 
 On existing projects, you can easily rename and change the book cover style of a project by using the drop down menu in the bottom right.
 
@@ -80,7 +79,7 @@ On existing projects, you can easily rename and change the book cover style of a
 
 * * *
 
-## Cloning a Project 
+## Cloning a Project
 
 When you select “Clone…” to clone a project from the Project Menu on the home or using the Manage Project button on the project page, we create a copy of the project including all of its mockups.
 
@@ -92,11 +91,11 @@ You will be asked to enter the name of the new project in a dialog, and afterwar
 
 * * *
 
-## Uploading and Downloading Projects 
+## Uploading and Downloading Projects
 
 You can download a project to your desktop so that you have a local archive, or so you can work on your project files from Mockups for Desktop or move projects from one myBalsamiq site to another.
 
-### Upload 
+### Upload
 
 From a site home page, you can upload a .zip compressed file of a project folder. The project folder you'll compress should contain all your project BMML files, and any assets (images and symbols) used by the project should be in an assets/ subdirectory.
 
@@ -106,7 +105,7 @@ To upload, simply click the Upload New Project link in the upper right of the si
 
 When prompted by the dialog, browse for your .zip file on your computer and click Upload. Your project .zip will be uploaded in the background and will show up on the home page when the upload is complete.
 
-### Download 
+### Download
 
 **Download from Home Page**
 
@@ -126,7 +125,7 @@ From a [project's page](http://support.balsamiq.com/customer/portal/articles/112
 
 * * *
 
-## Archiving a Project 
+## Archiving a Project
 
 When you select “Archive” from the Project Menu or the using the Manage Project button on the project page, we will move the project to the site Archives.
 
@@ -138,7 +137,7 @@ The archives are accessible via the "Archives" link in the upper right of your h
 
 * * *
 
-## Unarchiving a Project 
+## Unarchiving a Project
 
 To unarchive a project, you must be a Staff member and have been a member of the project. While on the archives page, click the "Unarchive" link below the project title to move it to your active projects.
 
@@ -146,7 +145,7 @@ Note: If you've run out of projects in your Site's plan you will not be able to 
 
 * * *
 
-## Deleting Project 
+## Deleting Project
 
 When you select Delete from the Project Menu or the using the Manage Project button on the project page, we will delete the project and all of its contents permanently. This is an unrecoverable action, so be sure you download your project, using the Manage Project > Download Project Menu if you want to save a local copy of it first.
 
@@ -156,7 +155,7 @@ When you select Delete from the Project Menu or the using the Manage Project but
 
 * * *
 
-## Site Assets 
+## Site Assets
 
 The Assets link in the upper right of the home page opens the Site History manager dialog. Site Assets are images and any assets you want to share with all projects across your site.
 
@@ -168,7 +167,7 @@ For more information, view the [Assets](http://support.balsamiq.com/customer/por
 
 * * *
 
-## Site History 
+## Site History
 
 The single line of text under All Projects near the top left of your home page shows the last update to your site. If you click the “View History…” link, you will be taken to the Site History page, which shows an activity stream of updates for your site.
 

@@ -1,18 +1,17 @@
 ---
-date: 2015-07-30T15:52:36-07:00
-draft: false
+date: 2015-09-23T15:48:49-07:00
 title: "myBalsamiq Application Overview"
 menu:
   menumybalsamiq:
     parent: 'mybalsamiq'
-    weight: 20
+weight: 20
 ---
 
 [myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq/) lets you organize your work by project, create mockups collaboratively, review and iterate designs, and even deploy click-through prototypes for testing. See the [myBalsamiq documentation index page](http://support.balsamiq.com/customer/portal/articles/127531) for all the myBalsamiq documentation.
 
 * * *
 
-## Application Overview 
+## Application Overview
 
 This short video should give you an idea of what you can do with myBalsamiq.
 
@@ -22,7 +21,7 @@ You can also watch this video [on our YouTube channel](http://www.youtube.com/wa
 
 * * *
 
-## A Note About Roles and Access 
+## A Note About Roles and Access
 
 Many features of myBalsamiq are role-specific. Many of the instructions in this documentation are dependent upon permissions.
 

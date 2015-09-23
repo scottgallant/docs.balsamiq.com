@@ -1,12 +1,10 @@
 ---
 date:
-draft: false
-title:
 menu:
-  menuconfluence:
+  menumybalsamiq:
     parent: 'confluence'
-    weight: 0
-tags:
+title:
+weight: 0
 ---
 
 Hello.
