@@ -3,7 +3,7 @@ date: 2015-09-23T15:48:49-07:00
 title: "Sharing your work with outside clients in myBalsamiq"
 menu:
   menumybalsamiq:
-    parent: 'mybalsamiq'
+    parent: mybalsamiq
 weight: 140
 ---
 
