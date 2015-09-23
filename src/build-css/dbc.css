@@ -380,8 +380,7 @@ body {
        -moz-column-width: 590px;
             column-width: 590px; }
   #company-support-portal .doc-overview ul.faq-list li, #company-support-portal .doc-overview ul#list li, #company-support-portal .doc-overview ol.faq-list li, #company-support-portal .doc-overview ol#list li {
-    line-height: 24px;
-    padding-bottom: 18px;
+    line-height: 36px;
     margin-left: 2em; }
 
 #company-support-portal #body-main {
