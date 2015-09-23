@@ -1,11 +1,10 @@
 ---
-date: "2015-05-10T10:33:47+02:00"
-draft: false
+date: 2015-05-10T10:33:47+02:00
 title: "Linking Mockups Together"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 180
+    parent: desktop
+weight: 180
 tags:
   - "Linking"
   - "Full Screen"

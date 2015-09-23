@@ -1,11 +1,10 @@
 ---
-date: "2015-05-09T16:59:30+02:00"
-draft: false
+date: 2015-05-09T16:59:30+02:00
 title: "Exporting your Mockups"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 160
+    parent: desktop
+weight: 160
 tags:
   - "Exporting"
   - "PDF"

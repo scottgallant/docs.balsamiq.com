@@ -1,11 +1,10 @@
 ---
-date: "2015-05-09T16:59:07+02:00"
-draft: false
+date: 2015-05-09T16:59:07+02:00
 title: "Working with Site Maps"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 150
+    parent: desktop
+weight: 150
 ---
 
 You can create simple site maps from a text outline using the Site Map control.

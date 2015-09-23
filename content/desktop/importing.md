@@ -1,11 +1,10 @@
 ---
-date: "2015-05-09T17:05:09+02:00"
-draft: false
+date: 2015-05-09T17:05:09+02:00
 title: "Importing Mockups and Symbols"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 170
+    parent: desktop
+weight: 170
 tags:
   - "Importing"
   - "BMML"

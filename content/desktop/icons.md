@@ -1,11 +1,10 @@
 ---
-date: "2015-05-09T16:48:21+02:00"
-draft: false
+date: 2015-05-09T16:48:21+02:00
 title: "Working with Icons"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 110
+    parent: desktop
+weight: 110
 tags:
   - "Icons"
   - "Custom"

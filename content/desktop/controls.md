@@ -1,11 +1,10 @@
 ---
-date: "2015-05-09T16:45:59+02:00"
-draft: false
+date: 2015-05-09T16:45:59+02:00
 title: "Working with UI Controls"
 menu:
   menudesktop:
-    parent: 'desktop'
-    weight: 50
+    parent: desktop
+weight: 50
 tags:
   - "Controls"
   - "Crop"

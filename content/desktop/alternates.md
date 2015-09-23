@@ -1,11 +1,10 @@
 ---
-date: "2015-05-09T16:46:35+02:00"
-draft: false
+date: 2015-05-09T16:46:35+02:00
 title: "Working with Alternates"
 menu:
   menudesktop:
-    parent: 'desktop'
-    weight: 70
+    parent: desktop
+weight: 70
 tags:
   - "Alternates"
 ---

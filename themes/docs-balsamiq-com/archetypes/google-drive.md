@@ -2,7 +2,7 @@
 date:
 menu:
   menumybalsamiq:
-    parent: 'google-drive'
+    parent: google-drive
 title:
 weight: 0
 ---

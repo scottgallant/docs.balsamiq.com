@@ -1,13 +1,10 @@
 ---
-date: "2015-05-09T16:44:43+02:00"
-draft: false
+date: 2015-05-09T16:44:43+02:00
 title: "Mockups Application Overview"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 40
-categories:
-  - "desktop-docs"
+    parent: desktop
+weight: 40
 ---
 
 Balsamiq Mockups is a user interface design tool for creating [wireframes](http://support.balsamiq.com/customer/portal/articles/880427 "What are wireframes?") (also called mockups or low-fidelity prototypes). You can use it to generate digital sketches of your product ideas to facilitate discussion and understanding before any code is written.

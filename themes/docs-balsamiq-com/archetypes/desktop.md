@@ -2,7 +2,7 @@
 date:
 menu:
   menumybalsamiq:
-    parent: 'desktop'
+    parent: desktop
 title:
 weight: 0
 ---

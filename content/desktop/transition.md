@@ -1,13 +1,10 @@
 ---
-date: "2015-05-09T16:41:36+02:00"
-draft: false
+date: 2015-05-09T16:41:36+02:00
 title: "Balsamiq Mockups 3 Transition Guide"
 menu:
   menudesktop:
-    parent: "desktop"
-    weight: 20
-categories:
-  - "desktop-docs"
+    parent: desktop
+weight: 20
 ---
 
 Thank you for trying out our latest version of Balsamiq Mockups! We think that you'll really like all of the improvements and find it easier to use. To learn more about the new features you can read the [Introduction to Balsamiq Mockups 3](http://support.balsamiq.com/customer/portal/articles/1844131) or dive into our [complete documentation](http://support.balsamiq.com/customer/portal/articles/127377).
