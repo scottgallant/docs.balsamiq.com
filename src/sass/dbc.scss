@@ -43,7 +43,7 @@ body {
     border-bottom: 1px solid $gray;
     #site-nav {
       padding-top: 30px;
-      color: $graypale;
+      color: $gray;
       font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
       font-weight: 400;
       #balsamiq-logo {
@@ -66,7 +66,7 @@ body {
         background: rgba(0,0,0,.05);
       }
     }
-    #gnav #gnav-download {
+    #gnav #gnav-support {
       @include breakpoint(smmin) {
         border-left: 1px solid $gray;
         margin-left: 3px;

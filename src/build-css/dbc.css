@@ -17,39 +17,6 @@
     line-height: 14px;
     line-height: 1.4rem; }
 
-#company-support-portal #body-main.home h2 {
-  margin-bottom: 1em;
-  color: #C00; }
-
-#company-support-portal #body-main.home a.btn {
-  text-decoration: none; }
-  #company-support-portal #body-main.home a.btn:hover {
-    text-shadow: none !important; }
-
-#company-support-portal #body-main.home a.btn-lg {
-  border: 1px solid #DDD;
-  border-radius: 3px;
-  padding: 1em 0.5em;
-  margin-bottom: 1em;
-  margin-bottom: 5px;
-  text-decoration: none; }
-  #company-support-portal #body-main.home a.btn-lg:hover {
-    background-color: #DDD;
-    border-color: #BBB;
-    color: #0062AE !important;
-    text-shadow: none !important;
-    text-decoration: none; }
-  #company-support-portal #body-main.home a.btn-lg.featured {
-    background: #C00;
-    border: 2px solid #A60000;
-    color: #FFF; }
-    #company-support-portal #body-main.home a.btn-lg.featured:hover {
-      background: #A60000;
-      border-color: #7C0000;
-      color: #FFF !important;
-      text-shadow: none !important;
-      text-decoration: none; }
-
 #company-support-portal #home-search {
   background: #F0F0F0; }
   #company-support-portal #home-search h2 {
@@ -59,96 +26,68 @@
   #company-support-portal #home-search input#search_home {
     border: 1px solid #BBB;
     padding-top: 24px;
-    padding-bottom: 24px; }
+    padding-bottom: 24px;
+    width: 100%;
+    background-image: none; }
   #company-support-portal #home-search #search_home {
     border: 2px solid #EEE; }
     #company-support-portal #home-search #search_home:focus {
       border-color: #008AF4; }
 
-#company-support-portal #documentation {
-  margin-top: 24px; }
-  #company-support-portal #documentation a.button {
-    display: block;
-    padding: 5px;
-    margin-bottom: 5px; }
-  #company-support-portal #documentation .prod-core a.button {
-    text-align: left; }
-    @media only screen and (min-width: 992px) {
-      #company-support-portal #documentation .prod-core a.button {
-        min-height: 95px; } }
-    @media (mdmin: 0) {
-      #company-support-portal #documentation .prod-core a.button {
-        min-height: 95px; } }
-    #company-support-portal #documentation .prod-core a.button img, #company-support-portal #documentation .prod-core a.button span {
-      display: block;
-      float: left; }
-  #company-support-portal #documentation .prod-core img {
-    width: 20%; }
-    @media only screen and (min-width: 768px) {
-      #company-support-portal #documentation .prod-core img {
-        width: 40%; } }
-    @media (smmin: 0) {
-      #company-support-portal #documentation .prod-core img {
-        width: 40%; } }
-    @media only screen and (min-width: 992px) {
-      #company-support-portal #documentation .prod-core img {
-        width: 33%; } }
-    @media (mdmin: 0) {
-      #company-support-portal #documentation .prod-core img {
-        width: 33%; } }
-  #company-support-portal #documentation .prod-core span {
-    padding-top: 18px;
-    font-size: 16px;
-    font-size: 1.6rem;
-    line-height: 18px;
-    line-height: 1.8rem;
-    width: 78%;
-    padding-left: 2%;
-    letter-spacing: -.25px; }
-    @media only screen and (min-width: 768px) {
-      #company-support-portal #documentation .prod-core span {
-        width: 58%; } }
-    @media (smmin: 0) {
-      #company-support-portal #documentation .prod-core span {
-        width: 58%; } }
-    @media only screen and (min-width: 992px) {
-      #company-support-portal #documentation .prod-core span {
-        width: 64%;
-        font-size: 21px;
-        font-size: 2.1rem;
-        line-height: 24px;
-        line-height: 2.4rem; } }
-    @media (mdmin: 0) {
-      #company-support-portal #documentation .prod-core span {
-        width: 64%;
-        font-size: 21px;
-        font-size: 2.1rem;
-        line-height: 24px;
-        line-height: 2.4rem; } }
-  #company-support-portal #documentation .prod-plugins a.button {
-    min-height: 95px;
-    width: 95px;
-    float: left;
-    margin: 0 5px 5px 0; }
-    #company-support-portal #documentation .prod-plugins a.button img {
-      display: block;
-      margin: 0 auto;
-      padding: 6px 0 0 0;
-      width: 48px; }
-    #company-support-portal #documentation .prod-plugins a.button span {
-      display: block;
-      padding: 2px 0 0 0;
-      font-size: 14px;
-      font-size: 1.4rem;
-      line-height: 16px;
-      line-height: 1.6rem;
-      letter-spacing: -.25px; }
+#company-support-portal #body-main.home h2 {
+  margin-bottom: 1em;
+  color: #C00; }
 
-#company-support-portal #resources {
+#company-support-portal #body-main.home a.btn, #company-support-portal #body-main.home a.btn-lg {
+  border-color: #DDD;
+  margin-bottom: .6em;
+  padding-top: .6em;
+  padding-bottom: .6em; }
+
+#company-support-portal #body-main.home .documentation {
+  margin-top: 24px; }
+  #company-support-portal #body-main.home .documentation a.btn-lg.featured {
+    background: #C00;
+    border: 2px solid #A60000;
+    color: #FFF; }
+    #company-support-portal #body-main.home .documentation a.btn-lg.featured:hover {
+      background: #A60000;
+      border-color: #7C0000;
+      color: #FFF !important; }
+  #company-support-portal #body-main.home .documentation .prod-core a.btn {
+    font-size: 21px;
+    font-size: 2.1rem;
+    line-height: 32px;
+    line-height: 3.2rem;
+    margin-bottom: .6em; }
+    @media only screen and (min-width: 992px) {
+      #company-support-portal #body-main.home .documentation .prod-core a.btn {
+        padding-top: 28px;
+        min-height: 95px; } }
+    @media (mdmin: 0) {
+      #company-support-portal #body-main.home .documentation .prod-core a.btn {
+        padding-top: 28px;
+        min-height: 95px; } }
+  #company-support-portal #body-main.home .documentation .prod-plugins {
+    margin-top: .6em; }
+    #company-support-portal #body-main.home .documentation .prod-plugins a.btn {
+      font-size: 18px;
+      font-size: 1.8rem;
+      line-height: 21px;
+      line-height: 2.1rem; }
+      #company-support-portal #body-main.home .documentation .prod-plugins a.btn small {
+        display: block;
+        font-size: 14px;
+        font-size: 1.4rem;
+        line-height: 14px;
+        line-height: 1.4rem;
+        letter-spacing: -.25px; }
+
+#company-support-portal #body-main.home #resources {
   margin-top: 24px;
   margin-bottom: 48px; }
-  #company-support-portal #resources .ss-icon {
-    color: #555; }
+  #company-support-portal #body-main.home #resources .ss-icon {
+    display: none; }
 
 #company-support-portal #page-index.container {
   margin-top: 0; }
@@ -196,7 +135,7 @@ body {
   border-bottom: 1px solid #DDD; }
   #company-support-portal #header-wrapper #site-nav {
     padding-top: 30px;
-    color: #F0F0F0;
+    color: #DDD;
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: 400; }
     #company-support-portal #header-wrapper #site-nav #balsamiq-logo {
@@ -222,12 +161,12 @@ body {
     #company-support-portal #header-wrapper #header #gnav a.gnava:hover {
       background: rgba(0, 0, 0, 0.05); }
   @media only screen and (min-width: 768px) {
-    #company-support-portal #header-wrapper #gnav #gnav-download {
+    #company-support-portal #header-wrapper #gnav #gnav-support {
       border-left: 1px solid #DDD;
       margin-left: 3px;
       padding-left: 3px; } }
   @media (smmin: 0) {
-    #company-support-portal #header-wrapper #gnav #gnav-download {
+    #company-support-portal #header-wrapper #gnav #gnav-support {
       border-left: 1px solid #DDD;
       margin-left: 3px;
       padding-left: 3px; } }

@@ -10,49 +10,7 @@
 // ========================================
 
 // ========================================
-// HOME
-#body-main.home {
-  h2 {
-    margin-bottom: 1em;
-    color: $red;
-  }
-  a.btn {
-    text-decoration: none;
-    &:hover {
-      text-shadow: none !important;
-    }
-  }
-  a.btn-lg {
-    border: 1px solid $gray;
-    border-radius: 3px;
-    padding: 1em .5em;
-    margin-bottom: 1em;
-    margin-bottom: 5px;
-    text-decoration: none;
-    &:hover {
-      background-color: $gray;
-      border-color: $graymed;
-      color: $linkcolor !important;
-      text-shadow: none !important;
-      text-decoration: none;
-    }
-    &.featured {
-      background: $red;
-      border: 2px solid $redmed;
-      color: $white;
-      &:hover {
-        background: $redmed;
-        border-color: $reddark;
-        color: $white !important;
-        text-shadow: none !important;
-        text-decoration: none;
-      }
-    }
-  }
-}
-
-// ========================================
-// SEARCH
+// HOME SEARCH
 #home-search {
   background: $graypale;
   h2 {
@@ -65,6 +23,8 @@
     border: 1px solid $graymed;
     padding-top: 24px;
     padding-bottom: 24px;
+    width: 100%;
+    background-image: none;
   }
   #search_home {
     border: 2px solid $graylight;
@@ -74,79 +34,80 @@
   }
 }
 
-// ========================================
-// DOCUMENTATION
-#documentation {
-  margin-top: 24px;
-  a.button {
-    display: block;
-    padding: 5px;
-    margin-bottom: 5px;
-  }
-  .prod-core {
-    a.button {
-      @include breakpoint(mdmin) {
-        min-height: 95px;
-      }
-      text-align: left;
-      img, span {
-        display: block;
-        float: left;
-      }
-    }
-    img {
-      width: 20%;
-      @include breakpoint(smmin) {
-        width: 40%;
-      }
-      @include breakpoint(mdmin) {
-        width: 33%;
-      }
-    }
-    span {
-      padding-top: 18px;
-      @include fontsize(16,18);
-      width: 78%;
-      padding-left: 2%;
-      letter-spacing: -.25px;
-      @include breakpoint(smmin) {
-        width: 58%;
-      }
-      @include breakpoint(mdmin) {
-        width: 64%;
-        @include fontsize(21,24);
-      }
-    }
-  }
-  .prod-plugins {
-    a.button {
-      min-height: 95px;
-      width: 95px;
-      float: left;
-      margin: 0 5px 5px 0;
-      img {
-        display: block;
-        margin: 0 auto;
-        padding: 6px 0 0 0;
-        width: 48px;
-      }
-      span {
-        display: block;
-        padding: 2px 0 0 0;
-        @include fontsize(14,16);
-        letter-spacing: -.25px;
-      }
-    }
-  }
-}
 
 // ========================================
-// RESOURCES
-#resources {
-  margin-top: 24px;
-  margin-bottom: 48px;
-  .ss-icon {
-    color: $grayverydark2;
+// HOME
+#body-main.home {
+
+  // HEADINGS
+  h2 {
+    margin-bottom: 1em;
+    color: $red;
+  }
+
+  // BUTTONS
+  a.btn, a.btn-lg {
+    border-color: $gray;
+    margin-bottom: .6em;
+    padding-top: .6em;
+    padding-bottom: .6em;
+  }
+
+  // ========================================
+  // DOCUMENTATION
+  .documentation {
+    margin-top: 24px;
+    // BUTTONS
+    a.btn-lg {
+      &.featured {
+        background: $red;
+        border: 2px solid $redmed;
+        color: $white;
+        &:hover {
+          background: $redmed;
+          border-color: $reddark;
+          color: $white !important;
+        }
+      }
+    }
+
+    // CORE
+    .prod-core {
+      a.btn {
+        @include fontsize(21,32);
+        @include breakpoint(mdmin) {
+          padding-top: 28px;
+          min-height: 95px;
+        }
+        margin-bottom: .6em;
+      }
+    }
+    // PLUGINS
+    .prod-plugins {
+      margin-top: .6em;
+      a.btn {
+        @include fontsize(18,21);
+        @include breakpoint(mdmin) {
+          // min-height: 95px;
+        }
+        small {
+          display: block;
+          @include fontsize(14,14);
+          letter-spacing: -.25px;
+        }
+      }
+    }
+  }
+
+  // ========================================
+  // RESOURCES
+  #resources {
+    margin-top: 24px;
+    margin-bottom: 48px;
+    .ss-icon {
+      display: none;
+      // color: $grayverydark2;
+    }
   }
 }
 

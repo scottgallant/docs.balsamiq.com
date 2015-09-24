@@ -3,8 +3,9 @@ docs.balsamiq.com
 
 # Content
 * Add new files to the content/(section name) directory with a .md extensions. Markdown is accepted, and HUGO's [front matter](http://gohugo.io/content/front-matter/) is expected for the navigation to work properly.
-* You can create new docs using the command line to add the file to the content directory with architectype templates. This inserts the proper front matter including parent and creation date.
-  * $ hugo new jira/mypage.md
+* It's recommended that you create new docs using the command line to add the file to the content directory with architectype templates. This inserts and formats the front matter into the article properly, including parent and creation date.
+  * $ hugo new mybalsamiq/mypage.md
+* To change the order of how articles appear on the Product overviews add a weight to the front matter.
 
 # HUGO Usage
 
