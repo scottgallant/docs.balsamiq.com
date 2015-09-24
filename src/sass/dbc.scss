@@ -55,6 +55,9 @@ body {
       #site-id {
         @include fontsize(21,21);
       }
+      .separator {
+        padding: 0 3px;
+      }
       a {
         color: $red;
       }

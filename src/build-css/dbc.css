@@ -153,6 +153,8 @@ body {
       font-size: 2.1rem;
       line-height: 21px;
       line-height: 2.1rem; }
+    #company-support-portal #header-wrapper #site-nav .separator {
+      padding: 0 3px; }
     #company-support-portal #header-wrapper #site-nav a {
       color: #C00; }
   #company-support-portal #header-wrapper #header #gnav a.gnava {
