@@ -43,14 +43,14 @@
           <hr>
           <div class="row section-pager">
             <div class="col-xs-6 section-prev">
-              {{ if .PrevInSection }}
-              <a href="{{.PrevInSection.Permalink}}"> &lt;&nbsp;{{.PrevInSection.Title}}</a>
+              {{ if .NextInSection }}
+                <a href="{{.NextInSection.Permalink}}">&lt;&nbsp;{{.NextInSection.Title}}</a>
               {{ end }}
             </div>
             <div class="col-xs-6 section-next">
-            {{ if .NextInSection }}
-              <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&gt;</a>
-            {{ end }}
+              {{ if .PrevInSection }}
+              <a href="{{.PrevInSection.Permalink}}"> {{.PrevInSection.Title}}&nbsp;&gt;</a>
+              {{ end }}
             </div>
           </div>
         </article>
