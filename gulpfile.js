@@ -10,6 +10,7 @@ var gulp = require("gulp"),
   concat = require('gulp-concat'),
   notify = require('gulp-notify'),
   del = require('del'),
+  sitemap = require('gulp-sitemap'),
   watch = require('gulp-watch'),
   log = util.log;
 
@@ -66,6 +67,15 @@ gulp.task('getsassconfig', function() {
     .pipe(notify({ message: 'Get SASS CONFIG file task complete' }));
 });
 
+// Generate Sitemap for Search Engines
+gulp.task('sitemap', function () {
+  gulp.src('public/**/*.html')
+      .pipe(sitemap({
+          siteUrl: 'http://docs.balsamiq.com'
+      }))
+      .pipe(gulp.dest('./public'));
+});
+
 // Clean
 gulp.task('clean', function(cb) {
   del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js'], cb)
@@ -73,7 +83,7 @@ gulp.task('clean', function(cb) {
 
 // Default
 gulp.task('default', ['clean'], function() {
-  gulp.start('sass', 'js');
+  gulp.start('sass', 'js', 'sitemap');
 });
 // Dev (CSS/JS Only)
 gulp.task('dev', ['clean'], function() {
@@ -86,5 +96,4 @@ gulp.task('watch', function() {
   gulp.watch('./src/sass/**/*.scss', ['sass']);
   // Watch .js files
   gulp.watch('./src/js/**/*.js', ['js']);
-
 });
