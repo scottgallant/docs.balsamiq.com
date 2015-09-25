@@ -459,7 +459,7 @@ body {
 #company-support-portal #footer-wrapper {
   background: #FFF; }
   #company-support-portal #footer-wrapper .main {
-    padding-top: 12px; }
+    padding: 2px 0; }
   #company-support-portal #footer-wrapper ul li:first-child {
     margin-left: 0; }
 
