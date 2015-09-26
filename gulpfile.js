@@ -78,7 +78,7 @@ gulp.task('sitemap', function () {
 
 // Clean
 gulp.task('clean', function(cb) {
-  del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js'], cb)
+  del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js', './public/sitemap.xml'], cb)
 });
 
 // Default
