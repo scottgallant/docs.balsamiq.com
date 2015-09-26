@@ -71,7 +71,7 @@ gulp.task('getsassconfig', function() {
 gulp.task('sitemap', function () {
   gulp.src('public/**/*.html')
       .pipe(sitemap({
-          siteUrl: 'http://docs.balsamiq.com'
+          siteUrl: 'https://docs.balsamiq.com'
       }))
       .pipe(gulp.dest('./public'));
 });
