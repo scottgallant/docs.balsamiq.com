@@ -20,6 +20,9 @@
       </ol>
     {{ if eq .Title "Desktop" }}
       {{ partial "desktop_faqs.html" . }}
+    {{ else if eq .Title "Mybalsamiq" }}
+      {{ partial "myb_faqs.html" . }}
+    {{ else }}
     {{ end }}
     </main>
   </div> <!-- /.doc-overview -->
