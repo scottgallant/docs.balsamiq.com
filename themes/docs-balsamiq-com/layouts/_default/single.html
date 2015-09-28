@@ -41,19 +41,21 @@
           {{ partial "article_tags.html" . }}
           */}}
           <hr>
-          <div class="row section-pager">
-            <div class="col-xs-6 section-prev">
+          <nav class="section-pager">
+            <ul class="pager">
+              <li class="previous">
               {{ if .NextInSection }}
-                <a href="{{.NextInSection.Permalink}}">&lt;&nbsp;{{.NextInSection.Title}}</a>
-              {{ end }}
-            </div>
-            <div class="col-xs-6 section-next">
+                          <a href="{{.NextInSection.Permalink}}"><span aria-hidden="true">&larr;</span> {{.NextInSection.Title}}</a>
+                        {{ end }}
+              </li>
+              <li class="next">
               {{ if .PrevInSection }}
-              <a href="{{.PrevInSection.Permalink}}"> {{.PrevInSection.Title}}&nbsp;&gt;</a>
-              {{ end }}
-            </div>
-          </div>
-        </article>
+                        <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} <span aria-hidden="true">&rarr;</span></a>
+                        {{ end }}
+              </li>
+            </ul>
+          </nav>
+         </article>
       </div>
     </div>
   </div><!-- /.support-main -->
