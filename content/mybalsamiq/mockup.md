@@ -11,7 +11,7 @@ The image below is a marked up screenshot showing all the parts and functions on
 
 [![](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)
 
-<small>[View full size image in a new window →](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)</small>
+<small>[View full size image in a new window &rarr;](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)</small>
 
 You can also [watch the Mockup section of our intro video](http://www.youtube.com/watch?v=-cjEyt1ahNw#t=3m59s) on YouTube for a quick intro to Mockups in myBalsamiq.
 
@@ -49,9 +49,9 @@ Below a Mockup, you’ll see 4 bits of information:
 
 You can use the same text formatting options we provide in Mockups!
 
-*   for italic, use _this notation_
+*   for italic, use \_this notation\_
 *   for a link, use [this notation]
-*   for bold, use *this notation*
+*   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
 *   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the # sign.
@@ -88,9 +88,9 @@ Scroll to the bottom of a Mockup page, enter your comment in the comment form an
 
 You can use the same text formatting options we provide in Mockups!
 
-*   for italic, use _this notation_
+*   for italic, use \_this notation\_
 *   for a link, use [this notation]
-*   for bold, use *this notation*
+*   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
 *   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the # sign.

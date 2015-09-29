@@ -7,7 +7,7 @@ menu:
 weight: 20
 ---
 
-[myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq/) lets you organize your work by project, create mockups collaboratively, review and iterate designs, and even deploy click-through prototypes for testing. See the [myBalsamiq documentation index page](http://support.balsamiq.com/customer/portal/articles/127531) for all the myBalsamiq documentation.
+[myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq/) lets you organize your work by project, create mockups collaboratively, review and iterate designs, and even deploy click-through prototypes for testing. See the [myBalsamiq documentation index page](/mybalsamiq/) for all the myBalsamiq documentation.
 
 * * *
 

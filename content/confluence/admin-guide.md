@@ -14,7 +14,7 @@ The Confluence Admin Guide contains installation, registration, updating and uni
 
 Instructions for Atlassian Cloud are [here](http://support.balsamiq.com/customer/portal/articles/223421).
 
-Usage instructions for the plugin are [here](http://support.balsamiq.com/customer/portal/articles/113837).
+Usage instructions for the plugin are [here](/confluence/user-guide).
 
 * * *
 
@@ -108,7 +108,7 @@ The mockups created so far will disappear from the wiki pages because the {mocku
 
 ## Troubleshooting
 
-##### If you get an error when trying to save large mockups
+### If you get an error when trying to save large mockups
 
 When saving large mockups, you might get a 2032 error. This is due to the fact that Tomcat has a 2MB default to the maximum size of a POST request, which is what we use to save the mockup image.
 

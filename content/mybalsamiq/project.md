@@ -21,7 +21,7 @@ The image screenshot below shows all the parts and functions on a typical projec
 
 [![](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)
 
-<small>[View full size image in a new window →](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)</small>
+<small>[View full size image in a new window &rarr;](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)</small>
 
 * * *
 
@@ -29,21 +29,21 @@ The image screenshot below shows all the parts and functions on a typical projec
 
 Once you’ve created a project, it’s easy to change the project name and description from the project page.
 
-##### Project Title
+### Project Title
 
 When you hover over a title and description from the project page you’ll notice that the text is highlighted in yellow. Any time you see this hover effect, it’s a cue that the field is editable. To edit the name or description, click the text.
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-editinplace.png)
 
-##### Project Description
+### Project Description
 
 Sometimes the description for a project is shortened, and shows a More… link. You have to expand the description first, and then you’ll see the highlight effect. Click again to edit.
 
 You can use the same text formatting options we provide in Mockups!
 
-*   for italic, use _this notation_
+*   for italic, use \_this notation\_
 *   for a link, use [this notation]
-*   for bold, use *this notation*
+*   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
 *   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the # sign.

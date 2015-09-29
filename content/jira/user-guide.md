@@ -11,7 +11,7 @@ weight: 10
 
 This page contains usage instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira).
 
-JIRA Administrators: the [Mockups for JIRA Admin Guide](http://support.balsamiq.com/customer/portal/articles/113844) is for you.
+JIRA Administrators: the [Mockups for JIRA Admin Guide](/jira/admin-guide) is for you.
 
 * * *
 
@@ -45,7 +45,9 @@ You will be taken back to the issue. Here's a sample one (click for a larger vie
 
 Notice how the UI Mockup is now attached to the issue, both as an image and as a bmml data file (BMML is the flavor of XML that Mockups uses). Also notice how Mockups for JIRA has added a comment to the issue for you, saying “Added UI Mockup: <_mockup name_>“. This means that if any of your co-workers is watching the issue, they’ll get an email notification to check out your new work of art. :)
 
-**Note:** Even if your Balsamiq Mockups license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](http://support.balsamiq.com/customer/portal/articles/113844#users)), anyone with access to your JIRA site will be able to see them.
+<span class="alert alert-info show" role="alert">
+**Note:** Even if your Balsamiq Mockups license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/jira/admin-guide)), anyone with access to your JIRA site will be able to see them.
+</span>
 
 So that’s the basic workflow of creating a new mockup for an issue. It gets better!
 

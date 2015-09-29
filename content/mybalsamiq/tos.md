@@ -37,9 +37,9 @@ This is a living document. With your help, we want to make it the best in the in
 
 If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [peldi@balsamiq.com](mailto:peldi@balsamiq.com?subject=myBalsamiq%20ToS) and we'll chat.
 
-We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#history) to see the history so far.
+We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#document-history) to see the history so far.
 
-We will likely improve this document over time. By continuing to use the site, you will implicitily accept the changes we make.
+We will likely improve this document over time. By continuing to use the site, you will implicitly accept the changes we make.
 
 Your access and use of myBalsamiq is always subject to the most current version of this document.
 
@@ -61,13 +61,13 @@ If you think we removed your access by mistake, [get in touch](mailto:sales@bals
 
 Support for myBalsamiq is provided via our Community Forums at [forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [support.balsamiq.com](http://support.balsamiq.com)
 
-Email and phone support is also included, but is **only provided to myBalsamiq site owners**. If you have an issue with your myBalsamiq site, contact your site owner first, via their email address if you know it, or the owner@_<your mybalsamiq subdomain>_.mybalsamiq.com email alias.
+Email and phone support is also included, but is **only provided to myBalsamiq site owners**. If you have an issue with your myBalsamiq site, contact your site owner first, via their email address if you know it, or the owner@_&lt;your mybalsamiq subdomain&gt;_.mybalsamiq.com email alias.
 
 If you are a site owner, you can customize your myBalsamiq subdomain and upload your logo to your myBalsamiq site. As a site owner, you invite staffers and they can invite project members. You as a site owner are responsible for first-level support to the people you and your site's staff members invite.
 
 We also continuously update the [myBalsamiq Documentation](http://support.balsamiq.com/customer/portal/topics/51252) so that users can help themselves and site owners are better equipped to help their users.
 
-We take pride in providing excellent customer support, but we are also a small team and value our work/life balance. This means that although we'll try our best, **we do not guarantee 24/7 support**.
+We take pride in providing excellent customer support, but we are also a small team and value our work/life balance. This means that although we'll try our best, **we do not guarantee 24 / 7 support**.
 
 * * *
 
@@ -77,14 +77,14 @@ We take pride in providing excellent customer support, but we are also a small t
 
 We collect the following personal data:
 
-Name
- E-mail address
- Billing Address
- Optional Phone number and Skype ID
- Optional Geographical location
- Optional Working hours
+Name  
+ E-mail address  
+ Billing Address  
+ Optional Phone number and Skype ID  
+ Optional Geographical location  
+ Optional Working hours  
 
-We do not collect credit card information directly. See [Who can see my credit card number?](#ccnumber) below.
+We do not collect credit card information directly. See [Who can see my credit card number?](#who-can-see-my-credit-card-number) below.
 
 We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -134,7 +134,7 @@ myBalsamiq stores auto-save data and other settings in Flash Local SharedObjects
 
 It depends on the project access level you choose for your projects. By default, each project is private, but the site owner or any staff member who's part of that project can [make it public](http://support.balsamiq.com/customer/portal/articles/112399#settingaccesscontrol).
 
-For private projects: the only people who can see your wireframes are staff members invited to the project, project members, your site owner and [some balsamiq employees](#balsamiqaccess).
+For private projects: the only people who can see your wireframes are staff members invited to the project, project members, your site owner and [some balsamiq employees](#what-are-the-guidelines-balsamiq-follows-when-accessing-my-data).
 
 If you send an image permalink or a prototype view link to someone, they will be able to access that image or prototype view, even without logging in. The link is intentionally very long and hard to guess.
 
@@ -162,7 +162,7 @@ We use secure private keys when accessing myBalsamiq servers via SSH, and protec
 
 We log application data (username and email, subdomain and project name). We rotate logs with 14-days conservation. We stream logs from our servers to our own secure recorder server using SSL.
 
-As mentioned [above](#ccnumber), we rely on Pin Payments for payment processing.
+As mentioned [above](#who-can-see-my-credit-card-number), we rely on Pin Payments for payment processing.
 
 We use [PubNub](http://www.pubnub.com/) to provide real-time updates, always sent over SSL. Here's their [privacy policy](http://www.pubnub.com/privacy-policy).
 
@@ -239,7 +239,7 @@ You are solely and entirely responsible for all of your user materials that you 
 
 In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet. We do not offer contracted SLA for availability to myBalsamiq and your data.
 
-That said, high reliability is something we are proud of and something we deliberately chose to compete on. We have developers, system administrators and support staff on call, 24/7.
+That said, high reliability is something we are proud of and something we deliberately chose to compete on. We have developers, system administrators and support staff on call, 24 / 7.
 
 We monitor myBalsamiq closely and have set up automated alarms to be notified (via email and SMS) when the myBalsamiq service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
@@ -253,7 +253,7 @@ You acknowledge and agree that Balsamiq shall not be liable for any failure to s
 
 Your wireframe images are saved on [Amazon Simple Storage Service](http://aws.amazon.com/s3/), which provides an SLA of 99.999999999% durability and 99.99% availability of object over a given year ([link](http://aws.amazon.com/s3-sla/)).
 
-Your wireframe data, site settings and projects information are saved (unencrypted other than passwords) in our database, which runs on [Amazon RDS](http://aws.amazon.com/rds/). We have a real-time backup to a slave instance in a different availability zone (for added resilience) and we keept daily database snapshots of the last 3 days. Data is replicated in 3 different data centers.
+Your wireframe data, site settings and projects information are saved (unencrypted other than passwords) in our database, which runs on [Amazon RDS](http://aws.amazon.com/rds/). We have a real-time backup to a slave instance in a different availability zone (for added resilience) and we keep daily database snapshots of the last 3 days. Data is replicated in 3 different data centers.
 
 ### How quickly can you recover from a data center disaster?
 
@@ -326,10 +326,10 @@ If you believe that your work has been used or copied in a way that constitutes 
 
 Balsamiq’s designated agent for notice of claims of copyright infringement can be reached as follows:
 
-By mail:
- Balsamiq Studios, LLC
- 1517 24th Street
- Sacramento, CA 95816
+By mail:  
+ Balsamiq Studios, LLC  
+ 1517 24th Street  
+ Sacramento, CA 95816  
 
 By telephone: (415) 367-3531
 
@@ -362,9 +362,9 @@ You acknowledge and agree that:
 3.  any dealings you may have with such third parties are at your own risk; and
 4.  Balsamiq shall not be liable or responsible for any materials or services offered by third parties.
 
-Balsamiq does not control or endorse the materials found in any services and specifically disclaims any liability with regard to the site, services and any actions resulting from your use of the myBalsamiq service and Balsamiq Materialsand participation in any services. Managers, hosts, site owners, project members and other third parties are not authorized Balsamiq spokespersons, and their views do not necessarily reflect those of Balsamiq. To the maximum extent permitted by law, Balsamiq will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Balsamiq also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user materials.
+Balsamiq does not control or endorse the materials found in any services and specifically disclaims any liability with regard to the site, services and any actions resulting from your use of the myBalsamiq service and Balsamiq Materials and participation in any services. Managers, hosts, site owners, project members and other third parties are not authorized Balsamiq spokespersons, and their views do not necessarily reflect those of Balsamiq. To the maximum extent permitted by law, Balsamiq will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Balsamiq also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user materials.
 
-The use of myBalsamiq service, Balsamiq Materialsor the downloading or other use of any materials is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. Balsamiq assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from Balsamiq or via the site, services or materials shall create any warranty not expressly stated in the terms of use. Balsamiq will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
+The use of myBalsamiq service, Balsamiq Materials or the downloading or other use of any materials is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. Balsamiq assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from Balsamiq or via the site, services or materials shall create any warranty not expressly stated in the terms of use. Balsamiq will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
 
 Some states or jurisdictions do not allow the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety (90) days.
 
@@ -433,8 +433,8 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 *   2013, Jan 23: Clarified that you are able to use myBalsamiq without sharing your projects with people outside your organization.
 *   2013, Jan 16: Clarified that Balsamiq staff will look at projects in order to debug them if the site owner or a site staff member asks us to do so.
 *   2012, July 16: Added a paragraph about not guaranteeing 24/7 support - Peldi
-*   2012, July 9: Added a section about [backups](#backups) and [disaster recovery](#recovery) - Peldi
-*   2012, Mar 7: Added [this section](#whitehat) about responsible disclosure of security vulnerabilities - Peldi
+*   2012, July 9: Added a section about [backups](#how-is-our-data-backed-up) and [disaster recovery](#how-quickly-can-you-recover-from-a-data-center-disaster) - Peldi
+*   2012, Mar 7: Added [this section](#what-should-i-do-if-i-find-a-security-vulnerability-in-mybalsamiq) about responsible disclosure of security vulnerabilities - Peldi
 *   2011, Nov 24: Specified that you need to accept cookies from mybalsamiq.com, not cookies in general. Also fixed a typo. Both ideas by Max S. - thanks! Peldi
 *   2011, Nov 3: Did another pass, looks pretty good now (still a little too much legalese for my taste though). Peldi
 *   2011, Nov 2: First official draft! Removed "this is a draft" warning from the top. Peldi

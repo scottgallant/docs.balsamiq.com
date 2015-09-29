@@ -3,9 +3,19 @@ docs.balsamiq.com
 
 # Content
 * Add new files to the content/(section name) directory with a .md extensions. Markdown is accepted, and HUGO's [front matter](http://gohugo.io/content/front-matter/) is expected for the navigation to work properly.
-* It's recommended that you create new docs using the command line to add the file to the content directory with architectype templates. This inserts and formats the front matter into the article properly, including parent and creation date.
+* It's recommended that you create new docs using the command line to add the file to the content directory with archetype templates. This inserts and formats the front matter into the article properly, including parent and creation date.
   * $ hugo new mybalsamiq/mypage.md
 * To change the order of how articles appear on the Product overviews add a weight to the front matter.
+* For help with Markdown, see [this cheatsheet](https://beegit.com/markdown-cheat-sheet) or [this one](http://thisismarkdown.com)
+* Markdown doesn't allow markdown syntax inside an HTML block element (a \<div\> or \<p\>, for example), so you can use this "hack" to convert an inline element to a block element using a Bootstrap helper class (".show") (for info and warning alert messages, for example)
+	* Info alerts:  
+	```	<span class="alert alert-info show" role="alert">
+**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](http://support.balsamiq.com/customer/portal/articles/112398) in myBalsamiq.
+</span>```
+	* Warning alerts:  
+	```	<span class="alert alert-warning show" role="alert">
+**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](http://support.balsamiq.com/customer/portal/articles/112398) in myBalsamiq.
+</span>```
 
 # HUGO Usage
 

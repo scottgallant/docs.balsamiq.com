@@ -21,7 +21,7 @@ The screenshot below shows all the parts and functions on your site home page.
 
 [![](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)
 
-<small>[View image full size in a new window →](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)</small>
+<small>[View image full size in a new window &rarr;](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)</small>
 
 The home page is your main entry point for navigating projects. Whenever you want to return to this page, click the Home link in your breadcrumbs in the gray bar at the top left of the screen, or click your site name or logo in the upper left corner.
 

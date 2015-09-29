@@ -13,7 +13,7 @@ This page contains installation, registration, updating and uninstalling instruc
 
 Instructions for Atlassian Cloud are [here](http://support.balsamiq.com/customer/portal/articles/223421).
 
-Usage instructions for the plugin are [here](http://support.balsamiq.com/customer/portal/articles/113842).
+Usage instructions for the plugin are [here](/jira/user-guide/).
 
 * * *
 

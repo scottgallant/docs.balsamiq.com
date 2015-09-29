@@ -13,9 +13,9 @@ Balsamiq Mockups for Google Drive provides the same functionality as Balsamiq Mo
 
 This guide is split into three main sections:
 
-1.  [Getting Started](#gettingstarted)
-2.  [Using the Balsamiq Mockups Editor](#theeditor)
-3.  [Working with Files in Google Drive](#workingwithfiles)
+1.  [Getting Started](#getting-started)
+2.  [Using the Balsamiq Mockups Editor](#using-the-balsamiq-mockups-editor)
+3.  [Working with Files in Google Drive](#working-with-files-in-google-drive)
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Once installed, Mockups for Google Drive will be available in your Google Drive 
 
 If you are using the Chrome browser, you can also access Mockups for Google Drive from the Chrome Apps tab (open a new tab and type "chrome://apps/").
 
-To uninstall, see these [instructions on how to uninstall Mockups for Google Drive](#uninstall).
+To uninstall, see these [instructions on how to uninstall Mockups for Google Drive](#uninstalling).
 
 * * *
 
@@ -67,13 +67,15 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 
 ![Chrome Apps](http://media.balsamiq.com/img/support/docs/gdrive/userguide/chromeapps.png)
 
-​Either method will launch the Balsamiq Mockups editor to allow you to create your mockups (or [import existing ones](#importfromzip)). This will also create a new Balsamiq Mockups file (.bmpr file extension) in your Google Drive. If you launched Mockups for Google Drive from the Chrome Apps page your files will be saved in your Drive's home folder. Otherwise they will be saved in the folder you had selected when you created the new Mockups project.
+​Either method will launch the Balsamiq Mockups editor to allow you to create your mockups (or [import existing ones](#importing-from-other-versions-of-balsamiq-mockups)). This will also create a new Balsamiq Mockups file (.bmpr file extension) in your Google Drive. If you launched Mockups for Google Drive from the Chrome Apps page your files will be saved in your Drive's home folder. Otherwise they will be saved in the folder you had selected when you created the new Mockups project.
 
+<span class="alert alert-info show" role="alert">
 **Note:** Your work is always automatically saved on Google Drive as you make edits. To exit the editor, use the "Quit" command in the Project menu.
+</span>
 
 * * *
 
-### Inside the Balsamiq Mockups Editor [#](#theeditor)
+## Inside the Balsamiq Mockups Editor 
 
 The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](http://support.balsamiq.com/customer/portal/articles/109151) may be helpful if you have any questions after reading the instructions below.
 
@@ -81,7 +83,7 @@ The Balsamiq Mockups editor allows you to create wireframes just like our other 
 
 ## Adding New Mockups to Your Project
 
-When you create a new Balsamiq Mockups project your project will contain one mockup by default (called "New Mockup 1"). You can add as many additional mockups as you like to your project by clicking "Project > New Mockup" in the menu (or by cloning the current mockup, described [below](#delete-clone)).
+When you create a new Balsamiq Mockups project your project will contain one mockup by default (called "New Mockup 1"). You can add as many additional mockups as you like to your project by clicking "Project > New Mockup" in the menu (or by cloning the current mockup, described [below](#deleting-and-cloning-mockups)).
 
 * * *
 
@@ -109,7 +111,7 @@ Just like the other versions of Mockups, you can export your wireframes to PDF, 
 
 ![Export options](http://media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)
 
-To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporttozip)
+To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporting-to-other-versions-of-balsamiq-mockups)
 
 * * *
 
@@ -151,7 +153,7 @@ To use your project in an earlier version of Balsamiq Mockups you can export the
 
 ## Collaborating with Other Users in Real Time
 
-Mockups for Google Drive supports real-time collaboration between users. Just [share](#sharing) the Mockups file with your collaborators, then have everyone launch the application on the same file. Everyone's changes will be shared in real-time with all collaborators.
+Mockups for Google Drive supports real-time collaboration between users. Just [share](#sharing-via-google-drive) the Mockups file with your collaborators, then have everyone launch the application on the same file. Everyone's changes will be shared in real-time with all collaborators.
 
 ![real-time notification](http://support.balsamiq.com/customer/portal/attachments/254093)
 
@@ -163,11 +165,11 @@ The other connected users will be shown in the top right of the screen. Hovering
 
 ## Returning to Google Drive (Closing the Editor)
 
-When you are done editing your mockups you can exit the editor by selecting "Quit" in the Project menu. This will also create a new [version](#managingrevisions) of the file in case you want to revert to it later.
+When you are done editing your mockups you can exit the editor by selecting "Quit" in the Project menu. This will also create a new [version](#managing-versions) of the file in case you want to revert to it later.
 
 * * *
 
-### Working with Files in Google Drive [#](#workingwithfiles)
+## Working with Files in Google Drive
 
 A variety of actions are available from the Google Drive file viewer. These actions are available by selecting a file and clicking one of the icons at the top of the file viewer or by right-clicking on the file. The actions available on Balsamiq Mockups files in Google Drive are common across all types of files in Google Drive, so not all of them are described here. For general help on getting around in Google Drive, check out the [Google Drive Help Center](https://support.google.com/drive/).
 
@@ -177,7 +179,7 @@ A variety of actions are available from the Google Drive file viewer. These acti
 
 ## Editing Existing Mockups
 
-To edit a set of mockups in Mockups for Google Drive, simply double-click on any of the .bmpr files in Google Drive and the Balsamiq Mockups editor will open. Read the [section above](#theeditor) for details on using the editor.
+To edit a set of mockups in Mockups for Google Drive, simply double-click on any of the .bmpr files in Google Drive and the Balsamiq Mockups editor will open. Read the [section above](#inside-the-balsamiq-mockups-editor) for details on using the editor.
 
 * * *
 
@@ -189,11 +191,13 @@ Wireframes created with Mockups for Google Drive are saved as .bmpr files that c
 
 If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](http://support.balsamiq.com/customer/portal/articles/1021056)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
 
+<span class="alert alert-info show" role="alert">
 **Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.
+</span>
 
-Alternatively, you can export your mockups as PNG images or an interactive PDF and use sharing in Google Drive to allow others to view them. See the [section above](#exporting) for how to export to PNG or PDF.
+Alternatively, you can export your mockups as PNG images or an interactive PDF and use sharing in Google Drive to allow others to view them. See the [section above](#exporting-your-mockups) for how to export to PNG or PDF.
 
-Once you've shared your mockups with another person you can both work on them at the same time. See the [section above on collaborating](#collaborating) for details.
+Once you've shared your mockups with another person you can both work on them at the same time. See the [section above on collaborating](#collaborating-with-other-users-in-real-time) for details.
 
 * * *
 
@@ -215,7 +219,9 @@ You can see previous versions of your mockups via the Google Drive interface. Ri
 
 ![Manage revisions](http://media.balsamiq.com/img/support/docs/gdrive/userguide/managerevisions.png)
 
+<span class="alert alert-info show" role="alert">
 **Note:** A new version is created each time you [quit](#closing) the application or if you manually save via the editor menu (Project > Save Project).
+</span>
 
 Clicking on a previous version will download the .bmpr file.
 

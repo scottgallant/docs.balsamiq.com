@@ -37,9 +37,11 @@ If you want to keep your project private but don't want to force your customers 
 
 Just launch the prototype view, copy the long and nearly-impossible-to-guess URL (it makes it secure) and send it to them. They will be able to see it and click around without having to log in.
 
-Note: Once the URL is shared, it will be accessible to whomever has it.
+<span class="alert alert-warning show" role="alert">
+**Note:** Once the URL is shared, it will be accessible to whomever has it.
+</span>
 
-* * *
+---
 
 ## Send them individual mockup image permalinks
 
@@ -51,7 +53,9 @@ This link doesn't require people to log in (but is secure due to it's crazy-long
 
 This makes it possible to share mockups that are not linked together or even to embed them in other tools that let you insert images (a simple web page you're putting together or even a usability testing tool).
 
-Note: People you share this URL with will NOT be able to add comments within myBalsamiq this way, and once the URL is shared, it will be accessible to whomever has it.
+<span class="alert alert-warning show" role="alert">
+**Note:** People you share this URL with will NOT be able to add comments within myBalsamiq this way, and once the URL is shared, it will be accessible to whomever has it.
+</span>
 
 * * *
 
@@ -80,7 +84,7 @@ Some tips about exporting to PDF:
 *   **To export at actual size (100%)**
      Select the "Optimize for Viewing" radio button in the Export dialog.
 *   **To get Acrobat Reader to show single page prototypes**
-     Select the menu: Edit -> Preferences; Select: Full Screen -> Full Screen Navigation; Un-tick the "Left click to go forward one page,..."
+     Select the menu: Edit -> Preferences; Select: Full Screen -> Full Screen Navigation; Un-tick the "Left click to go forward one page..."
 
 * * *
 
