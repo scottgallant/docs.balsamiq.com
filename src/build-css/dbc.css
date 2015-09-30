@@ -119,103 +119,103 @@ body {
   position: relative;
   border-top: 3px solid #C00; }
 
-#company-support-portal .container-fluid.fluid-max {
+.company-support-portal .container-fluid.fluid-max {
   max-width: 1300px; }
 
-#company-support-portal.desktop #gnav li#gnav-desktop a,
-#company-support-portal.mybalsamiq #gnav li#gnav-mybalsamiq a,
-#company-support-portal.confluence #gnav li#gnav-plugins > a,
-#company-support-portal.jira #gnav li#gnav-plugins > a,
-#company-support-portal.google-drive #gnav li#gnav-plugins > a {
+.company-support-portal.dbc.desktop #gnav li#gnav-desktop a,
+.company-support-portal.dbc.mybalsamiq #gnav li#gnav-mybalsamiq a,
+.company-support-portal.dbc.confluence #gnav li#gnav-plugins > a,
+.company-support-portal.dbc.jira #gnav li#gnav-plugins > a,
+.company-support-portal.dbc.google-drive #gnav li#gnav-plugins > a {
   background: rgba(0, 0, 0, 0.1);
   border-radius: 3px; }
 
-#company-support-portal #header-wrapper {
+.company-support-portal #header-wrapper {
   background: #FFF;
   border-bottom: 1px solid #DDD; }
-  #company-support-portal #header-wrapper #site-nav {
+  .company-support-portal #header-wrapper #site-nav {
     padding-top: 30px;
     color: #DDD;
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: 400; }
-    #company-support-portal #header-wrapper #site-nav #balsamiq-logo {
+    .company-support-portal #header-wrapper #site-nav #balsamiq-logo {
       font-size: 21px;
       font-size: 2.1rem;
       line-height: 21px;
       line-height: 2.1rem; }
-      #company-support-portal #header-wrapper #site-nav #balsamiq-logo .trademark {
+      .company-support-portal #header-wrapper #site-nav #balsamiq-logo .trademark {
         font-size: 10px;
         font-size: 1rem;
         line-height: 10px;
         line-height: 1rem; }
-    #company-support-portal #header-wrapper #site-nav #site-id {
+    .company-support-portal #header-wrapper #site-nav #site-id {
       font-size: 21px;
       font-size: 2.1rem;
       line-height: 21px;
       line-height: 2.1rem; }
-    #company-support-portal #header-wrapper #site-nav .separator {
+    .company-support-portal #header-wrapper #site-nav .separator {
       padding: 0 3px; }
-    #company-support-portal #header-wrapper #site-nav a {
+    .company-support-portal #header-wrapper #site-nav a {
       color: #C00; }
-  #company-support-portal #header-wrapper #header #gnav a.gnava {
+  .company-support-portal #header-wrapper #header #gnav a.gnava {
     color: #C00;
     text-shadow: none; }
-    #company-support-portal #header-wrapper #header #gnav a.gnava:hover {
+    .company-support-portal #header-wrapper #header #gnav a.gnava:hover {
       background: rgba(0, 0, 0, 0.05); }
   @media only screen and (min-width: 768px) {
-    #company-support-portal #header-wrapper #gnav #gnav-support {
+    .company-support-portal #header-wrapper #gnav #gnav-support {
       border-left: 1px solid #DDD;
       margin-left: 3px;
       padding-left: 3px; } }
   @media (smmin: 0) {
-    #company-support-portal #header-wrapper #gnav #gnav-support {
+    .company-support-portal #header-wrapper #gnav #gnav-support {
       border-left: 1px solid #DDD;
       margin-left: 3px;
       padding-left: 3px; } }
-  #company-support-portal #header-wrapper #search #s {
+  .company-support-portal #header-wrapper #search #s {
     width: 125px; }
-  #company-support-portal #header-wrapper #header #rmenu {
+  .company-support-portal #header-wrapper #header #rmenu {
     position: absolute;
     top: 30px;
     right: 15px;
     margin: 0;
     padding: 0; }
-    #company-support-portal #header-wrapper #header #rmenu .icon-bar {
+    .company-support-portal #header-wrapper #header #rmenu .icon-bar {
       background: #C00; }
-  #company-support-portal #header-wrapper #search .search #s, #company-support-portal #header-wrapper #search .search #ss {
+  .company-support-portal #header-wrapper #search .search #s, .company-support-portal #header-wrapper #search .search #ss {
     border: 1px solid #DDD; }
-  #company-support-portal #header-wrapper #search .search #ss {
+  .company-support-portal #header-wrapper #search .search #ss {
     border-left: none; }
 
-#company-support-portal #body-wrapper {
+.company-support-portal #body-wrapper {
   margin-bottom: 0 !important;
   padding-bottom: 166px; }
 
-#company-support-portal #body-header {
+.company-support-portal #body-header {
   width: 100%;
   border-top: 1px solid #e5e5e5 !important;
   z-index: 1000;
   font-size: 12px; }
-  #company-support-portal #body-header #title-wrapper {
+  .company-support-portal #body-header #title-wrapper {
     background-color: #fff;
     margin: 0 auto; }
-  #company-support-portal #body-header ul.lnav {
+  .company-support-portal #body-header ul.lnav {
     padding: 12px 0; }
-    #company-support-portal #body-header ul.lnav > li > a:link, #company-support-portal #body-header ul.lnav > li > a:visited {
+    .company-support-portal #body-header ul.lnav > li > a:link, .company-support-portal #body-header ul.lnav > li > a:visited {
       color: #999; }
-    #company-support-portal #body-header ul.lnav > li > ul li a {
+    .company-support-portal #body-header ul.lnav > li > ul li a {
       text-shadow: none !important; }
-  #company-support-portal #body-header .navsect {
+  .company-support-portal #body-header .navsect {
     opacity: 0;
     width: 0; }
-    #company-support-portal #body-header .navsect a {
+    .company-support-portal #body-header .navsect a {
       display: none;
       color: #C00 !important;
       font-weight: bold;
       padding-right: 1em;
       border-right: 1px solid #DDD; }
 
-#company-support-portal #breadcrumbs {
+.company-support-portal #breadcrumbs {
   margin: -1em 0 18px 0;
   padding: 5px 0;
   color: #999;
@@ -223,26 +223,26 @@ body {
   text-transform: capitalize;
   border-bottom: 1px solid #DDD;
   list-style-type: none; }
-  #company-support-portal #breadcrumbs a {
+  .company-support-portal #breadcrumbs a {
     color: #999;
     font-size: 12px !important; }
-  #company-support-portal #breadcrumbs li {
+  .company-support-portal #breadcrumbs li {
     list-style-type: none;
     display: inline; }
 
-#company-support-portal .local-nav {
+.company-support-portal .local-nav {
   background: #fff;
   border: none; }
-  #company-support-portal .local-nav #sidebar-box {
+  .company-support-portal .local-nav #sidebar-box {
     padding-top: 31px;
     padding-bottom: 36px; }
-    #company-support-portal .local-nav #sidebar-box.affix-top {
+    .company-support-portal .local-nav #sidebar-box.affix-top {
       position: relative; }
-    #company-support-portal .local-nav #sidebar-box.affix {
+    .company-support-portal .local-nav #sidebar-box.affix {
       padding-top: 0;
       position: fixed;
       top: 0; }
-  #company-support-portal .local-nav h3, #company-support-portal .local-nav h4, #company-support-portal .local-nav h5 {
+  .company-support-portal .local-nav h3, .company-support-portal .local-nav h4, .company-support-portal .local-nav h5 {
     margin: 10px 0 10px 0;
     padding: 0;
     font-size: 18px;
@@ -252,76 +252,76 @@ body {
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: normal;
     color: #292E31; }
-    #company-support-portal .local-nav h3 a, #company-support-portal .local-nav h4 a, #company-support-portal .local-nav h5 a {
+    .company-support-portal .local-nav h3 a, .company-support-portal .local-nav h4 a, .company-support-portal .local-nav h5 a {
       color: #292E31 !important; }
-  #company-support-portal .local-nav h5 {
+  .company-support-portal .local-nav h5 {
     margin-left: 16px; }
-  #company-support-portal .local-nav button, #company-support-portal .local-nav a.button {
+  .company-support-portal .local-nav button, .company-support-portal .local-nav a.button {
     max-width: 180px; }
-  #company-support-portal .local-nav a.menu-toggle {
+  .company-support-portal .local-nav a.menu-toggle {
     text-decoration: none;
     margin-left: -15px; }
-  #company-support-portal .local-nav i {
+  .company-support-portal .local-nav i {
     margin-top: 2px;
     cursor: pointer;
     color: #999 !important; }
-    #company-support-portal .local-nav i.ss-icon {
+    .company-support-portal .local-nav i.ss-icon {
       font-size: 10px;
       font-size: 1rem;
       line-height: 10px;
       line-height: 1rem; }
-  #company-support-portal .local-nav.local-nav-1 {
+  .company-support-portal .local-nav.local-nav-1 {
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 16px;
     line-height: 1.6rem; }
-  #company-support-portal .local-nav.local-nav-2 {
+  .company-support-portal .local-nav.local-nav-2 {
     font-size: 13px;
     font-size: 1.3rem;
     line-height: 15px;
     line-height: 1.5rem; }
-  #company-support-portal .local-nav ul {
+  .company-support-portal .local-nav ul {
     margin-top: 0;
     margin-left: 16px;
     padding-left: 0;
     list-style-type: none; }
-    #company-support-portal .local-nav ul li {
+    .company-support-portal .local-nav ul li {
       margin: 0;
       padding: 0;
       line-height: 16px; }
-      #company-support-portal .local-nav ul li a {
+      .company-support-portal .local-nav ul li a {
         display: block;
         padding: 6px 0; }
-      #company-support-portal .local-nav ul li.active a {
+      .company-support-portal .local-nav ul li.active a {
         color: #292E31 !important;
         font-weight: bold; }
-      #company-support-portal .local-nav ul li:hover,
-      #company-support-portal .local-nav ul li.active,
-      #company-support-portal .local-nav ul li.active:hover,
-      #company-support-portal .local-nav ul li a,
-      #company-support-portal .local-nav ul li a:hover,
-      #company-support-portal .local-nav ul li a:focus {
+      .company-support-portal .local-nav ul li:hover,
+      .company-support-portal .local-nav ul li.active,
+      .company-support-portal .local-nav ul li.active:hover,
+      .company-support-portal .local-nav ul li a,
+      .company-support-portal .local-nav ul li a:hover,
+      .company-support-portal .local-nav ul li a:focus {
         background: none !important; }
-  #company-support-portal .local-nav .collapsing {
+  .company-support-portal .local-nav .collapsing {
     -webkit-transition: all 0.04s ease;
     transition: all 0.04s ease; }
 
-#company-support-portal .doc-overview ul, #company-support-portal .doc-overview ol {
+.company-support-portal .doc-overview ul, .company-support-portal .doc-overview ol {
   margin: 0;
   padding-bottom: 12px;
   padding-top: 12px;
   padding-left: 0; }
-  #company-support-portal .doc-overview ul#list, #company-support-portal .doc-overview ol#list {
+  .company-support-portal .doc-overview ul#list, .company-support-portal .doc-overview ol#list {
     -webkit-column-width: 370px;
        -moz-column-width: 370px;
             column-width: 370px; }
-    #company-support-portal .doc-overview ul#list li .ss-icon, #company-support-portal .doc-overview ol#list li .ss-icon {
+    .company-support-portal .doc-overview ul#list li .ss-icon, .company-support-portal .doc-overview ol#list li .ss-icon {
       color: #666; }
-  #company-support-portal .doc-overview ul.faq-list, #company-support-portal .doc-overview ol.faq-list {
+  .company-support-portal .doc-overview ul.faq-list, .company-support-portal .doc-overview ol.faq-list {
     -webkit-column-width: 590px;
        -moz-column-width: 590px;
             column-width: 590px; }
-  #company-support-portal .doc-overview ul.faq-list li, #company-support-portal .doc-overview ul#list li, #company-support-portal .doc-overview ol.faq-list li, #company-support-portal .doc-overview ol#list li {
+  .company-support-portal .doc-overview ul.faq-list li, .company-support-portal .doc-overview ul#list li, .company-support-portal .doc-overview ol.faq-list li, .company-support-portal .doc-overview ol#list li {
     margin-left: 2em;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -330,14 +330,14 @@ body {
     line-height: 32px;
     line-height: 3.2rem; }
 
-#company-support-portal #body-main {
+.company-support-portal #body-main {
   position: relative;
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 0;
   padding-bottom: 0;
   background-image: none; }
-  #company-support-portal #body-main h1 {
+  .company-support-portal #body-main h1 {
     margin-top: 36px;
     margin-bottom: .5em;
     padding-bottom: .5em;
@@ -348,92 +348,92 @@ body {
     line-height: 3.6rem;
     font-weight: normal;
     color: #292E31; }
-  #company-support-portal #body-main h2, #company-support-portal #body-main h3, #company-support-portal #body-main h4, #company-support-portal #body-main h5, #company-support-portal #body-main h6 {
+  .company-support-portal #body-main h2, .company-support-portal #body-main h3, .company-support-portal #body-main h4, .company-support-portal #body-main h5, .company-support-portal #body-main h6 {
     color: #292E31; }
-  #company-support-portal #body-main h2 {
+  .company-support-portal #body-main h2 {
     font-size: 28px;
     font-size: 2.8rem;
     line-height: 28px;
     line-height: 2.8rem;
     font-weight: normal; }
-  #company-support-portal #body-main h3 {
+  .company-support-portal #body-main h3 {
     font-size: 21px;
     font-size: 2.1rem;
     line-height: 21px;
     line-height: 2.1rem; }
-  #company-support-portal #body-main h4 {
+  .company-support-portal #body-main h4 {
     font-size: 18px;
     font-size: 1.8rem;
     line-height: 18px;
     line-height: 1.8rem; }
-  #company-support-portal #body-main h5 {
+  .company-support-portal #body-main h5 {
     font-size: 16px;
     font-size: 1.6rem;
     line-height: 16px;
     line-height: 1.6rem; }
-  #company-support-portal #body-main img {
+  .company-support-portal #body-main img {
     max-width: 100%; }
-  #company-support-portal #body-main a, #company-support-portal #body-main .local-nav a {
+  .company-support-portal #body-main a, .company-support-portal #body-main .local-nav a {
     color: #0064AE; }
-  #company-support-portal #body-main a.fb img,
-  #company-support-portal #body-main img {
+  .company-support-portal #body-main a.fb img,
+  .company-support-portal #body-main img {
     margin-bottom: 12px; }
-  #company-support-portal #body-main object,
-  #company-support-portal #body-main iframe {
+  .company-support-portal #body-main object,
+  .company-support-portal #body-main iframe {
     margin-bottom: 12px; }
-  #company-support-portal #body-main #page-topic ul li {
+  .company-support-portal #body-main #page-topic ul li {
     margin-bottom: 1em; }
-  #company-support-portal #body-main #page-article .content.article img {
+  .company-support-portal #body-main #page-article .content.article img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     max-width: 100%; }
-  #company-support-portal #body-main #page-article .content.article .imgleft img,
-  #company-support-portal #body-main #page-article .content.article img.imgleft {
+  .company-support-portal #body-main #page-article .content.article .imgleft img,
+  .company-support-portal #body-main #page-article .content.article img.imgleft {
     margin-left: 0;
     margin-right: 0;
     text-align: left;
     max-width: 100%; }
-  #company-support-portal #body-main .section-pager {
+  .company-support-portal #body-main .section-pager {
     margin-top: 2em; }
-    #company-support-portal #body-main .section-pager .section-next {
+    .company-support-portal #body-main .section-pager .section-next {
       text-align: right; }
 
-#company-support-portal ul.tags.listing {
+.company-support-portal ul.tags.listing {
   -webkit-column-width: 370px;
      -moz-column-width: 370px;
           column-width: 370px; }
-  #company-support-portal ul.tags.listing > li {
+  .company-support-portal ul.tags.listing > li {
     margin: 0 9px 9px 0;
     display: inline-block;
     width: 100%;
     float: none;
     background: #EEE; }
-    #company-support-portal ul.tags.listing > li a {
+    .company-support-portal ul.tags.listing > li a {
       display: block; }
-    #company-support-portal ul.tags.listing > li .tag-count {
+    .company-support-portal ul.tags.listing > li .tag-count {
       display: inline-block;
       float: right;
       color: #BBB; }
-  #company-support-portal ul.tags.listing > li:first-child {
+  .company-support-portal ul.tags.listing > li:first-child {
     display: none; }
 
-#company-support-portal .tag-box {
+.company-support-portal .tag-box {
   text-align: center; }
 
-#company-support-portal ul.tags {
+.company-support-portal ul.tags {
   display: inline-block;
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden; }
-  #company-support-portal ul.tags > li {
+  .company-support-portal ul.tags > li {
     display: block;
     float: left; }
-    #company-support-portal ul.tags > li:last-child {
+    .company-support-portal ul.tags > li:last-child {
       margin-right: 0px; }
-  #company-support-portal ul.tags > li {
+  .company-support-portal ul.tags > li {
     color: #999 !important;
     font-size: 14px;
     font-size: 1.4rem;
@@ -443,31 +443,31 @@ body {
     margin-right: 3px;
     border: 1px solid #BBB;
     border-radius: 15px; }
-    #company-support-portal ul.tags > li a {
+    .company-support-portal ul.tags > li a {
       display: inline-block;
       padding: 5px 10px;
       color: #999 !important;
       text-decoration: none; }
-    #company-support-portal ul.tags > li:hover {
+    .company-support-portal ul.tags > li:hover {
       background: #BBB; }
-      #company-support-portal ul.tags > li:hover a {
+      .company-support-portal ul.tags > li:hover a {
         text-decoration: none;
         color: #FFF !important; }
-        #company-support-portal ul.tags > li:hover a span {
+        .company-support-portal ul.tags > li:hover a span {
           color: #FFF !important; }
 
-#company-support-portal #footer-wrapper {
+.company-support-portal #footer-wrapper {
   background: #FFF; }
-  #company-support-portal #footer-wrapper .main {
+  .company-support-portal #footer-wrapper .main {
     padding: 2px 0; }
-  #company-support-portal #footer-wrapper ul li:first-child {
+  .company-support-portal #footer-wrapper ul li:first-child {
     margin-left: 0; }
 
-#company-support-portal .form-group .form-control {
+.company-support-portal .form-group .form-control {
   max-width: 100%;
   box-sizing: border-box; }
 
-#company-support-portal .dropdown-menu::before {
+.company-support-portal .dropdown-menu::before {
   position: absolute;
   top: -7px;
   left: 9px;
@@ -478,7 +478,7 @@ body {
   border-bottom-color: rgba(0, 0, 0, 0.2);
   content: ''; }
 
-#company-support-portal .dropdown-menu::after {
+.company-support-portal .dropdown-menu::after {
   position: absolute;
   top: -6px;
   left: 10px;

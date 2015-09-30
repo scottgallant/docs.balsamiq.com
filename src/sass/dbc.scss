@@ -18,7 +18,7 @@ body {
 // ========================================
 // DBC BODY
 // ========================================
-#company-support-portal {
+.company-support-portal {
 // ========================================
 
   // ========================================
@@ -27,13 +27,15 @@ body {
     max-width: 1300px;
   }
 
-  &.desktop #gnav li#gnav-desktop a,
-  &.mybalsamiq #gnav li#gnav-mybalsamiq a,
-  &.confluence #gnav li#gnav-plugins > a,
-  &.jira #gnav li#gnav-plugins > a,
-  &.google-drive #gnav li#gnav-plugins > a {
-    background: rgba(0,0,0,.1);
-    border-radius: 3px;
+  &.dbc {
+    &.desktop #gnav li#gnav-desktop a,
+    &.mybalsamiq #gnav li#gnav-mybalsamiq a,
+    &.confluence #gnav li#gnav-plugins > a,
+    &.jira #gnav li#gnav-plugins > a,
+    &.google-drive #gnav li#gnav-plugins > a {
+      background: rgba(0,0,0,.1);
+      border-radius: 3px;
+    }    
   }
 
   // ========================================
