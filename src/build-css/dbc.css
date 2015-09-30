@@ -8,74 +8,74 @@
       }
     }
 */
-#company-support-portal .st-autocomplete-results.st-ui-autocomplete a.st-ui-result {
+.company-support-portal .st-autocomplete-results.st-ui-autocomplete a.st-ui-result {
   padding: 8px 12px 8px 12px; }
-  #company-support-portal .st-autocomplete-results.st-ui-autocomplete a.st-ui-result .st-ui-type-heading {
+  .company-support-portal .st-autocomplete-results.st-ui-autocomplete a.st-ui-result .st-ui-type-heading {
     color: #0062AE !important;
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 14px;
     line-height: 1.4rem; }
 
-#company-support-portal #home-search {
+.company-support-portal #home-search {
   background: #F0F0F0; }
-  #company-support-portal #home-search h2 {
+  .company-support-portal #home-search h2 {
     margin-top: 52px; }
-  #company-support-portal #home-search p {
+  .company-support-portal #home-search p {
     margin-bottom: 48px; }
-  #company-support-portal #home-search input#search_home {
+  .company-support-portal #home-search input#search_home {
     border: 1px solid #BBB;
     padding-top: 24px;
     padding-bottom: 24px;
     width: 100%;
     background-image: none; }
-  #company-support-portal #home-search #search_home {
+  .company-support-portal #home-search #search_home {
     border: 2px solid #EEE; }
-    #company-support-portal #home-search #search_home:focus {
+    .company-support-portal #home-search #search_home:focus {
       border-color: #008AF4; }
 
-#company-support-portal #body-main.home h2 {
+.company-support-portal #body-main.home h2 {
   margin-bottom: 1em;
   color: #C00; }
 
-#company-support-portal #body-main.home a.btn, #company-support-portal #body-main.home a.btn-lg {
+.company-support-portal #body-main.home a.btn, .company-support-portal #body-main.home a.btn-lg {
   border-color: #DDD;
   margin-bottom: .6em;
   padding-top: .6em;
   padding-bottom: .6em; }
 
-#company-support-portal #body-main.home .documentation {
+.company-support-portal #body-main.home .documentation {
   margin-top: 24px; }
-  #company-support-portal #body-main.home .documentation a.btn-lg.featured {
+  .company-support-portal #body-main.home .documentation a.btn-lg.featured {
     background: #C00;
     border: 2px solid #A60000;
     color: #FFF; }
-    #company-support-portal #body-main.home .documentation a.btn-lg.featured:hover {
+    .company-support-portal #body-main.home .documentation a.btn-lg.featured:hover {
       background: #A60000;
       border-color: #7C0000;
       color: #FFF !important; }
-  #company-support-portal #body-main.home .documentation .prod-core a.btn {
+  .company-support-portal #body-main.home .documentation .prod-core a.btn {
     font-size: 21px;
     font-size: 2.1rem;
     line-height: 32px;
     line-height: 3.2rem;
     margin-bottom: .6em; }
     @media only screen and (min-width: 992px) {
-      #company-support-portal #body-main.home .documentation .prod-core a.btn {
+      .company-support-portal #body-main.home .documentation .prod-core a.btn {
         padding-top: 28px;
         min-height: 95px; } }
     @media (mdmin: 0) {
-      #company-support-portal #body-main.home .documentation .prod-core a.btn {
+      .company-support-portal #body-main.home .documentation .prod-core a.btn {
         padding-top: 28px;
         min-height: 95px; } }
-  #company-support-portal #body-main.home .documentation .prod-plugins {
+  .company-support-portal #body-main.home .documentation .prod-plugins {
     margin-top: .6em; }
-    #company-support-portal #body-main.home .documentation .prod-plugins a.btn {
+    .company-support-portal #body-main.home .documentation .prod-plugins a.btn {
       font-size: 18px;
       font-size: 1.8rem;
       line-height: 21px;
       line-height: 2.1rem; }
-      #company-support-portal #body-main.home .documentation .prod-plugins a.btn small {
+      .company-support-portal #body-main.home .documentation .prod-plugins a.btn small {
         display: block;
         font-size: 14px;
         font-size: 1.4rem;
@@ -83,38 +83,48 @@
         line-height: 1.4rem;
         letter-spacing: -.25px; }
 
-#company-support-portal #body-main.home #resources {
+.company-support-portal #body-main.home #resources {
   margin-top: 24px;
   margin-bottom: 48px; }
-  #company-support-portal #body-main.home #resources .ss-icon {
+  .company-support-portal #body-main.home #resources .ss-icon {
     display: none; }
 
-#company-support-portal #page-index.container {
+.company-support-portal #page-index.container {
   margin-top: 0; }
 
-#company-support-portal #page-index h3 {
+.company-support-portal #page-index h3 {
   font-size: 28px; }
-  #company-support-portal #page-index h3 .ss-icon {
+  .company-support-portal #page-index h3 .ss-icon {
     color: rgba(118, 2, 9, 0.8);
     font-size: 21px;
     padding-top: 4px;
     margin-right: 12px; }
 
-#company-support-portal #page-index hr {
+.company-support-portal #page-index hr {
   margin-top: 36px;
   margin-bottom: 36px; }
 
-#company-support-portal #page-index .section:before {
+.company-support-portal #page-index .section:before {
   content: "";
   display: block;
   height: 74px;
   margin: -74px 0 0; }
 
-#company-support-portal #page-index a.button {
+.company-support-portal #page-index a.button {
   width: auto;
   display: block;
   text-align: center; }
 
+/* Usage
+    div {
+      width: 95%;
+      margin: 2em auto;
+
+      @include breakpoint(sm) {
+        width: 80%;
+      }
+    }
+*/
 body {
   position: relative;
   border-top: 3px solid #C00; }

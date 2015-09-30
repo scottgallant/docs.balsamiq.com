@@ -43,22 +43,6 @@ gulp.task('js', function() {
     .pipe(notify({ message: 'JS Minify task complete' }));
 });
 
-// Get Header/Footer Includes from balsamiq.com and rename them
-gulp.task('getincludes', function() {
-  log("Get Includes from balsamiq.com " + (new Date()).toString());
-  gulp.src(['../balsamiq.com/includes/_tpl_header_nav.inc', '../balsamiq.com/includes/_tpl_end.inc'])
-    .pipe(gulp.dest('./src/build-includes/'))
-    .pipe(notify({ message: 'Get Header Footer Includes task complete' }));
-  gulp.src("./src/build-includes/_tpl_header_nav.inc")
-    .pipe(rename("tpl_header_nav.html"))
-    .pipe(gulp.dest("./themes/docs-balsamiq-com/layouts/partials/"))
-    .pipe(notify({ message: 'Rename Header task complete' }));
-  gulp.src("./src/build-includes/_tpl_end.inc")
-    .pipe(rename("tpl_end.html"))
-    .pipe(gulp.dest("./themes/docs-balsamiq-com/layouts/partials/"))
-    .pipe(notify({ message: 'Rename Footer task complete' }));
-});
-
 // Get SASS CONFIG from balsamiq.com
 gulp.task('getsassconfig', function() {
   log("Get Includes from balsamiq.com " + (new Date()).toString());
@@ -78,7 +62,7 @@ gulp.task('sitemap', function () {
 
 // Clean
 gulp.task('clean', function(cb) {
-  del(['./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js', './public/sitemap.xml'], cb)
+  del(['./src/build-css','./src/build-js','./public/css','./public/js','./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js', './public/sitemap.xml'], cb)
 });
 
 // Default
