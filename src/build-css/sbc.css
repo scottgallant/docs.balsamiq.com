@@ -266,8 +266,12 @@
     max-width: 100%; }
   .company-support-portal.sbc .local-nav #sidebar-box {
     padding-top: 31px !important; }
-    .company-support-portal.sbc .local-nav #sidebar-box h5, .company-support-portal.sbc .local-nav #sidebar-box ul {
-      margin-left: 0 !important; }
+  .company-support-portal.sbc .local-nav h5 {
+    margin-left: 0; }
+  .company-support-portal.sbc .local-nav ul {
+    margin-left: 0; }
+    .company-support-portal.sbc .local-nav ul li {
+      margin-left: 14px !important; }
   .company-support-portal.sbc #tweets .tweet_avatar {
     display: none; }
   .company-support-portal.sbc #tweets .tweet_time a {
