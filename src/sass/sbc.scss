@@ -152,12 +152,6 @@
   // ========================================
   // CONTACT
   #support-contact {
-    h4 {
-      @include fontsize(24,24);
-      color: $black;
-      padding: 0 0 6px 0;
-      text-align: center;
-    }
     .inner {
       margin: 0;
       padding: 10px;
@@ -355,18 +349,6 @@
   /* Support Main Column */
   #support-main {
     // ========================================
-    // Breadcrumbs
-    #breadcrumbs {
-      margin: 0 0 18px 0;
-      padding: 5px 0;
-      color: $graydark;
-      font-size: 12px !important;
-      border-bottom: 1px solid $gray;
-      a {
-        color: $graydark;
-        font-size: 12px !important;
-      }
-    }
     .support-body {
       margin-top: 36px;
       background: $white;
