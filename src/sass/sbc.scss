@@ -121,10 +121,10 @@
       margin-top: 0;
     }
     h2 {
-      color: $redmed;
+      color: $red;
         padding-top: 4px;
       .ss-icon {
-        color: $redmed;
+        color: $red;
         margin-right: 6px;
       }
     }
@@ -677,7 +677,7 @@
   }
 
   #form label.invalid {
-    color: red;
+    color: $red;
     display: inline-block;
     margin: -20px 0 20px 0;
   }
