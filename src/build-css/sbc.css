@@ -89,10 +89,10 @@
   .company-support-portal.sbc #body-main #page-index.container {
     margin-top: 0; }
   .company-support-portal.sbc #body-main #page-index h2 {
-    color: #A60000;
+    color: #C00;
     padding-top: 4px; }
     .company-support-portal.sbc #body-main #page-index h2 .ss-icon {
-      color: #A60000;
+      color: #C00;
       margin-right: 6px; }
   .company-support-portal.sbc #body-main #page-index hr {
     margin-top: 36px;
@@ -487,7 +487,7 @@
     margin: 7px 0 0 5px;
     position: absolute; }
   .company-support-portal.sbc #form label.invalid {
-    color: red;
+    color: #C00;
     display: inline-block;
     margin: -20px 0 20px 0; }
   .company-support-portal.sbc #paginate_block {
