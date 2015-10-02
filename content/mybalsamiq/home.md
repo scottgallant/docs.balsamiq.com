@@ -67,7 +67,7 @@ Clicking on either of the New Project links will open up the new project dialog 
 **4\. Book Cover Style**
  Select a book cover style so that you can easily pick out projects on the home view. We find that the different book cover styles and colors help us to organize our projects. You could even use the colors to categorize project, so you can spot them quickly.
 
-See also the instructions for [uploading an entire project from your desktop](http://support.balsamiq.com/customer/portal/articles/112399#uploadingproject).
+See also the instructions for [uploading an entire project from your desktop](/mybalsamiq/project/#uploading-and-downloading-projects).
 
 * * *
 
@@ -111,7 +111,7 @@ When prompted by the dialog, browse for your .zip file on your computer and clic
 
 When you download a project, you'll be saving a compressed file in .zip format. Expanding the zip file will create a directory on your computer that has all of your Mockups BMML files, and assets files used by your project.
 
-**Note:** As of right now, only [project assets](http://support.balsamiq.com/customer/portal/articles/112403) will be included in your zip. If you used some [site assets](http://support.balsamiq.com/customer/portal/articles/112398#siteassets), you should download them and install them locally separately.
+**Note:** As of right now, only [project assets](/mybalsamiq/assets/) will be included in your zip. If you used some [site assets](/mybalsamiq/home/#site-assets), you should download them and install them locally separately.
 
 On your site's home page you can download individual projects from the action menu. Click the drop down menu in the bottom right under the project title and select Download. You will be prompted to save the .zip compressed file to your computer.
 
@@ -119,7 +119,7 @@ On your site's home page you can download individual projects from the action me
 
 **Download from Project Pages**
 
-From a [project's page](http://support.balsamiq.com/customer/portal/articles/112399) (grid, story, or list view) you can select the drop down menu next to the Edit button and select Download Project. You will be prompted to save the .zip compressed file to your computer.
+From a [project's page](/mybalsamiq/project/) (grid, story, or list view) you can select the drop down menu next to the Edit button and select Download Project. You will be prompted to save the .zip compressed file to your computer.
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-download.png)
 
@@ -163,7 +163,7 @@ The Assets link in the upper right of the home page opens the Site History manag
 
 To upload assets, click the Upload button in the dialog. You can upload up to 5 files at a time, each having a maximum file size of 100MB. Your computer’s upload dialog will let you select multiple files if all of your assets are in a single folder.
 
-For more information, view the [Assets](http://support.balsamiq.com/customer/portal/articles/112403) documentation.
+For more information, view the [Assets](/mybalsamiq/assets/) documentation.
 
 * * *
 
@@ -183,4 +183,4 @@ The site history shows the following types of activity:
 *   Mockup Deleted
 *   New Comment Added to Mockup
 
-You can learn more about the history feature, and view example history screens in the [history](http://support.balsamiq.com/customer/portal/articles/112404) section of the docs.
+You can learn more about the history feature, and view example history screens in the [history](/mybalsamiq/history/) section of the docs.

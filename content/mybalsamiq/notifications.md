@@ -35,7 +35,7 @@ You can use this mailing list to email everyone who's on the project. In the fut
 ---
 ## Site Owner notifications
 
-Site owners have the option option to be bcc:ed on all email notifications pertaining user invitations and project creation, archival and deletions. That's done in the [Site Settings](http://support.balsamiq.com/customer/portal/articles/231911#administration).
+Site owners have the option option to be bcc:ed on all email notifications pertaining user invitations and project creation, archival and deletions. That's done in the [Site Settings](/mybalsamiq/sitesettings/#administration).
 
 ![](http://media.balsamiq.com/img/support/docs/myb/notification_siteowner.png)
 

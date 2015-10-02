@@ -66,7 +66,7 @@ This is what you'll see if you have a license you purchased from Balsamiq but se
 
 ![](http://media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_010.png)
 
-If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645-%22failed-to-validate-your-plugin-license-%22-or-%22your-add-on-license-is-invalid-%22-error-when-registering-mockups-for-confluence-or-jira) may help.
+If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645) may help.
 
 UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](http://support.balsamiq.com/customer/portal/articles/1044360)
 
@@ -94,7 +94,7 @@ Using both Mockups for Confluence and Mockups for JIRA? Please see [this article
 
 Click on the Update button on your UPM to download and install the latest version of the plugin.
 
-If you are running an old version of Confluence and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](http://support.balsamiq.com/customer/portal/articles/1036201#m4c) page.
+If you are running an old version of Confluence and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](http://support.balsamiq.com/customer/portal/articles/1036201) page.
 
 * * *
 

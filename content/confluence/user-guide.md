@@ -112,7 +112,7 @@ You can use the "Small", "Medium" and "Original" buttons in the macro property p
 
 ## Adding an existing Confluence mockup to a new Confluence page
 
-You may want to add a mockup that you've already created in Confluence to a different page than you initially created it for. Right now you can only add mockups that are attached to the same page. However, you can create a copy of the mockup you want and add it to the new page. The fastest way to do that is via [export / import, as described here.](http://support.balsamiq.com/customer/portal/articles/111730#exportxml) This process involves exporting from the old one and importing into a new one. You can also see the steps [below](#moving-a-mockup-from-one-page-to-another) for moving a mockup from one page to another.
+You may want to add a mockup that you've already created in Confluence to a different page than you initially created it for. Right now you can only add mockups that are attached to the same page. However, you can create a copy of the mockup you want and add it to the new page. The fastest way to do that is via [export / import, as described here.](http://support.balsamiq.com/customer/portal/articles/721932). This process involves exporting from the old one and importing into a new one. You can also see the steps [below](#moving-a-mockup-from-one-page-to-another) for moving a mockup from one page to another.
 
 * * *
 

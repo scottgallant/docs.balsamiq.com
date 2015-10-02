@@ -134,7 +134,7 @@ The project history shows these kinds of activity:
 *   Mockup Restored
 *   New Comment Added to Mockup
 
-You can learn more about the history feature, and view example history screens in the [history](http://support.balsamiq.com/customer/portal/articles/112404) section of the docs.
+You can learn more about the history feature, and view example history screens in the [history](/mybalsamiq/history/) section of the docs.
 
 * * *
 
@@ -172,4 +172,4 @@ Select the New Mockup drop down and choose “Clone this Mockup” and we’ll c
 
 ## Mockups Editor
 
-The Mockups Editor is the application used for creating wireframes. Documentation for most aspects of the editor can be found in the [myBalsamiq Mockups Editor Documentation](http://support.balsamiq.com/customer/portal/articles/1366973).
+The Mockups Editor is the application used for creating wireframes. Documentation for most aspects of the editor can be found in the [myBalsamiq Mockups Editor Documentation](/mybalsamiq/editor/).

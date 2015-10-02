@@ -12,8 +12,8 @@ Balsamiq Mockups is a user interface design tool for creating [wireframes](http:
 Each Balsamiq Mockups file (with a .bmpr file extension) represents one project and can contain many mockups and images, which are stored together in a single .bmpr file. Mockups for different projects should be created in separate Balsamiq Mockups files. To create a new project select Project > New Project from the menu.
 
 <span class="alert alert-info show" role="alert">
-**Note:** Single project files are new in Balsamiq Mockups 3 ([learn more](http://support.balsamiq.com/customer/portal/articles/1844131#projects)).
-</span>
+**Note:** Single project files are new in Balsamiq Mockups 3 ([learn more](/desktop/intro/#projects)).
+</span>``
 
 The Balsamiq Mockups user interface is made up of five primary areas: the [toolbar](#the-toolbar), the [UI library](#the-ui-library), the [canvas](#the-mockup-canvas), the [navigator panel](#the-navigator-panel) and the [properties panel](#the-properties-panel). Each is described below.
 

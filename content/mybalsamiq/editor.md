@@ -19,7 +19,7 @@ The myBalsamiq editor is made up of four main parts, as shown below: **The Menu 
 
 ## The Menu Bar
 
-The Menu Bar is where you will find menus and icons for performing common actions, as well as the [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) box. It is very similar to the Application Bar found in the Desktop version, which you can [read about in the Desktop documentation](http://support.balsamiq.com/customer/portal/articles/109151#appbar).
+The Menu Bar is where you will find menus and icons for performing common actions, as well as the [Quick Add](/desktop/overview/#the-quick-add-tool) box. It is very similar to the Application Bar found in the Desktop version, which you can [read about in the Desktop documentation](/desktop/overview/#the-toolbar).
 
 * * *
 
@@ -35,7 +35,7 @@ You can also view any Symbols you have created in the Project Browser by clickin
 
 ![](http://media.balsamiq.com/img/support/docs/myb/editor-tabs.png)
 
-This tab has a second level of tabs for viewing [Project Symbols or Site Symbols](http://support.balsamiq.com/customer/portal/articles/112403).
+This tab has a second level of tabs for viewing [Project Symbols or Site Symbols](/mybalsamiq/assets/).
 
 ![](http://media.balsamiq.com/img/support/docs/myb/editor-symbolstabs.png)
 

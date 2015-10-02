@@ -67,7 +67,7 @@ The project history shows these kinds of activity:
 
 The project history provides a list of every change made to the project: mockups added, edited, and deleted, people added to the project, comments added, and alternate mockups promoted.
 
-You can learn more about the history feature, and view example history screens in the [history](http://support.balsamiq.com/customer/portal/articles/112404) section of the docs.
+You can learn more about the history feature, and view example history screens in the [history](/mybalsamiq/history/) section of the docs.
 
 * * *
 
@@ -119,7 +119,7 @@ To upload assets, click the Upload button in the dialog.
 
 You can upload up to 5 files at a time, each having a maximum file size of 1MB. Your computer’s upload dialog will let you select multiple files if all of your assets are in a single folder.
 
-For more information, view the [Assets](http://support.balsamiq.com/customer/portal/articles/112403) documentation.
+For more information, view the [Assets](/mybalsamiq/assets/) documentation.
 
 * * *
 
@@ -168,7 +168,7 @@ Access control settings allow **staff members** belonging to a project to set vi
 **4\. Wiki (use with caution)**
  Anyone may view project content, add comments, and add mockups.
 
-Please refer to the [myBalsamiq Access Control Matrix](http://support.balsamiq.com/customer/portal/articles/229097) for details on "who can see and do what" based on their role.
+Please refer to the [myBalsamiq Access Control Matrix](/mybalsamiq/accesscontrolmatrix/) for details on "who can see and do what" based on their role.
 
 * * *
 
@@ -252,9 +252,9 @@ When prompted by the dialog, browse for your .zip file on your computer and clic
 
 When you download a project, you'll be saving a compressed file in .zip format. Expanding the zip file will create a directory on your computer that has all of your Mockups BMML files, and assets files used by your project.
 
-**Note:** As of right now, only [project assets](http://support.balsamiq.com/customer/portal/articles/112403) will be included in your zip. If you used some [site assets](http://support.balsamiq.com/customer/portal/articles/112398#siteassets), you should download them and install them locally separately.
+**Note:** As of right now, only [project assets](/mybalsamiq/assets/) will be included in your zip. If you used some [site assets](/mybalsamiq/home/#site-assets), you should download them and install them locally separately.
 
-On your [site's home page](http://support.balsamiq.com/customer/portal/articles/112398) you can download individual projects from the action menu. Click the drop down menu in the bottom right under the project title and select Download. You will be prompted to save the .zip compressed file to your computer.
+On your [site's home page](/mybalsamiq/home/) you can download individual projects from the action menu. Click the drop down menu in the bottom right under the project title and select Download. You will be prompted to save the .zip compressed file to your computer.
 
 ![](http://media.balsamiq.com/img/support/docs/myb/project-download-home.png)
 

@@ -22,7 +22,7 @@ To add UI controls to your mockup, double-click or drag a control in [the UI Lib
 You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D). ALT/Option + drag will also duplicate controls and allow you to place them using your mouse.
 
 <span class="alert alert-info show" role="alert">
-**Note:** Full list of [keyboard shortcuts here](http://support.balsamiq.com/customer/portal/articles/110445).
+**Note:** Full list of [keyboard shortcuts here](/desktop/shortcuts/).
 </span>
 
 * * *

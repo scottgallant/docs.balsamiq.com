@@ -52,7 +52,7 @@ To do this go to the Google Drive settings (inside the gear icon menu in the upp
 
 ## Purchasing
 
-Feel free to take advantage of the **fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](http://support.balsamiq.com/customer/portal/articles/111756), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
+Feel free to take advantage of the **fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](/desktop/fullscreen/), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
 
 Monthly and yearly subscriptions are available. Details on [how to sign up for and manage your paid plan are here](http://support.balsamiq.com/customer/portal/articles/1550556) (_Short version:_ Go to "Help > Sign Up for a Paid Plan" in the editor).
 
@@ -77,7 +77,7 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 
 ## Inside the Balsamiq Mockups Editor 
 
-The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](http://support.balsamiq.com/customer/portal/articles/109151) may be helpful if you have any questions after reading the instructions below.
+The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](/desktop/overview/) may be helpful if you have any questions after reading the instructions below.
 
 * * *
 
@@ -107,7 +107,7 @@ The **Project Browser drop-down menu** also contains actions for deleting and cl
 
 ## Exporting Your Mockups
 
-Just like the other versions of Mockups, you can export your wireframes to PDF, PNG images, or as text (for importing into another version of Mockups). These options can be found in the **Project menu**. For more details see [this article on exporting in the desktop version](http://support.balsamiq.com/customer/portal/articles/111730).
+Just like the other versions of Mockups, you can export your wireframes to PDF, PNG images, or as text (for importing into another version of Mockups). These options can be found in the **Project menu**. For more details see [this article on exporting in the desktop version](/desktop/exporting/).
 
 ![Export options](http://media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)
 
@@ -117,17 +117,17 @@ To export the entire project (including Symbols and images) for use in another v
 
 ## Symbols and Project Assets
 
-Reusable Symbols (also called templates, masters, etc.) are supported in Mockups for Google Drive. To create a new Symbol, follow [these instructions](http://support.balsamiq.com/customer/portal/articles/110439) or choose "New Symbol Library" from the Project menu.
+Reusable Symbols (also called templates, masters, etc.) are supported in Mockups for Google Drive. To create a new Symbol, follow [these instructions](/desktop/symbols/) or choose "New Symbol Library" from the Project menu.
 
-To **import existing Symbols** (from [Mockups To Go](https://mockupstogo.mybalsamiq.com/), for example) see [this article on importing Symbols in the desktop documentation](http://support.balsamiq.com/customer/portal/articles/110439#importing). You can then double-click or drag from the UI Library to add them to any mockup in your project.
+To **import existing Symbols** (from [Mockups To Go](https://mockupstogo.mybalsamiq.com/), for example) see [this article on importing Symbols in the desktop documentation](/desktop/symbols/#importing-symbols). You can then double-click or drag from the UI Library to add them to any mockup in your project.
 
 ![Symbols UI Library category](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-uilibrary.png)
 
-To import images go to the "Project > Import" menu and choose "Assets...". You can then manage your images in the [Assets view](http://support.balsamiq.com/customer/portal/articles/110401#assetsview) using the navigator icon.
+To import images go to the "Project > Import" menu and choose "Assets...". You can then manage your images in the [Assets view](/desktop/images/#adding-images-in-assets-view) using the navigator icon.
 
 ![Assets UI Library category](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
 
-You can view and edit your Symbols by going to the [Symbols view](http://support.balsamiq.com/customer/portal/articles/110439#symbolsview) using the navigator icon.
+You can view and edit your Symbols by going to the [Symbols view](/desktop/symbols/#2-using-the-symbols-view) using the navigator icon.
 
 ![Symbols view](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols1.png)
 
@@ -137,7 +137,7 @@ You can view and edit your Symbols by going to the [Symbols view](http://support
 
 If you have a project created in Balsamiq Mockups 3 for Desktop (with a .bmpr extension) you can just upload it to Google Drive and edit it directly.
 
-If you want to open a project containing .bmml files (Balsamiq Mockups version 2) go to the "Project > Import " menu. You will have the option to import mockups from a .zip file, or from individual mockups or symbols. You can find more information in the [desktop documentation for importing](http://support.balsamiq.com/customer/portal/articles/1895737).
+If you want to open a project containing .bmml files (Balsamiq Mockups version 2) go to the "Project > Import " menu. You will have the option to import mockups from a .zip file, or from individual mockups or symbols. You can find more information in the [desktop documentation for importing](/desktop/importing/).
 
 ![Import options](http://media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_import.png)
 

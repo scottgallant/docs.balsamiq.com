@@ -33,7 +33,7 @@ There are several options for importing, from bringing in entire projects to imp
 
 ![import menu](http://media.balsamiq.com/img/support/docs/m4d/b3/import.png)
 
-See [this page](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) for more detailed instructions.
+See [this page](/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) for more detailed instructions.
 
 We have two recommendations if you want to switch to Balsamiq Mockups 3 but have active projects in BMML format:
 
