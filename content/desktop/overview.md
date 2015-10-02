@@ -13,7 +13,7 @@ Each Balsamiq Mockups file (with a .bmpr file extension) represents one project 
 
 <span class="alert alert-info show" role="alert">
 **Note:** Single project files are new in Balsamiq Mockups 3 ([learn more](/desktop/intro/#projects)).
-</span>``
+</span>
 
 The Balsamiq Mockups user interface is made up of five primary areas: the [toolbar](#the-toolbar), the [UI library](#the-ui-library), the [canvas](#the-mockup-canvas), the [navigator panel](#the-navigator-panel) and the [properties panel](#the-properties-panel). Each is described below.
 
