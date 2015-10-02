@@ -1,3 +1,4 @@
+// Import Mixins And Modules
 @import "config";
 @import "colors";
 
@@ -269,7 +270,7 @@ body {
       padding-top: 12px;
       padding-left: 0;
       &#list {
-       column-width: 370px;
+       column-width: 400px;
        li .ss-icon {
          color: $grayverydark;
        }
@@ -376,7 +377,7 @@ body {
 
   // TAGS LISTING
   ul.tags.listing {
-    column-width: 370px;
+    column-width: 400px;
     > li {
       margin: 0 9px 9px 0;
       display: inline-block;

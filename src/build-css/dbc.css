@@ -322,9 +322,9 @@ body {
   padding-top: 12px;
   padding-left: 0; }
   .company-support-portal .doc-overview ul#list, .company-support-portal .doc-overview ol#list {
-    -webkit-column-width: 370px;
-       -moz-column-width: 370px;
-            column-width: 370px; }
+    -webkit-column-width: 400px;
+       -moz-column-width: 400px;
+            column-width: 400px; }
     .company-support-portal .doc-overview ul#list li .ss-icon, .company-support-portal .doc-overview ol#list li .ss-icon {
       color: #666; }
   .company-support-portal .doc-overview ul.faq-list, .company-support-portal .doc-overview ol.faq-list {
@@ -411,9 +411,9 @@ body {
       text-align: right; }
 
 .company-support-portal ul.tags.listing {
-  -webkit-column-width: 370px;
-     -moz-column-width: 370px;
-          column-width: 370px; }
+  -webkit-column-width: 400px;
+     -moz-column-width: 400px;
+          column-width: 400px; }
   .company-support-portal ul.tags.listing > li {
     margin: 0 9px 9px 0;
     display: inline-block;
