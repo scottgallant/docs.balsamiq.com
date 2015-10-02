@@ -20,7 +20,7 @@ In this article you'll find information about [**where to download it**](#how-to
 
 Here's a quick 5-minute video walkthrough of some of the highlights of version 3.
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/-Zz8EYPhEew?rel=0"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/-Zz8EYPhEew?rel=0"></iframe></div>
 
 * * *
 

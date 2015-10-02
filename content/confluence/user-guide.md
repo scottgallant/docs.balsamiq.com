@@ -28,7 +28,7 @@ This will take you directly to the Balsamiq Mockup editor, where you can create 
 
 If you have never used Balsamiq Mockups before, here's a little intro of what you can do with it when using the Confluence plugin:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/l9-dLyINrac?rel=0"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/l9-dLyINrac?rel=0"></iframe></div>
 
 Once you are happy with your mockup, just select "Save" from the toolbar or the Mockup menu. You will be asked to give it a unique name. This is required and allows you to include more than one mockup on the same page.
 

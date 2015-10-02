@@ -47,4 +47,4 @@ Click on a link to go to the referenced mockup file or web page. Web links will 
 
 Here's a short video showing the process of linking mockups together.
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/jn28_aeh5DU?rel=0"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/jn28_aeh5DU?rel=0"></iframe></div>

@@ -130,4 +130,4 @@ It is possible to crop (mask) groups to only show a selected portion of them.
 
 The video below illustrates how to use this powerful feature:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/GOnCNNHhfGc"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/GOnCNNHhfGc"></iframe></div>
