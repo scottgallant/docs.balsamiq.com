@@ -155,7 +155,7 @@ To use your project in an earlier version of Balsamiq Mockups you can export the
 
 Mockups for Google Drive supports real-time collaboration between users. Just [share](#sharing-via-google-drive) the Mockups file with your collaborators, then have everyone launch the application on the same file. Everyone's changes will be shared in real-time with all collaborators.
 
-![real-time notification](http://support.balsamiq.com/customer/portal/attachments/254093)
+![real-time notification](http://media.balsamiq.com/img/support/docs/gdrive/userguide/m4gd_rtc.png)
 
 The other connected users will be shown in the top right of the screen. Hovering over their picture shows their email address.
 
