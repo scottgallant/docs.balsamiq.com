@@ -25,7 +25,7 @@ You will be taken to the Mockups editor, where you can create your mockup (or im
 
 If you have never used Balsamiq Mockups before, here's a quick video introduction of what you can do with it when using the JIRA plugin:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/nLNdx9kI7OM?rel=0"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/nLNdx9kI7OM?rel=0"></iframe></div>
 
 When you are happy with your mockup, you simply go to the Mockup menu:
 

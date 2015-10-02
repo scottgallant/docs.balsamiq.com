@@ -22,7 +22,7 @@ Some possible reasons for using alternates:
 
 Here's an overview:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/495jKWV5rEY?rel=0"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/495jKWV5rEY?rel=0"></iframe></div>
 
 ## Creating Alternates
 

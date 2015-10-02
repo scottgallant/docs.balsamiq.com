@@ -23,7 +23,7 @@ Mockups lets you specify individual width and alignment options for each Data Gr
 
 Here's a quick video showing how to do this:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/yUUdt6vfc4s?rel=0"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/yUUdt6vfc4s?rel=0"></iframe></div>
 
 Here are the details for creating column widths:
 

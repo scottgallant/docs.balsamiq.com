@@ -15,7 +15,7 @@ weight: 20
 
 This short video should give you an idea of what you can do with myBalsamiq.
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/-cjEyt1ahNw"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/-cjEyt1ahNw"></iframe></div>
 
 You can also watch this video [on our YouTube channel](http://www.youtube.com/watch?v=-cjEyt1ahNw).
 
