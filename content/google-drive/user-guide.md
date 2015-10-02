@@ -220,7 +220,7 @@ You can see previous versions of your mockups via the Google Drive interface. Ri
 ![Manage revisions](http://media.balsamiq.com/img/support/docs/gdrive/userguide/managerevisions.png)
 
 <span class="alert alert-info show" role="alert">
-**Note:** A new version is created each time you [quit](#closing) the application or if you manually save via the editor menu (Project > Save Project).
+**Note:** A new version is created each time you [quit](#returning-to-google-drive-closing-the-editor) the application or if you manually save via the editor menu (Project > Save Project).
 </span>
 
 Clicking on a previous version will download the .bmpr file.
