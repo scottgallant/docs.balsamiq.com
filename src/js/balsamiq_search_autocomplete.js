@@ -28,18 +28,27 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 		searching.css("visibility", p_showIt ? "visible" : "hidden");
 	}
 
-	function showResults(p_showIt)
-	{
-		results.css("visibility", p_showIt ? "visible" : "hidden");
-	}
-
-	input.keyup(function(e)
+	function closeOnEsc(e)
 	{
 		if (e.keyCode == 27) { // escape key maps to keycode `27`
 			showSearching(false);
 			showResults(false);
 		}
-	});
+	}
+
+	function showResults(p_showIt)
+	{
+		results.css("visibility", p_showIt ? "visible" : "hidden");
+
+		if (p_showIt)
+		{
+			$(document).keyup(closeOnEsc);
+		}
+		else
+		{
+			$(document).unbind("keyup", closeOnEsc);
+		}
+	}
 
 	var pendingSendTimer;
 	
