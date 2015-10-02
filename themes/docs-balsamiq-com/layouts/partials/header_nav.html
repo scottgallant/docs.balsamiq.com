@@ -51,14 +51,14 @@
                 <!-- SEARCH -->
                 <div id="search">
 
-                  <form class="search">
+                  <form class="search" action="{{ .Site.Params.balsamiqcomurl }}/search/" method="get">
                     <div id="navSearchDiv">
-                    <input id="s" accesskey="s" type="text" value="Search Docs..." name="q" tabindex="1" class="st-default-search-input"/>
+                    <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1"/>
                     </div>
                     <input id="ss" type="submit" value="Search" tabindex="2" autocomplete="off"/>
                   </form>
                   <script type="text/javascript">
-                    BalsamiqSearchAutoComplete.initDiv("navSearchDiv");
+                    BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("navSearchDiv");
                   </script>
 
                   <!-- /SEARCH -->
