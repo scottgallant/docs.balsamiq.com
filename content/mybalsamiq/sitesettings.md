@@ -32,7 +32,7 @@ Beneath the staff member map, your internal staff mailing list is shown. Emails 
 **User Actions**  
  In the list of staff members, each person is shown with a link to access actions for that user. If the user has set up contact information in their user settings, you can contact them from that action menu.
 
-![](http://media.balsamiq.com/img/support/docs/myb/staff-actions.png)
+![](//media.balsamiq.com/img/support/docs/myb/staff-actions.png)
 
 You can set staff members to be automatically added to new projects that are created on your site using the action menu. You can also specify which projects they have access to by selecting "Manage Project Membership" from the action menu.
 
@@ -97,4 +97,4 @@ Site owners can designate another [staff member](/mybalsamiq/sitesettings/#staff
 
 You can select any existing staff member from the drop down menu on the Payment Info page. The secondary billing administrator can be removed or changed at any time by the site owner.
 
-![](http://media.balsamiq.com/img/support/docs/myb/myb_secondary_billing.png)
+![](//media.balsamiq.com/img/support/docs/myb/myb_secondary_billing.png)

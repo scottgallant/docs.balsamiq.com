@@ -47,4 +47,4 @@ The type of events that will be recorded in the history are shown below.
 
 The annotated screenshot below gives you an idea of what you can do on the pages.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-history.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-history.png)

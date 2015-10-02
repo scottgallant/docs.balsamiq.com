@@ -14,7 +14,7 @@ Balsamiq Mockups 3 includes the amazing [Font Awesome](http://fortawesome.github
 
 It should meet all your icon needs, but if not, you can [add your own icons](#adding-your-own-custom-icons) or [request new ones from Font Awesome](http://fortawesome.github.io/Font-Awesome/community/#requesting-new-icons).
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-library.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-library.png)
 
 Icons from previous versions of Balsamiq Mockups have been remapped to the new icons. Go [here to learn about using the old icons](/desktop/transition/#where-are-the-old-icons-can-i-still-use-them) in your Balsamiq Mockups 3 projects.
 
@@ -22,11 +22,11 @@ Icons from previous versions of Balsamiq Mockups have been remapped to the new i
 
 Also new in Balsamiq 3, icons now have their own category in the UI Library so you can drag and drop them just like any other control.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-uilibrary.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-uilibrary.png)
 
 Not only that, they show up in the Quick Add results, saving you time when searching by name or keyword.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-quickadd.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-quickadd.png)
 
 Icon search results are shown _below_ any UI controls that match the text you enter.
 
@@ -40,7 +40,7 @@ Some controls allow you to add icons to them (buttons, for example). You can do 
 
 If the control you selected support icons, you will see the icon search box in the property inspector. This works much like [the Quick Add tool](/desktop/overview/#the-quick-add-tool), just type a few letters from the name of the icon you are looking for and a list of suggestions will pop up as a grid of icons to choose from. Just click on the one you want to select it.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-search.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-search.png)
 
 You can then size the icon from "XS" (16px) to "XXL" (128px). You can also rotate icons in 90 degree increments using the button next to the search box.
 
@@ -48,11 +48,11 @@ You can then size the icon from "XS" (16px) to "XXL" (128px). You can also rotat
 
 If you'd like to explore all the icons that are available, click on the icon to the right of the icon search box.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-open-library.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-open-library.png)
 
 This will bring up the icon library dialog, where you can browse the icons by category and preview them at different sizes. You can double-click an icon to select it immediately or click once to select and then click the "Select" button to add it.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-library.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-library.png)
 
 Once you have selected an icon, you can resize it, rotate it or remove it via the Property Inspector.
 
@@ -66,7 +66,7 @@ You can also add your own icons for use in your wireframes.
 
 There are two ways to add custom icons to Balsamiq Mockups. One way is via the icon library dialog.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-import.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-import.png)
 
 Select the Assets category at the bottom, then click the little plus button, select an image file and your image will be resized down to fit an existing icon size and copied to your assets.
 
@@ -74,7 +74,7 @@ Select the Assets category at the bottom, then click the little plus button, sel
 
 The second way is to add icon files manually to your [assets](/desktop/images/). If you add an "icon_" prefix to each file name and drag them into your assets they'll also show up in the icon library and Quick Add searches.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-custom.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-custom.png)
 
 <span class="alert alert-info show" role="alert">
 **Note:** Mac users can quickly add the "icon_" prefix to multiple files at once using the [batch rename tool in Mac OS X](https://support.apple.com/kb/PH19067?viewlocale=en_US&locale=en_US) (10.10 and higher).
@@ -111,4 +111,4 @@ Mockups works with color and transparency, but icons you add may not turn out lo
 
 The example below shows regular icons in the left column, a custom icon properly prepared with black fills in the middle column, and a custom icon that doesn't work as well in the right column. To fix the icon in the right column, the exclamation point should be made transparent, and the icon color should be black.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/customicon-bestpractice.png)
+![](//media.balsamiq.com/img/support/docs/m4d/customicon-bestpractice.png)

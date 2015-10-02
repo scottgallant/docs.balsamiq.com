@@ -15,7 +15,7 @@ tags:
 
 The Export menu contains the following export options:
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/export-menu.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/export-menu.png)
 
 Read on for descriptions of each.
 
@@ -33,7 +33,7 @@ You can choose to export all mockups or a subset, including any [alternates](/de
 
 The PDF export options are shown here.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/export-options.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/export-options.png)
 
 After exporting, a notification window will appear to show you where your PDF was saved. Click the notification to open the containing folder.
 
@@ -53,7 +53,7 @@ To easily copy a mockup as an image to paste into another application, select Ex
 
 You can also export a subset of the controls in your mockup by selecting them on the canvas and using the Export Current Mockup to PNG command. The export dialog will ask you if you want to export only the selected controls or the entire mockup.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/export-selected.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/export-selected.png)
 
 * * *
 

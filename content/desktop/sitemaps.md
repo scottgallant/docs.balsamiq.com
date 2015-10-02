@@ -27,11 +27,11 @@ Using the [Property Inspector](/desktop/inspector/) you can add [links](/desktop
 
 This is what the outline above looks like in vertical orientation (default):
 
-![](http://media.balsamiq.com/img/support/docs/m4d/sitemap.png)
+![](//media.balsamiq.com/img/support/docs/m4d/sitemap.png)
 
 ...and in horizontal orientation:
 
-![](http://media.balsamiq.com/img/support/docs/m4d/sitemap-horizontal.png)
+![](//media.balsamiq.com/img/support/docs/m4d/sitemap-horizontal.png)
 
 * * *
 
@@ -41,4 +41,4 @@ This is what the outline above looks like in vertical orientation (default):
 *   Multi-Line Text: You can use \r to create line returns on text in a box like this: About\rUs
 *   You can't resize Site Maps, but if you are unable to view the entire map on your canvas you can try changing the orientation or showing one of the nodes expanded in a separate Site Map, as shown below.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/sitemap-split.png)
+![](//media.balsamiq.com/img/support/docs/m4d/sitemap-split.png)

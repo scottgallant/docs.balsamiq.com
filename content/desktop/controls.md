@@ -15,7 +15,7 @@ tags:
 
 ## Adding UI Controls
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/uilibrary.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/uilibrary.png)
 
 To add UI controls to your mockup, double-click or drag a control in [the UI Library](/desktop/overview/#the-ui-library) or type a keyword into [the Quick Add tool](/desktop/overview/#the-quick-add-tool).
 
@@ -39,7 +39,7 @@ There are a few different ways to select UI controls. If you are familiar with g
 
 To select a control that is behind another control, right-click on the top control to bring up a menu that allows you to select controls behind it.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
 
 * * *
 
@@ -78,11 +78,11 @@ Another way to resize some controls to their "natural size" is to use the Auto-S
 
 You can align and distribute (space out) controls by selecting multiple controls and right-clicking to bring up the menu shown below.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/aligning-controls-contextmenu.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/aligning-controls-contextmenu.png)
 
 The same options are shown in the property inspector when multiple controls are selected.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/aligning-controls-inspector.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/aligning-controls-inspector.png)
 
 * * *
 
@@ -90,7 +90,7 @@ The same options are shown in the property inspector when multiple controls are 
 
 You can layer controls as if they were pieces of paper on the mockup canvas. To do so, you select the controls you want to layer and select one of four layering commands available via the right-click menu or [Property Inspector](/desktop/inspector/): Bring to Front, Bring Forward, Send Backward, and Send to Back. [Keyboard shortcuts](/desktop/shortcuts/) are also available.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/layering-controls.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/layering-controls.png)
 
 * * *
 
@@ -114,11 +114,11 @@ If you feel that you need to rotate any other control, let us know on [this foru
 
 Sometimes you might want to group some controls to better align them or move them all at once. To group a set of controls, select them and hit CTRL+G on your keyboard or use the Group command in the Edit menu or [toolbar](/desktop/overview/#the-toolbar). The controls will change color to purple to indicate that they are grouped. Once grouped, the controls will behave as one when moving or aligning. To ungroup controls, press CTRL+SHIFT+G on your keyboard or use the Ungroup command in the menu or toolbar.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/group-select.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/group-select.png)
 
 You can double-click on a group to "enter it" and edit its contents. A small floating breadcrumb bar will indicate that you are editing a group and allow you to navigate back out of the group (you can also use the Escape key). Groups can be nested, as shown below.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/group-edit.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/group-edit.png)
 
 You can optionally give a group a name via the Property Inspector. This can be helpful when you have a lot of groups and need to "know where you are" when you edit their contents. Naming groups is also useful when creating [Symbols](/desktop/symbols/#1-creating-symbols-in-the-mockups-view).
 

@@ -17,7 +17,7 @@ Each Balsamiq Mockups file (with a .bmpr file extension) represents one project 
 
 The Balsamiq Mockups user interface is made up of five primary areas: the [toolbar](#the-toolbar), the [UI library](#the-ui-library), the [canvas](#the-mockup-canvas), the [navigator panel](#the-navigator-panel) and the [properties panel](#the-properties-panel). Each is described below.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/ui-overview.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/ui-overview.png)
 
 For documentation on the UI areas that are unique to myBalsamiq, check out the [myBalsamiq editor documentation](/mybalsamiq/editor/).
 
@@ -33,7 +33,7 @@ The toolbar contains a series of icons for performing actions on other areas of 
 
 The first set of icons is described below.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/toolbar.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/toolbar.png)
 
 1.  Navigate between Mockups, [Assets](/desktop/images/), [Symbols](/desktop/symbols/) and [Trash](/desktop/intro/#trash)
 2.  Show/Hide the left panel
@@ -44,13 +44,13 @@ The first set of icons is described below.
 
 The group of icons in the center of the toolbar is for commonly-performed [canvas](#the-mockuop-canvas) functions. These are actions that you are probably used to from text editors or other drawing tools, such as copy, paste, [group](/desktop/controls#grouping-ui-controls), align and zoom. The last icon is for toggling markup ([read about markup here](/desktop/markup/)).
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/toolbar1.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/toolbar1.png)
 
-The final section of the toolbar on the far right contains the [Quick Add tool](#the-quick-add-tool), toggle icons for the [UI Library](#the-ui-library), [Property Inspector](/desktop/inspector/) and [Project Info Panel](/desktop/projectinfo/), and an icon to enter [Full Screen Presentation Mode](/desktop/fullscreen/). ![](http://media.balsamiq.com/img/support/docs/m4d/b3/toolbar2.png)
+The final section of the toolbar on the far right contains the [Quick Add tool](#the-quick-add-tool), toggle icons for the [UI Library](#the-ui-library), [Property Inspector](/desktop/inspector/) and [Project Info Panel](/desktop/projectinfo/), and an icon to enter [Full Screen Presentation Mode](/desktop/fullscreen/). ![](//media.balsamiq.com/img/support/docs/m4d/b3/toolbar2.png)
 
 The top of the toolbar shows the name of the project, which you can double-click to rename (or go to Project > Rename Project... in the menu).
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/rename-project.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/rename-project.png)
 
 * * *
 
@@ -60,7 +60,7 @@ The Quick Add tool is the fastest way to add UI controls to your mockup. To use 
 
 For example, typing "bu" shows a list containing "Button", "Button Bar", "Help Button", "Radio Button" and "Round Button". Typing "hel", on the other hand, only returns "Help Button". Pressing the ESCape key makes the list disappear, as one would expect.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-quickadd.png) 
+![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-quickadd.png)
 
 Try out Quick Add now! As you become familiar with it, you could even hide the UI Library and simply use Quick Add to add UI elements to your mockup. This maximizes both your mockup canvas area and your speed!
 
@@ -70,7 +70,7 @@ Try out Quick Add now! As you become familiar with it, you could even hide the U
 
 The UI Library, or UI Controls Library, is the long strip of UI Controls just below the Toolbar. It lists all of the UI control types that come with Mockups as well as [Assets](/desktop/images/), [Icons](/desktop/icons/), and [Symbols](/desktop/symbols/). The main goal of the UI Library is to let you add UI Controls to the mockup canvas, but you can also use it to see what's possible and to get inspiration for your UI mockup.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/uilibrary.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/uilibrary.png)
 
 To add a new UI control to the canvas, select the control type you wish to add then either drag it to the mockup canvas below or simply double-click and Balsamiq Mockups will place it on the mockup canvas for you.
 
@@ -94,7 +94,7 @@ The mockup canvas grows and shrinks with your application window, so you can mak
 
 The navigator panel on the left shows the list of mockups, assets or Symbols in your project. The currently selected object is highlighted. You can select multiple objects in the navigator panel by holding down the Control or Shift key and clicking on them. Mockups and assets can be viewed as a text-only list or as thumbnail previews.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/navigatorpanel.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/navigatorpanel.png)
 
 You can hide the navigator panel by clicking the navigator toggle icon above the panel (keyboard shortcut: CTRL/CMD + J). Hiding it will show additional icons in the toolbar ([shown above](#the-toolbar)) for navigating between mockups or assets (depending on which one is selected). The panel can be resized by placing your mouse cursor over the line separating the navigator panel from the canvas and dragging left or right. You can double-click on the separator line to reset it to the default width.
 
@@ -106,7 +106,7 @@ Mockups can be reordered by dragging them up and down in the navigator panel. Th
 
 A context menu is also available for the objects that are open in the navigator panel. You can either right-click on the selected object or click the small arrow that appears when you hover over it to open the menu.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/mockup-context-menu.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/mockup-context-menu.png)
 
 The contents of this menu vary depending on which type of object is selected (mockup, asset, symbol, or trash) but it generally contains options such as rename, move to trash, and clone. In the Mockups view it also contains actions for working with [alternates](/desktop/alternates/).
 
@@ -114,7 +114,7 @@ The contents of this menu vary depending on which type of object is selected (mo
 
 Renaming mockups can be done via the context menu or by double-clicking on the name of the mockup in the navigator panel. Mockups with [links](/desktop/linking/) will automatically be updated when a linked mockup name changes.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/rename-mockup.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/rename-mockup.png)
 
 * * *
 
@@ -122,7 +122,7 @@ Renaming mockups can be done via the context menu or by double-clicking on the n
 
 The panel on the right side of the application (when shown) displays properties for the selected control or object. Depending on which icon is selected it shows either the [Property Inspector](/desktop/inspector/) or [Project Info Panel](/desktop/projectinfo). It can be hidden by de-selecting both panel icons in the toolbar or unchecking Inspector and Project Information in the View menu.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/property-inspector.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/property-inspector.png)
 
 * * *
 
@@ -130,10 +130,10 @@ The panel on the right side of the application (when shown) displays properties 
 
 Clicking the icon to the right of the [navigator panel](#the-navigator-panel) toggle will switch to thumbnail grid view, shown here.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/thumbnail-grid.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/thumbnail-grid.png)
 
 This view shows thumbnails of all of your mockups and is useful for getting an overview of your project. It allows you to see more of your mockups at once and is a good view to use for reordering and tidying up (e.g., renaming and moving to the trash). You can trash multiple mockups at once by selecting them (using CTRL/Shift + click) and bringing up the [context menu](#context-menu-actions).
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/thumbnail-multi-select.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/thumbnail-multi-select.png)
 
 Thumbnail grid view is available when viewing mockups and assets, and is the only view available for trash.

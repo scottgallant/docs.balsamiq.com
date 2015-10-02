@@ -19,9 +19,9 @@ Keep reading to get an idea of what Staff Members can do on the home page, or [w
 
 The screenshot below shows all the parts and functions on your site home page.
 
-[![](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)
+[![](//media.balsamiq.com/img/support/docs/myb/anatomy-account.png)](//media.balsamiq.com/img/support/docs/myb/anatomy-account.png)
 
-<small>[View image full size in a new window &rarr;](http://media.balsamiq.com/img/support/docs/myb/anatomy-account.png)</small>
+<small>[View image full size in a new window &rarr;](//media.balsamiq.com/img/support/docs/myb/anatomy-account.png)</small>
 
 The home page is your main entry point for navigating projects. Whenever you want to return to this page, click the Home link in your breadcrumbs in the gray bar at the top left of the screen, or click your site name or logo in the upper left corner.
 
@@ -41,7 +41,7 @@ Creating projects is simple. Click one of the these two options: the book icon t
 
 ### New Project Menus
 
-![](http://media.balsamiq.com/img/support/docs/myb/new-project.png)
+![](//media.balsamiq.com/img/support/docs/myb/new-project.png)
 
 **1\. New Project Icon**
  The last book in the main area of the page is a New Project button—the big plus icon will help you spot it. You can click this to create a new project.
@@ -53,7 +53,7 @@ Creating projects is simple. Click one of the these two options: the book icon t
 
 Clicking on either of the New Project links will open up the new project dialog you see below.
 
-![](http://media.balsamiq.com/img/support/docs/myb/new-project-dialog.png)
+![](//media.balsamiq.com/img/support/docs/myb/new-project-dialog.png)
 
 **1\. Project Name**
  Enter a project name. You can always change it later. We tend to create a naming system, e.g. [Project Name]: [Project Sub Title], or you could use [Client Name]: [Project]. Projects are sorted alphabetically, so a nomenclature can be helpful.
@@ -75,7 +75,7 @@ See also the instructions for [uploading an entire project from your desktop](/m
 
 On existing projects, you can easily rename and change the book cover style of a project by using the drop down menu in the bottom right.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-rename.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-rename.png)
 
 * * *
 
@@ -83,7 +83,7 @@ On existing projects, you can easily rename and change the book cover style of a
 
 When you select “Clone…” to clone a project from the Project Menu on the home or using the Manage Project button on the project page, we create a copy of the project including all of its mockups.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-clone-home.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-clone-home.png)
 
 Click the Project Menu icon in the bottom right corner of the project book and select Clone…
 
@@ -101,7 +101,7 @@ From a site home page, you can upload a .zip compressed file of a project folder
 
 To upload, simply click the Upload New Project link in the upper right of the site's home page.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-upload.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-upload.png)
 
 When prompted by the dialog, browse for your .zip file on your computer and click Upload. Your project .zip will be uploaded in the background and will show up on the home page when the upload is complete.
 
@@ -115,13 +115,13 @@ When you download a project, you'll be saving a compressed file in .zip format. 
 
 On your site's home page you can download individual projects from the action menu. Click the drop down menu in the bottom right under the project title and select Download. You will be prompted to save the .zip compressed file to your computer.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-download-home.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-download-home.png)
 
 **Download from Project Pages**
 
 From a [project's page](/mybalsamiq/project/) (grid, story, or list view) you can select the drop down menu next to the Edit button and select Download Project. You will be prompted to save the .zip compressed file to your computer.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-download.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-download.png)
 
 * * *
 
@@ -129,7 +129,7 @@ From a [project's page](/mybalsamiq/project/) (grid, story, or list view) you ca
 
 When you select “Archive” from the Project Menu or the using the Manage Project button on the project page, we will move the project to the site Archives.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-archive.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-archive.png)
 
 Moving a project to the site archives removes it from the home view, and frees up a single project from your site’s project quota. All of your contents are saved, but you will not have access to the project or its contents unless you unarchive it.
 
@@ -149,7 +149,7 @@ Note: If you've run out of projects in your Site's plan you will not be able to 
 
 When you select Delete from the Project Menu or the using the Manage Project button on the project page, we will delete the project and all of its contents permanently. This is an unrecoverable action, so be sure you download your project, using the Manage Project > Download Project Menu if you want to save a local copy of it first.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-delete.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-delete.png)
 
 **We cannot recover any of your contents for you once a project is deleted.** Once it’s gone, it’s gone. So be sure you download it first if you’ll want to refer to it later.
 
@@ -159,7 +159,7 @@ When you select Delete from the Project Menu or the using the Manage Project but
 
 The Assets link in the upper right of the home page opens the Site History manager dialog. Site Assets are images and any assets you want to share with all projects across your site.
 
-![](http://media.balsamiq.com/img/support/docs/myb/assets.png)
+![](//media.balsamiq.com/img/support/docs/myb/assets.png)
 
 To upload assets, click the Upload button in the dialog. You can upload up to 5 files at a time, each having a maximum file size of 100MB. Your computer’s upload dialog will let you select multiple files if all of your assets are in a single folder.
 

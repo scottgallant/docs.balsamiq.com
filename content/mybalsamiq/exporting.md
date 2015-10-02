@@ -13,7 +13,7 @@ Unlike the Desktop version, exporting to PDF from myBalsamiq is done outside of 
 
 To export to PDF in myBalsamiq, go to the **[Project page](/mybalsamiq/project/)** for the mockups you want to export and click the **arrow next to the Edit button** as shown below.
 
-![](http://media.balsamiq.com/img/support/docs/myb/export-pdf.png)
+![](//media.balsamiq.com/img/support/docs/myb/export-pdf.png)
 
 You will see an option listed there to **export to PDF**. When you select it you will be presented with some options and when you click the "Export to PDF" button the file will be created for you to download.
 
@@ -29,6 +29,6 @@ Unlike the Desktop version, exporting to a PNG image from myBalsamiq is done out
 
 To export to a PNG image in myBalsamiq, go to the **[Single Mockup page](/mybalsamiq/mockup/)** for the mockup you want to export and click the **link below the mockup labeled "Download Image"** as shown below.
 
-![](http://media.balsamiq.com/img/support/docs/myb/download-image.png)
+![](//media.balsamiq.com/img/support/docs/myb/download-image.png)
 
 The image will then be downloaded to your computer or it will open in a new browser window for you to save by right-clicking on it.

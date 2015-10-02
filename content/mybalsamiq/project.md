@@ -19,9 +19,9 @@ You can also [watch the Working with Projects section of our intro video](http:/
 
 The image screenshot below shows all the parts and functions on a typical project page. Take a look to get an idea about what you can do on the project page.
 
-[![](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)
+[![](//media.balsamiq.com/img/support/docs/myb/anatomy-project.png)](//media.balsamiq.com/img/support/docs/myb/anatomy-project.png)
 
-<small>[View full size image in a new window &rarr;](http://media.balsamiq.com/img/support/docs/myb/anatomy-project.png)</small>
+<small>[View full size image in a new window &rarr;](//media.balsamiq.com/img/support/docs/myb/anatomy-project.png)</small>
 
 * * *
 
@@ -33,7 +33,7 @@ Once you’ve created a project, it’s easy to change the project name and desc
 
 When you hover over a title and description from the project page you’ll notice that the text is highlighted in yellow. Any time you see this hover effect, it’s a cue that the field is editable. To edit the name or description, click the text.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-editinplace.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-editinplace.png)
 
 ### Project Description
 
@@ -75,11 +75,11 @@ You can learn more about the history feature, and view example history screens i
 
 To add a new mockup from any page in a project, click the New Mockup button in the upper right.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-newmockup.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-newmockup.png)
 
 You can also upload an existing mockup from your computer by clicking the drop-down arrow next to the New Mockup button and selecting "Upload a new mockup..."
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-uploadmockup.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-uploadmockup.png)
 
 * * *
 
@@ -91,7 +91,7 @@ To the right of every Mockup title is a little down arrow. That’s the drop dow
 
 Depending on the permissions you have, the menu provides access to features including commenting, renaming, cloning, downloading, and deleting.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-mockupmenu.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-mockupmenu.png)
 
 ### Re-ordering Mockups
 
@@ -101,7 +101,7 @@ Arranging mockups in order is simple. Hover over a mockup and you’ll see a gra
 
 Click and hold on the bar and drag to another place on the grid to change it’s position in the order.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-reorder.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-reorder.png)
 
 Now when you use pagination and story mode, the mockup will appear in the order you’ve created on your project page.
 
@@ -113,7 +113,7 @@ An assets manager is provided store re-usable images, Mockups, or other files yo
 
 To access the Assets Manager, click the Assets link the upper right of the screen.
 
-![](http://media.balsamiq.com/img/support/docs/myb/assets.png)
+![](//media.balsamiq.com/img/support/docs/myb/assets.png)
 
 To upload assets, click the Upload button in the dialog.
 
@@ -131,11 +131,11 @@ To add people to projects, click the “Project Members” menu in the upper rig
 
 The Project Members drop down menu will appear. You can see other members that currently have access to the project.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-members.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-members.png)
 
 Click the “Add and Manage Members” link and a pop-up will appear to add or remove staff members or submit email addresses of additional people you want to invite.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-members-add.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-members-add.png)
 
 Clicking the “Save Changes and Send Invites” button will send an email invitation.
 
@@ -154,7 +154,7 @@ By default, all sites are set to private and only invited staff and project memb
 
 Access control settings allow **staff members** belonging to a project to set viewing, commenting, and editing options for your projects. Only staff members may change access settings.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-acl.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-acl.png)
 
 **1\. Private (default)**
  Only invited staff or project members may access the project. All project members have access to view mockups, add new mockups, add comment.
@@ -178,7 +178,7 @@ You can view your project using one of 4 main views: Grid, Story, List, and Prot
 
 You can switch between views using the view icons. Lastly, you can use the Prototype View if you've linked your Mockups together, to display a click-through prototype.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-gridstorymap.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-gridstorymap.png)
 
 **1\. Grid**
  This is the default view. It provides an overview of your project, showing a grid of your mockups as thumbnails and titles.
@@ -202,7 +202,7 @@ Prototype mode follows permissions settings, but allows you to share a private U
 
 From the Edit menu on the project page you can perform the following actions:
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-manage.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-manage.png)
 
 **Edit Mockups**
  The main Edit button opens the Mockups editor so you can begin editing your Mockups.
@@ -215,12 +215,12 @@ From the Edit menu on the project page you can perform the following actions:
 
 To export a project, select Export PDF... from the Edit Menu, and then select your export options in the dialog that appears. Click the Export PDF button to save the file to your computer.
 
-![](http://media.balsamiq.com/img/support/docs/myb/export-pdf.png)
+![](//media.balsamiq.com/img/support/docs/myb/export-pdf.png)
 
 **Clone Project**
  Creates a copy of the project and all of its mockups to a new project. The screenshot below shows the Edit Project menu expanded, with steps for cloning a project. You will be notified when the cloning process is complete.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-clone.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-clone.png)
 
 **Archive Project**
  Moves the project to the archives, where it will be inactive unless un-archived. Archived projects don't count towards your plan. Archiving old projects allows you to create new projects without needing to [upgrade your plan](http://support.balsamiq.com/customer/portal/articles/1397041#updatingplan). You will not be able to view the project while it is archived.
@@ -242,7 +242,7 @@ From a site home page, you can upload a .zip compressed file of a project folder
 
 To upload, simply click the Upload New Project link in the upper right of the site's home page.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-upload.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-upload.png)
 
 When prompted by the dialog, browse for your .zip file on your computer and click Upload. Your project .zip will be uploaded in the background and will show up on the home page when the upload is complete.
 
@@ -256,10 +256,10 @@ When you download a project, you'll be saving a compressed file in .zip format. 
 
 On your [site's home page](/mybalsamiq/home/) you can download individual projects from the action menu. Click the drop down menu in the bottom right under the project title and select Download. You will be prompted to save the .zip compressed file to your computer.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-download-home.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-download-home.png)
 
 **Download from Project Pages**
 
 From a project's main page (grid, story, or list view) you can select the drop down menu next to the Edit button and select Download Project. You will be prompted to save the .zip compressed file to your computer.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-download.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-download.png)

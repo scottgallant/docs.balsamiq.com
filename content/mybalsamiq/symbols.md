@@ -17,7 +17,7 @@ First, make sure you read and understand the introduction to Symbols in generalÂ
 
 **To create a Symbols library within myBalsamiq**
 
-![](http://media.balsamiq.com/img/support/docs/myb/new-symbol-library.png)
+![](//media.balsamiq.com/img/support/docs/myb/new-symbol-library.png)
 
 *   Open an editor from any project.
 *   Select the menu Project > New Symbol Library to open the dialog below.
@@ -41,7 +41,7 @@ First, make sure you read and understand the introduction to Symbols in generalÂ
 
 When editing a Mockup, select the Project Assets or Site Assets tab in the UI Library and drag and drop your symbol into your mockup.
 
-![](http://media.balsamiq.com/img/support/docs/myb/useasset.png)
+![](//media.balsamiq.com/img/support/docs/myb/useasset.png)
 
 * * *
 
@@ -49,8 +49,8 @@ When editing a Mockup, select the Project Assets or Site Assets tab in the UI Li
 
 You can select the symbol library in the Project Browser on the right, make your edits and save the symbol library.
 
-![](http://media.balsamiq.com/img/support/docs/myb/editor-tabs.png)
+![](//media.balsamiq.com/img/support/docs/myb/editor-tabs.png)
 
 The Symbol Libraries tab contains sub-tabs for Project or Site Asset Symbols.
 
-![](http://media.balsamiq.com/img/support/docs/myb/editor-symbolstabs.png)
+![](//media.balsamiq.com/img/support/docs/myb/editor-symbolstabs.png)

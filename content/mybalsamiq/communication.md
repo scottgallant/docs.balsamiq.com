@@ -9,7 +9,7 @@ weight: 120
 
 myBalsamiq offers 3 different ways of communicating via the Project Team menu displayed within a project: Skype Chat, Skype Voice Call, and Email.
 
-[![](http://media.balsamiq.com/img/support/docs/myb/communication.png)](http://media.balsamiq.com/img/support/docs/myb/communication.png)
+[![](//media.balsamiq.com/img/support/docs/myb/communication.png)](//media.balsamiq.com/img/support/docs/myb/communication.png)
 
 ## Group Communication
 

@@ -22,11 +22,11 @@ Balsamiq Mockups 3 uses a different file format from previous versions ([read mo
 
 To convert your existing project folders or ZIP files into BMPR files, open the Project > Import menu.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/import.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/import.png)
 
 Select what you'd like to import and your old files will be imported and a new BMPR file will be created.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/import2.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/import2.png)
 
 You can also just drag BMML files into Balsamiq Mockups 3 to import them to the current project.
 

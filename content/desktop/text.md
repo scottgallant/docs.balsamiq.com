@@ -11,7 +11,7 @@ Many Mockups UI controls, such as Button, Label or DataGrid, have text in them. 
 
 Some controls use certain characters as separators. For instance, to create multiple tabs in a tabs bar, you separate them with a comma.
 
-![](http://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-tabs_edit.png)
+![](//media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-tabs_edit.png)
 
 Or, a space character separates tags in a Tag Cloud control. Some other controls, like the Tree, use other characters altogether. In such cases the default text for the Control includes explanations on how to use it.
 
@@ -45,7 +45,7 @@ All of the above syntax works around words separated by white spaces, and underl
 
 Here's a screenshot of what the above text looks like in a Paragraph control, for instance:
 
-![](http://media.balsamiq.com/img/support/docs/m4d/italiclinksbold.png)
+![](//media.balsamiq.com/img/support/docs/m4d/italiclinksbold.png)
 
 The shortcuts will work almost everywhere where it makes sense, and you can combine them, so to make an italic link use [\_this\_] or \_[this]\_. 
 
@@ -58,7 +58,7 @@ If you want to show these special formatting characters as actual text, you can 
 
 Most controls allow you to insert a line break to wrap text from one line to the next. You can do this by writing \r in front of the text you want to start on a new line. See the example below where a line break is used in the second item in a Radio Button control.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/linebreak.png)
+![](//media.balsamiq.com/img/support/docs/m4d/linebreak.png)
 
 ### Bulleted lists
 
@@ -93,11 +93,11 @@ Adding links in this way will cause them to show up in the Property Inspector as
 
 This text
 
-![bracket_links-edit.png](http://media.balsamiq.com/img/support/docs/m4d/bracket_links-edit.png)
+![bracket_links-edit.png](//media.balsamiq.com/img/support/docs/m4d/bracket_links-edit.png)
 
 results in
 
-![bracket_links.png](http://media.balsamiq.com/img/support/docs/m4d/b3/bracket_links.png)
+![bracket_links.png](//media.balsamiq.com/img/support/docs/m4d/b3/bracket_links.png)
 
 You can link specific strings of text as well as the whole control.
 
@@ -113,7 +113,7 @@ You can link specific strings of text as well as the whole control.
 
 Type lorem in a Paragraph or Text Area to use our [Lorem Ipsum](http://www.lipsum.com/ "What is Lorem Ipsum") generator.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/lorem.gif)
+![](//media.balsamiq.com/img/support/docs/m4d/lorem.gif)
 
 ### {mockup-name}
 

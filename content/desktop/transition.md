@@ -21,7 +21,7 @@ Yes! And it uses the same license as the old version, so you won't even have to 
 
 If you are transitioning from version 2 to version 3 of Balsamiq Mockups the most important thing to know is that Balsamiq Mockups 3 uses a new file format. We made this change to greatly simplify organizing your mockups into projects and to make it much easier to share files.
 
-![format](http://media.balsamiq.com/img/support/docs/m4d/b3/migration.png)
+![format](//media.balsamiq.com/img/support/docs/m4d/b3/migration.png)
 
 In previous versions each mockup was a separate file and images and Symbols needed to be stored in a specific subfolder in order to be recognized. This made it very confusing when working with lots of mockups, many images or multiple projects.
 
@@ -31,7 +31,7 @@ For our existing customers this means that you will need to import your existing
 
 There are several options for importing, from bringing in entire projects to importing individual mockups or Symbol Libraries. Just go to the Project > Import menu, as shown below.
 
-![import menu](http://media.balsamiq.com/img/support/docs/m4d/b3/import.png)
+![import menu](//media.balsamiq.com/img/support/docs/m4d/b3/import.png)
 
 See [this page](/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) for more detailed instructions.
 
@@ -62,7 +62,7 @@ We replaced them with the [Font Awesome](/desktop/icons/) icon set, which has mo
 
 Nostalgic for the old ones? You can download them here:
 
-*   [Balsamiq Mockups version 2 icon set - Sketch skin](http://media.balsamiq.com/files/balsamiq_2_icons_sketch.zip) (.zip file, 268 Kb)
-*   [Balsamiq Mockups version 2 icon set - Wireframe skin](http://media.balsamiq.com/files/balsamiq_2_icons_wireframe.zip) (.zip file, 234 Kb)
+*   [Balsamiq Mockups version 2 icon set - Sketch skin](//media.balsamiq.com/files/balsamiq_2_icons_sketch.zip) (.zip file, 268 Kb)
+*   [Balsamiq Mockups version 2 icon set - Wireframe skin](//media.balsamiq.com/files/balsamiq_2_icons_wireframe.zip) (.zip file, 234 Kb)
 
 See [these instructions for adding them as custom icons](/desktop/icons/#using-an-existing-set-of-custom-icons).

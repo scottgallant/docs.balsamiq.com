@@ -22,7 +22,7 @@ As mentioned above, dragging an image from your computer to Balsamiq Mockups wil
 
 You can modify the image properties in the Property Inspector, similar to other UI controls.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/image-properties.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/image-properties.png)
 
 The properties specific to images are as follows:
 
@@ -35,11 +35,11 @@ The properties specific to images are as follows:
 
 If you don't yet have an image ready or want to use a placeholder image to keep your mockup low-fidelity, you can add an Image control from the [UI Library](/desktop/overview/#the-ui-library) and it will show up as a box with an 'X' through it. You can later replace it with an image using the image properties described above.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/image-default.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/image-default.png)
 
 Once an image has been added to your project it will show up in the UI Library so that you can easily add it to any mockup in your project. The "Assets" category will show all of the images that you've added to your project.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
 
 This also means that you can add your images to your mockups from the [Quick Add](/desktop/overview/#the-quick-add-tool) box. Just type the first few letters of the image name and it will appear in the list.
 
@@ -57,19 +57,19 @@ Aside from the Image control, you can also embed images in the Cover Flow contro
 
 Balsamiq Mockups 3 has a dedicated area of the user interface for managing images, icons and other assets called the Assets view.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/assets.png)
 
 The assets view shows all images and [custom icons](/desktop/icons/#adding-your-own-custom-icons) that have been added to your project. You can get to it by switching the navigator view to assets.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets1.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/assets1.png)
 
 You can add images in the Assets view by dragging and dropping from your computer or by using the icons in the toolbar.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets2.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/assets2.png)
 
 The "Import Asset..." icon allows you to select one or more images from your computer while the "Download Asset..." icon brings up the same dialog as in the Mockups view to enter an image URL or search for an image from Flickr.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/add-from-web.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/add-from-web.png)
 
 Once you've added images, you can view them as thumbnails or a list, as well as in [Thumbnail Grid view](/desktop/overview/#thumbnail-grid-view).
 
@@ -85,7 +85,7 @@ You can also store other types of files in your project that won't be used in yo
 **Note:** Assets are limited to 20 Megabytes per file for performance reasons.
 </span>
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/nonimageassets.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/nonimageassets.png)
 
 These files can't be viewed inside the application, but they are "packaged" with your project, so if you give the project file to someone else they will be able to save the files from the Balsamiq project to their computer using the "Save to disk" button or [context menu item](#managing-images-and-other-assets).
 
@@ -95,7 +95,7 @@ These files can't be viewed inside the application, but they are "packaged" with
 
 As with the Mockups view, the Assets view has a [context menu](/desktop/overview/#context-menu-actions) that you can open by right-clicking in the navigator or using the drop-down arrow. This allows you to rename, delete, update, or download your images and other assets.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-context-menu.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/assets-context-menu.png)
 
 ### Renaming assets
 

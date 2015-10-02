@@ -13,13 +13,13 @@ We know that some people need to shift from idea generation with internal teams 
 
 To switch skins go to the [Project Info panel](/desktop/projectinfo/) and set the Skin setting to "Wireframe".
 
-![ ](http://media.balsamiq.com/img/support/docs/m4d/b3/skin-switcher.png)
+![ ](//media.balsamiq.com/img/support/docs/m4d/b3/skin-switcher.png)
 
 The feature allows you to work on early ideas in the sketchy skin, and then later select a menu to swap out all of your controls in the clean skin. All of your elements, including icons will be switched.
 
 The screenshots below show a comparison of a sample design in the default "sketch" and "wireframe" skins, respectively. Click to view larger images.
 
-<p class="clearfix"><a class="fb fleft" href="http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" rel="popup"><img alt="Sketch Skin" src="http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" style="width: 390px; margin-right: 3px;" /></a> <a class="fb fleft" href="http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" rel="popup"><img alt="Wireframe Skin" src="http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" style="width: 390px;" /></a></p>
+<p class="clearfix"><a class="fb fleft" href="//media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" rel="popup"><img alt="Sketch Skin" src="//media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" style="width: 390px; margin-right: 3px;" /></a> <a class="fb fleft" href="//media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" rel="popup"><img alt="Wireframe Skin" src="//media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" style="width: 390px;" /></a></p>
 
 ---
 ## Which skin should I use?
@@ -32,7 +32,7 @@ However, while designing, the original sketch skin still offers all the advantag
 
 Just as the wireframe skin makes the design feel finished, the sketch skin makes the design feel _un_-finished, which guides you to continue to ask questions and explore. The following description of the differences between sketches and prototypes can also be applied to the sketch and wireframe skins, respectively.
 
-![Sketch vs. Prototype](http://media.balsamiq.com/img/support/docs/m4d/buxton_small.jpg)  
+![Sketch vs. Prototype](//media.balsamiq.com/img/support/docs/m4d/buxton_small.jpg)
 <small>Credit: Bill Buxton, [_Sketching User Experiences_](http://www.amazon.com/Sketching-User-Experiences-Getting-Design/dp/0123740371/)</small>
 
 So, while you _can_ use the wireframe skin at any phase of the design process, we don't really recommend it as an alternative to the sketch skin. But, rather, more as a follow-up to it. It _extends_ the functionality of Mockups by making it more amenable to the presentation or pitching phase of product development, beyond just the ideation and design phase.

@@ -9,9 +9,9 @@ weight: 60
 
 The image below is a marked up screenshot showing all the parts and functions on a single Mockup page.
 
-[![](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)
+[![](//media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)](//media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)
 
-<small>[View full size image in a new window &rarr;](http://media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)</small>
+<small>[View full size image in a new window &rarr;](//media.balsamiq.com/img/support/docs/myb/anatomy-mockup.png)</small>
 
 You can also [watch the Mockup section of our intro video](http://www.youtube.com/watch?v=-cjEyt1ahNw#t=3m59s) on YouTube for a quick intro to Mockups in myBalsamiq.
 
@@ -21,7 +21,7 @@ You can also [watch the Mockup section of our intro video](http://www.youtube.co
 
 To Create a mockup, select the New Mockup button in the upper right of a project or mockup page.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-menudrop.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-menudrop.png)
 
 The New Mockup button also provides a drop down menu to create a new mockup by uploading it from your computer.
 
@@ -33,7 +33,7 @@ If you use the New Mockup button dropdown menu while on a single mockup page, th
 
 Below a Mockup, you’ll see 4 bits of information:
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-info.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-info.png)
 
 **1\. Image Permalink**
  The image permalink below the Mockup provides a link to the Mockup image so you can embed the URL in an external web page or in emails to share the image. Note that projects must be public for the image permalink to work externally for anonymous users.
@@ -62,7 +62,7 @@ You can use the same text formatting options we provide in Mockups!
 
 When you’re browsing through project, you can navigate easily between the Mockups two ways: Prev/Next arrows and Mockup Sidebar.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-navigation.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-navigation.png)
 
 **1\. Using the Previous/Next arrows**
  If you’re viewing a single Mockup, in the top right of the screen below the project menus, you’ll see a left and right arrow. They let you navigate to the next or previous mockup in the project.
@@ -84,7 +84,7 @@ You can add comments to Mockups, just as you would to a blog entry. This is espe
 
 Scroll to the bottom of a Mockup page, enter your comment in the comment form and click the “Add Comment” button.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-comment.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-comment.png)
 
 You can use the same text formatting options we provide in Mockups!
 
@@ -107,17 +107,17 @@ We’ve made iterations a big part of the review and commenting process by allow
 
 To propose an alternate version, select the “Propose Alternate Version…” button below the comment form. The Mockups editor will open and allow you to modify the current Mockup for your team to review.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-commentalt-propose.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-commentalt-propose.png)
 
 The alternate version Mockup appears in the comment form after your done working in the editor, as in the image below. Be sure to save a comment with this proposed version.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-commentalt.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-commentalt.png)
 
 After review, users can promote the proposal as the current Mockup by clicking “Promote to Main Mockup” link if they’re happy with the changes.
 
 Alternatively, users can also click the “Merge into Main Mockup…” link below the proposal to make further changes before promoting it.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-commentalt-proposed.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-commentalt-proposed.png)
 
 * * *
 
@@ -144,7 +144,7 @@ We keep versions of each mockup that’s committed to your project.
 
 If you’re looking at the mockup history, each earlier version will have a button to restore it as the latest Mockup. Click Restore and it’ll replace your current version.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-restore.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-restore.png)
 
 * * *
 
@@ -152,11 +152,11 @@ If you’re looking at the mockup history, each earlier version will have a butt
 
 You can restore deleted mockups by going to the history and clicking the "Restore this version" button. You can also download the file without restoring it by clicking the "Download BMML" link. Deleted mockups may take a few minutes to appear in the history.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-restore-deleted.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-restore-deleted.png)
 
 You will then see a message indicating that your mockup was restored.
 
-![](http://media.balsamiq.com/img/support/docs/myb/notification-restored.png)
+![](//media.balsamiq.com/img/support/docs/myb/notification-restored.png)
 
 * * *
 
@@ -166,7 +166,7 @@ The “New Mockup” button on a Mockup page has a drop-down menu with options t
 
 Select the New Mockup drop down and choose “Clone this Mockup” and we’ll copy it’s content to a new mockup and ask you to give it a title.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-clone.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-clone.png)
 
 * * *
 
