@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:57:52+02:00
-title: "Working with Images"
+title: "Working with Images and Assets"
 menu:
   menudesktop:
     parent: desktop
@@ -10,13 +10,15 @@ tags:
   - "Assets"
 ---
 
-There are multiple ways to add images to your mockups. The easiest way is to simply drag and drop an image file from your computer on to the Mockups canvas. Read on to learn more about adding and using images in your projects.
+There are multiple ways to add images to your mockups. The easiest way is to simply drag and drop an image file from your computer on to the Mockups canvas. Read on to learn more about adding and using images and other assets in your projects.
 
-* * *
+<span class="alert alert-info show" role="alert">
+**Note:** To learn how to add images and other assets in myBalsamiq, see [Using Assets in myBalsamiq](/mybalsamiq/assets/).
+</span>
 
 ## Adding images in Mockups view
 
-As mentioned above, dragging an image from your computer to Balsamiq Mockups will add it to the canvas. Doing this will place the image into the selected mockup and copy the image file to your [Assets](#assetsview) so that you can easily reuse it in other mockups.
+As mentioned above, dragging an image from your computer to Balsamiq Mockups will add it to the canvas. Doing this will place the image into the selected mockup and copy the image file to your [Assets](#adding-images-in-assets-view) so that you can easily reuse it in other mockups.
 
 You can modify the image properties in the Property Inspector, similar to other UI controls.
 
@@ -24,14 +26,14 @@ You can modify the image properties in the Property Inspector, similar to other 
 
 The properties specific to images are as follows:
 
-*   The **drop-down box** shows you the name of the current image. Opening it allows you to select a different image from the images you've already imported to your [Assets](#assetsview).
+*   The **drop-down box** shows you the name of the current image. Opening it allows you to select a different image from the images you've already imported to your [Assets](#adding-images-in-assets-view).
 *   The **"+" icon** next to the drop-down box allows you to add an image from your computer. This is the same as dragging and dropping an image file.
 *   Clicking the **download icon** opens a dialog to add image from the web by entering a URL directly or by searching Flickr. Mockups supports GIF, JPG/JPEG, and PNG image file formats. Files downloaded from the web will be copied to your project.
 *   Click the **rotate icon** below the image drop-down to rotate your image in 90-degree increments.
 *   Clicking the **square with an 'x' inside it** will revert the image to the default placeholder image.
 *   The **"Sketch it!" checkbox** will convert your image to a black and white line drawing version.
 
-If you don't yet have an image ready or want to use a placeholder image to keep your mockup low-fidelity, you can add an Image control from the [UI Library](http://support.balsamiq.com/customer/portal/articles/109151#uilibrary) and it will show up as a box with an 'x' through it. You can later replace it with an image using the image properties described above.
+If you don't yet have an image ready or want to use a placeholder image to keep your mockup low-fidelity, you can add an Image control from the [UI Library](/desktop/overview/#the-ui-library) and it will show up as a box with an 'X' through it. You can later replace it with an image using the image properties described above.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/image-default.png)
 
@@ -39,9 +41,11 @@ Once an image has been added to your project it will show up in the UI Library s
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
 
-This also means that you can add your images to your mockups from the [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) box. Just type the first few letters of the image name and it will appear in the list.
+This also means that you can add your images to your mockups from the [Quick Add](/desktop/overview/#the-quick-add-tool) box. Just type the first few letters of the image name and it will appear in the list.
 
-**Note:** You can delete an image by right-clicking on it in the UI Library and selecting "Move Image to Trash" or from the [context menu in the Assets view](#managing).
+<span class="alert alert-info show" role="alert">
+**Note:** You can delete an image by right-clicking on it in the UI Library and selecting "Move Image to Trash" or from the [context menu in the Assets view](#managing-images-and-other-assets).
+</span>
 
 The image properties panel also allows you to crop or mask images to only show a selected portion of them. You can [watch a tutorial on cropping images here](http://support.balsamiq.com/customer/portal/articles/1430586). Images that have been cropped will show an icon to remove the cropping in the properties panel.
 
@@ -51,11 +55,11 @@ Aside from the Image control, you can also embed images in the Cover Flow contro
 
 ## Adding images in Assets view
 
-Balsamiq Mockups 3 has a dedicated area of the user interface for managing images, called the Assets view.
+Balsamiq Mockups 3 has a dedicated area of the user interface for managing images, icons and other assets called the Assets view.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets.png)
 
-The assets view shows all images and [custom icons](http://support.balsamiq.com/customer/portal/articles/110202#custom) that have been added to your project. You can get to it by switching the navigator view to assets.
+The assets view shows all images and [custom icons](/desktop/icons/#adding-your-own-custom-icons) that have been added to your project. You can get to it by switching the navigator view to assets.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets1.png)
 
@@ -67,26 +71,44 @@ The "Import Asset..." icon allows you to select one or more images from your com
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/add-from-web.png)
 
-Once you've added images, you can view them as thumbnails or a list, as well as in [Thumbnail Grid view](http://support.balsamiq.com/customer/portal/articles/109151#thumbnailgrid).
+Once you've added images, you can view them as thumbnails or a list, as well as in [Thumbnail Grid view](/desktop/overview/#thumbnail-grid-view).
 
-The [Properties panel](http://support.balsamiq.com/customer/portal/articles/109151#propertiespanel) on the right shows you the pixel dimensions of the selected image and allows you to enter notes about it. The lower portion of the panel shows which mockups (if any) the image is used in. This can be used for managing images to see if you can delete any that aren't being used, for example. Clicking on a mockup name will take you to that mockup in the Mockups view.
+The [Properties panel](/desktop/overview/#the-properties-panel) on the right shows you the pixel dimensions of the selected image and allows you to enter notes about it. The lower portion of the panel shows which mockups (if any) the image is used in. This can be used for managing images to see if you can delete any that aren't being used, for example. Clicking on a mockup name will take you to that mockup in the Mockups view.
 
 * * *
 
-## Managing images
+## Adding non-image assets
 
-As with the Mockups view, the Assets view has a [context menu](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu) that you can open by right-clicking in the navigator or using the drop-down arrow. This allows you to rename, clone, trash, or download your images.
+You can also store other types of files in your project that won't be used in your mockups, such as requirements documents, Photoshop or Illustrator files, PDFs, or any other file that's associated with the project. We call these "non-image assets" and they can be added to your project by dragging them into the Assets view, just like images. Common file types (zip, pdf, doc, etc.) will be shown with an appropriate logo, as shown below. Other files will be have a generic document icon.
+
+<span class="alert alert-info show" role="alert">
+**Note:** Assets are limited to 20 Megabytes per file for performance reasons.
+</span>
+
+![](http://media.balsamiq.com/img/support/docs/m4d/b3/nonimageassets.png)
+
+These files can't be viewed inside the application, but they are "packaged" with your project, so if you give the project file to someone else they will be able to save the files from the Balsamiq project to their computer using the "Save to disk" button or [context menu item](#managing-images-and-other-assets).
+
+* * *
+
+## Managing images and other assets
+
+As with the Mockups view, the Assets view has a [context menu](/desktop/overview/#context-menu-actions) that you can open by right-clicking in the navigator or using the drop-down arrow. This allows you to rename, delete, update, or download your images and other assets.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-context-menu.png)
 
-### Renaming images
+### Renaming assets
 
-Renaming images using the context menu will change the name of the asset in your project. It will not affect the original file, as the image is a copy that has been added to your project. Renamed images will get updated in your mockups, so you don't need to update them manually.
+Renaming assets using the context menu will change the name of the asset in your project. It will not affect the original file, as the asset is a copy that has been added to your project. Renamed images will get updated in your mockups, so you don't need to update them manually.
 
-### Deleting images
+### Saving assets from your project to your computer
 
-You can also use the context menu to delete images from your project. Just like your mockups, deleting will move images to the [trash](http://support.balsamiq.com/customer/portal/articles/1844131#trash), where you can delete them permanently or restore them. Note that deleting an image from the mockups canvas doesn't remove it from your project.
+You can get assets from your project on to your computer by using the "Save to Disk" option in the context menu, allowing you to extract assets from your project for other uses.
 
-### Saving images from your project to your computer
+### Replacing or updating assets
 
-You can get images from your project on to your computer by using the "Download" option in the context menu, allowing you to extract images from your project for other uses.
+The "Import New Version..." menu option allows you to select a new assets to replace the selected assets with. This is useful if you want to update an image that is already in use in your mockups, for example. The new version will then be used anywhere the selected image was used.
+
+### Deleting assets
+
+You can also use the context menu to delete assets from your project. Just like your mockups, deleting will move assets to the [trash](/desktop/intro/#trash), where you can delete them permanently or restore them. Note that deleting an image from the mockups canvas doesn't remove it from your project.

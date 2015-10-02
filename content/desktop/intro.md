@@ -16,7 +16,7 @@ The most noticeable changes are the two "biggies" that people have asked for sin
 
 But just as important was the work that was done under the hood to make it faster and smarter and the little tweaks across every part of the experience that we hope will make using it even better.
 
-In this article you'll find information about [**where to download it**](#download), [**what's new**](#whats-new) and, of course, [**how to import your existing files**](#importing). If you are new to Balsamiq Mockups or want to dive deeper after reading this article you can head over to the [documentation table of contents](http://support.balsamiq.com/customer/portal/articles/127377) or [application overview](http://support.balsamiq.com/customer/portal/articles/109151) next.
+In this article you'll find information about [**where to download it**](#how-to-update), [**what's new**](#whats-new-in-balsamiq-mockups-3) and, of course, [**how to import your existing files**](#importing-existing-files). If you are new to Balsamiq Mockups or want to dive deeper after reading this article you can head over to the [documentation table of contents](/desktop/) or [application overview](/desktop/overview/) next.
 
 Here's a quick 5-minute video walkthrough of some of the highlights of version 3.
 
@@ -28,9 +28,9 @@ Here's a quick 5-minute video walkthrough of some of the highlights of version 3
 
 Balsamiq Mockups 3 is now the current version of our desktop product and is available from our [**download page**](http://balsamiq.com/download/). It's a free update for existing customers, you won't even need to re-register.
 
-Balsamiq Mockups 3 will run side-by-side with Balsamiq Mockups 2 (as a separate application) so no need to uninstall your current version to use it. See below for [how to import existing files](#importing).
+Balsamiq Mockups 3 will run side-by-side with Balsamiq Mockups 2 (as a separate application) so no need to uninstall your current version to use it. See below for [how to import existing files](#importing-existing-files).
 
-While it has been rigorously tested, if you find any bugs or issues, [tell us about it](#feedback)! You can also try downloading a new build, as we'll be responding quickly to bug reports and releasing fixes as soon as they're ready.
+While it has been rigorously tested, if you find any bugs or issues, [tell us about it](#feedback-welcome)! You can also try downloading a new build, as we'll be responding quickly to bug reports and releasing fixes as soon as they're ready.
 
 * * *
 
@@ -40,12 +40,12 @@ In a word, **lots!** Here are the "highlights" you should know about:
 
 *   [Projects!](#projects)
 *   [Autosave](#autosave)
-*   [A new user interface](#ui)
-*   [Easier look and feel customization](#project-settings)
-*   [Better Symbols](#symbols)
-*   [Better icons](#icons)
-*   [Better images and assets](#assets)
-*   [Full screen mode](#full-screen)
+*   [A new user interface](#a-new-user-interface)
+*   [Easier look and feel customization](#easier-look-and-feel-customization)
+*   [Better Symbols](#better-symbols)
+*   [Better icons](#better-icons)
+*   [Better images and assets](#better-images-and-assets)
+*   [Full screen mode](#new-full-screen-mode)
 *   [Notes](#notes)
 *   [Trash](#trash)
 *   [Alternates](#alternates)
@@ -69,7 +69,7 @@ Gone is the annoying flying property inspector! Now you have mockups on the left
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/panels.png)
 
-You can toggle the properties panels and UI Library independently by clicking the icons next to the Quick Add box or via [keyboard shortcuts](http://support.balsamiq.com/customer/portal/articles/110445).
+You can toggle the properties panels and UI Library independently by clicking the icons next to the Quick Add box or via [keyboard shortcuts](/desktop/shortcuts/).
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/toolbar2.png)
 
@@ -88,15 +88,15 @@ Getting around and performing common actions is easy with the icons in the toolb
 5.  Mockup actions (rename, etc.) and navigate between mockups (_shown when left panel is hidden_)
 6.  Go to next or previous mockup (_shown when left panel is hidden_)
 
-### Easier look and feel customization
+### Easier look and feel customization 
 
-Control over the font used in Mockups has been one of the most-requested features since the very beginning. Custom fonts were previously available using a complicated configuration file, but we now allow you to set a project font in the new [Project Info panel](http://support.balsamiq.com/customer/portal/articles/1895403). Yes, you can now easily use _any font you have installed_ in your mockups. Rejoice! You can also set a default size for it.
+Control over the font used in Mockups has been one of the most-requested features since the very beginning. Custom fonts were previously available using a complicated configuration file, but we now allow you to set a project font in the new [Project Info panel](/desktop/projectinfo/). Yes, you can now easily use _any font you have installed_ in your mockups. Rejoice! You can also set a default size for it.
 
 ![ ](http://media.balsamiq.com/img/support/docs/m4d/b3/project-info.png)
 
 We also moved the skin switching options into the new Project Info panel to make them more obvious (many people never knew about our [wireframe skin](http://support.balsamiq.com/customer/portal/articles/98988)). Finally, the default selection color is also configurable from this new panel.
 
-### Better Symbols
+### Better Symbols 
 
 In the previous version we called Symbols an "advanced feature." Well, no longer. Symbols are now for everyone. Symbols allow you to create templates, masters, and other reusable components to save time and ensure consistency. They are especially useful for big projects and custom controls and are central to our [Mockups To Go](http://mockupstogo.mybalsamiq.com) site.
 
@@ -164,7 +164,7 @@ To recover a trashed object from the Trash panel click the context menu arrow an
 
 ### Alternates
 
-Alternates (also sometimes referred to as versions or branches) allow you to create variations on a single mockup design without adding more mockups to your project. [Read the full documentation here.](http://support.balsamiq.com/customer/portal/articles/1956540)
+Alternates (also sometimes referred to as versions or branches) allow you to create variations on a single mockup design without adding more mockups to your project. [Read the full documentation here.](/desktop/alternates/)
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-create-navigator.png)
 
@@ -178,7 +178,7 @@ Yes, built-in background music to help you get into your creative zone! [Check o
 
 For the most part we left experience of adding, arranging and editing controls the same, so it should be familiar if you are coming from the previous version.
 
-We hope all these changes are welcome and that Balsamiq Mockups 3 still feels like the application you've come to know and love, but better! If you have any thoughts or feedback, [please let us know!](#feedback)
+We hope all these changes are welcome and that Balsamiq Mockups 3 still feels like the application you've come to know and love, but better! If you have any thoughts or feedback, [please let us know!](#feedback-welcome)
 
 * * *
 

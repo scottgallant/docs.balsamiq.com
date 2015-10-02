@@ -9,11 +9,9 @@ weight: 85
 
 We know that some people need to shift from idea generation with internal teams to presentation with clients or stakeholders, and in those situations the default "sketch" skin may present challenges with certain audiences. To address this need, we created a "wireframe" skin that allows you to switch from a sketchy, hand-drawn style to a crisper, cleaner wireframe elements.
 
-* * *
-
 ## Switching from sketch to wireframe skin
 
-To switch skins go to the [Project Info panel](http://support.balsamiq.com/customer/portal/articles/1895403) and set the Skin setting to "Wireframe".
+To switch skins go to the [Project Info panel](/desktop/projectinfo/) and set the Skin setting to "Wireframe".
 
 ![ ](http://media.balsamiq.com/img/support/docs/m4d/b3/skin-switcher.png)
 
@@ -21,10 +19,9 @@ The feature allows you to work on early ideas in the sketchy skin, and then late
 
 The screenshots below show a comparison of a sample design in the default "sketch" and "wireframe" skins, respectively. Click to view larger images.
 
-[![Sketch Skin](http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png)](http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png)[![Wireframe Skin](http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)](http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)
+<p class="clearfix"><a class="fb fleft" href="http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" rel="popup"><img alt="Sketch Skin" src="http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" style="width: 390px; margin-right: 3px;" /></a> <a class="fb fleft" href="http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" rel="popup"><img alt="Wireframe Skin" src="http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" style="width: 390px;" /></a></p>
 
-* * *
-
+---
 ## Which skin should I use?
 
 We're glad you asked ;-) The short answer is that we still feel that the sketch skin is more appropriate most of the time while using Mockups.

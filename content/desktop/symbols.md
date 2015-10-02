@@ -11,8 +11,6 @@ Balsamiq Mockups supports the concept of Symbols. A Symbol is a group of control
 
 In essence, Symbols let you create reusable common elements that you can use across different mockups.
 
-* * *
-
 ## Creating Symbols
 
 There are two ways to create a Symbol, described below.
@@ -39,7 +37,9 @@ This new Symbol will be displayed in the Symbols category of the UI Library for 
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-uilibrary.png)
 
-**Tip:** Once a Symbol has been created you can also add it via [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) using the first few letters of its name, just like other controls.
+<span class="alert alert-info show" role="alert">
+**Tip:** Once a Symbol has been created you can also add it via [Quick Add](/desktop/overview/#the-quick-add-tool) using the first few letters of its name, just like other controls.
+</span>
 
 ### 2\. Using the Symbols view
 
@@ -49,7 +49,7 @@ To get to the Symbols view, use the navigator icon and select Symbols. You will 
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols1.png)
 
-The toolbar contains two icons for creating Symbols: one for creating one from a blank canvas and another for [importing](#importing).
+The toolbar contains two icons for creating Symbols: one for creating one from a blank canvas and another for [importing](#importing-symbols).
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-toolbar.png)
 
@@ -71,11 +71,11 @@ The icon at the top of the list of Symbols allows you to choose whether you want
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-showother.png)
 
+<span class="alert alert-info show" role="alert">
 **Note:** The Symbol Library that a Symbol belongs to is ignored in the UI Library and Quick Add. You will see a list of all your Symbols, regardless of which Symbol Library they belong to.
+</span>
 
-* * *
-
-### Creating Symbols in the Symbols view
+### Creating Symbols in the Symbols view 
 
 Creating Symbols in Symbols view is similar to creating Symbols in Mockups view, except that you don't need to group them. Any controls you add to the Symbol become part of it immediately.
 
@@ -83,7 +83,9 @@ As described above you can add a new Symbol to an existing Symbol Library or ins
 
 When you create a new Symbol Library two sample Symbols are created automatically to help you learn about how Symbols work. Feel free to modify or delete them.
 
+<span class="alert alert-info show" role="alert">
 **Note:** You can add controls to the Symbol Library itself, but these controls will not be shown when the Symbols are used in your mockups. Adding controls such as sticky notes to your Symbol Libraries can be useful for making notes about them that don't need to be shown in the UI.
+</span>
 
 * * *
 
@@ -111,7 +113,7 @@ The big advantage is, of course, that any **changes you make to your Symbols wil
 
 ## Editing Symbols
 
-When you select a Symbol on the Mockups canvas you'll see two Symbol properties in the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114): Break Apart and Edit Source.
+When you select a Symbol on the Mockups canvas you'll see two Symbol properties in the [Property Inspector](/desktop/inspector/): Break Apart and Edit Source.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-inspector.png)
 
@@ -121,7 +123,9 @@ When you select a Symbol on the Mockups canvas you'll see two Symbol properties 
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-hideother.png)
 
+<span class="alert alert-info show" role="alert">
 **Tip:** You can also edit a Symbol by right-clicking on it in the UI Library and selecting "Edit Symbol Source."
+</span>
 
 * * *
 
@@ -137,7 +141,7 @@ Symbols allow you to achieve this result by letting you override certain Symbol 
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-override.png)
 
-At this point, you can manipulate each control inside the symbols at will, as if you were editing a group. Some operations are not permitted while overriding symbol properties, such as adding, deleting or grouping controls. If, instead, you want to [edit all instances of the Symbol](#editing) click the "Edit" button.
+At this point, you can manipulate each control inside the symbols at will, as if you were editing a group. Some operations are not permitted while overriding symbol properties, such as adding, deleting or grouping controls. If, instead, you want to [edit all instances of the Symbol](#editing-symbols) click the "Edit" button.
 
 If you make a mistake, you can always undo to get back. If you want to remove a single property change and go back to a Symbol's default property, you can click on the little green "x" icon in the Property Inspector.
 
@@ -149,9 +153,9 @@ You can also revert all changes you made to a Symbol's instance at once, via the
 
 * * *
 
-## Using Symbols Across Projects
+## Using Symbols Across Projects 
 
-If you want to use the same Symbol in multiple projects, you can export the Mockups code to another project, [as described here](http://support.balsamiq.com/customer/portal/articles/111730#exportjson). You can also create a template project, described in [Using Symbols and Assets across Projects](http://support.balsamiq.com/customer/portal/articles/1634821).
+If you want to use the same Symbol in multiple projects, you can copy it to another project by dragging it from one project to another. You can also create a template project, described in [Using Symbols and Assets across Projects](http://support.balsamiq.com/customer/portal/articles/1634821).
 
 * * *
 
@@ -159,18 +163,22 @@ If you want to use the same Symbol in multiple projects, you can export the Mock
 
 In addition to creating Symbols and Symbol Libraries in Symbols view, it is also a good place to manage and organize your Symbols.
 
-You can add notes to both your Symbols and Symbol Libraries in the [Properties panel](http://support.balsamiq.com/customer/portal/articles/109151#propertiespanel) on the right. When an individual Symbol is selected the lower portion of the panel shows which mockups (if any) the Symbol is used in. This can be used to see if you can delete any Symbols that aren't being used, for example. Clicking on a mockup name will take you to that mockup in the Mockups view.![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-properties.png)
+You can add notes to both your Symbols and Symbol Libraries in the [Properties panel](/desktop/overview/#the-properties-panel) on the right. When an individual Symbol is selected the lower portion of the panel shows which mockups (if any) the Symbol is used in. This can be used to see if you can delete any Symbols that aren't being used, for example. Clicking on a mockup name will take you to that mockup in the Mockups view. ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-properties.png)
 
 ### Renaming Symbols
 
-To rename either a Symbol or Symbol Library you can double-click its name in the navigator panel on the left or use the [context menu](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu).
+To rename either a Symbol or Symbol Library you can double-click its name in the navigator panel on the left or use the [context menu](/desktop/overview/#context-menu-actions).
 
 ### Deleting Symbols
 
-You can also use the [context menu](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu) to delete Symbols and Symbol Libraries from your project. In the case of Symbol Libraries, like with mockups and images, deleting will move them to the trash, where you can delete them permanently or restore them. Deleting an individual Symbol from a Symbol Library, however, deletes it permanently.
+You can also use the [context menu](/desktop/overview/#context-menu-actions) to delete Symbols and Symbol Libraries from your project. In the case of Symbol Libraries, like with mockups and images, deleting will move them to the trash, where you can delete them permanently or restore them. Deleting an individual Symbol from a Symbol Library, however, deletes it permanently.
 
 Just like with images, deleting a Symbol from a mockup does not delete the Symbol, only that instance of the Symbol.
 
 ### Cloning Symbols
 
-Cloning Symbols (also available via the [context menu](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu)) can save you time when creating Symbols or Symbol Libraries that are similar.
+Cloning Symbols (also available via the [context menu](/desktop/overview/#context-menu-actions)) can save you time when creating Symbols or Symbol Libraries that are similar.
+
+### Moving Symbols
+
+You can move individual Symbols from one [Symbol Library](#symbols-vs-symbol-libraries) to another by dragging them around in the Symbols view. You can also copy Symbols from one project to another as [described above](#using-symbols-across-projects).

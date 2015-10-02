@@ -13,8 +13,10 @@ New in Balsamiq Mockups 3 is the ability to define project-wide settings for ski
 
 These settings will be applied to all mockups in the project and will be saved with the project (i.e., they persist when the project is closed and reopened or shared with others).
 
-To learn more about the difference between sketch and wireframe skin, see [Working with Skins](http://support.balsamiq.com/customer/portal/articles/938142).
+To learn more about the difference between sketch and wireframe skin, see [Working with Skins](/desktop/skins/).
 
 The default font is [Balsamiq Sans](https://balsamiq.com/products/mockups/font/), just as in previous versions (_not_ Comic Sans as you might think; although now you can set it to that, all you Comic Sans lovers out there!).
 
+<span class="alert alert-info show" role="alert">
 **Note:** If you want to use a specific project font we recommend that you set it before you start creating your mockups. Changing the project font may adversely affect existing mockups in your project. Each font has different dimensions and proportions so switching fonts may cause controls to overlap or line up unevenly. Also, setting your project font to a variant such as "thin", "light", or "extrabold" may override font style settings on individual controls.
+</span>

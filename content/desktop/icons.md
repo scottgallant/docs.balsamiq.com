@@ -12,13 +12,11 @@ tags:
 
 Balsamiq Mockups 3 includes the amazing [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icon set. It contains over 500 icons in a wide range of categories that can be sized from very small to very large. It is also updated frequently and we plan to keep up with the updates whenever we release a new version of our product (_[more about why we switched here](http://blogs.balsamiq.com/product/2015/03/31/font-awesome/)_).
 
-It should meet all your icon needs, but if not, you can [add your own icons](#custom) or [request new ones from Font Awesome](http://fortawesome.github.io/Font-Awesome/community/#requesting-new-icons).
+It should meet all your icon needs, but if not, you can [add your own icons](#adding-your-own-custom-icons) or [request new ones from Font Awesome](http://fortawesome.github.io/Font-Awesome/community/#requesting-new-icons).
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-library.png)
 
-Icons from previous versions of Balsamiq Mockups have been remapped to the new icons. Go [here to learn about using the old icons](http://support.balsamiq.com/customer/portal/articles/1908765#oldicons) in your Balsamiq Mockups 3 projects.
-
-* * *
+Icons from previous versions of Balsamiq Mockups have been remapped to the new icons. Go [here to learn about using the old icons](/desktop/transition/#where-are-the-old-icons-can-i-still-use-them) in your Balsamiq Mockups 3 projects.
 
 ## Adding icons via the UI Library and Quick Add
 
@@ -36,13 +34,11 @@ Icon search results are shown _below_ any UI controls that match the text you en
 
 ## Adding and swapping icons via the Property Inspector
 
-Some controls allow you to add icons to them (buttons, for example). You can do this from the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114) in one of two ways: the icon search and the icon library dialog.
+Some controls allow you to add icons to them (buttons, for example). You can do this from the [Property Inspector](/desktop/inspector/) in one of two ways: the icon search and the icon library dialog.
 
-* * *
+### Icon search
 
-## Icon search
-
-If the control you selected support icons, you will see the icon search box in the property inspector. This works much like [the Quick Add tool](http://support.balsamiq.com/customer/portal/articles/109151#quickadd), just type a few letters from the name of the icon you are looking for and a list of suggestions will pop up as a grid of icons to choose from. Just click on the one you want to select it.
+If the control you selected support icons, you will see the icon search box in the property inspector. This works much like [the Quick Add tool](/desktop/overview/#the-quick-add-tool), just type a few letters from the name of the icon you are looking for and a list of suggestions will pop up as a grid of icons to choose from. Just click on the one you want to select it.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-search.png)
 
@@ -76,13 +72,15 @@ Select the Assets category at the bottom, then click the little plus button, sel
 
 ### Adding via Assets
 
-The second way is to add icon files manually to your [assets](http://support.balsamiq.com/customer/portal/articles/110401). If you add an "icon_" prefix to each file name and drag them into your assets they'll also show up in the icon library and Quick Add searches.
+The second way is to add icon files manually to your [assets](/desktop/images/). If you add an "icon_" prefix to each file name and drag them into your assets they'll also show up in the icon library and Quick Add searches.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/icon-custom.png)
 
+<span class="alert alert-info show" role="alert">
 **Note:** Mac users can quickly add the "icon_" prefix to multiple files at once using the [batch rename tool in Mac OS X](https://support.apple.com/kb/PH19067?viewlocale=en_US&locale=en_US) (10.10 and higher).
+</span>
 
-The words you use in your filename after icon_ are used as the searchable keywords in the icon dialog. So the keyword would be "airplane" for the filename icon_airplane.png. You can string together a few labels to get synonyms for the icon. For example, if the file is named icon_bag briefcase portfolio.png, all of those words after icon_ will be searchable.
+The words you use in your filename after icon\_ are used as the searchable keywords in the icon dialog. So the keyword would be "airplane" for the filename icon\_airplane.png. You can string together a few labels to get synonyms for the icon. For example, if the file is named icon\_bag briefcase portfolio.png, all of those words after icon\_ will be searchable.
 
 * * *
 
@@ -92,7 +90,7 @@ There are a few icon sets that complement the hand-drawn style of Mockups. This 
 
 Some icon designers have even started creating icon packs that are compatible with our naming scheme. Here's [a list of the ones we know about](http://support.balsamiq.com/customer/portal/articles/135659#icons).
 
-To use those icon packs, just unzip the icon images and drag them into your Assets [as described above](#assets). If you are using myBalsamiq, upload the icon files via the Assets dialog there.
+To use those icon packs, just unzip the icon images and drag them into your Assets [as described above](#adding-via-assets). If you are using myBalsamiq, upload the icon files via the Assets dialog there.
 
 * * *
 
@@ -100,13 +98,13 @@ To use those icon packs, just unzip the icon images and drag them into your Asse
 
 Mockups works with color and transparency, but icons you add may not turn out looking as you want them to if they're not prepared to work the way Mockups expects them to. Below are some tips to get the most out of your custom icons.
 
-**Color**
+### Color
 
 *   Mockups uses black as a color for replacement at 100% opacity.
 *   Icons that aren't created with black can have undesirable effects when colorized.
 *   We recommend using black as the color for your icons.
 
-**Transparent Areas**
+### Transparent Areas
 
 *   Mockups colorizes the entire opaque area of the icon.
 *   For best results, we recommend knocking out "white" areas of your icon using transparency. Transparent PNG works best.

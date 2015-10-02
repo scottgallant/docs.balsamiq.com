@@ -25,9 +25,9 @@ When editing text in a Label or Paragraph control you will see a small number in
 
 You can use the following notation to format only certain parts of your control's text.
 
-*   for italic, use _this notation_
+*   for italic, use \_this notation\_
 *   for a link, use [this notation]
-*   for bold, use *this notation*
+*   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
 *   for strikethrough, use ~this notation~
@@ -36,25 +36,23 @@ You can use the following notation to format only certain parts of your control'
 
 All of the above syntax works around words separated by white spaces, and underline will work within words.
 
-<div class="info notice">
-
-**Notes:**
-
-1.  The #FF0000 above is the color in HEX form, just like HTML. The macro will work with or without the # sign. You can also use certain color names (green, yellow, etc.) which you can find by moving your mouse over the colors in the color palette in the Property Inspector.
-2.  See the [next section](#linking) for how to turn [linked text] into functioning links to websites or other mockups.
-3.  This formatting syntax also works for text entered into the [Notes panel](http://support.balsamiq.com/customer/portal/articles/110114#notes) _except_ italic and strikethrough.
-
-</div>
+<span class="alert alert-info show" role="alert">
+**Notes:**  
+1.  The #FF0000 above is the color in HEX form, just like HTML. The macro will work with or without the # sign. You can also use certain color names (green, yellow, etc.) which you can find by moving your mouse over the colors in the color palette in the Property Inspector.  
+2.  See the [next section](#making-links-in-text-actually-work) for how to turn [linked text] into functioning links to websites or other mockups.  
+3.  This formatting syntax also works for text entered into the [Notes panel](/desktop/inspector/#adding-notes-to-your-mockups-symbols-and-assets) _except_ italic and strikethrough.
+</span>
 
 Here's a screenshot of what the above text looks like in a Paragraph control, for instance:
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/italiclinksbold.png)
 
-The shortcuts will work almost everywhere where it makes sense, and you can combine them, so to make an italic link use [_this_] or _[this]_.
+The shortcuts will work almost everywhere where it makes sense, and you can combine them, so to make an italic link use [\_this\_] or \_[this]\_. 
 
-Some controls like Paragraph or Label allow you to "unbold" the text via the Property Inspector panel. If you do so, the words you *bolded* will stay bold. A few controls use bold text by default, so bolding text within those controls won't make a difference.
 
-If you want to show these special formatting characters as actual text, you can escape the *, _, -, [ and ] characters with \*, \_, \-, \[ and \], so if you want to write "this [is] some text" and don't want the "is" to become a link, just type "this \[is\] some text".
+Some controls like Paragraph or Label allow you to "unbold" the text via the Property Inspector panel. If you do so, the words you \*bolded\* will stay bold. A few controls use bold text by default, so bolding text within those controls won't make a difference.
+
+If you want to show these special formatting characters as actual text, you can escape the \*, \_, -, [ and ] characters with \\*, \\_, \\-, \\[ and \\], so if you want to write "this [is] some text" and don't want the "is" to become a link, just type "this \\[is\\] some text".
 
 ### Line breaks
 
@@ -66,10 +64,10 @@ Most controls allow you to insert a line break to wrap text from one line to the
 
 In a paragraph control, you can create a bulleted list by preceding text with either a hyphen or an asterisk followed by a space.
 
-<pre>* item 1
-* item 2
-- item 3
-- item 4</pre>
+	* item 1
+	* item 2
+	- item 3 
+	- item 4
 
 * * *
 
@@ -81,15 +79,15 @@ To do this, **add the link destination in parentheses immediately after the link
 
 Web addresses:
 
-<pre>[Balsamiq Website](balsamiq.com)
-[Balsamiq Website](www.balsamiq.com)
-[Balsamiq Website](http://www.balsamiq.com)
-[Balsamiq Website](http://balsamiq.com)</pre>
+	[Balsamiq Website](balsamiq.com)
+	[Balsamiq Website](www.balsamiq.com)
+	[Balsamiq Website](http://www.balsamiq.com)
+	[Balsamiq Website](http://balsamiq.com)
 
 Mockups in the same project:
 
-<pre>[Features Page](features)
-</pre>
+	[Features Page](features)
+
 
 Adding links in this way will cause them to show up in the Property Inspector as well, as shown below.
 
@@ -103,7 +101,9 @@ results in
 
 You can link specific strings of text as well as the whole control.
 
+<span class="alert alert-info show" role="alert">
 **Note:** If the whole control is linked, text links will be disabled. If the whole control is subsequently unlinked, the previous text links will return.
+</span>
 
 * * *
 

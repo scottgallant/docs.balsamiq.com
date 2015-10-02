@@ -22,9 +22,11 @@ If you have multiple controls selected it will show properties that are common t
 
 ## Adding Notes to your Mockups, Symbols and Assets
 
-When no controls are selected the Property Inspector shows notes for the selected mockup, asset, or Symbol. In the Mockups view the panel also shows [mockup alternates](http://support.balsamiq.com/customer/portal/articles/1956540).
+When no controls are selected the Property Inspector shows notes for the selected mockup, asset, or Symbol. In the Mockups view the panel also shows [mockup alternates](/desktop/alternates/).
 
-**Note:** You can format notes text using the [syntax described here](http://support.balsamiq.com/customer/portal/articles/110121#basicformatting) to make text bold, underlined, etc.
+<span class="alert alert-info show" role="alert">
+**Note:** You can format notes text using the [syntax described here](/desktop/text/#basic-formatting) to make text bold, underlined, etc.
+</span>
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/property-inspector-notes.png)
 

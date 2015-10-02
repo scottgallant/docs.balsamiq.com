@@ -13,7 +13,6 @@ Commonly used Markup items include: Arrow / Line, Callout, Sticky Note, Red X, a
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/markup-on.png)
 
-* * *
 
 ## Toggling Markup On and Off
 

@@ -24,11 +24,9 @@ Here's an overview:
 
 <div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/495jKWV5rEY?rel=0"></iframe></div>
 
-<br>
-
 ## Creating Alternates
 
-When viewing a mockup without any controls selected you will see a section of the [Property Inspector panel](http://support.balsamiq.com/customer/portal/articles/110114) called **"Alternate Versions"** below the notes for that mockup.
+When viewing a mockup without any controls selected you will see a section of the [Property Inspector panel](/desktop/inspector/) called **"Alternate Versions"** below the notes for that mockup.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-new.png)
 
@@ -36,19 +34,21 @@ To create a new alternate **click the "+" (plus) icon** next to "Alternate Versi
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-create.png)
 
-or use the context menu in the [Navigator panel](http://support.balsamiq.com/customer/portal/articles/109151#filebrowser).
+or use the context menu in the [Navigator panel](/desktop/overview/#the-navigator-panel).
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-create-navigator.png)
 
-This will create a **copy of the current mockup as an alternate version** for you to modify. By default it will automatically be named with the word "Alternate" follwed by some random numbers and letters to ensure that the name is unique.
+This will create a **copy of the current mockup as an alternate version** for you to modify. By default it will automatically be named with the word "Alternate" followed by some random numbers and letters to ensure that the name is unique.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-default.png)
 
 **The selection in the alternate versions list tells you which version of the mockup you are working on.** You can create as many alternates as you'd like.
 
+<span class="alert alert-info show" role="alert">
 **Note:** You can create an alternate of an alternate. Clicking the "+" (plus) icon when an alternate is selected creates an alternate of the selected version rather than the official version.
+</span>
 
-If you are working on an alternate version it is also indicated in the [Navigator panel](http://support.balsamiq.com/customer/portal/articles/109151#filebrowser) by the mockup name followed by the alternate name in parentheses.
+When an alternate exists an icon will appear next to the name in the [Navigator panel](/desktop/overview/#the-navigator-panel) indicating that there are alternates. When you are working on an alternate version the Navigator panel will show the alternate name in parentheses.
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-default-navigator.png)
 
@@ -68,7 +68,9 @@ To switch between alternate versions of a mockup select the name of a version fr
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-menu-navigator.png)
 
-**Note:** If you [link](http://support.balsamiq.com/customer/portal/articles/111742) to a mockup that contains an alternate the link will go to the version of the mockup that is selected in the alternates list. The same rule applies to [exporting](http://support.balsamiq.com/customer/portal/articles/111730). The selected versions of your mockups will be exported.
+<span class="alert alert-info show" role="alert">
+**Note:** If you [link](/desktop/linking/) to a mockup that contains an alternate the link will go to the version of the mockup that is selected in the alternates list. The same rule applies to [exporting](/desktop/exporting/). The selected versions of your mockups will be exported.
+</span>
 
 * * *
 
@@ -78,9 +80,11 @@ If you decide that you like one alternate better than the original mockup you ca
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-promote.png)
 
+<span class="alert alert-info show" role="alert">
 **Note:** You can undo this action by using the undo command (CTRL/CMD+Z) **three times**.
+</span>
 
-The alternate that was promoted is retained in case you want to preserve it as part of the change history. Otherwise you can [discard](#discarding) it.
+The alternate that was promoted is retained in case you want to preserve it as part of the change history. Otherwise you can [discard](#discarding-alternates) it.
 
 * * *
 
@@ -108,7 +112,9 @@ You can then manually edit the contents to create a new official version that is
 
 When you have finished reviewing or integrating alternate versions into an official version you can delete alternates you no longer want using the "Discard" option.
 
+<span class="alert alert-warning show" role="alert">
 **Note:** Alternates cannot be recovered after they have been discarded.
+</span>
 
 * * *
 
@@ -126,7 +132,9 @@ Selecting an alternate from this list will **select that alternate in _all the m
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/alternates-mockups-menu.png)
 
+<span class="alert alert-info show" role="alert">
 **Note:** This is conceptually similar to creating a branch in a codebase, except that it only applies to mockups that have specific alternate version names.
+</span>
 
 So, for example, if you create a series of alternates called "Leon's Proposal" and use the context menu shown above to select that name, any mockup with an alternate called "Leon's Proposal" would switch views to that alternate version.
 
