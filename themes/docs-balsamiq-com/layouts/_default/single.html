@@ -45,13 +45,13 @@
             <ul class="pager">
               <li class="previous">
               {{ if .NextInSection }}
-                          <a href="{{.NextInSection.Permalink}}"><span aria-hidden="true">&larr;</span> {{.NextInSection.Title}}</a>
-                        {{ end }}
+                <a href="{{.NextInSection.Permalink}}"><span aria-hidden="true">&larr;</span> {{.NextInSection.Title}}</a>
+              {{ end }}
               </li>
               <li class="next">
               {{ if .PrevInSection }}
-                        <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} <span aria-hidden="true">&rarr;</span></a>
-                        {{ end }}
+                <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} <span aria-hidden="true">&rarr;</span></a>
+              {{ end }}
               </li>
             </ul>
           </nav>
