@@ -32,7 +32,7 @@ If you have questions about purchasing or your subscription you might want to ch
 
 Installing Mockups for Google Drive is the same as installing other Google Drive apps. It can be installed from the [Chrome Web Store here](https://chrome.google.com/webstore/detail/iedapplgopkgngalkbailjoikghljkki/).
 
-Once installed, Mockups for Google Drive will be available in your Google Drive "New" menu.![The Create Menu](http://media.balsamiq.com/img/support/docs/gdrive/userguide/createmenu.png)
+Once installed, Mockups for Google Drive will be available in your Google Drive "New" menu.![The Create Menu](//media.balsamiq.com/img/support/docs/gdrive/userguide/createmenu.png)
 
 If you are using the Chrome browser, you can also access Mockups for Google Drive from the Chrome Apps tab (open a new tab and type "chrome://apps/").
 
@@ -46,13 +46,13 @@ Once installed, Google Drive may not know to open Balsamiq Mockups files with Mo
 
 To do this go to the Google Drive settings (inside the gear icon menu in the upper-right corner), select the "Manage Apps" tab and make sure the "Use by default" checkbox is checked, as shown below.
 
-![Use by default](http://media.balsamiq.com/img/support/docs/gdrive/userguide/usebydefault.png)
+![Use by default](//media.balsamiq.com/img/support/docs/gdrive/userguide/usebydefault.png)
 
 * * *
 
 ## Purchasing
 
-Feel free to take advantage of the **fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](http://support.balsamiq.com/customer/portal/articles/111756), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
+Feel free to take advantage of the **fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](/desktop/fullscreen/), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
 
 Monthly and yearly subscriptions are available. Details on [how to sign up for and manage your paid plan are here](http://support.balsamiq.com/customer/portal/articles/1550556) (_Short version:_ Go to "Help > Sign Up for a Paid Plan" in the editor).
 
@@ -65,7 +65,7 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 1.  You can click **"New > Balsamiq Mockups Project"** from the Google Drive file list as shown above.
 2.  If you are using the Chrome browser, you can also launch Mockups for Google Drive from the Chrome Apps tab (open a new tab and type "chrome://apps/"). Click the big Balsamiq Mockups icon and it will open the editor directly.
 
-![Chrome Apps](http://media.balsamiq.com/img/support/docs/gdrive/userguide/chromeapps.png)
+![Chrome Apps](//media.balsamiq.com/img/support/docs/gdrive/userguide/chromeapps.png)
 
 ​Either method will launch the Balsamiq Mockups editor to allow you to create your mockups (or [import existing ones](#importing-from-other-versions-of-balsamiq-mockups)). This will also create a new Balsamiq Mockups file (.bmpr file extension) in your Google Drive. If you launched Mockups for Google Drive from the Chrome Apps page your files will be saved in your Drive's home folder. Otherwise they will be saved in the folder you had selected when you created the new Mockups project.
 
@@ -77,7 +77,7 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 
 ## Inside the Balsamiq Mockups Editor 
 
-The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](http://support.balsamiq.com/customer/portal/articles/109151) may be helpful if you have any questions after reading the instructions below.
+The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](/desktop/overview/) may be helpful if you have any questions after reading the instructions below.
 
 * * *
 
@@ -91,11 +91,11 @@ When you create a new Balsamiq Mockups project your project will contain one moc
 
 All projects and mockups are given default names when created. The default name for a Balsamiq Mockups project in Google Drive is "NewProject" and the default name for a mockup is "New Mockup 1". This can soon get confusing so it is a good habit to **rename your projects and mockups as you create them**. The **Project menu** contains actions for renaming the project and the mockups inside it.
 
-![The project menu](http://media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_top.png)
+![The project menu](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_top.png)
 
 You can also rename your mockups via the **drop-down menu in the Project Browser** (on the left edge of the screen).
 
-![Project Browser drop-down menu](http://media.balsamiq.com/img/support/docs/m4d/b3/mockup-context-menu.png)
+![Project Browser drop-down menu](//media.balsamiq.com/img/support/docs/m4d/b3/mockup-context-menu.png)
 
 * * *
 
@@ -107,9 +107,9 @@ The **Project Browser drop-down menu** also contains actions for deleting and cl
 
 ## Exporting Your Mockups
 
-Just like the other versions of Mockups, you can export your wireframes to PDF, PNG images, or as text (for importing into another version of Mockups). These options can be found in the **Project menu**. For more details see [this article on exporting in the desktop version](http://support.balsamiq.com/customer/portal/articles/111730).
+Just like the other versions of Mockups, you can export your wireframes to PDF, PNG images, or as text (for importing into another version of Mockups). These options can be found in the **Project menu**. For more details see [this article on exporting in the desktop version](/desktop/exporting/).
 
-![Export options](http://media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)
+![Export options](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)
 
 To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporting-to-other-versions-of-balsamiq-mockups)
 
@@ -117,19 +117,19 @@ To export the entire project (including Symbols and images) for use in another v
 
 ## Symbols and Project Assets
 
-Reusable Symbols (also called templates, masters, etc.) are supported in Mockups for Google Drive. To create a new Symbol, follow [these instructions](http://support.balsamiq.com/customer/portal/articles/110439) or choose "New Symbol Library" from the Project menu.
+Reusable Symbols (also called templates, masters, etc.) are supported in Mockups for Google Drive. To create a new Symbol, follow [these instructions](/desktop/symbols/) or choose "New Symbol Library" from the Project menu.
 
-To **import existing Symbols** (from [Mockups To Go](https://mockupstogo.mybalsamiq.com/), for example) see [this article on importing Symbols in the desktop documentation](http://support.balsamiq.com/customer/portal/articles/110439#importing). You can then double-click or drag from the UI Library to add them to any mockup in your project.
+To **import existing Symbols** (from [Mockups To Go](https://mockupstogo.mybalsamiq.com/), for example) see [this article on importing Symbols in the desktop documentation](/desktop/symbols/#importing-symbols). You can then double-click or drag from the UI Library to add them to any mockup in your project.
 
-![Symbols UI Library category](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-uilibrary.png)
+![Symbols UI Library category](//media.balsamiq.com/img/support/docs/m4d/b3/symbols-uilibrary.png)
 
-To import images go to the "Project > Import" menu and choose "Assets...". You can then manage your images in the [Assets view](http://support.balsamiq.com/customer/portal/articles/110401#assetsview) using the navigator icon.
+To import images go to the "Project > Import" menu and choose "Assets...". You can then manage your images in the [Assets view](/desktop/images/#adding-images-in-assets-view) using the navigator icon.
 
-![Assets UI Library category](http://media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
+![Assets UI Library category](//media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
 
-You can view and edit your Symbols by going to the [Symbols view](http://support.balsamiq.com/customer/portal/articles/110439#symbolsview) using the navigator icon.
+You can view and edit your Symbols by going to the [Symbols view](/desktop/symbols/#2-using-the-symbols-view) using the navigator icon.
 
-![Symbols view](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols1.png)
+![Symbols view](//media.balsamiq.com/img/support/docs/m4d/b3/symbols1.png)
 
 * * *
 
@@ -137,9 +137,9 @@ You can view and edit your Symbols by going to the [Symbols view](http://support
 
 If you have a project created in Balsamiq Mockups 3 for Desktop (with a .bmpr extension) you can just upload it to Google Drive and edit it directly.
 
-If you want to open a project containing .bmml files (Balsamiq Mockups version 2) go to the "Project > Import " menu. You will have the option to import mockups from a .zip file, or from individual mockups or symbols. You can find more information in the [desktop documentation for importing](http://support.balsamiq.com/customer/portal/articles/1895737).
+If you want to open a project containing .bmml files (Balsamiq Mockups version 2) go to the "Project > Import " menu. You will have the option to import mockups from a .zip file, or from individual mockups or symbols. You can find more information in the [desktop documentation for importing](/desktop/importing/).
 
-![Import options](http://media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_import.png)
+![Import options](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_import.png)
 
 * * *
 
@@ -155,11 +155,11 @@ To use your project in an earlier version of Balsamiq Mockups you can export the
 
 Mockups for Google Drive supports real-time collaboration between users. Just [share](#sharing-via-google-drive) the Mockups file with your collaborators, then have everyone launch the application on the same file. Everyone's changes will be shared in real-time with all collaborators.
 
-![real-time notification](http://support.balsamiq.com/customer/portal/attachments/254093)
+![real-time notification](//media.balsamiq.com/img/support/docs/gdrive/userguide/m4gd_rtc.png)
 
 The other connected users will be shown in the top right of the screen. Hovering over their picture shows their email address.
 
-![](http://media.balsamiq.com/img/support/docs/gdrive/userguide/otherusers.png)
+![](//media.balsamiq.com/img/support/docs/gdrive/userguide/otherusers.png)
 
 * * *
 
@@ -173,7 +173,7 @@ When you are done editing your mockups you can exit the editor by selecting "Qui
 
 A variety of actions are available from the Google Drive file viewer. These actions are available by selecting a file and clicking one of the icons at the top of the file viewer or by right-clicking on the file. The actions available on Balsamiq Mockups files in Google Drive are common across all types of files in Google Drive, so not all of them are described here. For general help on getting around in Google Drive, check out the [Google Drive Help Center](https://support.google.com/drive/).
 
-![Google Drive menu](http://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrivemenu.png)
+![Google Drive menu](//media.balsamiq.com/img/support/docs/gdrive/userguide/gdrivemenu.png)
 
 * * *
 
@@ -187,7 +187,7 @@ To edit a set of mockups in Mockups for Google Drive, simply double-click on any
 
 Wireframes created with Mockups for Google Drive are saved as .bmpr files that can be shared just like any other document type in Google Drive. To share your mockups select the .bmpr file and click the share button in the Google Drive file viewer (or "More > Share... > Share" in the toolbar).
 
-![Share menu](http://media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing02.png)
+![Share menu](//media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing02.png)
 
 If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](http://support.balsamiq.com/customer/portal/articles/1021056)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
 
@@ -217,10 +217,10 @@ To rename, delete, or make a copy of a mockups file, select one of these options
 
 You can see previous versions of your mockups via the Google Drive interface. Right-click on the .bmpr file, select "Manage Versions..." and you will be presented with a list of old versions.
 
-![Manage revisions](http://media.balsamiq.com/img/support/docs/gdrive/userguide/managerevisions.png)
+![Manage revisions](//media.balsamiq.com/img/support/docs/gdrive/userguide/managerevisions.png)
 
 <span class="alert alert-info show" role="alert">
-**Note:** A new version is created each time you [quit](#closing) the application or if you manually save via the editor menu (Project > Save Project).
+**Note:** A new version is created each time you [quit](#returning-to-google-drive-closing-the-editor) the application or if you manually save via the editor menu (Project > Save Project).
 </span>
 
 Clicking on a previous version will download the .bmpr file.
@@ -231,4 +231,4 @@ Clicking on a previous version will download the .bmpr file.
 
 You can uninstall the application by going to the Manage Apps tab in the Google Drive settings, then selecting "Disconnect from Drive" from the Balsamiq Mockups options menu.
 
-![](http://media.balsamiq.com/img/support/docs/gdrive/userguide/disconnect.png)​
+![](//media.balsamiq.com/img/support/docs/gdrive/userguide/disconnect.png)​

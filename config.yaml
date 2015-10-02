@@ -10,6 +10,8 @@ PageSize:  "50"
 contentdir:  "content"
 layoutdir:  "layouts"
 publishdir:  "public"
+params:
+  balsamiqcomurl: "http://staging.balsamiq.com"
 
 blackfriday:
   plainIdAnchors:  true

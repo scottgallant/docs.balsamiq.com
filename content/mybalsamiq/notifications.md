@@ -17,27 +17,27 @@ In myBalsamiq, we decided to allow users to trigger email notifications as a sid
 
 You will see little "notify members" checkboxes around the application. Other than for adding comments to a mockup, the checkboxes will not be selected by default.
 
-![](http://media.balsamiq.com/img/support/docs/myb/notification_comment.png)
+![](//media.balsamiq.com/img/support/docs/myb/notification_comment.png)
 
-![](http://media.balsamiq.com/img/support/docs/myb/notification_delete.png)
+![](//media.balsamiq.com/img/support/docs/myb/notification_delete.png)
 
-![](http://media.balsamiq.com/img/support/docs/myb/notification_editor.png)
+![](//media.balsamiq.com/img/support/docs/myb/notification_editor.png)
 
 ---
 ## Each project has a mailing list
 
 Whenever you create a myBalsamiq project, a mailing list will be automatically created for it as well.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-members.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-members.png)
 
 You can use this mailing list to email everyone who's on the project. In the future we will also make it so that emailing the mailing list adds a mockup or a comment automatically.
 
 ---
 ## Site Owner notifications
 
-Site owners have the option option to be bcc:ed on all email notifications pertaining user invitations and project creation, archival and deletions. That's done in the [Site Settings](http://support.balsamiq.com/customer/portal/articles/231911#administration).
+Site owners have the option option to be bcc:ed on all email notifications pertaining user invitations and project creation, archival and deletions. That's done in the [Site Settings](/mybalsamiq/sitesettings/#administration).
 
-![](http://media.balsamiq.com/img/support/docs/myb/notification_siteowner.png)
+![](//media.balsamiq.com/img/support/docs/myb/notification_siteowner.png)
 
 ---
 ## Problems receiving notifications?

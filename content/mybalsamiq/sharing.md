@@ -11,29 +11,29 @@ Since myBalsamiq is all about collaboration, we offer many ways for you to get f
 
 This document outlines a few different ways, so that you can pick the right one to fit each situation.
 
-**For sharing with colleagues:** just have your site owner invite them as [staff members](http://support.balsamiq.com/customer/portal/articles/231911#staffmembers). Once they're set up as staff members on your myBalsamiq site you can quickly add them to projects via the [Project Members](http://support.balsamiq.com/customer/portal/articles/112399#addingprojectteammembers) menu.
+**For sharing with colleagues:** just have your site owner invite them as [staff members](/mybalsamiq/sitesettings/#staff-members). Once they're set up as staff members on your myBalsamiq site you can quickly add them to projects via the [Project Members](/mybalsamiq/project/#adding-project-team-members) menu.
 
 ## Make them a project member
 
 This is what we expect people will use the most.
 
-Adding someone as a project member gives them the ability to comment on your mockups, get notified of mockup changes and really follow and participate in the project's progress ([learn more](http://support.balsamiq.com/customer/portal/articles/112405)).
+Adding someone as a project member gives them the ability to comment on your mockups, get notified of mockup changes and really follow and participate in the project's progress ([learn more](/mybalsamiq/communication/)).
 
-![](http://media.balsamiq.com/img/support/docs/myb/communication.png)
+![](//media.balsamiq.com/img/support/docs/myb/communication.png)
 
 Project members also have the ability to edit mockups, but don't worry about losing anything accidentally, every version is stored in the project history and can be recovered easily.
 
-To add someone as a project member, just invite them via the [Project Members](http://support.balsamiq.com/customer/portal/articles/112399#addingprojectteammembers) menu.
+To add someone as a project member, just invite them via the [Project Members](/mybalsamiq/project/#adding-project-team-members) menu.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-members.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-members.png)
 
 * * *
 
 ## Send them a prototype view link
 
-If you want to keep your project private but don't want to force your customers to create a myBalsamiq login, and if your mockups are linked together, you could use the [Prototype view](http://support.balsamiq.com/customer/portal/articles/112399#mockupviewsgridstoryandmap) feature.
+If you want to keep your project private but don't want to force your customers to create a myBalsamiq login, and if your mockups are linked together, you could use the [Prototype view](/mybalsamiq/project/#mockup-views) feature.
 
-![](http://media.balsamiq.com/img/support/docs/myb/launchprototype.png)
+![](//media.balsamiq.com/img/support/docs/myb/launchprototype.png)
 
 Just launch the prototype view, copy the long and nearly-impossible-to-guess URL (it makes it secure) and send it to them. They will be able to see it and click around without having to log in.
 
@@ -45,9 +45,9 @@ Just launch the prototype view, copy the long and nearly-impossible-to-guess URL
 
 ## Send them individual mockup image permalinks
 
-Similar to the approach above, you could simply send them single mockup images using the [Image Permalink](http://support.balsamiq.com/customer/portal/articles/112401#mockupdescriptionpermalinkdownload) feature.
+Similar to the approach above, you could simply send them single mockup images using the [Image Permalink](/mybalsamiq/mockup/#mockup-description-permalink-download) feature.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-info.png)
+![](//media.balsamiq.com/img/support/docs/myb/mockup-info.png)
 
 This link doesn't require people to log in (but is secure due to it's crazy-long and hard to guess), and will always return the latest version of a mockup's image.
 
@@ -63,17 +63,17 @@ This makes it possible to share mockups that are not linked together or even to 
 
 If you are not concerned with keeping the work secret, this is a very quick way to allow external stakeholders to review, comment or even edit your wireframes.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-acl.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-acl.png)
 
-Just set the project's [access control slider](http://support.balsamiq.com/customer/portal/articles/112399#settingaccesscontrol) to your favorite level of public sharing (website, blog or wiki), and send your clients a link to the project. If you set it to blog or wiki, they will be able to comment without creating a login.
+Just set the project's [access control slider](/mybalsamiq/project/#setting-access-control) to your favorite level of public sharing (website, blog or wiki), and send your clients a link to the project. If you set it to blog or wiki, they will be able to comment without creating a login.
 
 * * *
 
 ## Export the project to PDF
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-manage.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-manage.png)
 
-Yet another option is to use the ["Export to PDF"](http://support.balsamiq.com/customer/portal/articles/112399#managingproject) feature (available from the Project Page) to export the entire project as a PDF. Just format the PDF the way you prefer, download it and send it to them for review.
+Yet another option is to use the ["Export to PDF"](/mybalsamiq/project/#project-actions) feature (available from the Project Page) to export the entire project as a PDF. Just format the PDF the way you prefer, download it and send it to them for review.
 
 They will be able to click links and write annotations to the PDF directly (if they know how in their PDF reader).
 
@@ -90,7 +90,7 @@ Some tips about exporting to PDF:
 
 ## Print the Story View as PDF
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-gridstorymap.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-gridstorymap.png)
 
 If you are looking for a more traditional "spec", what you could do is go to the project page, select the "Story" view and print that page to PDF. It puts all the mockups and their notes one on top of the other in a nice spec-like format.
 
@@ -98,9 +98,9 @@ If you are looking for a more traditional "spec", what you could do is go to the
 
 ## Download the project and send them a zip
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-manage.png)
+![](//media.balsamiq.com/img/support/docs/myb/project-manage.png)
 
-If your clients use Mockups for Desktop or if they are willing to install the 7-day free trial, you could [download the whole project as a ZIP](http://support.balsamiq.com/customer/portal/articles/112399#managingproject) and email it to them to play around with in Mockups for Desktop.
+If your clients use Mockups for Desktop or if they are willing to install the 7-day free trial, you could [download the whole project as a ZIP](/mybalsamiq/project/#project-actions) and email it to them to play around with in Mockups for Desktop.
 
 * * *
 

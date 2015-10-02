@@ -9,7 +9,7 @@ weight: 150
 
 The prototype view of myBalsamiq projects allows you to show your Mockup without all of the surrounding interface of myBalsamiq.
 
-![](http://media.balsamiq.com/img/support/docs/myb/launchprototype.png)
+![](//media.balsamiq.com/img/support/docs/myb/launchprototype.png)
 
 If you've linked your Mockups together, this can be useful as a click-through prototype, or even for doing usability testing.
 

@@ -22,7 +22,7 @@ Adding a mockup to a wiki page is very similar to adding an image.
 
 Edit the page, position the cursor where you'd like your mockup to be, then click on the Insert menu and select "UI Mockup" from the list.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/userguide/confluence1.png)
+![](//media.balsamiq.com/img/support/docs/confluence/userguide/confluence1.png)
 
 This will take you directly to the Balsamiq Mockup editor, where you can create your mockup (or import an existing mockup - see [this page](http://support.balsamiq.com/customer/portal/articles/721932) for instructions).
 
@@ -32,7 +32,7 @@ If you have never used Balsamiq Mockups before, here's a little intro of what yo
 
 Once you are happy with your mockup, just select "Save" from the toolbar or the Mockup menu. You will be asked to give it a unique name. This is required and allows you to include more than one mockup on the same page.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/userguide/m4csavenew.png)
+![](//media.balsamiq.com/img/support/docs/confluence/userguide/m4csavenew.png)
 
 Once you name your mockup you can continue working on it and saving it periodically.
 
@@ -50,7 +50,7 @@ When you are ready to go back to the wiki page, just click on "Close" or select 
 
 To make changes to a mockup, edit the wiki page, select the mockup image and click on the "Edit" button in the little macro control panel that shows up.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/userguide/confluence2.png)
+![](//media.balsamiq.com/img/support/docs/confluence/userguide/confluence2.png)
 
 <span class="alert alert-info show" role="alert">
 **A note for Confluence 3.x users:** In Confluence 3.x, you edit a mockup by clicking on the "edit this mockup" link under the mockup you want to edit.
@@ -62,11 +62,11 @@ To make changes to a mockup, edit the wiki page, select the mockup image and cli
 
 Much like the Desktop and Web versions of Mockups, you can create links between mockups by using the Link property in the Property Inspector (for controls that support linking; read [this article](http://support.balsamiq.com/customer/portal/articles/117684) for controls that don't).
 
-![](http://media.balsamiq.com/img/support/docs/m4d/link_inspector.png)
+![](//media.balsamiq.com/img/support/docs/m4d/link_inspector.png)
 
 You can link to other mockups or to web addresses. Once a link has been added the arrow in the lower-right corner will indicate what kind of link it is. Links to mockups will show as a plain arrow, while links to web pages will show as an arrow with a box around it.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/button_link.png)
+![](//media.balsamiq.com/img/support/docs/m4d/button_link.png)
 
 To navigate to other mockups that have been linked, go to Full Screen Presentation mode (View > Full Screen Presentation) in the Mockups Editor, or click on the linked control on the mockup image while viewing the page in Confluence.
 
@@ -82,7 +82,7 @@ To remove a mockup from a page, simply edit the page, select the mockup and dele
 
 Each UI mockup is saved as two separate attachments, one for the PNG image and one for the BMML source data. Confluence supports versioning of attachments, and Balsamiq Mockups takes advantage of it so that you can see how your mockup evolved over time, or roll back to a previous version.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/userguide/m4chistory.png)​
+![](//media.balsamiq.com/img/support/docs/confluence/userguide/m4chistory.png)​
 
 * * *
 
@@ -112,7 +112,7 @@ You can use the "Small", "Medium" and "Original" buttons in the macro property p
 
 ## Adding an existing Confluence mockup to a new Confluence page
 
-You may want to add a mockup that you've already created in Confluence to a different page than you initially created it for. Right now you can only add mockups that are attached to the same page. However, you can create a copy of the mockup you want and add it to the new page. The fastest way to do that is via [export / import, as described here.](http://support.balsamiq.com/customer/portal/articles/111730#exportxml) This process involves exporting from the old one and importing into a new one. You can also see the steps [below](#moving-a-mockup-from-one-page-to-another) for moving a mockup from one page to another.
+You may want to add a mockup that you've already created in Confluence to a different page than you initially created it for. Right now you can only add mockups that are attached to the same page. However, you can create a copy of the mockup you want and add it to the new page. The fastest way to do that is via [export / import, as described here.](http://support.balsamiq.com/customer/portal/articles/721932). This process involves exporting from the old one and importing into a new one. You can also see the steps [below](#moving-a-mockup-from-one-page-to-another) for moving a mockup from one page to another.
 
 * * *
 

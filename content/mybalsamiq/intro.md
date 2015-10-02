@@ -29,8 +29,8 @@ Project Members and Anonymous users will not have access to the same features as
 
 A few things to note:
 
-*   Only Site Owners have access to [Site Settings](http://support.balsamiq.com/customer/portal/articles/112406#sitesettings).
-*   Only Staff Members have access to the Project management mentioned in the [Projects](http://support.balsamiq.com/customer/portal/articles/112399) section.
+*   Only Site Owners have access to [Site Settings](/mybalsamiq/sitesettings/).
+*   Only Staff Members have access to the Project management mentioned in the [Projects](/mybalsamiq/project/) section.
 *   Anonymous users have the lowest level of access.
 
-See the [Setting Access Control](http://support.balsamiq.com/customer/portal/articles/112399#settingaccesscontrol) section of projects for more information about project-level permissions, and see the [myBalsamiq Access Control Matrix](http://support.balsamiq.com/customer/portal/articles/229097) for all the details.
+See the [Setting Access Control](/mybalsamiq/project/#setting-access-control) section of projects for more information about project-level permissions, and see the [myBalsamiq Access Control Matrix](/mybalsamiq/accesscontrolmatrix/) for all the details.

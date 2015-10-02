@@ -15,17 +15,15 @@ Mockups includes a full screen presentation mode for presenting your wireframes 
 
 To enter Full Screen Presentation mode, just click on the full-screen icon in the top-right corner of Mockups, or select "Full Screen Presentation" from the View menu, or simply hit CTRL/CMD+F.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-topbar.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-topbar.png)
 
 Mockups will expand to take up your whole screen (to eliminate distractions), and your mockup will be centered on the screen.
 
-* * *
-
-## Navigating The Project
+## Navigating between Mockups
 
 You can navigate between mockups using the icons in the upper left. The far left icon will toggle the top bar on and off. You can turn it off to remove everything but the mockup (even the icon will disappear until the cursor is placed over it), this is useful for usability testing when you want a more realistic experience.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-navigation.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-navigation.png)
 
 * * *
 
@@ -35,11 +33,11 @@ By default you will also see a big blue arrow pointer in place of the regular mo
 
 You can turn off the big blue arrow in the full screen settings by clicking the gear icon in the top right to open the settings panel.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-settings.png)
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-settings.png)
 
-The settings panel also has an option to turn on and off link hints. When link hints are on areas that contain [links](http://support.balsamiq.com/customer/portal/articles/111742) will be shown with a pink overlay so they can be seen easily.
+The settings panel also has an option to turn on and off link hints. When link hints are on areas that contain [links](/desktop/linking/) will be shown with a pink overlay so they can be seen easily.
 
-The Markup setting is for showing and hiding [markup](http://support.balsamiq.com/customer/portal/articles/110418) elements, such as Sticky Notes, Arrows and Callouts (any control under the "Markup" tab in the UI Library). This is useful if you want to just look at your UI without the annotations that surround it.
+The Markup setting is for showing and hiding [markup](/desktop/markup/) elements, such as Sticky Notes, Arrows and Callouts (any control under the "Markup" tab in the UI Library). This is useful if you want to just look at your UI without the annotations that surround it.
 
 The last setting is to set the view to zoom out to fit the largest mockup. All other mockups will be zoomed relative to the largest mockup.
 

@@ -132,7 +132,7 @@ myBalsamiq stores auto-save data and other settings in Flash Local SharedObjects
 
 ### Who can see my wireframes?
 
-It depends on the project access level you choose for your projects. By default, each project is private, but the site owner or any staff member who's part of that project can [make it public](http://support.balsamiq.com/customer/portal/articles/112399#settingaccesscontrol).
+It depends on the project access level you choose for your projects. By default, each project is private, but the site owner or any staff member who's part of that project can [make it public](/mybalsamiq/project/#setting-access-control).
 
 For private projects: the only people who can see your wireframes are staff members invited to the project, project members, your site owner and [some balsamiq employees](#what-are-the-guidelines-balsamiq-follows-when-accessing-my-data).
 
@@ -142,7 +142,7 @@ For website, blog and wiki projects: anyone with a link to your site can see you
 
 We use HTTPS and SSL (256-encryption) to transfer all data. Other than passwords, data is not encrypted when stored in our database (for performance reasons).
 
-Users cannot create other users but they can invite them to the site. The site owner has the ability to [get notified](http://support.balsamiq.com/customer/portal/articles/231911#administration) for any invitation and joining action, and to remove users at any time. The [myBalsamiq access control matrix](http://support.balsamiq.com/customer/portal/articles/229097) has all the details.
+Users cannot create other users but they can invite them to the site. The site owner has the ability to [get notified](/mybalsamiq/sitesettings/#administration) for any invitation and joining action, and to remove users at any time. The [myBalsamiq access control matrix](/mybalsamiq/accesscontrolmatrix/) has all the details.
 
 ### What are the guidelines Balsamiq follows when accessing my data?
 
@@ -219,7 +219,7 @@ The trademarks, logos and service marks displayed on this Site are the property 
 
 ### Who owns the IP of my wireframes and assets?
 
-Balsamiq does not claim intellectual property rights over wireframes created on myBalsamiq nor the [project and account assets](http://support.balsamiq.com/customer/portal/articles/112403) your users upload.
+Balsamiq does not claim intellectual property rights over wireframes created on myBalsamiq nor the [project and account assets](/mybalsamiq/assets/) your users upload.
 
 We leave it to each myBalsamiq site owner to decide who should own the IP of the wireframes created using their myBalsamiq site. We encourage site owners to make their policy clear to their site users, either via email or by posting it on their myBalsamiq site (see [this page](https://mockupstogo.mybalsamiq.com/projects/submissions/grid) as an example).
 
@@ -424,10 +424,10 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
-*   2014, Nov 20: changed "outside contractors" to "outside parties" in [this section](http://support.balsamiq.com/customer/portal/articles/174898#balsamiqaccess), for clarity.
+*   2014, Nov 20: changed "outside contractors" to "outside parties" in [this section](/mybalsamiq/tos/#what-are-the-guidelines-balsamiq-follows-when-accessing-my-data), for clarity.
 *   2014, June 23: removed this sentence from General section: _You may not assign or otherwise transfer the Terms of Use nor any right granted hereunder without Balsamiq’s prior written consent._
 *   2014, June 18: rectified that we do collect your Billing Address. Changed Spreedly to Pin Payments (Pin Payments acquired Spreedly).
-*   2014, Mar 16: small tweak to clarify what an "asset" means (added a link to [the documentation](http://support.balsamiq.com/customer/portal/articles/112403)).
+*   2014, Mar 16: small tweak to clarify what an "asset" means (added a link to [the documentation](/mybalsamiq/assets/)).
 *   2014, Feb 5: small tweak to the wording of when our system administrators are on call, and clarified how long we keep your data for and our policy for destroying deleted sites if asked to free up a subdomain.
 *   2013, Apr 29: big update. Changed Balsamiq's address. Clarified that site subdomain and logo can be customized, and that the site owner is responsible for first level support. Added information about PCI compliance and Balsamiq internal security policies. Added info on how passwords are secured. Clarified that we use SSL, and that data is not encrypted in the DB (other than passwords). Added system requirements section. Added more info on Balsamiq access to your data. Added a lot more info on our security practices. Added info on logging and data retention, and who else has access to your data.
 *   2013, Jan 23: Clarified that you are able to use myBalsamiq without sharing your projects with people outside your organization.

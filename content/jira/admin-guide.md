@@ -23,12 +23,12 @@ Like most plugins, Balsamiq Mockups for JIRA is installed via Atlassian's [Unive
 
 To install the plugin, go to the JIRA Administration page. Select "Find new add-ons" and search for Balsamiq Mockups for JIRA.
 
-![](http://media.balsamiq.com/img/support/installation/jira-install-server1.png)
+![](//media.balsamiq.com/img/support/installation/jira-install-server1.png)
 
 Select "Free Trial" and accept the license agreement for Mockups for JIRA to begin the installation.
 
 Once the plugin has downloaded and installed, you'll be prompted to Log In with your Atlassian ID or MyAtlassian account to obtain an evaluation key.
- ![Atlassian ID](http://media.balsamiq.com/img/support/installation/confluence-jira-install-server3.png)
+ ![Atlassian ID](//media.balsamiq.com/img/support/installation/confluence-jira-install-server3.png)
 
 You will then begin a 30-day trial evaluation of Mockups for JIRA.
 
@@ -40,7 +40,7 @@ Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](http://su
 
 To register the plugin, go to the JIRA Administration page. Select "Manage new add-ons" and search for Balsamiq Mockups for JIRA.
 
-![](http://media.balsamiq.com/img/support/installation/jira-reg-server1.png)
+![](//media.balsamiq.com/img/support/installation/jira-reg-server1.png)
 
 If you have UPM v.2 and want to buy from Atlassian Marketplace, you can use the Buy now button.
 
@@ -54,11 +54,11 @@ Below are a few screenshots of what you can expect there.
 
 This is what you'll see if you don't have a license installed and select the Balsamiq option.
 
-![](http://media.balsamiq.com/img/support/docs/jira/adminguide/cfg_trial.png)
+![](//media.balsamiq.com/img/support/docs/jira/adminguide/cfg_trial.png)
 
 This is what you'll see if you have installed a license you purchase via Atlassian Marketplace. Note that an Atlassian Markeplace license, if installed, trumps any existing Balsamiq license.
 
-![](http://media.balsamiq.com/img/support/docs/jira/adminguide/cfg_marketplace.png)
+![](//media.balsamiq.com/img/support/docs/jira/adminguide/cfg_marketplace.png)
 
 If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645-%22failed-to-validate-your-plugin-license-%22-or-%22your-add-on-license-is-invalid-%22-error-when-registering-mockups-for-confluence-or-jira) may help.
 

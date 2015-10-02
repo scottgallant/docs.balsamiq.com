@@ -24,13 +24,13 @@ Like most plugins, Balsamiq Mockups for Confluence is installed via Atlassian's 
 
 To install the plugin, go to the Confluence Administration page. Select "Find new add-ons" and search for Balsamiq Mockups for Confluence.
 
-![](http://media.balsamiq.com/img/support/installation/confluence-install-server1.png)
+![](//media.balsamiq.com/img/support/installation/confluence-install-server1.png)
 
 Select "Free Trial" and accept the license agreement for Mockups for Confluence to begin the installation.
 
 Once the plugin has downloaded and installed, you'll be prompted to Log In with your Atlassian ID or MyAtlassian account to obtain an evaluation key.
 
-![](http://media.balsamiq.com/img/support/installation/confluence-jira-install-server3.png)
+![](//media.balsamiq.com/img/support/installation/confluence-jira-install-server3.png)
 
 You will then begin a 30-day trial evaluation of Mockups for Confluence.
 
@@ -42,7 +42,7 @@ Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](http://su
 
 To register the plugin, go to the Confluence Administration page. Select "Manage new add-ons" and search for Balsamiq Mockups for Confluence.
 
-![](http://media.balsamiq.com/img/support/installation/confluence-reg-server1.png)
+![](//media.balsamiq.com/img/support/installation/confluence-reg-server1.png)
 
 If you have UPM v.2 and want to buy from Atlassian Marketplace, you can use the Buy now button.
 
@@ -56,17 +56,17 @@ Below are a few screenshots of what you can expect there.
 
 This is what you'll see if you don't have a license installed and select the Balsamiq option.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_00.png)
+![](//media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_00.png)
 
 This is what you'll see if you have installed a license you purchase via Atlassian Marketplace.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_1.png)
+![](//media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_1.png)
 
 This is what you'll see if you have a license you purchased from Balsamiq but select the Atlassian option. Note that an Atlassian Markeplace license, if installed, trumps any existing Balsamiq license.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_010.png)
+![](//media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_010.png)
 
-If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645-%22failed-to-validate-your-plugin-license-%22-or-%22your-add-on-license-is-invalid-%22-error-when-registering-mockups-for-confluence-or-jira) may help.
+If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645) may help.
 
 UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](http://support.balsamiq.com/customer/portal/articles/1044360)
 
@@ -94,7 +94,7 @@ Using both Mockups for Confluence and Mockups for JIRA? Please see [this article
 
 Click on the Update button on your UPM to download and install the latest version of the plugin.
 
-If you are running an old version of Confluence and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](http://support.balsamiq.com/customer/portal/articles/1036201#m4c) page.
+If you are running an old version of Confluence and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](http://support.balsamiq.com/customer/portal/articles/1036201) page.
 
 * * *
 
