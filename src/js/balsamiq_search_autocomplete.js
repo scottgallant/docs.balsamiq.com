@@ -1,5 +1,8 @@
 BalsamiqSearchAutoComplete = new Object();	
-BalsamiqSearchAutoComplete.firstDomain = "balsamiq.com";
+
+var thisdomain = window.location.href.split("/")[2].split(":")[0];
+BalsamiqSearchAutoComplete.firstDomain = (thisdomain == "localhost") ? "balsamiq.com" : thisdomain;
+
 BalsamiqSearchAutoComplete.domains = [	{url:'balsamiq.com', label:'our Website'}, 
 										{url:'docs.balsamiq.com', label:'the Docs'},
 										{url:'support.balsamiq.com', label:'our Support Portal'},
