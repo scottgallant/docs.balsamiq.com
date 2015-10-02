@@ -1,7 +1,7 @@
-BalsamiqSearchAutoComplete = new Object();	
+BalsamiqSearchAutoComplete = {};
 
 var thisdomain = window.location.href.split("/")[2].split(":")[0];
-BalsamiqSearchAutoComplete.firstDomain = (thisdomain == "localhost") ? "balsamiq.com" : thisdomain;
+BalsamiqSearchAutoComplete.firstDomain = (thisdomain === "localhost") ? "balsamiq.com" : thisdomain;
 
 BalsamiqSearchAutoComplete.domains = [	{url:'balsamiq.com', label:'our Website'}, 
 										{url:'docs.balsamiq.com', label:'the Docs'},
@@ -30,7 +30,7 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 
 	function closeOnEsc(e)
 	{
-		if (e.keyCode == 27) { // escape key maps to keycode `27`
+		if (e.keyCode === 27) { // escape key maps to keycode `27`
 			showSearching(false);
 			showResults(false);
 		}
@@ -70,7 +70,7 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 	
 	function doSuggest(p_string)
 	{
-		if (p_string == null || p_string == "" || p_string.length < 3) {
+		if (p_string === null || p_string === "" || p_string.length < 3) {
 			results.css("visibility", "hidden");
 			return;
 		}
@@ -83,7 +83,7 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 			success: function (data) {
 				var res = data.records.page;
 
-				if (data.record_count == 0) {
+				if (data.record_count === 0) {
 					searching.html("No results");
 					showResults(false);
 					return;
@@ -92,20 +92,21 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 				showResults(true);
 				showSearching(false);
 
-				var resultsByDomain = new Object();
+				var resultsByDomain = {};
+				var i;
 		
-				for (var i=0; i<data.records.page.length; i++)
+				for (i=0; i<data.records.page.length; i++)
 				{
 					var page = res[i];
 					var domain = page.url.split("/")[2]; 
-					if (resultsByDomain[domain] == null) {
+					if (resultsByDomain[domain] === null) {
 						resultsByDomain[domain] = "";
 					}
 					var title = page.highlight.title;
-					if (title == null) {
+					if (title === null) {
 						title = page.highlight.sections;
 					}
-					if (title == null) {
+					if (title === null) {
 						title = page.title;
 					}
 					resultsByDomain[domain] += "<li><a href='"+page.url+"'>"+title+"</a></li>\n";
@@ -115,8 +116,8 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 			
 				//Current domain goes first
 				if (resultsByDomain[BalsamiqSearchAutoComplete.firstDomain] != null) {
-					for (var i=0; i<BalsamiqSearchAutoComplete.domains.length; i++) {
-						if (BalsamiqSearchAutoComplete.domains[i].url == BalsamiqSearchAutoComplete.firstDomain) {	
+					for (i=0; i<BalsamiqSearchAutoComplete.domains.length; i++) {
+						if (BalsamiqSearchAutoComplete.domains[i].url === BalsamiqSearchAutoComplete.firstDomain) {	
 							list += "<h4>From "+BalsamiqSearchAutoComplete.domains[i].label +"</h4>\n";
 							list += "<ul>\n";
 							list += resultsByDomain[BalsamiqSearchAutoComplete.firstDomain];
@@ -126,8 +127,8 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 				}
 
 				//The rest
-				for (var i=0; i<BalsamiqSearchAutoComplete.domains.length; i++) {
-					if (BalsamiqSearchAutoComplete.domains[i].url == BalsamiqSearchAutoComplete.firstDomain)
+				for (i=0; i<BalsamiqSearchAutoComplete.domains.length; i++) {
+					if (BalsamiqSearchAutoComplete.domains[i].url === BalsamiqSearchAutoComplete.firstDomain)
 					{
 						continue;
 					}
@@ -147,4 +148,4 @@ BalsamiqSearchAutoComplete.initDiv = function(divID)
 			}
 		});
 	}
-}
+};
