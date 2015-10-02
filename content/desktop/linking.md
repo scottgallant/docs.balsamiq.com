@@ -11,13 +11,9 @@ tags:
   - "Presentation Mode"
 ---
 
-You can link mockups together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you're displaying your project Mockups in [Full Screen Presentation](http://support.balsamiq.com/customer/portal/articles/111756) mode or as an [exported PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf).
+You can link mockups together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you're displaying your project Mockups in [Full Screen Presentation](/desktop/fullscreen/) mode or as an [exported PDF](/desktop/exporting/#exporting-to-pdf).
 
-* * *
-
-## Creating Links
-
-Linking mockups together is as easy as choosing a mockup name from a drop-down menu. Simply click on a control that supports linking (most do, and [here's a workaround for those that don't](http://support.balsamiq.com/customer/portal/articles/117684)), and you'll see a "Link" drop-down in the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114) (click the "Show Link Inspector" link if you don't see it).
+Linking mockups together is as easy as choosing a mockup name from a drop-down menu. Simply click on a control that supports linking (most do, and [here's a workaround for those that don't](http://support.balsamiq.com/customer/portal/articles/117684)), and you'll see a "Link" drop-down in the [Property Inspector](/desktop/inspector/) (click the "Show Link Inspector" link if you don't see it).
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/link_inspector.png)
 
@@ -33,17 +29,15 @@ For controls that can have multiple targets, you'll see something like this:
 
 ![](http://media.balsamiq.com/img/support/docs/m4d/b3/link_inspector_multi.png)
 
-**Note:** To learn how to create links from text strings inside other controls, see our article on [making links in text actually work](http://support.balsamiq.com/customer/portal/articles/110121#linking).
+<span class="alert alert-info show" role="alert">
+**Note:** To learn how to create links from text strings inside other controls, see our article on [making links in text actually work](/desktop/text/#making-links-in-text-actually-work).
+</span>
 
 Once you have selected a mockup or web page to link to from the drop-down menu, the control will show a little arrow icon in the bottom-right corner. Links to mockups will show as a plain arrow, while links to web pages will show as an arrow with a box around it, as shown below.
 
 ![bracket_links.png](http://media.balsamiq.com/img/support/docs/m4d/b3/bracket_links.png)
 
-* * *
-
-## Using Links in Presentations &amp; Prototypes
-
-When you're done linking your mockups up you can enter [Full Screen Presentation mode](http://support.balsamiq.com/customer/portal/articles/111756) and you'll be able to click on the links you set up to test your prototype.
+When you're done linking your mockups up you can enter [Full Screen Presentation mode](/desktop/fullscreen/) and you'll be able to click on the links you set up to test your prototype.
 
 In Full Screen Presentation mode controls with links will have a red overlay on them and mousing over them will show a big hand pointer with the name of the target file or web page for the link (these options can be turned off in the Full Screen settings panel).
 
