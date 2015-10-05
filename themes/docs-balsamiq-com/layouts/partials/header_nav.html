@@ -27,7 +27,7 @@
               <li id="gnav-mybalsamiq">
                 <a href="/mybalsamiq/" class="gnava">myBalsamiq</a>
               </li>
-              <li id="gnav-plugins">
+              <li id="gnav-plugins" class="hidden-xs">
                 <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Plugins <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
                 <ul class="dropdown-menu nav" aria-labelledby="dDocs">
                   <li><a href="/google-drive/user-guide/">Mockups for Google Drive</a></li>
@@ -35,22 +35,24 @@
                   <li><a href="/jira/user-guide/">Mockups for JIRA</a></li>
                 </ul>
               </li>
+              <li id="gnav-gdrive" class="visible-xs"><a href="/google-drive/user-guide/" class="gnava">Mockups for Google Drive</a></li>
+              <li id="gnav-confluence" class="visible-xs"><a href="/confluence/user-guide/" class="gnava">Mockups for Confluence</a></li>
+              <li id="gnav-jira" class="visible-xs"><a href="/jira/user-guide/" class="gnava">Mockups for JIRA</a></li>
               <li id="gnav-support">
                 <a href="http://support.balsamiq.com" class="gnava">Support</a>
               </li>
               <li id="gnav-download">
-                <a href="{{ .Site.Params.balsamiqcomurl }}/download/" class="gnava">Download</a>
+                <a href="{{ .Site.Params.balsamiqcomurl }}/download/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon">&#xEB01;</i></span><span class=" hidden-sm">Download</span></a>
               </li>
               <li id="gnav-buy">
-                <a href="{{ .Site.Params.balsamiqcomurl }}/buy/" class="gnava">Buy</a>
+                <a href="{{ .Site.Params.balsamiqcomurl }}/buy/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon">&#xE500;</i></span><span class=" hidden-sm">Buy</span></a>
               </li>
               <li id="gnav-search" class="visible-xs visible-sm">
-                <a href="/" class="gnava"><i class="ss-icon">&#x1F50E;</i></a>
+                <a href="{{ .Site.Params.balsamiqcomurl }}/search/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon">&#x1F50E;</i></span><span class="visible-xs hidden-sm">Search</span></a>
               </li>
               <li id="gnav-search-form" class="hidden-xs hidden-sm last">
                 <!-- SEARCH -->
                 <div id="search">
-
                   <form class="search" action="{{ .Site.Params.balsamiqcomurl }}/search/" method="get">
                     <div id="navSearchDiv">
                     <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
