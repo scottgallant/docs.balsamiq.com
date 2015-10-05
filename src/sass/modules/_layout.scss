@@ -25,7 +25,10 @@ body {
     &.mybalsamiq #gnav li#gnav-mybalsamiq a,
     &.confluence #gnav li#gnav-plugins > a,
     &.jira #gnav li#gnav-plugins > a,
-    &.google-drive #gnav li#gnav-plugins > a {
+    &.google-drive #gnav li#gnav-plugins > a,
+    &.confluence #gnav li#gnav-confluence > a,
+    &.jira #gnav li#gnav-jira > a,
+    &.google-drive #gnav li#gnav-gdrive > a {
       background: rgba(0,0,0,.1);
       border-radius: 3px;
     }
