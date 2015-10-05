@@ -136,7 +136,10 @@ body {
 .company-support-portal.dbc.mybalsamiq #gnav li#gnav-mybalsamiq a,
 .company-support-portal.dbc.confluence #gnav li#gnav-plugins > a,
 .company-support-portal.dbc.jira #gnav li#gnav-plugins > a,
-.company-support-portal.dbc.google-drive #gnav li#gnav-plugins > a {
+.company-support-portal.dbc.google-drive #gnav li#gnav-plugins > a,
+.company-support-portal.dbc.confluence #gnav li#gnav-confluence > a,
+.company-support-portal.dbc.jira #gnav li#gnav-jira > a,
+.company-support-portal.dbc.google-drive #gnav li#gnav-gdrive > a {
   background: rgba(0, 0, 0, 0.1);
   border-radius: 3px; }
 
