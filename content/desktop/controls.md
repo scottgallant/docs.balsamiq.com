@@ -125,6 +125,10 @@ You can double-click on a group to "enter it" and edit its contents. A small flo
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/group-edit.png)
 
+Here's a video that shows grouping in action:
+
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/rGNnhbY19yY?rel=0"></iframe></div>
+
 You can optionally give a group a name via the Property Inspector. This can be helpful when you have a lot of groups and need to "know where you are" when you edit their contents. Naming groups is also useful when creating [Symbols](/desktop/symbols/#1-creating-symbols-in-the-mockups-view).
 
 * * *
