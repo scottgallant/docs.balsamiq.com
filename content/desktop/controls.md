@@ -41,6 +41,11 @@ To select a control that is behind another control, right-click on the top contr
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
 
+<span class="alert alert-info show" role="alert">
+**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](http://support.balsamiq.com/customer/portal/articles/107987).
+</span>
+
+
 * * *
 
 ## Moving UI Controls
