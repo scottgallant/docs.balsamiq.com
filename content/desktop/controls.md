@@ -41,6 +41,11 @@ To select a control that is behind another control, right-click on the top contr
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
 
+<span class="alert alert-info show" role="alert">
+**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](http://support.balsamiq.com/customer/portal/articles/107987).
+</span>
+
+
 * * *
 
 ## Moving UI Controls
@@ -119,6 +124,10 @@ Sometimes you might want to group some controls to better align them or move the
 You can double-click on a group to "enter it" and edit its contents. A small floating breadcrumb bar will indicate that you are editing a group and allow you to navigate back out of the group (you can also use the Escape key). Groups can be nested, as shown below.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/group-edit.png)
+
+Here's a video that shows grouping in action:
+
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/rGNnhbY19yY?rel=0"></iframe></div>
 
 You can optionally give a group a name via the Property Inspector. This can be helpful when you have a lot of groups and need to "know where you are" when you edit their contents. Naming groups is also useful when creating [Symbols](/desktop/symbols/#1-creating-symbols-in-the-mockups-view).
 
