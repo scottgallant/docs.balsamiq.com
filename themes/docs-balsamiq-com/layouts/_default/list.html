@@ -11,7 +11,11 @@
   <div class="col-xs-12 doc-overview">
     <main role="main">
       <div class="doc-list-header">
+        {{ if eq .Title "Mybalsamiq" }}
+        <h1>myBalsamiq Documentation</h1>
+        {{ else }}
         <h1>{{ .Title }} Documentation</h1>
+        {{ end }}        
       </div>
       <ol id="list">
       {{ range .Data.Pages.ByWeight }}
