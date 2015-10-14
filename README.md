@@ -24,6 +24,7 @@ The repository behind https://docs.balsamiq.com - a Hugo.io-powered, S3-hosted w
 * If page hierarchy has been altered from previous build, remove public/ directory first, then run hugo.
 * To build hugo without watch, just run $ hugo
 * To use with LiveReload, <a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei">install the extension for Chrome</a>.
+* Open http://localhost:1313 to see your site.
 
 ## Running Gulp to rebuild CSS/JS Assets
 
@@ -54,6 +55,3 @@ The repository behind https://docs.balsamiq.com - a Hugo.io-powered, S3-hosted w
 * or you can run ./launchGulp.sh
 * If you think the balsamiq.com \_config.scss file has changed, you can copy a new version here before running the sass task.
   * $gulp getsassconfig  
-
-### Seeing the site ###
-Open http://localhost:1313
