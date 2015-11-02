@@ -1,5 +1,5 @@
 # About
-docs.balsamiq.com
+The repository behind https://docs.balsamiq.com - a Hugo.io-powered, S3-hosted website for the Balsamiq documentation.
 
 # Content
 * Add new files to the content/(section name) directory with a .md extensions. Markdown is accepted, and HUGO's [front matter](http://gohugo.io/content/front-matter/) is expected for the navigation to work properly.
@@ -20,10 +20,11 @@ docs.balsamiq.com
 # HUGO Usage
 
 ## Running Hugo
-* Run launchHugo.sh (or $ hugo server --watch)
+* Run ./launchHugo.sh (or $ hugo server --watch)
 * If page hierarchy has been altered from previous build, remove public/ directory first, then run hugo.
 * To build hugo without watch, just run $ hugo
 * To use with LiveReload, <a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei">install the extension for Chrome</a>.
+* Open http://localhost:1313 to see your site.
 
 ## Running Gulp to rebuild CSS/JS Assets
 
@@ -47,8 +48,10 @@ docs.balsamiq.com
 * Just JS
   * $ gulp js
 
+
 ### Running Gulp during development (LiveReload)
 * If you're working on SASS or JS, run gulp using "watch" to rebuild css/js files as you make changes to them.
   * $ gulp watch dev
+* or you can run ./launchGulp.sh
 * If you think the balsamiq.com \_config.scss file has changed, you can copy a new version here before running the sass task.
   * $gulp getsassconfig  

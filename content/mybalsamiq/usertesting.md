@@ -17,6 +17,7 @@ The prototype view follows a project's permissions settings, but allows you to s
 
 Here are a couple of articles on how to integrate myBalsamiq's prototype view with the leading user testing tools:
 
+*   [User Testing your Balsamiq Prototypes with TryMyUI](http://blogs.balsamiq.com/product/2015/11/02/trymyui/)
 *   [User Testing your myBalsamiq prototypes with UserTesting.com](http://blogs.balsamiq.com/product/2013/05/15/usertestingcom/)
 *   [How to test your myBalsamiq prototypes with Loop11](http://blogs.balsamiq.com/product/2012/03/19/loop11/)
 *   [User Testing your myBalsamiq wireframes with Usabilla](http://blogs.balsamiq.com/product/2012/03/14/usabilla/)
