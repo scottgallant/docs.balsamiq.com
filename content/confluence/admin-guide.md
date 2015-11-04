@@ -114,7 +114,7 @@ When saving large mockups, you might get a 2032 error. This is due to the fact t
 
 The good news is that this default can be changed: just edit your confluence/conf/server.xml and set maxPostSize to a higher value. Restart Confluence and you'll be all set. Your Confluence might [even run faster](http://confluence.atlassian.com/display/CONFKB/Slow+Page+Rendering+of+Large+Pages+Due+to+HTTP+POST+Limitations) because of it!
 
-If you have other troubles, [email us](mailto:support@balsamiq.com) and we'll help you!
+If you have other troubles, [email us](https://balsamiq.com/company/contact/#/t/m4c) and we'll help you!
 
 * * *
 

@@ -100,4 +100,4 @@ The mockups created with the plugin will NOT be deleted, they'll just stay where
 
 ## Troubleshooting
 
-If you have trouble, [email us](mailto:support@balsamiq.com) and we'll help you!
+If you have trouble, [email us](https://balsamiq.com/company/contact/#/t/m4j) and we'll help you!
