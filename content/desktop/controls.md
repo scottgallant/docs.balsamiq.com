@@ -156,7 +156,7 @@ The video below illustrates how to use this powerful feature:
 
 ## "Drawing" Basic Controls
 
-There are three controls that you can add to the canvas by "drawing" them with your mouse while holding down a letter key. To quickly draw a rectangle on the canvas, hold down the R key and drag your mouse. Holding down T instead will draw a block of text, and Y will produce a line of text.
+There are three controls that you can add to the canvas by "drawing" them with your mouse while holding down a letter key. To quickly draw a rectangle on the canvas, hold down the **R** key and drag your mouse. Holding down **T** instead will draw a block of text, and **Y** will produce a line of text.
 
 See the video below for a demonstration. 
 

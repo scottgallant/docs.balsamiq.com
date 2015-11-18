@@ -329,6 +329,23 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 		</tr>
 		<tr>
 			<th colspan="2">
+			<h2 id="drawing-controls"><a href="/desktop/controls/#drawing-basic-controls" title="Learn more about drawing controls here">Drawing Controls</a></h2>
+			</th>
+		</tr>
+		<tr>
+			<td>Draw a rectangle on the canvas</td>
+			<td><kbd>R</kbd>+drag</td>
+		</tr>
+		<tr>
+			<td>Draw a block of text on the canvas</td>
+			<td><kbd>T</kbd>+drag</td>
+		</tr>
+		<tr>
+			<td>Draw a line of text on the canvas</td>
+			<td><kbd>Y</kbd>+drag</td>
+		</tr>
+		<tr>
+			<th colspan="2">
 			<h2 id="working-with-mockup-files">Working with Mockup Files</h2>
 			</th>
 		</tr>
