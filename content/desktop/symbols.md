@@ -173,6 +173,11 @@ To rename either a Symbol or Symbol Library you can double-click its name in the
 
 You can also use the [context menu](/desktop/overview/#context-menu-actions) to delete Symbols and Symbol Libraries from your project. In the case of Symbol Libraries, like with mockups and images, deleting will move them to the trash, where you can delete them permanently or restore them. Deleting an individual Symbol from a Symbol Library, however, deletes it permanently.
 
+<span class="alert alert-info show" role="alert">
+**Tip:** You can hold down Shift or Control/CMD to select multiple Symbols and delete or move multiple Symbols at once.
+</span>
+
+
 Just like with images, deleting a Symbol from a mockup does not delete the Symbol, only that instance of the Symbol.
 
 ### Cloning Symbols

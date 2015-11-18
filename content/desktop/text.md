@@ -118,3 +118,14 @@ Type lorem in a Paragraph or Text Area to use our [Lorem Ipsum](http://www.lipsu
 ### {mockup-name}
 
 Type {mockup-name} (all lower-case) in a Label, Text, Title or Subtitle control to show the current mockup name.
+
+---
+
+## Placeholder text
+
+Another option for creating placeholder text, besides the [Lorem Ipsum text generator](#more-macros), is to use the **Line of Text** and **Block of Text** controls.  
+![placeholder-text.png](//media.balsamiq.com/img/support/docs/m4d/b3/placeholder-text.png)
+
+You can convert them to real text at any time by editing them and entering some text.
+
+![placeholder-text-converted.png](//media.balsamiq.com/img/support/docs/m4d/b3/placeholder-text-converted.png)

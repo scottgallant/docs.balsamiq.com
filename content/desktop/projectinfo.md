@@ -7,7 +7,7 @@ menu:
 weight: 80
 ---
 
-New in Balsamiq Mockups 3 is the ability to define project-wide settings for skin, font, and selection color. The Project Info panel contains these settings as well as an area to add notes about the project. Click the icon next to the Property Inspector icon to toggle the Project Info panel (keyboard shortcut: CTRL/CMD + ,).
+New in Balsamiq Mockups 3 is the ability to define project-wide settings for skin, font, and link and selection color. The Project Info panel contains these settings as well as an area to add notes about the project. Click the icon next to the Property Inspector icon to toggle the Project Info panel (keyboard shortcut: CTRL/CMD + ,).
 
 ![ ](//media.balsamiq.com/img/support/docs/m4d/b3/project-info.png)
 
