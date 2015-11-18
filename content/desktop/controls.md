@@ -115,6 +115,17 @@ If you feel that you need to rotate any other control, let us know on [this foru
 
 * * *
 
+## Transforming UI Controls
+
+Many of the controls in Balsamiq Mockups can be changed into other controls via the context menu next to the control name in the Property Inspector.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/transform-control-type.png)
+
+This can be useful when you already have content in your mockups but want to use a different control type without re-typing the content (changing a text input to a combo box, for example). Just click on a control and open the menu to see which control types the selected control can be transformed to.
+
+
+---
+
 ## Grouping UI Controls
 
 Sometimes you might want to group some controls to better align them or move them all at once. To group a set of controls, select them and hit CTRL+G on your keyboard or use the Group command in the Edit menu or [toolbar](/desktop/overview/#the-toolbar). The controls will change color to purple to indicate that they are grouped. Once grouped, the controls will behave as one when moving or aligning. To ungroup controls, press CTRL+SHIFT+G on your keyboard or use the Ungroup command in the menu or toolbar.
@@ -139,4 +150,16 @@ It is possible to crop (mask) groups to only show a selected portion of them.
 
 The video below illustrates how to use this powerful feature:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/GOnCNNHhfGc"></iframe></div>
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/36imBnhykZw"></iframe></div>
+
+---
+
+## "Drawing" Basic Controls
+
+There are three controls that you can add to the canvas by "drawing" them with your mouse while holding down a letter key. To quickly draw a rectangle on the canvas, hold down the R key and drag your mouse. Holding down T instead will draw a block of text, and Y will produce a line of text.
+
+See the video below for a demonstration. 
+
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/nuKPp-QFzOY"></iframe></div>
+
+After you've added these controls, you can easily convert them to other controls by using the [transform menu described above](#transforming-ui-controls).
