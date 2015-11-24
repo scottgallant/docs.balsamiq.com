@@ -163,6 +163,10 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd>3</kbd></td>
 		</tr>
 		<tr>
+			<td><a href="/desktop/controls/#transforming-ui-controls">Transform the selected controls</a></td>
+			<td><kbd class="ctrl">CTRL</kbd>+<kbd>T</kbd></td>
+		</tr>
+		<tr>
 			<td class="subhead" colspan="2"><h3>Group</h3></td>
 		</tr>
 		<tr>
