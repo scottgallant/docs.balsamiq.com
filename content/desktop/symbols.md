@@ -95,6 +95,10 @@ In addition to creating Symbols from scratch, you can import Symbols created in 
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/symbols3.png)
 
+You can also import Symbols from the Project > Import menu.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/symbols-import.png)
+
 The imported Symbol will be created in a new Symbol Library.
 
 * * *
