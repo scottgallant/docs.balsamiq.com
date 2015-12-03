@@ -1,5 +1,7 @@
 # About
-The repository behind https://docs.balsamiq.com - a Hugo.io-powered, S3-hosted website for the Balsamiq documentation.
+The repository behind https://docs.balsamiq.com - a gohugo.io-powered, S3-hosted website for the Balsamiq documentation.
+
+If you are viewing this repository with the intention of using the theme, please note that you will have to modify the includes, removing our specific assets referenced from balsamiq.com. We use Bootstrap 3, so you can just replace the section of includes under B.COM CSS and B.COM JS in the theme file layouts/partials/header.html. Instead use, for instance the HTML in https://www.bootstrapcdn.com/
 
 # Content
 * Add new files to the content/(section name) directory with a .md extensions. Markdown is accepted, and HUGO's [front matter](http://gohugo.io/content/front-matter/) is expected for the navigation to work properly.

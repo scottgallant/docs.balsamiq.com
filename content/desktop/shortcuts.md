@@ -54,7 +54,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 		</tr>
 		<tr>
 			<td>Treat/do not treat selection as markup</td>
-			<td><kbd class="ctrl">CTRL</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>M</kbd></td>
+			<td><kbd class="ctrl">CTRL</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>K</kbd></td>
 		</tr>
 		<tr>
 			<td class="subhead" colspan="2"><h3>Size/Position</h3></td>
@@ -410,8 +410,24 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd>Q</kbd></td>
 		</tr>
 		<tr>
-			<td>Looping through the open files in Mockups for Desktop</td>
-			<td><kbd class="ctrl">CTRL</kbd>+<kbd>Page Down</kbd> and <kbd class="ctrl">CTRL</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>Page Up</kbd></td>
+			<td>Next Mockup</td>
+			<td><kbd>CTRL</kbd>+<kbd>TAB</kbd> (Windows)<br>
+      <kbd>PAGE DOWN</kbd> or <kbd>fn</kbd>+<kbd>⌘</kbd>+<kbd>&darr;</kbd> (Mac)</td>
+		</tr>
+    <tr>
+      <td>Previous Mockup</td>
+      <td><kbd>CTRL</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>TAB</kbd> (Windows)<br>
+      <kbd>PAGE UP</kbd> or <kbd>fn</kbd>+<kbd>⌘</kbd>+<kbd>&uarr;</kbd> (Mac)</td>
+		</tr>  
+    <tr>
+			<td>Top of Mockup</td>
+      <td><kbd>HOME</kbd> (Windows)<br>
+      <kbd>fn</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>&uarr;</kbd> (Mac)</td>
+		</tr>  
+    <tr>
+			<td>Bottom of Mockup</td>
+      <td><kbd>END</kbd> (Windows)<br>
+      <kbd>fn</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>&darr;</kbd> (Mac)</td>
 		</tr>
 		<tr>
 			<th colspan="2">
