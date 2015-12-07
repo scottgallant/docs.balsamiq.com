@@ -68,11 +68,11 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 			<td>Hold <kbd class="ctrl">CTRL</kbd></td>
 		</tr>
 		<tr>
-			<td>Increase font or icon size</td>
+			<td>Grow/Increase text or icon size</td>
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd>]</kbd></td>
 		</tr>
 		<tr>
-			<td>Decrease font or icon size</td>
+			<td>Shrink/Decrease text or icon size</td>
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd>[</kbd></td>
 		</tr>
 		<tr>
@@ -225,6 +225,14 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 			<td>Closing the Suggestion List</td>
 			<td><kbd>ESC</kbd></td>
 		</tr>
+    <tr>
+			<td>Grow/Increase icon size</td>
+			<td><kbd class="ctrl">CTRL</kbd>+<kbd>]</kbd></td>
+		</tr>
+		<tr>
+			<td>Shrink/Decrease icon size</td>
+			<td><kbd class="ctrl">CTRL</kbd>+<kbd>[</kbd></td>
+		</tr>    
 		<tr>
 			<th colspan="2">
 			<h2 id="working-with-text">Working with Text</h2>
@@ -299,7 +307,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 		</tr>
 		<tr>
 			<td>Lorem-Ipsum generator</td>
-			<td>type <i>lorem</i> in a Paragraph or Text Area. Try <i>l0rem</i> for a variation.</td>
+			<td>type <i>lorem</i> in a Text or Text Area control. Try <i>l0rem</i> for a variation with character count.</td>
 		</tr>
 		<tr>
 			<td>Show the current mockup name</td>
