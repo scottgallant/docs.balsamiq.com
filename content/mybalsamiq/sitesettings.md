@@ -19,7 +19,7 @@ The Site Settings page allows the site owner to change information about your co
 
 ## Site Info
 
-Basic Site Information is created at signup. The Site Info form allows you to change the company name or URL, upload a logo to use in the header, and set design colors using our custom design form.
+Basic Site Information is created at signup. The Site Info form allows you to change the site name or URL, upload a logo to use in the header, and set design colors using our custom design form.
 
 * * *
 
@@ -39,7 +39,7 @@ You can set staff members to be automatically added to new projects that are cre
 Additionally, you can remove staff members from your site from the action menu.
 
 **Adding Staff Members**  
-At the bottom of the page, the “Add Staff Members” form lets you add people to your company’s site, so they can be added to projects.
+At the bottom of the page, the “Add Staff Members” form lets you add people to your site, so they can be added to projects.
 
 Enter one email address per line to invite staff members.
 
@@ -83,7 +83,7 @@ If you need to cancel and delete your site, the site owner can do so by clicking
 
 Once your site is deleted, we'll stop charging you and prevent users from logging in to it.
 
-If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Stop automatic renewal" in "Manage your billing" in your [payment settings](http://support.balsamiq.com/customer/portal/articles/1397041#stopping). Once your current paid period is over your site will be suspended.
+If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Cancel Subscription" in your [payment settings](http://support.balsamiq.com/customer/portal/articles/1397041#stopping). Once your current paid period is over your site will be suspended.
 
 <span class="alert alert-warning show" role="alert">
 **Be sure to [download](/mybalsamiq/project/#project-actions) any projects you would like to keep before deleting your site or stopping your subscription.**
