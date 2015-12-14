@@ -307,7 +307,9 @@ body {
       .company-support-portal .local-nav ul li.active a {
         color: #292E31 !important;
         font-weight: bold; }
-      .company-support-portal .local-nav ul li:hover, .company-support-portal .local-nav ul li.active, .company-support-portal .local-nav ul li.active:hover,
+      .company-support-portal .local-nav ul li:hover,
+      .company-support-portal .local-nav ul li.active,
+      .company-support-portal .local-nav ul li.active:hover,
       .company-support-portal .local-nav ul li a,
       .company-support-portal .local-nav ul li a:hover,
       .company-support-portal .local-nav ul li a:focus {
