@@ -138,7 +138,7 @@ You can add images to your project without placing them in your mockups first. C
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/assets2.png)
 
-You can also delete, rename, clone and download images from the context menu in the panel.
+You can also delete, rename, replace and download images from the context menu in the panel.
 
 ### New full screen mode
 

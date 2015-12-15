@@ -58,7 +58,7 @@ In Full Screen Presentation mode controls with links will have a red overlay on 
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/bighand.png)
 
-Click on a link to go to the referenced mockup file or web page. Web links will open in a new browser window. Links with a target of "Go Back (in Full Screen)" will go to the previous mockup when clicked.
+Click on a link to go to the referenced mockup file or web page. Web links will open in a new browser window. Links with a target of "Go Back (in Full Screen)" will go to the previous mockup when clicked ([as shown here](https://www.youtube.com/watch?v=dY6eqvFiR6U)).
 
 Here's a short video showing the process of linking mockups together.
 

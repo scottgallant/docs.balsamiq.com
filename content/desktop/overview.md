@@ -102,13 +102,23 @@ You can move between mockups or assets using your keyboard via CTRL+Tab or by cl
 
 Mockups can be reordered by dragging them up and down in the navigator panel. This can be useful when [exporting to PDF](/desktop/exporting/#exporting-to-pdf), for example. The order of your mockups will be remembered when you close and reopen your project, even if opened on a different computer.
 
+### Nesting Mockups
+
+To better organize your mockups you can use a hierarchical structure to "nest" some mockups under others. To nest a mockup, select it in the navigator and use the Tab key. You can then use the arrows to the left of the parent mockup to show and hide the mockups under it.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/nested-mockups-list.png)
+
+To restore it to the top level, use Shift+Tab. The video below shows nesting mockups in action.
+
+<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/WCbh2CpnWQo?rel=0"></iframe></div>
+
 ### Context menu actions
 
 A context menu is also available for the objects that are open in the navigator panel. You can either right-click on the selected object or click the small arrow that appears when you hover over it to open the menu.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/mockup-context-menu.png)
 
-The contents of this menu vary depending on which type of object is selected (mockup, asset, symbol, or trash) but it generally contains options such as rename, move to trash, and clone. In the Mockups view it also contains actions for working with [alternates](/desktop/alternates/).
+The contents of this menu vary depending on which type of object is selected (mockup, asset, symbol, or trash) but it generally contains options such as rename, move to trash, and duplicate. In the Mockups view it also contains actions for working with [alternates](/desktop/alternates/).
 
 ### Renaming Mockups
 

@@ -116,7 +116,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd>&darr;</kbd></td>
 		</tr>
 		<tr>
-			<td>Clone selection</td>
+			<td>Duplicate selection</td>
 			<td><kbd class="alt">ALT</kbd>+drag</td>
 		</tr>
 		<tr>
@@ -366,7 +366,7 @@ The shortcuts below apply to Mockups for Desktop Version 3 and higher. Choose on
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd>N</kbd></td>
 		</tr>
 		<tr>
-			<td>New clone of current mockup</td>
+			<td>Duplicate current mockup</td>
 			<td><kbd class="ctrl">CTRL</kbd>+<kbd class="shift">SHIFT</kbd>+<kbd>N</kbd></td>
 		</tr>
 		<tr>
