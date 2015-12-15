@@ -99,6 +99,17 @@ You can layer controls as if they were pieces of paper on the mockup canvas. To 
 
 * * *
 
+## Locking UI Controls
+
+Locking a control will prevent it from being selectable. This can be useful for background controls that you want to stay in place or don't want to accidentally select (a browser or iPhone control, for example). You can lock a control by selecting it and choosing "Lock (control name)" from the context menu, or by clicking the lock icon in the [toolbar](/desktop/overview/#the-toolbar).
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/locking-controls.png)
+
+To unlock a control, right-click on it when your mouse cursor is over it.
+
+
+* * *
+
 ## Deleting UI Controls
 
 To remove some UI controls from the mockup canvas, select them and hit the DELETE key. Alternatively you can click on the trashcan icon in the toolbar or select "Delete" from the Edit menu.
