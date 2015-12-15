@@ -25,21 +25,26 @@ You can navigate between mockups using the icons in the upper left. The far left
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-navigation.png)
 
+If you have created [links](/desktop/linking/) between your mockups, the links will be clickable in full screen presentation mode.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/bighand.png)
+
+
 * * *
 
 ## Settings
 
-By default you will also see a big blue arrow pointer in place of the regular mouse cursor. This is useful for presenting your mockups. The pointer will point towards the center of the screen in order to always stay out of the way of your mockup as much as possible.
+By default you will also see a big **blue arrow** pointer in place of the regular mouse cursor. This is useful for presenting your mockups. The pointer will point towards the center of the screen in order to always stay out of the way of your mockup as much as possible.
 
 You can turn off the big blue arrow in the full screen settings by clicking the gear icon in the top right to open the settings panel.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-settings.png)
 
-The settings panel also has an option to turn on and off link hints. When link hints are on areas that contain [links](/desktop/linking/) will be shown with a pink overlay so they can be seen easily.
+The settings panel also has an option to turn on and off **link hints**. When link hints are on areas that contain [links](/desktop/linking/) will be shown with a pink overlay so they can be seen easily.
 
-The Markup setting is for showing and hiding [markup](/desktop/markup/) elements, such as Sticky Notes, Arrows and Callouts (any control under the "Markup" tab in the UI Library). This is useful if you want to just look at your UI without the annotations that surround it.
+The **Markup** setting is for showing and hiding [markup](/desktop/markup/) elements, such as Sticky Notes, Arrows and Callouts (any control under the "Markup" tab in the UI Library). This is useful if you want to just look at your UI without the annotations that surround it.
 
-The last setting is to set the view to zoom out to fit the largest mockup. All other mockups will be zoomed relative to the largest mockup.
+The last setting is to set the view to **zoom** out to fit the largest mockup. All other mockups will be zoomed relative to the largest mockup.
 
 There are keyboard shortcuts for each setting, shown next to the setting name in the panel. No modifier key is required in full screen mode (e.g., just L for link hints, not CTRL/CMD+L)
 
