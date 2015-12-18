@@ -108,7 +108,7 @@ The mockups created so far will disappear from the wiki pages because the {mocku
 
 ## Troubleshooting
 
-### If you get an error when trying to save large mockups
+### If You Get an Error When Trying to Save Large Mockups
 
 When saving large mockups, you might get a 2032 error. This is due to the fact that Tomcat has a 2MB default to the maximum size of a POST request, which is what we use to save the mockup image.
 
@@ -118,7 +118,7 @@ If you have other troubles, [email us](https://balsamiq.com/company/contact/#/t/
 
 * * *
 
-## Mockups and Adaptivist's Theme Builder integration
+## Mockups and Adaptivist's Theme Builder Integration
 
 If you are using Adaptivist's Theme Builder, you'll have to manually add a "Add UI Mockup..." link to the edit menu. Here's how:
 

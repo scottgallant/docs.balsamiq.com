@@ -16,7 +16,7 @@ Confluence Administrators: the **[Mockups for Confluence Admin Guide](/confluenc
 
 * * *
 
-## Creating a new mockup
+## Creating a New Mockup
 
 Adding a mockup to a wiki page is very similar to adding an image.
 
@@ -46,7 +46,7 @@ When you are ready to go back to the wiki page, just click on "Close" or select 
 **A note for Confluence 3.x users:** In Confluence 3.x, you have to add a mockup by selecting the "Add UI Mockup" menu under the "Add Content" menu section of your wiki page.
 </span>
 
-## Editing a mockup
+## Editing a Mockup
 
 To make changes to a mockup, edit the wiki page, select the mockup image and click on the "Edit" button in the little macro control panel that shows up.
 
@@ -58,7 +58,7 @@ To make changes to a mockup, edit the wiki page, select the mockup image and cli
 
 * * *
 
-## Linking mockups together 
+## Linking Mockups Together 
 
 Much like the Desktop and Web versions of Mockups, you can create links between mockups by using the Link property in the Property Inspector (for controls that support linking; read [this article](http://support.balsamiq.com/customer/portal/articles/117684) for controls that don't).
 
@@ -72,13 +72,13 @@ To navigate to other mockups that have been linked, go to Full Screen Presentati
 
 * * *
 
-## Deleting a mockup
+## Deleting a Mockup
 
 To remove a mockup from a page, simply edit the page, select the mockup and delete it or click on "Remove".
 
 * * *
 
-## Looking at a mockup's history
+## Looking at a Mockup's History
 
 Each UI mockup is saved as two separate attachments, one for the PNG image and one for the BMML source data. Confluence supports versioning of attachments, and Balsamiq Mockups takes advantage of it so that you can see how your mockup evolved over time, or roll back to a previous version.
 
@@ -86,37 +86,37 @@ Each UI mockup is saved as two separate attachments, one for the PNG image and o
 
 * * *
 
-## Rolling back to a previous version of a mockup
+## Rolling Back to a Previous Version of a Mockup
 
 This is a bit tricky but it can be done. Go to the attachments view for your page, find the mockup you want to roll back, get the BMML for the version you want to roll it back to and copy it. Now you can go back to the page, edit the mockup and import your old BMML via the "Import" dialog.
 
 * * *
 
-## Moving a mockup on a page
+## Moving a Mockup on a Page
 
 To move a mockup to a different location on a page you edit the page, select it in the editor and use cut and paste to move it to another location on the page. Save the page and you're done!
 
 * * *
 
-## Aligning a mockup on a page
+## Aligning a Mockup on a Page
 
 If you'd like to left-align or right-align the mockup's image relative to your page, you can do so via the macro control panel. Note that the macro won't align while in edit mode, but it will show up with the right alignment once you save the wiki page.
 
 * * *
 
-## Specifying the size of a mockup on a page
+## Specifying the Size of a Mockup on a Page
 
 You can use the "Small", "Medium" and "Original" buttons in the macro property panel.
 
 * * *
 
-## Adding an existing Confluence mockup to a new Confluence page
+## Adding an Existing Confluence Mockup to a New Confluence Page
 
 You may want to add a mockup that you've already created in Confluence to a different page than you initially created it for. Right now you can only add mockups that are attached to the same page. However, you can create a copy of the mockup you want and add it to the new page. The fastest way to do that is via [export / import, as described here.](http://support.balsamiq.com/customer/portal/articles/721932). This process involves exporting from the old one and importing into a new one. You can also see the steps [below](#moving-a-mockup-from-one-page-to-another) for moving a mockup from one page to another.
 
 * * *
 
-## Moving a mockup from one page to another
+## Moving a Mockup from One Page to Another
 
 It is possible to move mockups from one page to another. However, this is somewhat of an "advanced" feature, so it's not as easy as the tasks described above.
 
@@ -134,7 +134,7 @@ This process can also be useful if you have removed a mockup from a page and wan
 
 * * *
 
-## Renaming a mockup
+## Renaming a Mockup
 
 Similar to the process described above, renaming a mockup is possible, but you have to go behind the scenes to do it.
 

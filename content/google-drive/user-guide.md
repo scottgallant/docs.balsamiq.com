@@ -40,7 +40,7 @@ To uninstall, see these [instructions on how to uninstall Mockups for Google Dri
 
 * * *
 
-## Setting Balsamiq Mockups as the Default App for Mockups files
+## Setting Balsamiq Mockups as the Default App for Mockups Files
 
 Once installed, Google Drive may not know to open Balsamiq Mockups files with Mockups for Google Drive. After installation you should make sure that **Balsamiq Mockups Project is set as the default app for Balsamiq files.**
 

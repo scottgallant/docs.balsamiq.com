@@ -13,7 +13,7 @@ Please read this document carefully before accessing or using myBalsamiq.
 
 ## Introduction
 
-### English, not Legalese
+### English, Not Legalese
 
 Most Terms of Service and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 
@@ -25,13 +25,13 @@ When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([con
 
 Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
 
-### Using myBalsamiq means accepting these terms
+### Using myBalsamiq Means Accepting These Terms
 
 By accessing or using myBalsamiq in any way, whether you have created your own myBalsamiq site or are invited to someone else's site as a project member, or are just browsing around, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, do not access myBalsamiq.
 
-### This is a living document
+### This Is a Living Document
 
 This is a living document. With your help, we want to make it the best in the industry.
 
@@ -71,9 +71,9 @@ We take pride in providing excellent customer support, but we are also a small t
 
 * * *
 
-## Access to your data
+## Access to Your Data
 
-##### What personal data do you collect and why?
+##### What Personal Data Do You Collect and Why?
 
 We collect the following personal data:
 
@@ -92,7 +92,7 @@ Please be aware that your browser must be enabled to accept cookies from mybalsa
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
 
-### Who can see my password?
+### Who Can See My Password?
 
 No-one. We store your password encrypted so no-one can read it. For encrypting the passwords, we use SHA512 hashing and a unique random salt for each user.
 
@@ -104,17 +104,17 @@ User management is done inside myBalsamiq, we don't have LDAP or OAuth integrati
 
 Balsamiq staff will never change a password for you, nor change the site owner. Here's an article that describes how you can [change the site owner of a myBalsamiq site yourself](http://support.balsamiq.com/customer/portal/articles/835846).
 
-### Who can see my credit card number?
+### Who Can See My Credit Card Number?
 
 No-one at Balsamiq. We use the very trustworthy and secure [Pin Payments](https://pinpayments.com/) payment service. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) (in short, they encrypt your credit card info).
 
 Once you sign up Pin Payments will charge your card each month. Both Pin Payments and Balsamiq are PCI-DSS compliant. Even though Balsamiq employees never see your credit card information, Balsamiq has an internal security policy to follow in case we accidentally come across a customer's credit card info.
 
-### Our Commitment to Children’s Privacy
+### Our Commitment to Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-### How can I access or correct my information?
+### How Can I Access or Correct My Information?
 
 You can access all your personally identifiable information that we collect online and maintain by logging in to any myBalsamiq site you have access to and visiting the settings pages.
 
@@ -124,13 +124,13 @@ You can delete your user account or site at any time. We keep your data around f
 
 If you delete your site manually, or if your site gets suspended for payment and stays in that state for more than 1 month, we retain the right to destroy your site completely (thus "releasing" its subdomain), based on our best judgment.
 
-### What are the system requirements for using myBalsamiq?
+### What Are the System Requirements for Using myBalsamiq?
 
 A modern web browser (Internet Explorer users need IE9 or higher) with cookies and javascript enabled and Adobe Flash Player version 10.2 and above is all that's needed. Your clients have to be able to access the myBalsamiq servers, on ports 80 and 443.
 
 myBalsamiq stores auto-save data and other settings in Flash Local SharedObjects on the end user's computer. We do not clear those on exit. myBalsamiq does not use ActiveX or Java in the browser.
 
-### Who can see my wireframes?
+### Who Can See My Wireframes?
 
 It depends on the project access level you choose for your projects. By default, each project is private, but the site owner or any staff member who's part of that project can [make it public](/mybalsamiq/project/#setting-access-control).
 
@@ -144,7 +144,7 @@ We use HTTPS and SSL (256-encryption) to transfer all data. Other than passwords
 
 Users cannot create other users but they can invite them to the site. The site owner has the ability to [get notified](/mybalsamiq/sitesettings/#administration) for any invitation and joining action, and to remove users at any time. The [myBalsamiq access control matrix](/mybalsamiq/accesscontrolmatrix/) has all the details.
 
-### What are the guidelines Balsamiq follows when accessing my data?
+### What Are the Guidelines Balsamiq Follows When Accessing My Data?
 
 *   We restrict who at Balsamiq can access customer data to only senior members of the team, and never to outside parties.
 *   We only do it in response to a customer support question.
@@ -154,7 +154,7 @@ Users cannot create other users but they can invite them to the site. The site o
 *   We never ever ever share what we see with other customers or the general public.
 *   We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government. We'll also keep your site owner informed as much as we can if this happens.
 
-### Who else has access to my data?
+### Who Else Has Access to My Data?
 
 We host our data on Amazon Web Services (AWS). Specifically, our database runs on RDS and other data is stored on S3\. Amazon employees have access to this data. Here's their [privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations. We don't control physical access to our locations, other than standard locked doors.
 
@@ -166,11 +166,11 @@ As mentioned [above](#who-can-see-my-credit-card-number), we rely on Pin Payment
 
 We use [PubNub](http://www.pubnub.com/) to provide real-time updates, always sent over SSL. Here's their [privacy policy](http://www.pubnub.com/privacy-policy).
 
-### How is my data protected from another customer's data?
+### How Is My Data Protected from Another Customer's Data?
 
 All of our customers' data resides in the same database. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our customer data via software. We do our best and are very confident we're doing a good job at it, but, like every other web app that hosts their customers data on the same database, cannot guarantee that a sophisticated hacker cannot access other people's data.
 
-### How are you protecting my data from hacker attacks?
+### How Are You Protecting My Data from Hacker Attacks?
 
 Security is one of the main reasons we chose Amazon Web Services as the infrastructure provider for myBalsamiq. It has the best track record out there, look at [this article](http://money.cnn.com/2010/12/09/technology/amazon_wikileaks_attack/index.htm) for instance.
 
@@ -182,13 +182,13 @@ Our myBalsamiq service has never been compromised so far.
 
 Should our systems get compromised, we will replace the server(s) that have been hacked with new ones (we can do this with very few clicks). If this doesn't stop the attack, we'll shut down the service until we can fix the vulnerability. We will also hire experts to help us and verify that we're safe to resume service.
 
-### What should I do if I find a security vulnerability in myBalsamiq?
+### What Should I Do If I Find a Security Vulnerability in myBalsamiq?
 
 If you have discovered a security concern, please email us at [security@balsamiq.com](mailto:security@balsamiq.com). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@balsamiq.com](mailto:security@balsamiq.com) our highest priority, and work to address any issues that arise as quickly as possible.
 
 Please act in good faith towards our users’ privacy and data during your disclosure. We won’t take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
 
-### Can I run myBalsamiq on my own servers, behind the firewall?
+### Can I Run myBalsamiq on My Own Servers, behind the Firewall?
 
 Not at the moment, no. We offer other solutions (Mockups for Desktop, plugin versions) that allow you to keep your data on your servers. Compare our products [here](http://www.balsamiq.com/products).
 
@@ -196,7 +196,7 @@ Not at the moment, no. We offer other solutions (Mockups for Desktop, plugin ver
 
 ## Intellectual Property Rights
 
-### Who owns Balsamiq Materials?
+### Who Owns Balsamiq Materials?
 
 Balsamiq Materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on myBalsamiq produced by Balsamiq.
 
@@ -217,7 +217,7 @@ The trademarks, logos and service marks displayed on this Site are the property 
 *   The rights granted to you constitute a license and not a transfer of title.
 *   Any Balsamiq Materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
-### Who owns the IP of my wireframes and assets?
+### Who Owns the IP of My Wireframes and Assets?
 
 Balsamiq does not claim intellectual property rights over wireframes created on myBalsamiq nor the [project and account assets](/mybalsamiq/assets/) your users upload.
 
@@ -235,7 +235,7 @@ You are solely and entirely responsible for all of your user materials that you 
 
 ## Reliability
 
-### Do you guarantee that myBalsamiq will be accessible at all times?
+### Do You Guarantee That myBalsamiq Will Be Accessible at All Times?
 
 In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet. We do not offer contracted SLA for availability to myBalsamiq and your data.
 
@@ -249,13 +249,13 @@ You can see for yourself how we're doing on this front by looking at this [Pingd
 
 You acknowledge and agree that Balsamiq shall not be liable for any failure to store your materials on myBalsamiq at any time.
 
-### How is our data backed up?
+### How Is Our Data Backed Up?
 
 Your wireframe images are saved on [Amazon Simple Storage Service](http://aws.amazon.com/s3/), which provides an SLA of 99.999999999% durability and 99.99% availability of object over a given year ([link](http://aws.amazon.com/s3-sla/)).
 
 Your wireframe data, site settings and projects information are saved (unencrypted other than passwords) in our database, which runs on [Amazon RDS](http://aws.amazon.com/rds/). We have a real-time backup to a slave instance in a different availability zone (for added resilience) and we keep daily database snapshots of the last 3 days. Data is replicated in 3 different data centers.
 
-### How quickly can you recover from a data center disaster?
+### How Quickly Can You Recover from a Data Center Disaster?
 
 This depends on the scale of the disaster, of course.
 

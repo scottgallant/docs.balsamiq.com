@@ -46,7 +46,7 @@ You can use the same text formatting options we provide in Mockups!
 *   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
-*   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the # sign.
+*   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the pound sign.
 
 * * *
 
@@ -93,7 +93,7 @@ Depending on the permissions you have, the menu provides access to features incl
 
 ![](//media.balsamiq.com/img/support/docs/myb/project-mockupmenu.png)
 
-### Re-ordering Mockups
+### Re-Ordering Mockups
 
 Mockups can be arranged arbitrarily in whatever order makes sense for your project.
 

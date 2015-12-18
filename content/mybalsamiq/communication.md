@@ -28,7 +28,7 @@ For Map to work, users must enter their geographic location in the user settings
  Creates a new email message with your computer’s default mail application to the project email list. Every project member will receive the message.
 
 ---
-## Communication With One Project Team Member
+## Communication with One Project Team Member
 
 Hovering over a single user shows options for communicating with that one person directly via chat, voice, or email.
 

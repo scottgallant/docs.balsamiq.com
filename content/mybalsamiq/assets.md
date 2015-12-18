@@ -25,7 +25,7 @@ The Assets Manager dialog is show below. This screenshot was opened from a proje
 
 * * *
 
-## Assets in the Mockups editor
+## Assets in the Mockups Editor
 
 **Using Assets:** in the mockup editor you will find your images and symbols in the Project Assets and Site Assets tabs of the UI Library. Just double-click or drag-and-drop your selected asset to the canvas to use it. Mockups supports GIF, JPG/JPEG, and PNG image file formats.
 

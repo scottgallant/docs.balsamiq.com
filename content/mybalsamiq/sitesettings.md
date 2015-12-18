@@ -67,7 +67,7 @@ Please see the [instructions for managing your myBalsamiq subscription](http://s
 
 Site owners have access to 4 administrative functions:
 
-### 1\. Subscribing to get additional email notifications
+### 1\. Subscribing to Get Additional Email Notifications
 
 Admins may opt-in to see how many projects are getting created and everything else that’s going on in your site.
 
@@ -77,7 +77,7 @@ The site owner manages site settings, billing and plan information, invoices and
 
 If you ever need to change the site owner, use the Change Site Owner form, by selecting a new user from the drop down menu, and click the “Make this person the site owner” button.
 
-### 3\. Canceling your Site
+### 3\. Canceling Your Site
 
 If you need to cancel and delete your site, the site owner can do so by clicking the "Delete my myBalsamiq site now" button.
 
