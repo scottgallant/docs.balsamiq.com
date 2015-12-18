@@ -54,7 +54,7 @@ You can use the same text formatting options we provide in Mockups!
 *   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
-*   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the # sign.
+*   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the pound sign.
 
 * * *
 
@@ -93,7 +93,7 @@ You can use the same text formatting options we provide in Mockups!
 *   for bold, use \*this notation\*
 *   for disabled, use -this notation-
 *   for underlined, use &this notation&
-*   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the # sign.
+*   for color, use {color:#FF0000}this notation{color}. The #FF0000 is the color in HEX form, just like HTML. The macro will work with or without the pound sign.
 
 Your comment will be added, and will show other project members what version of the Mockup you commented on. Users can click the version number reference to see what Mockup the comment refers to—the Mockup image will be displayed in a lightbox.
 

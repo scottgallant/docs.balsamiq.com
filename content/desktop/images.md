@@ -16,7 +16,7 @@ There are multiple ways to add images to your mockups. The easiest way is to sim
 **Note:** To see how to use Assets in **myBalsamiq**, see [this article](/mybalsamiq/assets) in the myBalsamiq Documentation.
 </span>
 
-## Adding images in Mockups view
+## Adding Images in Mockups View
 
 As mentioned above, dragging an image from your computer to Balsamiq Mockups will add it to the canvas. Doing this will place the image into the selected mockup and copy the image file to your [Assets](#adding-images-in-assets-view) so that you can easily reuse it in other mockups.
 
@@ -53,7 +53,7 @@ Aside from the Image control, you can also embed images in the Cover Flow contro
 
 * * *
 
-## Adding images in Assets view
+## Adding Images in Assets View
 
 Balsamiq Mockups 3 has a dedicated area of the user interface for managing images, icons and other assets called the Assets view.
 
@@ -77,7 +77,7 @@ The [Properties panel](/desktop/overview/#the-properties-panel) on the right sho
 
 * * *
 
-## Adding non-image assets
+## Adding Non-Image Assets
 
 You can also store other types of files in your project that won't be used in your mockups, such as requirements documents, Photoshop or Illustrator files, PDFs, or any other file that's associated with the project. We call these "non-image assets" and they can be added to your project by dragging them into the Assets view, just like images. Common file types (zip, pdf, doc, etc.) will be shown with an appropriate logo, as shown below. Other files will be have a generic document icon.
 
@@ -91,24 +91,24 @@ These files can't be viewed inside the application, but they are "packaged" with
 
 * * *
 
-## Managing images and other assets
+## Managing Images and Other Assets
 
 As with the Mockups view, the Assets view has a [context menu](/desktop/overview/#context-menu-actions) that you can open by right-clicking in the navigator or using the drop-down arrow. This allows you to rename, delete, update, or download your images and other assets.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/assets-context-menu.png)
 
-### Renaming assets
+### Renaming Assets
 
 Renaming assets using the context menu will change the name of the asset in your project. It will not affect the original file, as the asset is a copy that has been added to your project. Renamed images will get updated in your mockups, so you don't need to update them manually.
 
-### Saving assets from your project to your computer
+### Saving Assets from Your Project to Your Computer
 
 You can get assets from your project on to your computer by using the "Save to Disk" option in the context menu, allowing you to extract assets from your project for other uses.
 
-### Replacing or updating assets
+### Replacing or Updating Assets
 
 The "Import New Version..." menu option allows you to select a new assets to replace the selected assets with. This is useful if you want to update an image that is already in use in your mockups, for example. The new version will then be used anywhere the selected image was used.
 
-### Deleting assets
+### Deleting Assets
 
 You can also use the context menu to delete assets from your project. Just like your mockups, deleting will move assets to the [trash](/desktop/intro/#trash), where you can delete them permanently or restore them. Note that deleting an image from the mockups canvas doesn't remove it from your project.

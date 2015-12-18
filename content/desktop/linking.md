@@ -36,14 +36,14 @@ The list is pre-populated with the names of the other mockups in the project. Se
 
 ---
 
-## Linking to A New Mockup
+## Linking to a New Mockup
 
 To link to a blank mockup that you haven't created yet, click "Link to a New Mockup" and a new mockup will be created and linked from the selected control.  Select "Link to a New Duplicate of This Mockup" to create a new mockup with the same content as the current mockup. A notification will be shown with the name of the new mockup. Clicking the notification will take you to that mockup. 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/linktonewmockup.png)
 
 ---
 
-## Linking to A Web Page
+## Linking to a Web Page
 
 You can also link to web URLs instead of other mockups, to show links to external sites or product pages. To do this, select the "Link to Web Address..." option from the drop-down and enter a web URL in the dialog that pops up.
 

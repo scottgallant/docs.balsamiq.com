@@ -9,7 +9,7 @@ weight: 130
 
 myBalsamiq uses email notifications to keep team members updated on changes to a site. Only people that belong to a project who have also confirmed their account after being added to a site will email get the notification. Read on to learn more.
 
-## Users decide when we should send an email notifications
+## Users Decide When We Should Send an Email Notifications
 
 Email notifications are an easy way to make sure your team stays up to date on the project's progress.
 
@@ -24,7 +24,7 @@ You will see little "notify members" checkboxes around the application. Other th
 ![](//media.balsamiq.com/img/support/docs/myb/notification_editor.png)
 
 ---
-## Each project has a mailing list
+## Each Project Has a Mailing List
 
 Whenever you create a myBalsamiq project, a mailing list will be automatically created for it as well.
 
@@ -33,13 +33,13 @@ Whenever you create a myBalsamiq project, a mailing list will be automatically c
 You can use this mailing list to email everyone who's on the project. In the future we will also make it so that emailing the mailing list adds a mockup or a comment automatically.
 
 ---
-## Site Owner notifications
+## Site Owner Notifications
 
 Site owners have the option option to be bcc:ed on all email notifications pertaining user invitations and project creation, archival and deletions. That's done in the [Site Settings](/mybalsamiq/sitesettings/#administration).
 
 ![](//media.balsamiq.com/img/support/docs/myb/notification_siteowner.png)
 
 ---
-## Problems receiving notifications?
+## Problems Receiving Notifications?
 
 Maybe the person you invited hasn't confirmed their account? If they haven't gotten an invitation by email, please check the FAQ on [troubleshooting email confirmation and notifications](http://support.balsamiq.com/customer/portal/articles/236482#troubleshoot) from myBalsamiq.

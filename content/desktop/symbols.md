@@ -19,7 +19,7 @@ In essence, Symbols let you create reusable common elements that you can use acr
 
 There are two ways to create a Symbol, described below.
 
-### 1\. Creating Symbols in the Mockups view
+### 1\. Creating Symbols in the Mockups View
 
 **Creating a Symbol in the Mockups view starts with grouping the set of controls that you want to become your Symbol.** You can create a new group or use a group you already have. The following steps assume you are creating a new group.
 
@@ -45,7 +45,7 @@ This new Symbol will be displayed in the Symbols category of the UI Library for 
 **Tip:** Once a Symbol has been created you can also add it via [Quick Add](/desktop/overview/#the-quick-add-tool) using the first few letters of its name, just like other controls.
 </span>
 
-### 2\. Using the Symbols view
+### 2\. Using the Symbols View
 
 New in Balsamiq Mockups 3 is a dedicated view for creating and managing Symbols. Symbols created using the Mockups view will be shown here, and you can also create Symbols in this view.
 
@@ -79,7 +79,7 @@ The icon at the top of the list of Symbols allows you to choose whether you want
 **Note:** The Symbol Library that a Symbol belongs to is ignored in the UI Library and Quick Add. You will see a list of all your Symbols, regardless of which Symbol Library they belong to.
 </span>
 
-### Creating Symbols in the Symbols view 
+### Creating Symbols in the Symbols View 
 
 Creating Symbols in Symbols view is similar to creating Symbols in Mockups view, except that you don't need to group them. Any controls you add to the Symbol become part of it immediately.
 
@@ -107,7 +107,7 @@ The imported Symbol will be created in a new Symbol Library.
 
 * * *
 
-## Using Symbols in your Mockups
+## Using Symbols in Your Mockups
 
 You can use Symbols just like any other control in Mockups. You can add them from the UI Library or Quick Add and move and arrange them with other controls in your mockups.
 
@@ -161,7 +161,7 @@ You can also revert all changes you made to a Symbol's instance at once, via the
 
 * * *
 
-## Using Symbols Across Projects 
+## Using Symbols across Projects 
 
 If you want to use the same Symbol in multiple projects, you can copy it to another project by dragging it from one project to another. You can also create a template project, described in [Using Symbols and Assets across Projects](http://support.balsamiq.com/customer/portal/articles/1634821).
 

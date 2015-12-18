@@ -112,7 +112,7 @@ To restore it to the top level, use Shift+Tab. The video below shows nesting moc
 
 <div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/WCbh2CpnWQo?rel=0"></iframe></div>
 
-### Context menu actions
+### Context Menu Actions
 
 A context menu is also available for the objects that are open in the navigator panel. You can either right-click on the selected object or click the small arrow that appears when you hover over it to open the menu.
 
@@ -136,7 +136,7 @@ The panel on the right side of the application (when shown) displays properties 
 
 * * *
 
-## Thumbnail Grid view
+## Thumbnail Grid View
 
 Clicking the icon to the right of the [navigator panel](#the-navigator-panel) toggle will switch to thumbnail grid view, shown here.
 

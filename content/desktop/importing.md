@@ -12,7 +12,7 @@ tags:
   - "Symbols"
 ---
 
-## Importing mockups from a previous version (BMML files)
+## Importing Mockups from a Previous Version (BMML Files)
 
 Balsamiq Mockups 3 uses a different file format from previous versions ([read more about it here](/desktop/intro/#projects)). You can import your old mockups in one of three formats:
 
@@ -38,7 +38,7 @@ If you have Symbols files created with a previous version of Balsamiq Mockups yo
 
 * * *
 
-## Importing mockups from another project
+## Importing Mockups from Another Project
 
 The easiest way to move or copy mockups from one project to another is to simply drag a mockup (using the [navigator panel](/desktop/overview/#the-navigator-panel)) from one project to another project. You can also select and copy controls on the canvas in one project and paste them into the canvas in another project.
 
@@ -46,6 +46,6 @@ Alternatively you can copy mockups from one project to another using the Import/
 
 * * *
 
-## Importing images
+## Importing Images
 
 To learn about importing images, see [Working with Images](/desktop/images/).

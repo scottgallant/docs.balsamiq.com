@@ -30,7 +30,7 @@ This can be useful when you already have content in your mockups but want to use
 
 * * *
 
-## Adding Notes to your Mockups, Symbols and Assets
+## Adding Notes to Your Mockups, Symbols and Assets
 
 When no controls are selected the Property Inspector shows notes for the selected mockup, asset, or Symbol. In the Mockups view the panel also shows [mockup alternates](/desktop/alternates/).
 

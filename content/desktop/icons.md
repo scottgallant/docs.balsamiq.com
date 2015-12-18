@@ -18,7 +18,7 @@ It should meet all your icon needs, but if not, you can [add your own icons](#ad
 
 Icons from previous versions of Balsamiq Mockups have been remapped to the new icons. Go [here to learn about using the old icons](/desktop/transition/#where-are-the-old-icons-can-i-still-use-them) in your Balsamiq Mockups 3 projects.
 
-## Adding icons via the UI Library and Quick Add
+## Adding Icons via the UI Library and Quick Add
 
 Also new in Balsamiq 3, icons now have their own category in the UI Library so you can drag and drop them just like any other control.
 
@@ -32,11 +32,11 @@ Icon search results are shown _below_ any UI controls that match the text you en
 
 * * *
 
-## Adding and swapping icons via the Property Inspector
+## Adding and Swapping Icons via the Property Inspector
 
 Some controls allow you to add icons to them (buttons, for example). You can do this from the [Property Inspector](/desktop/inspector/) in one of two ways: the icon search and the icon library dialog.
 
-### Icon search
+### Icon Search
 
 If the control you selected support icons, you will see the icon search box in the property inspector. This works much like [the Quick Add tool](/desktop/overview/#the-quick-add-tool), just type a few letters from the name of the icon you are looking for and a list of suggestions will pop up as a grid of icons to choose from. Just click on the one you want to select it.
 
@@ -44,7 +44,7 @@ If the control you selected support icons, you will see the icon search box in t
 
 You can then size the icon from "XS" (16px) to "XXL" (128px). You can also rotate icons in 90 degree increments using the button next to the search box.
 
-### The Icon library dialog
+### The Icon Library Dialog
 
 If you'd like to explore all the icons that are available, click on the icon to the right of the icon search box.
 
@@ -58,11 +58,11 @@ Once you have selected an icon, you can resize it, rotate it or remove it via th
 
 * * *
 
-## Adding your own custom icons
+## Adding Your Own Custom Icons
 
 You can also add your own icons for use in your wireframes.
 
-### Adding via the icon library dialog
+### Adding via the Icon Library Dialog
 
 There are two ways to add custom icons to Balsamiq Mockups. One way is via the icon library dialog.
 
@@ -84,7 +84,7 @@ The words you use in your filename after icon\_ are used as the searchable keywo
 
 * * *
 
-## Using an existing set of custom icons
+## Using an Existing Set of Custom Icons
 
 There are a few icon sets that complement the hand-drawn style of Mockups. This [blog entry at Tips Blogger](http://www.tipsblogger.com/2009/11/30-awesome-hand-drawnsketch-icon-sets/) lists some more hand drawn icon sets that might be useful for this feature.
 
@@ -94,7 +94,7 @@ To use those icon packs, just unzip the icon images and drag them into your Asse
 
 * * *
 
-## Best practices for creating or preparing custom icons
+## Best Practices for Creating or Preparing Custom Icons
 
 Mockups works with color and transparency, but icons you add may not turn out looking as you want them to if they're not prepared to work the way Mockups expects them to. Below are some tips to get the most out of your custom icons.
 

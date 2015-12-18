@@ -21,7 +21,7 @@ You can also watch this video [on our YouTube channel](http://www.youtube.com/wa
 
 * * *
 
-## A Note About Roles and Access
+## A Note about Roles and Access
 
 Many features of myBalsamiq are role-specific. Many of the instructions in this documentation are dependent upon permissions.
 

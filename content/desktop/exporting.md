@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:59:30+02:00
-title: "Exporting your Mockups"
+title: "Exporting Your Mockups"
 menu:
   menudesktop:
     parent: desktop
@@ -39,7 +39,7 @@ After exporting, a notification window will appear to show you where your PDF wa
 
 * * *
 
-## Exporting to an image
+## Exporting to an Image
 
 To save one or all of your mockups as image files choose one of the export to PNG commands from the Export menu. Export > Current Mockup to PNG... will save the selected mockup in PNG image format, while Export > All Mockups to PNG... will save all of the mockups in your project as separate image files. If you check the "Use Transparent Background" option the exported images will be transparent anywhere the canvas shows through in the mockup.
 
@@ -63,7 +63,7 @@ Balsamiq Mockups no longer supports printing directly to a printer. Instead you 
 
 * * *
 
-## Exporting mockups to another project
+## Exporting Mockups to Another Project
 
 You can copy mockups or Symbols across projects by dragging them from one project to another. Note that dragging mockups will only copy them, not remove them from the originating project.
 
@@ -71,7 +71,7 @@ Another method is to use the Import/Export Mockup JSON commands in the Project m
 
 * * *
 
-## Exporting for use in a previous version
+## Exporting for Use in a Previous Version
 
 You can also export your project for use in a previous version of Balsamiq Mockups or version that doesn't yet support the [new BMPR file format](/desktop/intro/#projects).
 
@@ -83,7 +83,7 @@ Selecting Export > Project to BMMLs ZIP... will save your mockups as a ZIP file 
 
 * * *
 
-## Exporting from other Balsamiq products
+## Exporting from Other Balsamiq Products
 
 If you're looking for export instructions for our plugins, including Google Drive, Confluence and JIRA, [see this FAQ page](http://support.balsamiq.com/customer/portal/articles/721932).
 
