@@ -270,9 +270,9 @@ body {
       margin: 0;
       padding-bottom: 12px;
       padding-top: 12px;
-      padding-left: 0;
       &#list {
        column-width: 400px;
+       padding-left: 0;
        li .ss-icon {
          color: $grayverydark;
        }
