@@ -7,7 +7,7 @@ menu:
 weight: 40
 ---
 
-Balsamiq Mockups is a user interface design tool for creating [wireframes](http://support.balsamiq.com/customer/portal/articles/880427 "What are wireframes?") (also called mockups or low-fidelity prototypes). You can use it to generate digital sketches of your product ideas to facilitate discussion and understanding before any code is written.
+Balsamiq Mockups is a user interface design tool for creating [wireframes](https://support.balsamiq.com/resources/whatarewireframes/) (also called mockups or low-fidelity prototypes). You can use it to generate digital sketches of your product ideas to facilitate discussion and understanding before any code is written.
 
 Each Balsamiq Mockups file (with a .bmpr file extension) represents one project and can contain many mockups and images, which are stored together in a single .bmpr file. Mockups for different projects should be created in separate Balsamiq Mockups files. To create a new project select Project > New Project from the menu.
 
@@ -22,7 +22,7 @@ The Balsamiq Mockups user interface is made up of five primary areas: the [toolb
 For documentation on the UI areas that are unique to myBalsamiq, check out the [myBalsamiq editor documentation](/mybalsamiq/editor/).
 
 <span class="alert alert-info show" role="alert">
-**Note:** You can watch a video covering basic usage of the application in our [Mockups Intro Video tutorial](http://support.balsamiq.com/customer/portal/articles/107966).
+**Note:** You can watch a video covering basic usage of the application in our [Mockups Intro Video tutorial](https://support.balsamiq.com/tutorials/introvideo/).
 </span>
 
 * * *
@@ -85,7 +85,7 @@ This is the main working area of Balsamiq Mockups, where your UI mockup comes to
 The mockup canvas grows and shrinks with your application window, so you can make room for bigger mockups if you need to.
 
 <span class="alert alert-info show" role="alert">
-**Note:** If you are working on a small screen or have very large mockups you might want to read [this article on hiding the panels to make more room for the canvas](http://support.balsamiq.com/customer/portal/articles/2038151).
+**Note:** If you are working on a small screen or have very large mockups you might want to read [this article on hiding the panels to make more room for the canvas](https://support.balsamiq.com/desktop/smallscreen/).
 </span>
 
 * * *

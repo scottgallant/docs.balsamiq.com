@@ -33,7 +33,7 @@ First, make sure you read and understand the introduction to Symbols in generalÂ
 **To upload a Symbols library created on the Desktop**
 
 *   Create your Symbols library file. Make sure your groups are named or they won't show up as Symbols.
-*   Click the [Assets](/mybalsamiq/assets/) link in the header on any view, and upload the file to either Project Assets to create a symbol library for the current project or Site Assets to create a symbol library that can be used by any project. _(Step-by-step instructions available in the following article: [How to Use an Existing File as a Symbol in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/1311321))_
+*   Click the [Assets](/mybalsamiq/assets/) link in the header on any view, and upload the file to either Project Assets to create a symbol library for the current project or Site Assets to create a symbol library that can be used by any project. _(Step-by-step instructions available in the following article: [How to Use an Existing File as a Symbol in myBalsamiq](https://support.balsamiq.com/tutorials/filesymbolmyb/))_
 
 * * *
 

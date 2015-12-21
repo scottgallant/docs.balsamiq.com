@@ -47,7 +47,7 @@ This also means that you can add your images to your mockups from the [Quick Add
 **Note:** You can delete an image by right-clicking on it in the UI Library and selecting "Move Image to Trash" or from the [context menu in the Assets view](#managing-images-and-other-assets).
 </span>
 
-The image properties panel also allows you to crop or mask images to only show a selected portion of them. You can [watch a tutorial on cropping images here](http://support.balsamiq.com/customer/portal/articles/1430586). Images that have been cropped will show an icon to remove the cropping in the properties panel.
+The image properties panel also allows you to crop or mask images to only show a selected portion of them. You can [watch a tutorial on cropping images here](https://support.balsamiq.com/tutorials/croptool/). Images that have been cropped will show an icon to remove the cropping in the properties panel.
 
 Aside from the Image control, you can also embed images in the Cover Flow control.
 
