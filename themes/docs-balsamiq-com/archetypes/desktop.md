@@ -1,7 +1,7 @@
 ---
 date:
 menu:
-  menumybalsamiq:
+  menudesktop:
     parent: desktop
 title:
 weight: 0

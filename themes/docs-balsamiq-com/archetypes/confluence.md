@@ -1,7 +1,7 @@
 ---
 date:
 menu:
-  menumybalsamiq:
+  menuconfluence:
     parent: confluence
 title:
 weight: 0
