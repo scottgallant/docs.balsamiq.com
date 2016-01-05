@@ -371,6 +371,10 @@ body {
       .section-next {
         text-align: right;
       }
+      @include fontsize(14,14);
+      .pager li > a {
+        margin-bottom: 12px;
+      }
     }
   // ========================================
   }
