@@ -12,7 +12,7 @@ weight: 20
 
 The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](http://balsamiq.com/products/mockups/confluence) **when installed on your own server**.
 
-Instructions for Atlassian Cloud are [here](http://support.balsamiq.com/customer/portal/articles/223421).
+Instructions for Atlassian Cloud are [here]https://support.balsamiq.com/sales/atlassiancloud/).
 
 Usage instructions for the plugin are [here](/confluence/user-guide).
 
@@ -38,7 +38,7 @@ You will then begin a 30-day trial evaluation of Mockups for Confluence.
 
 ## Registration Instructions
 
-Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](http://support.balsamiq.com/customer/portal/articles/542517) first.
+Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](https://support.balsamiq.com/sales/marketplace/) first.
 
 To register the plugin, go to the Confluence Administration page. Select "Manage new add-ons" and search for Balsamiq Mockups for Confluence.
 
@@ -66,9 +66,9 @@ This is what you'll see if you have a license you purchased from Balsamiq but se
 
 ![](//media.balsamiq.com/img/support/docs/confluence/adminguide/cfg_010.png)
 
-If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645) may help.
+If you receive an error when registering, [this FAQ](https://support.balsamiq.com/plugins/failedtovalidatelicense/) may help.
 
-UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](http://support.balsamiq.com/customer/portal/articles/1044360)
+UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](https://support.balsamiq.com/plugins/atlassianlicensenotshowing/)
 
 * * *
 
@@ -86,7 +86,7 @@ You can add and remove users to this group whenever you like, just make sure you
 
 If instead you bought an unlimited version of the plugin, everyone will be able to create and edit mockups.
 
-Using both Mockups for Confluence and Mockups for JIRA? Please see [this article](http://support.balsamiq.com/customer/portal/articles/181685) as well.
+Using both Mockups for Confluence and Mockups for JIRA? Please see [this article](https://support.balsamiq.com/plugins/atlassiancloudandldap/) as well.
 
 * * *
 
@@ -94,7 +94,7 @@ Using both Mockups for Confluence and Mockups for JIRA? Please see [this article
 
 Click on the Update button on your UPM to download and install the latest version of the plugin.
 
-If you are running an old version of Confluence and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](http://support.balsamiq.com/customer/portal/articles/1036201) page.
+If you are running an old version of Confluence and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](https://support.balsamiq.com/sales/atlassianeol/) page.
 
 * * *
 

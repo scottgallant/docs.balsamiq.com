@@ -88,7 +88,7 @@ The words you use in your filename after icon\_ are used as the searchable keywo
 
 There are a few icon sets that complement the hand-drawn style of Mockups. This [blog entry at Tips Blogger](http://www.tipsblogger.com/2009/11/30-awesome-hand-drawnsketch-icon-sets/) lists some more hand drawn icon sets that might be useful for this feature.
 
-Some icon designers have even started creating icon packs that are compatible with our naming scheme. Here's [a list of the ones we know about](http://support.balsamiq.com/customer/portal/articles/135659#icons).
+Some icon designers have even started creating icon packs that are compatible with our naming scheme. Here's [a list of the ones we know about](https://support.balsamiq.com/resources/extensions/#custom-icon-packs).
 
 To use those icon packs, just unzip the icon images and drag them into your Assets [as described above](#adding-via-assets). If you are using myBalsamiq, upload the icon files via the Assets dialog there.
 

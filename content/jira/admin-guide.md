@@ -11,7 +11,7 @@ weight: 20
 
 This page contains installation, registration, updating and uninstalling instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira) **when installed on your own server**.
 
-Instructions for Atlassian Cloud are [here](http://support.balsamiq.com/customer/portal/articles/223421).
+Instructions for Atlassian Cloud are [here]https://support.balsamiq.com/sales/atlassiancloud/).
 
 Usage instructions for the plugin are [here](/jira/user-guide/).
 
@@ -36,7 +36,7 @@ You will then begin a 30-day trial evaluation of Mockups for JIRA.
 
 ## Registration Instructions
 
-Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](http://support.balsamiq.com/customer/portal/articles/542517) first.
+Please make sure you read the [Balsamiq and Atlassian Marketplace FAQ](https://support.balsamiq.com/sales/marketplace/) first.
 
 To register the plugin, go to the JIRA Administration page. Select "Manage new add-ons" and search for Balsamiq Mockups for JIRA.
 
@@ -60,7 +60,7 @@ This is what you'll see if you have installed a license you purchase via Atlassi
 
 ![](//media.balsamiq.com/img/support/docs/jira/adminguide/cfg_marketplace.png)
 
-If you receive an error when registering, [this FAQ](http://support.balsamiq.com/customer/portal/articles/569645-%22failed-to-validate-your-plugin-license-%22-or-%22your-add-on-license-is-invalid-%22-error-when-registering-mockups-for-confluence-or-jira) may help.
+If you receive an error when registering, [this FAQ](https://support.balsamiq.com/plugins/failedtovalidatelicense/) may help.
 
 * * *
 
@@ -78,7 +78,7 @@ In short: if your plugin license is lower than your JIRA license, you'll have to
 
 If instead you bought an unlimited version of the plugin, everyone will be able to create and edit mockups. If you'd like to limit this ability to a group of users, create a balsamiq-mockups-editors group and add people to it. If the group exists, the plugin will honor it. If not, it will act as if you had a group with everyone in it.
 
-Using both Mockups for Confluence and Mockups for JIRA? Please see [this article](http://support.balsamiq.com/customer/portal/articles/181685) as well.
+Using both Mockups for Confluence and Mockups for JIRA? Please see [this article](https://support.balsamiq.com/plugins/atlassiancloudandldap/) as well.
 
 * * *
 
@@ -86,7 +86,7 @@ Using both Mockups for Confluence and Mockups for JIRA? Please see [this article
 
 Installing via UPM automatically replaces the old plugin with the new version.
 
-If you are running an old version of JIRA and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](http://support.balsamiq.com/customer/portal/articles/1036201#m4j) page.
+If you are running an old version of JIRA and want to figure out which version of the plugin to update to, head to the [Support End of Life Policy](https://support.balsamiq.com/sales/atlassianeol/) page.
 
 * * *
 

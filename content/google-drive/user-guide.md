@@ -19,12 +19,12 @@ This guide is split into three main sections:
 
 ## Getting Started
 
-For a quick overview before diving in [check out this 5 minute video](http://support.balsamiq.com/customer/portal/articles/1559727) covering the main features of Balsamiq Mockups for Google Drive or find out [what's new in Balsamiq Mockups 3 for Google Drive](http://support.balsamiq.com/customer/portal/articles/1597488).
+For a quick overview before diving in [check out this 5 minute video](https://support.balsamiq.com/plugins/introtogoogledrive/) covering the main features of Balsamiq Mockups for Google Drive or find out [what's new in Balsamiq Mockups 3 for Google Drive](https://support.balsamiq.com/plugins/newingoogledrive/).
 
 If you have questions about purchasing or your subscription you might want to check out these articles instead:
 
-*   [Managing your Mockups for Google Drive subscription](http://support.balsamiq.com/customer/portal/articles/1550556)
-*   [Mockups for Google Drive Purchasing FAQs](http://support.balsamiq.com/customer/portal/articles/1144377)
+*   [Managing your Mockups for Google Drive subscription](https://support.balsamiq.com/sales/gdrivesubscription/)
+*   [Mockups for Google Drive Purchasing FAQs](https://support.balsamiq.com/sales/gdrive/)
 
 * * *
 
@@ -52,9 +52,9 @@ To do this go to the Google Drive settings (inside the gear icon menu in the upp
 
 ## Purchasing
 
-Feel free to take advantage of the **fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](/desktop/fullscreen/), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
+Feel free to take advantage of the **fully-functional [30-day trial](https://support.balsamiq.com/sales/evaluate/)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](/desktop/fullscreen/), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
 
-Monthly and yearly subscriptions are available. Details on [how to sign up for and manage your paid plan are here](http://support.balsamiq.com/customer/portal/articles/1550556) (_Short version:_ Go to "Help > Sign Up for a Paid Plan" in the editor).
+Monthly and yearly subscriptions are available. Details on [how to sign up for and manage your paid plan are here](https://support.balsamiq.com/sales/gdrivesubscription/) (_Short version:_ Go to "Help > Sign Up for a Paid Plan" in the editor).
 
 * * *
 
@@ -137,7 +137,7 @@ Wireframes created with Mockups for Google Drive are saved as .bmpr files that c
 
 ![Share menu](//media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing02.png)
 
-If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](http://support.balsamiq.com/customer/portal/articles/1021056)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
+If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](https://support.balsamiq.com/plugins/sharingwithgoogledrive/)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
 
 <span class="alert alert-info show" role="alert">
 **Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.

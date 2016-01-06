@@ -223,7 +223,7 @@ To export a project, select Export PDF... from the Edit Menu, and then select yo
 ![](//media.balsamiq.com/img/support/docs/myb/project-clone.png)
 
 **Archive Project**
- Moves the project to the archives, where it will be inactive unless un-archived. Archived projects don't count towards your plan. Archiving old projects allows you to create new projects without needing to [upgrade your plan](http://support.balsamiq.com/customer/portal/articles/1397041#updatingplan). You will not be able to view the project while it is archived.
+ Moves the project to the archives, where it will be inactive unless un-archived. Archived projects don't count towards your plan. Archiving old projects allows you to create new projects without needing to [upgrade your plan](https://support.balsamiq.com/sales/mybsubscriptions/#changing-your-plan). You will not be able to view the project while it is archived.
 
 Only the site owner and the project owner are able to archive projects, and only the site owner and the person who archived a project are able to un-archive it.
 
