@@ -95,7 +95,7 @@ When you create a new Symbol Library two sample Symbols are created automaticall
 
 ## Importing Symbols
 
-In addition to creating Symbols from scratch, you can import Symbols created in a previous version of Balsamiq Mockups. Click the Import Symbol Library button to open a dialog for importing Mockups files in BMML format (the format used in [Mockups To Go](http://support.balsamiq.com/customer/portal/articles/131430), for example).
+In addition to creating Symbols from scratch, you can import Symbols created in a previous version of Balsamiq Mockups. Click the Import Symbol Library button to open a dialog for importing Mockups files in BMML format (the format used in [Mockups To Go](https://support.balsamiq.com/resources/mockupstogo/), for example).
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/symbols3.png)
 
@@ -163,7 +163,7 @@ You can also revert all changes you made to a Symbol's instance at once, via the
 
 ## Using Symbols across Projects 
 
-If you want to use the same Symbol in multiple projects, you can copy it to another project by dragging it from one project to another. You can also create a template project, described in [Using Symbols and Assets across Projects](http://support.balsamiq.com/customer/portal/articles/1634821).
+If you want to use the same Symbol in multiple projects, you can copy it to another project by dragging it from one project to another. You can also create a template project, described in [Using Symbols and Assets across Projects](https://support.balsamiq.com/desktop/accountassets/).
 
 * * *
 

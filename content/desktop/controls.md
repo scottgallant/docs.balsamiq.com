@@ -42,7 +42,7 @@ To select a control that is behind another control, right-click on the top contr
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
 
 <span class="alert alert-info show" role="alert">
-**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](http://support.balsamiq.com/customer/portal/articles/107987).
+**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](https://support.balsamiq.com/tutorials/controls/).
 </span>
 
 
@@ -122,7 +122,7 @@ _Some_ of our UI controls can be rotated via the [Property Inspector](/desktop/i
 
 The reason we don't support rotating all controls because we believe that in 90% of cases, it is not needed in wireframes. In fact, adding the ability to rotate any control will likely result in wireframes that are very hard if not impossible to implement by the development team.
 
-If you feel that you need to rotate any other control, let us know on [this forum thread](http://forums.balsamiq.com/t/feature-request-rotate-any-shape-by-any-degree/1132) and we'll discuss whether to add it together. A workaround would be to rotate a control in a drawing application and then [import it as an image](/desktop/images/).
+If you feel that you need to rotate any other control, let us know on [this forum thread](https://forums.balsamiq.com/t/feature-request-rotate-any-shape-by-any-degree/1132) and we'll discuss whether to add it together. A workaround would be to rotate a control in a drawing application and then [import it as an image](/desktop/images/).
 
 * * *
 

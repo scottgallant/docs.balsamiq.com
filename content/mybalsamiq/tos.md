@@ -59,13 +59,13 @@ If you think we removed your access by mistake, [get in touch](mailto:sales@bals
 
 ## Support
 
-Support for myBalsamiq is provided via our Community Forums at [forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [support.balsamiq.com](http://support.balsamiq.com)
+Support for myBalsamiq is provided via our Community Forums at [forums.balsamiq.com](https://forums.balsamiq.com) as well via our support portal at [support.balsamiq.com](https://support.balsamiq.com)
 
 Email and phone support is also included, but is **only provided to myBalsamiq site owners**. If you have an issue with your myBalsamiq site, contact your site owner first, via their email address if you know it, or the owner@_&lt;your mybalsamiq subdomain&gt;_.mybalsamiq.com email alias.
 
 If you are a site owner, you can customize your myBalsamiq subdomain and upload your logo to your myBalsamiq site. As a site owner, you invite staffers and they can invite project members. You as a site owner are responsible for first-level support to the people you and your site's staff members invite.
 
-We also continuously update the [myBalsamiq Documentation](http://support.balsamiq.com/customer/portal/topics/51252) so that users can help themselves and site owners are better equipped to help their users.
+We also continuously update the [myBalsamiq Documentation](/mybalsamiq/) so that users can help themselves and site owners are better equipped to help their users.
 
 We take pride in providing excellent customer support, but we are also a small team and value our work/life balance. This means that although we'll try our best, **we do not guarantee 24 / 7 support**.
 
@@ -102,7 +102,7 @@ If you forget your password, we send you a secure link via email that lets you r
 
 User management is done inside myBalsamiq, we don't have LDAP or OAuth integration at the moment. Site owners can assign passwords to staff and project members.
 
-Balsamiq staff will never change a password for you, nor change the site owner. Here's an article that describes how you can [change the site owner of a myBalsamiq site yourself](http://support.balsamiq.com/customer/portal/articles/835846).
+Balsamiq staff will never change a password for you, nor change the site owner. Here's an article that describes how you can [change the site owner of a myBalsamiq site yourself](https://support.balsamiq.com/mybalsamiq/siteownerleft/).
 
 ### Who Can See My Credit Card Number?
 
@@ -118,7 +118,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 You can access all your personally identifiable information that we collect online and maintain by logging in to any myBalsamiq site you have access to and visiting the settings pages.
 
-You can download your projects' data at any time in a simple ZIP format containing [BMML files](http://support.balsamiq.com/customer/portal/articles/111834) and images.
+You can download your projects' data at any time in a simple ZIP format containing BMML files and images.
 
 You can delete your user account or site at any time. We keep your data around for at least 1 month and at the most 9 months, so that we can recover it if you deleted your site by mistake.
 

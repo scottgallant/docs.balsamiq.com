@@ -51,7 +51,7 @@ Invited staff members will appear on the right side of the Add Staff Members sec
 
 ## Desktop Licenses
 
-Please see the [myBalsamiq and Mockups for Desktop](http://support.balsamiq.com/customer/portal/articles/232919) article for details.
+Please see the [myBalsamiq and Mockups for Desktop](https://support.balsamiq.com/mybalsamiq/mybanddesktop/) article for details.
 
 * * *
 
@@ -59,7 +59,7 @@ Please see the [myBalsamiq and Mockups for Desktop](http://support.balsamiq.com/
 
 Site owners and [secondary billing administrators](#4-designating-a-secondary-billing-administrator) are able to sign up for plans that suit their company needs, and upgrade or downgrade their plan at any time as their needs change. When upgrading or downgrading, sites will automatically receive credit for any time remaining on the old plan level.
 
-Please see the [instructions for managing your myBalsamiq subscription](http://support.balsamiq.com/customer/portal/articles/1397041) for details.
+Please see the [instructions for managing your myBalsamiq subscription](https://support.balsamiq.com/sales/mybsubscriptions/) for details.
 
 * * *
 
@@ -83,7 +83,7 @@ If you need to cancel and delete your site, the site owner can do so by clicking
 
 Once your site is deleted, we'll stop charging you and prevent users from logging in to it.
 
-If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Cancel Subscription" in your [payment settings](http://support.balsamiq.com/customer/portal/articles/1397041#stopping). Once your current paid period is over your site will be suspended.
+If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Cancel Subscription" in your [payment settings](https://support.balsamiq.com/sales/mybsubscriptions/#stopping-your-subscription. Once your current paid period is over your site will be suspended.
 
 <span class="alert alert-warning show" role="alert">
 **Be sure to [download](/mybalsamiq/project/#project-actions) any projects you would like to keep before deleting your site or stopping your subscription.**
@@ -93,7 +93,7 @@ Your site data is kept in our database for one month after deletion or suspensio
 
 ### 4\. Designating a Secondary Billing Administrator
 
-Site owners can designate another [staff member](/mybalsamiq/sitesettings/#staff-members) as a "Secondary Billing Administrator."  The secondary billing administrator can access the Payment Info page of the Site Settings and [manage all billing aspects](http://support.balsamiq.com/customer/portal/articles/1397041-managing-your-mybalsamiq-subscription) of the myBalsamiq site.
+Site owners can designate another [staff member](/mybalsamiq/sitesettings/#staff-members) as a "Secondary Billing Administrator."  The secondary billing administrator can access the Payment Info page of the Site Settings and [manage all billing aspects](https://support.balsamiq.com/sales/mybsubscriptions/) of the myBalsamiq site.
 
 You can select any existing staff member from the drop down menu on the Payment Info page. The secondary billing administrator can be removed or changed at any time by the site owner.
 

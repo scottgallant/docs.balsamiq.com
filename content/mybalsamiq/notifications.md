@@ -42,4 +42,4 @@ Site owners have the option option to be bcc:ed on all email notifications perta
 ---
 ## Problems Receiving Notifications?
 
-Maybe the person you invited hasn't confirmed their account? If they haven't gotten an invitation by email, please check the FAQ on [troubleshooting email confirmation and notifications](http://support.balsamiq.com/customer/portal/articles/236482#troubleshoot) from myBalsamiq.
+Maybe the person you invited hasn't confirmed their account? If they haven't gotten an invitation by email, please check the FAQ on [troubleshooting email confirmation and notifications](https://support.balsamiq.com/mybalsamiq/confirmationemail/#troubleshooting) from myBalsamiq.

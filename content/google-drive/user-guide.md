@@ -19,12 +19,12 @@ This guide is split into three main sections:
 
 ## Getting Started
 
-For a quick overview before diving in [check out this 5 minute video](http://support.balsamiq.com/customer/portal/articles/1559727) covering the main features of Balsamiq Mockups for Google Drive or find out [what's new in Balsamiq Mockups 3 for Google Drive](http://support.balsamiq.com/customer/portal/articles/1597488).
+For a quick overview before diving in [check out this 5 minute video](https://support.balsamiq.com/plugins/introtogoogledrive/) covering the main features of Balsamiq Mockups for Google Drive or find out [what's new in Balsamiq Mockups 3 for Google Drive](https://support.balsamiq.com/plugins/newingoogledrive/).
 
 If you have questions about purchasing or your subscription you might want to check out these articles instead:
 
-*   [Managing your Mockups for Google Drive subscription](http://support.balsamiq.com/customer/portal/articles/1550556)
-*   [Mockups for Google Drive Purchasing FAQs](http://support.balsamiq.com/customer/portal/articles/1144377)
+*   [Managing your Mockups for Google Drive subscription](https://support.balsamiq.com/sales/gdrivesubscription/)
+*   [Mockups for Google Drive Purchasing FAQs](https://support.balsamiq.com/sales/gdrive/)
 
 * * *
 
@@ -52,9 +52,9 @@ To do this go to the Google Drive settings (inside the gear icon menu in the upp
 
 ## Purchasing
 
-Feel free to take advantage of the **fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](/desktop/fullscreen/), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
+Feel free to take advantage of the **fully-functional [30-day trial](https://support.balsamiq.com/sales/evaluate/)** period before purchasing a subscription. After 30 days you will still be able to view existing mockups in [presentation mode](/desktop/fullscreen/), but you will not be able to edit or create new mockups unless you sign up for a paid plan.
 
-Monthly and yearly subscriptions are available. Details on [how to sign up for and manage your paid plan are here](http://support.balsamiq.com/customer/portal/articles/1550556) (_Short version:_ Go to "Help > Sign Up for a Paid Plan" in the editor).
+Monthly and yearly subscriptions are available. Details on [how to sign up for and manage your paid plan are here](https://support.balsamiq.com/sales/gdrivesubscription/) (_Short version:_ Go to "Help > Sign Up for a Paid Plan" in the editor).
 
 * * *
 
@@ -75,61 +75,9 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 
 * * *
 
-## Inside the Balsamiq Mockups Editor 
+## Using the Balsamiq Mockups Editor 
 
 The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](/desktop/overview/) may be helpful if you have any questions after reading the instructions below.
-
-* * *
-
-## Adding New Mockups to Your Project
-
-When you create a new Balsamiq Mockups project your project will contain one mockup by default (called "New Mockup 1"). You can add as many additional mockups as you like to your project by clicking "Project > New Mockup" in the menu (or by cloning the current mockup, described [below](#deleting-and-cloning-mockups)).
-
-* * *
-
-## Naming and Renaming
-
-All projects and mockups are given default names when created. The default name for a Balsamiq Mockups project in Google Drive is "NewProject" and the default name for a mockup is "New Mockup 1". This can soon get confusing so it is a good habit to **rename your projects and mockups as you create them**. The **Project menu** contains actions for renaming the project and the mockups inside it.
-
-![The project menu](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_top.png)
-
-You can also rename your mockups via the **drop-down menu in the Project Browser** (on the left edge of the screen).
-
-![Project Browser drop-down menu](//media.balsamiq.com/img/support/docs/m4d/b3/mockup-context-menu.png)
-
-* * *
-
-## Deleting and Cloning Mockups
-
-The **Project Browser drop-down menu** also contains actions for deleting and cloning (creating a duplicate of) the selected mockup. The clone action is also available in the **Project menu** (see the screenshots above).
-
-* * *
-
-## Exporting Your Mockups
-
-Just like the other versions of Mockups, you can export your wireframes to PDF, PNG images, or as text (for importing into another version of Mockups). These options can be found in the **Project menu**. For more details see [this article on exporting in the desktop version](/desktop/exporting/).
-
-![Export options](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)
-
-To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporting-to-other-versions-of-balsamiq-mockups)
-
-* * *
-
-## Symbols and Project Assets
-
-Reusable Symbols (also called templates, masters, etc.) are supported in Mockups for Google Drive. To create a new Symbol, follow [these instructions](/desktop/symbols/) or choose "New Symbol Library" from the Project menu.
-
-To **import existing Symbols** (from [Mockups To Go](https://mockupstogo.mybalsamiq.com/), for example) see [this article on importing Symbols in the desktop documentation](/desktop/symbols/#importing-symbols). You can then double-click or drag from the UI Library to add them to any mockup in your project.
-
-![Symbols UI Library category](//media.balsamiq.com/img/support/docs/m4d/b3/symbols-uilibrary.png)
-
-To import images go to the "Project > Import" menu and choose "Assets...". You can then manage your images in the [Assets view](/desktop/images/#adding-images-in-assets-view) using the navigator icon.
-
-![Assets UI Library category](//media.balsamiq.com/img/support/docs/m4d/b3/assets-uilibrary.png)
-
-You can view and edit your Symbols by going to the [Symbols view](/desktop/symbols/#2-using-the-symbols-view) using the navigator icon.
-
-![Symbols view](//media.balsamiq.com/img/support/docs/m4d/b3/symbols1.png)
 
 * * *
 
@@ -189,7 +137,7 @@ Wireframes created with Mockups for Google Drive are saved as .bmpr files that c
 
 ![Share menu](//media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing02.png)
 
-If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](http://support.balsamiq.com/customer/portal/articles/1021056)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
+If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](https://support.balsamiq.com/plugins/sharingwithgoogledrive/)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
 
 <span class="alert alert-info show" role="alert">
 **Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.
