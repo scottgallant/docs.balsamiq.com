@@ -17,16 +17,9 @@ JIRA Cloud Administrators: the [Mockups for JIRA Cloud Admin Guide](/jira/admin-
 
 * * *
 
-## Getting Started
+Balsamiq Mockups for JIRA provides very similar functionality to as Balsamiq Mockups for Desktop.
 
-Balsamiq Mockups for JIRA provides very similar functionality to as Balsamiq Mockups for Desktop. The difference is that the Balsamiq project files are stored and managed as JIRA Cloud attachments.
-
-For a quick overview before diving in, check out this 5 minute video covering the main features for JIRA Cloud or find out what’s new in Balsamiq Mockups for JIRA Cloud (TODO).
-
-If you have questions about purchasing or your subscription you might want to check out these articles instead:
-
-* Managing your Mockups for JIRA Cloud subscription.
-* Mockups for JIRA Cloud Purchasing FAQs
+The main difference is that the Balsamiq project files are stored and managed as JIRA Cloud attachments.
 
 ## Adding a New Project to a JIRA Issue
 
@@ -42,7 +35,7 @@ If you do not see the link, please check with your JIRA Cloud administrator that
 
 ## Using the Balsamiq Mockups Editor
 
-The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the Desktop application overview may be helpful if you have any questions after reading the instructions below.
+The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](/desktop/overview/) may be helpful if you have any questions after reading the instructions below.
 
 * * *
 
@@ -59,15 +52,17 @@ The other connected users will be shown in the top right of the screen. Hovering
 
 ## Importing from Other Versions of Balsamiq Mockups
 
-If you have a project created in Balsamiq Mockups 3 for Desktop (with a .bmpr extension) you can just attach the file to the JIRA issue, refresh the page in order to let the Balsamiq Mockups panel appear (see below) and edit it directly.
+If you have a project created in Balsamiq Mockups 3 for Desktop (with a .bmpr extension) you can just attach the file to the JIRA issue, refresh the page in order to let the Balsamiq Mockups panel appear ([see below](#using-the-balsamiq-mockups-panel)) and edit it directly.
 
-If you want to open a project containing .bmml files (Balsamiq Mockups version 2) go to the “Project > Import ” menu. You will have the option to import mockups from a .zip file, or from individual mockups or symbols. You can find more information in the desktop documentation for importing.
+If you want to open a project containing .bmml files (Balsamiq Mockups version 2) go to the “Project > Import ” menu. You will have the option to import mockups from a .zip file, or from individual mockups or symbols. You can find more information in the [desktop documentation for importing](/desktop/importing/).
 
 * * *
 
 ## Exporting to Other Versions of Balsamiq Mockups
 
 To use your project in Balsamiq Mockups 3 for Desktop all you need to do is download it and open it using the Desktop version. To do this go to "Project > Download Project BMPR". This will create a .bmpr to download containing all the mockups, Symbols, and images used in the current project.
+
+![](//media.balsamiq.com/img/support/docs/jira/userguidecloud/downloadbmpr.png)
 
 To use your project in an earlier version of Balsamiq Mockups you can export the entire project as a .zip file. To do this go to “Project > Export > Project to BMMLs ZIP…”. This will create a .zip file for you to download containing all the mockups, Symbols, and images in the current project.
 
@@ -79,7 +74,7 @@ All the changes made on your project in the editor are always autosaved and visi
 
 However the changes made in editing mode (i.e. inside the Balsamiq editor) will not be flushed to the official version that's attached to the JIRA issue until the project is expressly saved.
 
-This can be done by selecting the “Save” command in the "Project" menu or by simply closing the editor.
+This can be done by selecting the “Save” command in the "Project" menu or by simply [closing the editor](#returning-to-jira-closing-the-editor).
 
 ![](//media.balsamiq.com/img/support/docs/jira/userguidecloud/saving.png)
 
@@ -87,7 +82,7 @@ This can be done by selecting the “Save” command in the "Project" menu or by
 
 ## Returning to JIRA (Closing the Editor)
 
-When you are done editing your mockups you can exit the editor by selecting “Quit” in the "Project" menu. This will also save the current project and update the version that will be now visible on the Balsamiq Mockups Panel.
+When you are done editing your mockups you can exit the editor by selecting “Quit” in the "Project" menu. This will also save the current project and update the version that will be now visible on the [Balsamiq Mockups Panel](#using-the-balsamiq-mockups-panel).
 
 ![](//media.balsamiq.com/img/support/docs/jira/userguidecloud/quit.png)
 
@@ -107,7 +102,7 @@ A variety of actions are available from the Balsamiq Mockups Panel.
 
 ## Full Screen Presentation
 
-Balsamiq Mockups includes a full screen presentation mode for presenting your wireframes to stakeholders or usability testing.
+Balsamiq Mockups includes a [full screen presentation mode](/desktop/fullscreen/) for presenting your wireframes to stakeholders or usability testing.
 
 There are two ways to access the presentation mode from the panel.
 
