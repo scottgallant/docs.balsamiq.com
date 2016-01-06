@@ -59,7 +59,7 @@ If you think we removed your access by mistake, [get in touch](mailto:sales@bals
 
 ## Support
 
-Support for myBalsamiq is provided via our Community Forums at [forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [support.balsamiq.com](https://support.balsamiq.com)
+Support for myBalsamiq is provided via our Community Forums at [forums.balsamiq.com](https://forums.balsamiq.com) as well via our support portal at [support.balsamiq.com](https://support.balsamiq.com)
 
 Email and phone support is also included, but is **only provided to myBalsamiq site owners**. If you have an issue with your myBalsamiq site, contact your site owner first, via their email address if you know it, or the owner@_&lt;your mybalsamiq subdomain&gt;_.mybalsamiq.com email alias.
 
