@@ -12,7 +12,7 @@ weight: 20
 
 The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](http://balsamiq.com/products/mockups/confluence) **when installed on your own server**.
 
-Instructions for Atlassian Cloud are [here]https://support.balsamiq.com/sales/atlassiancloud/).
+Instructions for Atlassian Cloud are [here](https://support.balsamiq.com/sales/atlassiancloud/).
 
 Usage instructions for the plugin are [here](/confluence/user-guide).
 
