@@ -1,7 +1,7 @@
 ---
 date:
 menu:
-  menumybalsamiq:
+  menujira:
     parent: jira
 title:
 weight: 0
