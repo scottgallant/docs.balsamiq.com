@@ -9,7 +9,7 @@ weight: 20
 
 ## Welcome
 
-This page contains installation, registration, updating and uninstalling instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira) **when installed on your own server**.
+This page contains installation, registration, updating and uninstalling instructions for [Mockups for JIRA](https://balsamiq.com/products/mockups/jira) **when installed on your own server**.
 
 Instructions for Atlassian Cloud are [here]https://support.balsamiq.com/sales/atlassiancloud/).
 

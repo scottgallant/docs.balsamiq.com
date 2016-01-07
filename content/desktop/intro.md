@@ -26,7 +26,7 @@ Here's a quick 5-minute video walkthrough of some of the highlights of version 3
 
 ## How to Update
 
-Balsamiq Mockups 3 is now the current version of our desktop product and is available from our [**download page**](http://balsamiq.com/download/). It's a free update for existing customers, you won't even need to re-register.
+Balsamiq Mockups 3 is now the current version of our desktop product and is available from our [**download page**](https://balsamiq.com/download/). It's a free update for existing customers, you won't even need to re-register.
 
 Balsamiq Mockups 3 will run side-by-side with Balsamiq Mockups 2 (as a separate application) so no need to uninstall your current version to use it. See below for [how to import existing files](#importing-existing-files).
 

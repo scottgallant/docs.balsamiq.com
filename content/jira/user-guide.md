@@ -9,7 +9,7 @@ weight: 10
 
 ## Welcome to the Online Help of Mockups for JIRA
 
-This page contains usage instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira).
+This page contains usage instructions for [Mockups for JIRA](https://balsamiq.com/products/mockups/jira).
 
 JIRA Administrators: the [Mockups for JIRA Admin Guide](/jira/admin-guide) is for you.
 

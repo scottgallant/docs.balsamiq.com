@@ -82,7 +82,7 @@ Web addresses:
 	[Balsamiq Website](balsamiq.com)
 	[Balsamiq Website](www.balsamiq.com)
 	[Balsamiq Website](http://www.balsamiq.com)
-	[Balsamiq Website](http://balsamiq.com)
+	[Balsamiq Website](https://balsamiq.com)
 
 Mockups in the same project:
 

@@ -10,7 +10,7 @@ weight: 10
 
 ## Welcome 
 
-This page contains usage instructions for [Mockups for Confluence](http://balsamiq.com/products/mockups/confluence).
+This page contains usage instructions for [Mockups for Confluence](https://balsamiq.com/products/mockups/confluence).
 
 Confluence Administrators: the **[Mockups for Confluence Admin Guide](/confluence/admin-guide)** is for you.
 
