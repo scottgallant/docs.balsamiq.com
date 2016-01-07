@@ -83,7 +83,7 @@ If you need to cancel and delete your site, the site owner can do so by clicking
 
 Once your site is deleted, we'll stop charging you and prevent users from logging in to it.
 
-If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Cancel Subscription" in your [payment settings](https://support.balsamiq.com/sales/mybsubscriptions/#stopping-your-subscription. Once your current paid period is over your site will be suspended.
+If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Cancel Subscription" in your [payment settings](https://support.balsamiq.com/sales/mybsubscriptions/#stopping-your-subscription). Once your current paid period is over your site will be suspended.
 
 <span class="alert alert-warning show" role="alert">
 **Be sure to [download](/mybalsamiq/project/#project-actions) any projects you would like to keep before deleting your site or stopping your subscription.**
