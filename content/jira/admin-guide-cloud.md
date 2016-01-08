@@ -17,9 +17,11 @@ Usage instructions for the plugin are in the [Balsamiq Mockups 3 for JIRA Cloud 
 
 * * *
 
+{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 11, 2016.  See our [transition guide](/jira/transition-guide/) if you have the older pre-installed version of Mockups for JIRA.{{% /alert %}}
+
 Balsamiq Mockups 3 for JIRA Cloud is an Atlassian-Connect powered add-on, sold exclusively via Atlassian Marketplace.
 
-### Useful links
+### Useful Links
 
 * [Product Page on Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
 * [Installation instructions](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/installation)

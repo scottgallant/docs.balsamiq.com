@@ -16,6 +16,9 @@
         {{ else if eq .Title "Jira" }}
         {{ $.Scratch.Set "showlist" 1 }}
         <h1>Mockups for JIRA Documentation</h1>
+        {{ else if eq .Title "Confluence" }}
+        {{ $.Scratch.Set "showlist" 1 }}
+        <h1>Mockups for Confluence Documentation</h1>
         {{ else }}
         <h1>{{ .Title }} Documentation</h1>
         {{ end }}        
@@ -33,6 +36,8 @@
       {{ partial "myb_faqs.html" . }}
     {{ else if eq .Title "Jira" }}
       {{ partial "jira_toc.html" . }}
+    {{ else if eq .Title "Confluence" }}
+      {{ partial "confluence_toc.html" . }}
     {{ end }}
     </main>
   </div> <!-- /.doc-overview -->

@@ -1,7 +1,7 @@
 ---
 date: 2015-07-30T15:52:20-07:00
 draft: false
-title: "Mockups for Confluence Admin Guide"
+title: "Mockups for Confluence Server Admin Guide"
 menu:
   menuconfluence:
     parent: confluence
@@ -10,9 +10,11 @@ weight: 20
 
 ## Welcome
 
-The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](https://balsamiq.com/products/mockups/confluence) **when installed on your own server**.
+The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview) **when installed on your own server**.
 
-Instructions for Atlassian Cloud are [here](https://support.balsamiq.com/sales/atlassiancloud/).
+<span class="alert alert-info show" role="alert">
+**Using Confluence Cloud?** If you are using Confluence Cloud (on atlassian.net), please see [this article](/confluence/admin-guide-cloud/) instead.
+</span>
 
 Usage instructions for the plugin are [here](/confluence/user-guide).
 
@@ -68,7 +70,7 @@ This is what you'll see if you have a license you purchased from Balsamiq but se
 
 If you receive an error when registering, [this FAQ](https://support.balsamiq.com/plugins/failedtovalidatelicense/) may help.
 
-UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](https://support.balsamiq.com/plugins/atlassianlicensenotshowing/)
+UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](https://support.balsamiq.com/plugins/atlassianlicensenotshowing/).
 
 * * *
 

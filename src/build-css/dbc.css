@@ -307,9 +307,7 @@ body {
       .company-support-portal .local-nav ul li.active a {
         color: #292E31 !important;
         font-weight: bold; }
-      .company-support-portal .local-nav ul li:hover,
-      .company-support-portal .local-nav ul li.active,
-      .company-support-portal .local-nav ul li.active:hover,
+      .company-support-portal .local-nav ul li:hover, .company-support-portal .local-nav ul li.active, .company-support-portal .local-nav ul li.active:hover,
       .company-support-portal .local-nav ul li a,
       .company-support-portal .local-nav ul li a:hover,
       .company-support-portal .local-nav ul li a:focus {
@@ -408,9 +406,15 @@ body {
     text-align: left;
     max-width: 100%; }
   .company-support-portal #body-main .section-pager {
-    margin-top: 2em; }
+    margin-top: 2em;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 14px;
+    line-height: 1.4rem; }
     .company-support-portal #body-main .section-pager .section-next {
       text-align: right; }
+    .company-support-portal #body-main .section-pager .pager li > a {
+      margin-bottom: 12px; }
 
 .company-support-portal ul.tags.listing {
   -webkit-column-width: 400px;

@@ -10,9 +10,11 @@ weight: 10
 
 ## Welcome 
 
-This page contains usage instructions for [Mockups for Confluence](https://balsamiq.com/products/mockups/confluence).
+This page contains usage instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview).
 
-Confluence Administrators: the **[Mockups for Confluence Admin Guide](/confluence/admin-guide)** is for you.
+Confluence Server Administrators: the **[Mockups for Confluence Server Admin Guide](/confluence/admin-guide/)** is for you.
+
+Confluence Cloud Administrators: the **[Mockups for Confluence Cloud Admin Guide](/confluence/admin-guide-cloud/)** is for you.
 
 * * *
 
