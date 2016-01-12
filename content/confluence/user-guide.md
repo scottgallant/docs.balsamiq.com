@@ -40,13 +40,13 @@ Once you name your mockup you can continue working on it and saving it periodica
 
 When you are ready to go back to the wiki page, just click on "Close" or select "Close Editor" from the Mockup menu. You will be taken back to the Confluence editor. Save the page and you're done!
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** Even if your Balsamiq Mockups license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/confluence/admin-guide)), anyone with access to your Confluence site will be able to see them.
-</span>
+{{% /alert %}}
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **A note for Confluence 3.x users:** In Confluence 3.x, you have to add a mockup by selecting the "Add UI Mockup" menu under the "Add Content" menu section of your wiki page.
-</span>
+{{% /alert %}}
 
 ## Editing a Mockup
 
@@ -54,9 +54,9 @@ To make changes to a mockup, edit the wiki page, select the mockup image and cli
 
 ![](//media.balsamiq.com/img/support/docs/confluence/userguide/confluence2.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **A note for Confluence 3.x users:** In Confluence 3.x, you edit a mockup by clicking on the "edit this mockup" link under the mockup you want to edit.
-</span>
+{{% /alert %}}
 
 * * *
 

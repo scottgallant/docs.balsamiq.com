@@ -17,9 +17,9 @@ To export to PDF in myBalsamiq, go to the **[Project page](/mybalsamiq/project/)
 
 You will see an option listed there to **export to PDF**. When you select it you will be presented with some options and when you click the "Export to PDF" button the file will be created for you to download.
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/mybalsamiq/home/) in myBalsamiq.
-</span>  
+{{% /alert %}}
 
 ---
 

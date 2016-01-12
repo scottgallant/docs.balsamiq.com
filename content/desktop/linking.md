@@ -17,9 +17,9 @@ Linking mockups together is as easy as choosing a mockup name from a drop-down m
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/link_inspector.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** To learn how to create links from text strings inside other controls, see our article on [making links in text actually work](/desktop/text/#making-links-in-text-actually-work).
-</span>
+{{% /alert %}}
 
 For controls that can have multiple targets, you'll see something like this:
 

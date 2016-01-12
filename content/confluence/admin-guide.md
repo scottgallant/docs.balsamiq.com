@@ -12,9 +12,9 @@ weight: 20
 
 The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview) **when installed on your own server**.
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Using Confluence Cloud?** If you are using Confluence Cloud (on atlassian.net), please see [this article](/confluence/admin-guide-cloud/) instead.
-</span>
+{{% /alert %}}
 
 Usage instructions for the plugin are [here](/confluence/user-guide).
 

@@ -76,9 +76,9 @@ The second way is to add icon files manually to your [assets](/desktop/images/).
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/icon-custom.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** Mac users can quickly add the "icon_" prefix to multiple files at once using the [batch rename tool in Mac OS X](https://support.apple.com/kb/PH19067?viewlocale=en_US&locale=en_US) (10.10 and higher).
-</span>
+{{% /alert %}}
 
 The words you use in your filename after icon\_ are used as the searchable keywords in the icon dialog. So the keyword would be "airplane" for the filename icon\_airplane.png. You can string together a few labels to get synonyms for the icon. For example, if the file is named icon\_bag briefcase portfolio.png, all of those words after icon\_ will be searchable.
 

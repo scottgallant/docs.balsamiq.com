@@ -9,9 +9,9 @@ weight: 30
 
 This page contains usage instructions for [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups/server/overview).
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Using JIRA Cloud?** If you are using JIRA Cloud (on atlassian.net), please see [this article](/jira/user-guide-cloud/) instead.
-</span>
+{{% /alert %}}
 
 JIRA Administrators: the [Mockups for JIRA Server Admin Guide](/jira/admin-guide) is for you.
 
@@ -47,9 +47,9 @@ You will be taken back to the issue. Here's a sample one (click for a larger vie
 
 Notice how the UI Mockup is now attached to the issue, both as an image and as a bmml data file. Also notice how Mockups for JIRA Server has added a comment to the issue for you, saying “Added UI Mockup: <_mockup name_>“. This means that if any of your co-workers is watching the issue, they’ll get an email notification to check out your new work of art. :)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** Even if your Balsamiq Mockups for JIRA Server license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/jira/admin-guide)), anyone with access to your JIRA site will be able to see them.
-</span>
+{{% /alert %}}
 
 So that’s the basic workflow of creating a new mockup for an issue. It gets better!
 

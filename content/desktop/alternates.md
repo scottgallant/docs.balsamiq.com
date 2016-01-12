@@ -44,9 +44,9 @@ This will create a **copy of the current mockup as an alternate version** for yo
 
 **The selection in the alternate versions list tells you which version of the mockup you are working on.** You can create as many alternates as you'd like.
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** You can create an alternate of an alternate. Clicking the "+" (plus) icon when an alternate is selected creates an alternate of the selected version rather than the official version.
-</span>
+{{% /alert %}}
 
 When an alternate exists an icon will appear next to the name in the [Navigator panel](/desktop/overview/#the-navigator-panel) indicating that there are alternates. When you are working on an alternate version the Navigator panel will show the alternate name in parentheses.
 
@@ -68,9 +68,9 @@ To switch between alternate versions of a mockup select the name of a version fr
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/alternates-menu-navigator.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** If you [link](/desktop/linking/) to a mockup that contains an alternate the link will go to the version of the mockup that is selected in the alternates list. The same rule applies to [exporting](/desktop/exporting/). The selected versions of your mockups will be exported.
-</span>
+{{% /alert %}}
 
 * * *
 
@@ -80,9 +80,9 @@ If you decide that you like one alternate better than the original mockup you ca
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/alternates-promote.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** You can undo this action by using the undo command (CTRL/CMD+Z) **three times**.
-</span>
+{{% /alert %}}
 
 The alternate that was promoted is retained in case you want to preserve it as part of the change history. Otherwise you can [discard](#discarding-alternates) it.
 
@@ -112,9 +112,9 @@ You can then manually edit the contents to create a new official version that is
 
 When you have finished reviewing or integrating alternate versions into an official version you can delete alternates you no longer want using the "Discard" option.
 
-<span class="alert alert-warning show" role="alert">
+{{% alert warning %}}
 **Note:** Alternates cannot be recovered after they have been discarded.
-</span>
+{{% /alert %}}
 
 * * *
 
@@ -132,9 +132,9 @@ Selecting an alternate from this list will **select that alternate in _all the m
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/alternates-mockups-menu.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note:** This is conceptually similar to creating a branch in a codebase, except that it only applies to mockups that have specific alternate version names.
-</span>
+{{% /alert %}}
 
 So, for example, if you create a series of alternates called "Leon's Proposal" and use the context menu shown above to select that name, any mockup with an alternate called "Leon's Proposal" would switch views to that alternate version.
 

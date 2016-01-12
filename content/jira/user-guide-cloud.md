@@ -9,9 +9,9 @@ weight: 10
 
 This page contains usage instructions for [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Using JIRA Server?** If you are hosting JIRA behind the firewall, please see [this article](/jira/user-guide/) instead.
-</span>
+{{% /alert %}}
 
 JIRA Cloud Administrators: the [Mockups for JIRA Cloud Admin Guide](/jira/admin-guide-cloud/) is for you.
 
@@ -98,6 +98,11 @@ Once you have created a new project, the Balsamiq Mockups Panel will appear on y
 
 The panel will show the thumbnails of the mockups contained in the currently saved version of the Balsamiq project.
 
+{{% alert info %}}
+**Note** The panel only shows the 'Official Version' of each mockup. Learn more about alternates [here](/desktop/alternates/).
+{{% /alert %}}
+
+
 A variety of actions are available from the Balsamiq Mockups Panel.
 
 * * *
@@ -128,9 +133,9 @@ There are two ways open the editor from the panel.
 
 ![](//media.balsamiq.com/img/support/docs/jira/userguidecloud/edit.png)
 
-<span class="alert alert-info show" role="alert">
+{{% alert info %}}
 **Note** If you have read-only permission on an issue, you will be still able to access the full screen viewer but you will not be able to edit the mockups.
-</span>
+{{% /alert %}}
 
 * * *
 
