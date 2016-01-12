@@ -9,15 +9,13 @@ weight: 10
 
 This page contains usage instructions for [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
-{{% alert info %}}
-**Using JIRA Server?** If you are hosting JIRA behind the firewall, please see [this article](/jira/user-guide/) instead.
-{{% /alert %}}
+{{% alert info %}}**Using JIRA Server?** If you are hosting JIRA behind the firewall, please see [this article](/jira/user-guide/) instead.{{% /alert %}}
 
 JIRA Cloud Administrators: the [Mockups for JIRA Cloud Admin Guide](/jira/admin-guide-cloud/) is for you.
 
 * * *
 
-{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 11, 2016.  See our [transition guide](/jira/transition-guide/) if you have the older pre-installed version of Mockups for JIRA.{{% /alert %}}
+{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 18, 2016.  See our [transition guide](/jira/transition-guide/) if you have the older pre-installed version of Mockups for JIRA.{{% /alert %}}
 
 Balsamiq Mockups for JIRA Cloud provides very similar functionality to as Balsamiq Mockups for Desktop.
 
