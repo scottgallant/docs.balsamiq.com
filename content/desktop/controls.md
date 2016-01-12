@@ -21,9 +21,7 @@ To add UI controls to your mockup, double-click or drag a control in [the UI Lib
 
 You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D). ALT/Option + drag will also duplicate controls and allow you to place them using your mouse.
 
-{{% alert info %}}
-**Note:** Full list of [keyboard shortcuts here](/desktop/shortcuts/).
-{{% /alert %}}
+{{% alert info %}}**Note:** Full list of [keyboard shortcuts here](/desktop/shortcuts/).{{% /alert %}}
 
 * * *
 
@@ -41,9 +39,7 @@ To select a control that is behind another control, right-click on the top contr
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
 
-{{% alert info %}}
-**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](https://support.balsamiq.com/tutorials/controls/).
-{{% /alert %}}
+{{% alert info %}}**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](https://support.balsamiq.com/tutorials/controls/).{{% /alert %}}
 
 
 * * *

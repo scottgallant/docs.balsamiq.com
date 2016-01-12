@@ -11,13 +11,9 @@ If you are viewing this repository with the intention of using the theme, please
 * For help with Markdown, see [this cheatsheet](https://beegit.com/markdown-cheat-sheet) or [this one](http://thisismarkdown.com)
 * Markdown doesn't allow markdown syntax inside an HTML block element (a \<div\> or \<p\>, for example), so you can use this "hack" to convert an inline element to a block element using a Bootstrap helper class (".show") (for info and warning alert messages, for example)
 	* Info alerts:  
-	```	{{% alert info %}}
-**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/mybalsamiq/home/) in myBalsamiq.
-{{% /alert %}}```
+	```	{{% alert info %}}**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/mybalsamiq/home/) in myBalsamiq.{{% /alert %}}```
 	* Warning alerts:  
-	```	{{% alert warning %}}
-**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/mybalsamiq/home/) in myBalsamiq.
-{{% /alert %}}```
+	```	{{% alert warning %}}**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/mybalsamiq/home/) in myBalsamiq.{{% /alert %}}```
 
 # HUGO Usage
 

@@ -33,9 +33,7 @@ This is what the outline above looks like in vertical orientation (default):
 
 ![](//media.balsamiq.com/img/support/docs/m4d/sitemap-horizontal.png)
 
-{{% alert info %}}
-**Note:** The Horizontal Site Map is only available in Mockups 3 for Desktop and Mockups 3 for Google Drive for now.
-{{% /alert %}}
+{{% alert info %}}**Note:** The Horizontal Site Map is only available in Mockups 3 for Desktop and Mockups 3 for Google Drive for now.{{% /alert %}}
 
 * * *
 

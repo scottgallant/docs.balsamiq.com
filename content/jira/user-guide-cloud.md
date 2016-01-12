@@ -96,9 +96,7 @@ Once you have created a new project, the Balsamiq Mockups Panel will appear on y
 
 The panel will show the thumbnails of the mockups contained in the currently saved version of the Balsamiq project.
 
-{{% alert info %}}
-**Note** The panel only shows the 'Official Version' of each mockup. Learn more about alternates [here](/desktop/alternates/).
-{{% /alert %}}
+{{% alert info %}}**Note** The panel only shows the 'Official Version' of each mockup. Learn more about alternates [here](/desktop/alternates/).{{% /alert %}}
 
 
 A variety of actions are available from the Balsamiq Mockups Panel.
@@ -131,9 +129,7 @@ There are two ways open the editor from the panel.
 
 ![](//media.balsamiq.com/img/support/docs/jira/userguidecloud/edit.png)
 
-{{% alert info %}}
-**Note** If you have read-only permission on an issue, you will be still able to access the full screen viewer but you will not be able to edit the mockups.
-{{% /alert %}}
+{{% alert info %}}**Note** If you have read-only permission on an issue, you will be still able to access the full screen viewer but you will not be able to edit the mockups.{{% /alert %}}
 
 * * *
 

@@ -17,6 +17,4 @@ To learn more about the difference between sketch and wireframe skin, see [Worki
 
 The default font is [Balsamiq Sans](https://balsamiq.com/products/mockups/font/), just as in previous versions (_not_ Comic Sans as you might think; although now you can set it to that, all you Comic Sans lovers out there!).
 
-{{% alert info %}}
-**Note:** If you want to use a specific project font we recommend that you set it before you start creating your mockups. Changing the project font may adversely affect existing mockups in your project. Each font has different dimensions and proportions so switching fonts may cause controls to overlap or line up unevenly. Also, setting your project font to a variant such as "thin", "light", or "extrabold" may override font style settings on individual controls.
-{{% /alert %}}
+{{% alert info %}}**Note:** If you want to use a specific project font we recommend that you set it before you start creating your mockups. Changing the project font may adversely affect existing mockups in your project. Each font has different dimensions and proportions so switching fonts may cause controls to overlap or line up unevenly. Also, setting your project font to a variant such as "thin", "light", or "extrabold" may override font style settings on individual controls.{{% /alert %}}

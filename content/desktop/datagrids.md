@@ -68,8 +68,6 @@ The code example below would print on two lines.
 
 Some people like to prepare tables in a spreadsheet application like Excel. You can copy and paste a range of cells directly from Excel into the Data Grid/Table component. Just copy/paste and it will just work. It also works in the opposite direction from Mockups to Excel.
 
-{{% alert info %}}
-**Note:** If you have commas in your cells, you will have to escape them with a backslash like this: `1\,000\,000`
-{{% /alert %}}
+{{% alert info %}}**Note:** If you have commas in your cells, you will have to escape them with a backslash like this: `1\,000\,000`{{% /alert %}}
 
 The component recognizes both commas and tabs as delimiters. Any thing else should be populated into cells.

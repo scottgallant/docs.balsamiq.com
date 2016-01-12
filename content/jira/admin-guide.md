@@ -9,9 +9,7 @@ weight: 40
 
 This page contains installation, registration, updating and uninstalling instructions for [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups/server/overview) **when installed on your own server**.
 
-{{% alert info %}}
-**Using JIRA Cloud?** If you are using JIRA Cloud (on atlassian.net), please see [this article](/jira/admin-guide-cloud/) instead.
-{{% /alert %}}
+{{% alert info %}}**Using JIRA Cloud?** If you are using JIRA Cloud (on atlassian.net), please see [this article](/jira/admin-guide-cloud/) instead.{{% /alert %}}
 
 Usage instructions for the plugin are in the [Balsamiq Mockups for JIRA Server User Guide](/jira/user-guide/).
 

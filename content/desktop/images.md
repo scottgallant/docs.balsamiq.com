@@ -12,9 +12,7 @@ tags:
 
 There are multiple ways to add images to your mockups. The easiest way is to simply drag and drop an image file from your computer on to the Mockups canvas. Read on to learn more about adding and using images and other assets in your projects.
 
-{{% alert info %}}
-**Note:** To see how to use Assets in **myBalsamiq**, see [this article](/mybalsamiq/assets) in the myBalsamiq Documentation.
-{{% /alert %}}
+{{% alert info %}}**Note:** To see how to use Assets in **myBalsamiq**, see [this article](/mybalsamiq/assets) in the myBalsamiq Documentation.{{% /alert %}}
 
 ## Adding Images in Mockups View
 
@@ -43,9 +41,7 @@ Once an image has been added to your project it will show up in the UI Library s
 
 This also means that you can add your images to your mockups from the [Quick Add](/desktop/overview/#the-quick-add-tool) box. Just type the first few letters of the image name and it will appear in the list.
 
-{{% alert info %}}
-**Note:** You can delete an image by right-clicking on it in the UI Library and selecting "Move Image to Trash" or from the [context menu in the Assets view](#managing-images-and-other-assets).
-{{% /alert %}}
+{{% alert info %}}**Note:** You can delete an image by right-clicking on it in the UI Library and selecting "Move Image to Trash" or from the [context menu in the Assets view](#managing-images-and-other-assets).{{% /alert %}}
 
 The image properties panel also allows you to crop or mask images to only show a selected portion of them. You can [watch a tutorial on cropping images here](https://support.balsamiq.com/tutorials/croptool/). Images that have been cropped will show an icon to remove the cropping in the properties panel.
 
@@ -81,9 +77,7 @@ The [Properties panel](/desktop/overview/#the-properties-panel) on the right sho
 
 You can also store other types of files in your project that won't be used in your mockups, such as requirements documents, Photoshop or Illustrator files, PDFs, or any other file that's associated with the project. We call these "non-image assets" and they can be added to your project by dragging them into the Assets view, just like images. Common file types (zip, pdf, doc, etc.) will be shown with an appropriate logo, as shown below. Other files will be have a generic document icon.
 
-{{% alert info %}}
-**Note:** Assets are limited to 20 Megabytes per file for performance reasons.
-{{% /alert %}}
+{{% alert info %}}**Note:** Assets are limited to 20 Megabytes per file for performance reasons.{{% /alert %}}
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/nonimageassets.png)
 
