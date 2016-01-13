@@ -129,105 +129,105 @@ body {
   position: relative;
   border-top: 3px solid #C00; }
 
-.company-support-portal .container-fluid.fluid-max {
+.container-fluid.fluid-max {
   max-width: 1300px; }
 
-.company-support-portal.dbc.desktop #gnav li#gnav-desktop a,
-.company-support-portal.dbc.mybalsamiq #gnav li#gnav-mybalsamiq a,
-.company-support-portal.dbc.confluence #gnav li#gnav-plugins > a,
-.company-support-portal.dbc.jira #gnav li#gnav-plugins > a,
-.company-support-portal.dbc.google-drive #gnav li#gnav-plugins > a,
-.company-support-portal.dbc.confluence #gnav li#gnav-confluence > a,
-.company-support-portal.dbc.jira #gnav li#gnav-jira > a,
-.company-support-portal.dbc.google-drive #gnav li#gnav-gdrive > a {
+.dbc.desktop #gnav li#gnav-desktop a,
+.dbc.mybalsamiq #gnav li#gnav-mybalsamiq a,
+.dbc.confluence #gnav li#gnav-plugins > a,
+.dbc.jira #gnav li#gnav-plugins > a,
+.dbc.google-drive #gnav li#gnav-plugins > a,
+.dbc.confluence #gnav li#gnav-confluence > a,
+.dbc.jira #gnav li#gnav-jira > a,
+.dbc.google-drive #gnav li#gnav-gdrive > a {
   background: rgba(0, 0, 0, 0.1);
   border-radius: 3px; }
 
-.company-support-portal #header-wrapper {
+#header-wrapper {
   background: #FFF;
   border-bottom: 1px solid #DDD; }
-  .company-support-portal #header-wrapper #site-nav {
+  #header-wrapper #site-nav {
     padding-top: 30px;
     color: #DDD;
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: 400; }
-    .company-support-portal #header-wrapper #site-nav #balsamiq-logo {
+    #header-wrapper #site-nav #balsamiq-logo {
       font-size: 21px;
       font-size: 2.1rem;
       line-height: 21px;
       line-height: 2.1rem; }
-      .company-support-portal #header-wrapper #site-nav #balsamiq-logo .trademark {
+      #header-wrapper #site-nav #balsamiq-logo .trademark {
         font-size: 10px;
         font-size: 1rem;
         line-height: 10px;
         line-height: 1rem; }
-    .company-support-portal #header-wrapper #site-nav #site-id {
+    #header-wrapper #site-nav #site-id {
       font-size: 21px;
       font-size: 2.1rem;
       line-height: 21px;
       line-height: 2.1rem; }
-    .company-support-portal #header-wrapper #site-nav .separator {
+    #header-wrapper #site-nav .separator {
       padding: 0 3px; }
-    .company-support-portal #header-wrapper #site-nav a {
+    #header-wrapper #site-nav a {
       color: #C00; }
-  .company-support-portal #header-wrapper #header #gnav a.gnava {
+  #header-wrapper #header #gnav a.gnava {
     color: #C00;
     text-shadow: none; }
-    .company-support-portal #header-wrapper #header #gnav a.gnava:hover {
+    #header-wrapper #header #gnav a.gnava:hover {
       background: rgba(0, 0, 0, 0.05); }
   @media only screen and (min-width: 768px) {
-    .company-support-portal #header-wrapper #gnav #gnav-support {
+    #header-wrapper #gnav #gnav-support {
       border-left: 1px solid #DDD;
       margin-left: 3px;
       padding-left: 3px; } }
   @media (smmin: 0) {
-    .company-support-portal #header-wrapper #gnav #gnav-support {
+    #header-wrapper #gnav #gnav-support {
       border-left: 1px solid #DDD;
       margin-left: 3px;
       padding-left: 3px; } }
-  .company-support-portal #header-wrapper #search #s {
+  #header-wrapper #search #s {
     width: 125px; }
-  .company-support-portal #header-wrapper #header #rmenu {
+  #header-wrapper #header #rmenu {
     position: absolute;
     top: 30px;
     right: 15px;
     margin: 0;
     padding: 0; }
-    .company-support-portal #header-wrapper #header #rmenu .icon-bar {
+    #header-wrapper #header #rmenu .icon-bar {
       background: #C00; }
-  .company-support-portal #header-wrapper #search .search #s, .company-support-portal #header-wrapper #search .search #ss {
+  #header-wrapper #search .search #s, #header-wrapper #search .search #ss {
     border: 1px solid #DDD; }
-  .company-support-portal #header-wrapper #search .search #ss {
+  #header-wrapper #search .search #ss {
     border-left: none; }
 
-.company-support-portal #body-wrapper {
+#body-wrapper {
   margin-bottom: 0 !important; }
 
-.company-support-portal #body-header {
+#body-header {
   width: 100%;
   border-top: 1px solid #e5e5e5 !important;
   z-index: 1000;
   font-size: 12px; }
-  .company-support-portal #body-header #title-wrapper {
+  #body-header #title-wrapper {
     background-color: #fff;
     margin: 0 auto; }
-  .company-support-portal #body-header ul.lnav {
+  #body-header ul.lnav {
     padding: 12px 0; }
-    .company-support-portal #body-header ul.lnav > li > a:link, .company-support-portal #body-header ul.lnav > li > a:visited {
+    #body-header ul.lnav > li > a:link, #body-header ul.lnav > li > a:visited {
       color: #999; }
-    .company-support-portal #body-header ul.lnav > li > ul li a {
+    #body-header ul.lnav > li > ul li a {
       text-shadow: none !important; }
-  .company-support-portal #body-header .navsect {
+  #body-header .navsect {
     opacity: 0;
     width: 0; }
-    .company-support-portal #body-header .navsect a {
+    #body-header .navsect a {
       display: none;
       color: #C00 !important;
       font-weight: bold;
       padding-right: 1em;
       border-right: 1px solid #DDD; }
 
-.company-support-portal #breadcrumbs {
+#breadcrumbs {
   margin: -1em 0 18px 0;
   padding: 5px 0;
   color: #999;
@@ -235,26 +235,26 @@ body {
   text-transform: capitalize;
   border-bottom: 1px solid #DDD;
   list-style-type: none; }
-  .company-support-portal #breadcrumbs a {
+  #breadcrumbs a {
     color: #999;
     font-size: 12px !important; }
-  .company-support-portal #breadcrumbs li {
+  #breadcrumbs li {
     list-style-type: none;
     display: inline; }
 
-.company-support-portal .local-nav {
+.local-nav {
   background: #fff;
   border: none; }
-  .company-support-portal .local-nav #sidebar-box {
+  .local-nav #sidebar-box {
     padding-top: 31px;
     padding-bottom: 36px; }
-    .company-support-portal .local-nav #sidebar-box.affix-top {
+    .local-nav #sidebar-box.affix-top {
       position: relative; }
-    .company-support-portal .local-nav #sidebar-box.affix {
+    .local-nav #sidebar-box.affix {
       padding-top: 0;
       position: fixed;
       top: 0; }
-  .company-support-portal .local-nav h3, .company-support-portal .local-nav h4, .company-support-portal .local-nav h5 {
+  .local-nav h3, .local-nav h4, .local-nav h5 {
     margin: 10px 0 10px 0;
     padding: 0;
     font-size: 18px;
@@ -264,74 +264,76 @@ body {
     font-family: "myriad-pro-1","myriad-pro-2", "Hevetica Neue", Arial, sans-serif;
     font-weight: normal;
     color: #292E31; }
-    .company-support-portal .local-nav h3 a, .company-support-portal .local-nav h4 a, .company-support-portal .local-nav h5 a {
+    .local-nav h3 a, .local-nav h4 a, .local-nav h5 a {
       color: #292E31 !important; }
-  .company-support-portal .local-nav h5 {
+  .local-nav h5 {
     margin-left: 16px; }
-  .company-support-portal .local-nav button, .company-support-portal .local-nav a.button {
+  .local-nav button, .local-nav a.button {
     max-width: 180px; }
-  .company-support-portal .local-nav a.menu-toggle {
+  .local-nav a.menu-toggle {
     text-decoration: none;
     margin-left: -15px; }
-  .company-support-portal .local-nav i {
+  .local-nav i {
     margin-top: 2px;
     cursor: pointer;
     color: #999 !important; }
-    .company-support-portal .local-nav i.ss-icon {
+    .local-nav i.ss-icon {
       font-size: 10px;
       font-size: 1rem;
       line-height: 10px;
       line-height: 1rem; }
-  .company-support-portal .local-nav.local-nav-1 {
+  .local-nav.local-nav-1 {
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 16px;
     line-height: 1.6rem; }
-  .company-support-portal .local-nav.local-nav-2 {
+  .local-nav.local-nav-2 {
     font-size: 13px;
     font-size: 1.3rem;
     line-height: 15px;
     line-height: 1.5rem; }
-  .company-support-portal .local-nav ul {
+  .local-nav ul {
     margin-top: 0;
     margin-left: 16px;
     padding-left: 0;
     list-style-type: none; }
-    .company-support-portal .local-nav ul li {
+    .local-nav ul li {
       margin: 0;
       padding: 0;
       line-height: 16px; }
-      .company-support-portal .local-nav ul li a {
+      .local-nav ul li a {
         display: block;
         padding: 6px 0; }
-      .company-support-portal .local-nav ul li.active a {
+      .local-nav ul li.active a {
         color: #292E31 !important;
         font-weight: bold; }
-      .company-support-portal .local-nav ul li:hover, .company-support-portal .local-nav ul li.active, .company-support-portal .local-nav ul li.active:hover,
-      .company-support-portal .local-nav ul li a,
-      .company-support-portal .local-nav ul li a:hover,
-      .company-support-portal .local-nav ul li a:focus {
+      .local-nav ul li:hover,
+      .local-nav ul li.active,
+      .local-nav ul li.active:hover,
+      .local-nav ul li a,
+      .local-nav ul li a:hover,
+      .local-nav ul li a:focus {
         background: none !important; }
-  .company-support-portal .local-nav .collapsing {
+  .local-nav .collapsing {
     -webkit-transition: all 0.04s ease;
     transition: all 0.04s ease; }
 
-.company-support-portal .doc-overview ul, .company-support-portal .doc-overview ol {
+.doc-overview ul, .doc-overview ol {
   margin: 0;
   padding-bottom: 12px;
   padding-top: 12px; }
-  .company-support-portal .doc-overview ul#list, .company-support-portal .doc-overview ol#list {
+  .doc-overview ul#list, .doc-overview ol#list {
     -webkit-column-width: 400px;
        -moz-column-width: 400px;
             column-width: 400px;
     padding-left: 0; }
-    .company-support-portal .doc-overview ul#list li .ss-icon, .company-support-portal .doc-overview ol#list li .ss-icon {
+    .doc-overview ul#list li .ss-icon, .doc-overview ol#list li .ss-icon {
       color: #666; }
-  .company-support-portal .doc-overview ul.faq-list, .company-support-portal .doc-overview ol.faq-list {
+  .doc-overview ul.faq-list, .doc-overview ol.faq-list {
     -webkit-column-width: 590px;
        -moz-column-width: 590px;
             column-width: 590px; }
-  .company-support-portal .doc-overview ul.faq-list li, .company-support-portal .doc-overview ul#list li, .company-support-portal .doc-overview ol.faq-list li, .company-support-portal .doc-overview ol#list li {
+  .doc-overview ul.faq-list li, .doc-overview ul#list li, .doc-overview ol.faq-list li, .doc-overview ol#list li {
     margin-left: 2em;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -340,14 +342,14 @@ body {
     line-height: 32px;
     line-height: 3.2rem; }
 
-.company-support-portal #body-main {
+#body-main {
   position: relative;
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 0;
   padding-bottom: 0;
   background-image: none; }
-  .company-support-portal #body-main h1 {
+  #body-main h1 {
     margin-top: 36px;
     margin-bottom: .5em;
     padding-bottom: .5em;
@@ -358,98 +360,98 @@ body {
     line-height: 3.6rem;
     font-weight: normal;
     color: #292E31; }
-  .company-support-portal #body-main h2, .company-support-portal #body-main h3, .company-support-portal #body-main h4, .company-support-portal #body-main h5, .company-support-portal #body-main h6 {
+  #body-main h2, #body-main h3, #body-main h4, #body-main h5, #body-main h6 {
     color: #292E31; }
-  .company-support-portal #body-main h2 {
+  #body-main h2 {
     font-size: 28px;
     font-size: 2.8rem;
     line-height: 28px;
     line-height: 2.8rem;
     font-weight: normal; }
-  .company-support-portal #body-main h3 {
+  #body-main h3 {
     font-size: 21px;
     font-size: 2.1rem;
     line-height: 21px;
     line-height: 2.1rem; }
-  .company-support-portal #body-main h4 {
+  #body-main h4 {
     font-size: 18px;
     font-size: 1.8rem;
     line-height: 18px;
     line-height: 1.8rem; }
-  .company-support-portal #body-main h5 {
+  #body-main h5 {
     font-size: 16px;
     font-size: 1.6rem;
     line-height: 16px;
     line-height: 1.6rem; }
-  .company-support-portal #body-main img {
+  #body-main img {
     max-width: 100%; }
-  .company-support-portal #body-main a, .company-support-portal #body-main .local-nav a {
+  #body-main a, #body-main .local-nav a {
     color: #0064AE; }
-  .company-support-portal #body-main a.fb img,
-  .company-support-portal #body-main img {
+  #body-main a.fb img,
+  #body-main img {
     margin-bottom: 12px; }
-  .company-support-portal #body-main object,
-  .company-support-portal #body-main iframe {
+  #body-main object,
+  #body-main iframe {
     margin-bottom: 12px; }
-  .company-support-portal #body-main #page-topic ul li {
+  #body-main #page-topic ul li {
     margin-bottom: 1em; }
-  .company-support-portal #body-main #page-article .content.article img {
+  #body-main #page-article .content.article img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     max-width: 100%; }
-  .company-support-portal #body-main #page-article .content.article .imgleft img,
-  .company-support-portal #body-main #page-article .content.article img.imgleft {
+  #body-main #page-article .content.article .imgleft img,
+  #body-main #page-article .content.article img.imgleft {
     margin-left: 0;
     margin-right: 0;
     text-align: left;
     max-width: 100%; }
-  .company-support-portal #body-main .section-pager {
+  #body-main .section-pager {
     margin-top: 2em;
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 14px;
     line-height: 1.4rem; }
-    .company-support-portal #body-main .section-pager .section-next {
+    #body-main .section-pager .section-next {
       text-align: right; }
-    .company-support-portal #body-main .section-pager .pager li > a {
+    #body-main .section-pager .pager li > a {
       margin-bottom: 12px; }
 
-.company-support-portal ul.tags.listing {
+ul.tags.listing {
   -webkit-column-width: 400px;
      -moz-column-width: 400px;
           column-width: 400px; }
-  .company-support-portal ul.tags.listing > li {
+  ul.tags.listing > li {
     margin: 0 9px 9px 0;
     display: inline-block;
     width: 100%;
     float: none;
     background: #EEE; }
-    .company-support-portal ul.tags.listing > li a {
+    ul.tags.listing > li a {
       display: block; }
-    .company-support-portal ul.tags.listing > li .tag-count {
+    ul.tags.listing > li .tag-count {
       display: inline-block;
       float: right;
       color: #BBB; }
-  .company-support-portal ul.tags.listing > li:first-child {
+  ul.tags.listing > li:first-child {
     display: none; }
 
-.company-support-portal .tag-box {
+.tag-box {
   text-align: center; }
 
-.company-support-portal ul.tags {
+ul.tags {
   display: inline-block;
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden; }
-  .company-support-portal ul.tags > li {
+  ul.tags > li {
     display: block;
     float: left; }
-    .company-support-portal ul.tags > li:last-child {
+    ul.tags > li:last-child {
       margin-right: 0px; }
-  .company-support-portal ul.tags > li {
+  ul.tags > li {
     color: #999 !important;
     font-size: 14px;
     font-size: 1.4rem;
@@ -459,31 +461,31 @@ body {
     margin-right: 3px;
     border: 1px solid #BBB;
     border-radius: 15px; }
-    .company-support-portal ul.tags > li a {
+    ul.tags > li a {
       display: inline-block;
       padding: 5px 10px;
       color: #999 !important;
       text-decoration: none; }
-    .company-support-portal ul.tags > li:hover {
+    ul.tags > li:hover {
       background: #BBB; }
-      .company-support-portal ul.tags > li:hover a {
+      ul.tags > li:hover a {
         text-decoration: none;
         color: #FFF !important; }
-        .company-support-portal ul.tags > li:hover a span {
+        ul.tags > li:hover a span {
           color: #FFF !important; }
 
-.company-support-portal #footer-wrapper {
+#footer-wrapper {
   background: #FFF; }
-  .company-support-portal #footer-wrapper .main {
+  #footer-wrapper .main {
     padding: 2px 0; }
-  .company-support-portal #footer-wrapper ul li:first-child {
+  #footer-wrapper ul li:first-child {
     margin-left: 0; }
 
-.company-support-portal .form-group .form-control {
+.form-group .form-control {
   max-width: 100%;
   box-sizing: border-box; }
 
-.company-support-portal .dropdown-menu::before {
+.dropdown-menu::before {
   position: absolute;
   top: -7px;
   left: 9px;
@@ -494,7 +496,7 @@ body {
   border-bottom-color: rgba(0, 0, 0, 0.2);
   content: ''; }
 
-.company-support-portal .dropdown-menu::after {
+.dropdown-menu::after {
   position: absolute;
   top: -6px;
   left: 10px;
