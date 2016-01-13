@@ -11,13 +11,13 @@ This page contains usage instructions for [Mockups 3 for JIRA Cloud](https://mar
 
 {{% alert info %}}**Using JIRA Server?** If you are hosting JIRA behind the firewall, please see [this article](/jira/user-guide/) instead.{{% /alert %}}
 
-JIRA Cloud Administrators: the [Mockups for JIRA Cloud Admin Guide](/jira/admin-guide-cloud/) is for you.
+JIRA Cloud Administrators: the [Mockups 3 for JIRA Cloud Admin Guide](/jira/admin-guide-cloud/) is for you.
 
 * * *
 
 {{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 18, 2016.  See our [transition guide](/jira/transition-guide/) if you have the older pre-installed version of Mockups for JIRA.{{% /alert %}}
 
-Balsamiq Mockups for JIRA Cloud provides very similar functionality to as Balsamiq Mockups for Desktop.
+Balsamiq Mockups 3 for JIRA Cloud provides very similar functionality to as Balsamiq Mockups for Desktop.
 
 The main difference is that the Balsamiq project files are stored and managed as JIRA Cloud attachments.
 
@@ -29,7 +29,7 @@ To add a new Balsamiq Mockups project to a particular JIRA issue you simply clic
 
 The link will launch the Balsamiq Mockups editor to allow you to create your mockups (or import existing ones). This will also create a new Balsamiq Mockups file (.bmpr file extension) attached to your JIRA issue containing all the resources that belong to a project (mockups, symbols, images, icons).
 
-If you do not see the link, please check with your JIRA Cloud administrator that the Balsamiq Mockups for JIRA Cloud add-on is installed and that you have editing permission on the current issue.
+If you do not see the link, please check with your JIRA Cloud administrator that the Balsamiq Mockups 3 for JIRA Cloud add-on is installed and that you have editing permission on the current issue.
 
 * * *
 
@@ -41,7 +41,7 @@ The Balsamiq Mockups editor allows you to create wireframes just like our other 
 
 ## Collaborating with Other Users in Real Time
 
-Mockups for JIRA Cloud supports real-time collaboration between users: just have everyone launch the editor on the same project. Everyone’s changes will be shared in real-time with all collaborators.
+Mockups 3 for JIRA Cloud supports real-time collaboration between users: just have everyone launch the editor on the same project. Everyone’s changes will be shared in real-time with all collaborators.
 
 ![](//media.balsamiq.com/img/support/docs/jira/userguidecloud/rtc.png)
 
