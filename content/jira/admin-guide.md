@@ -1,9 +1,7 @@
 ---
 date: 2015-07-30T15:52:28-07:00
 title: "Mockups for JIRA Server Admin Guide"
-menu:
-  menujira:
-    parent: jira
+menu: "menujira"
 weight: 40
 ---
 

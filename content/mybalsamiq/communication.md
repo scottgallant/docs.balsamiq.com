@@ -1,9 +1,7 @@
 ---
 date: 2015-09-23T15:48:49-07:00
 title: "Team Communication in myBalsamiq"
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 120
 ---
 

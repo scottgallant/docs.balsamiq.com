@@ -1,9 +1,7 @@
 ---
 date: 2015-09-23T15:48:49-07:00
 title: "Using Assets in myBalsamiq"
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 80
 ---
 

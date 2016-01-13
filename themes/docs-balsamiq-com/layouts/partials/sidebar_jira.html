@@ -1,9 +1,7 @@
 {{ $currentNode := . }}
-{{ range .Site.Menus.menujira }}
-  <h5>Mockups for JIRA</h5>
-  <ul>
-      {{ range .Children }}
-      <li{{if $currentNode.IsMenuCurrent "menujira" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
-      {{ end }}
-  </ul>
-{{end}}
+<h5>Mockups for JIRA</h5>
+<ul>
+    {{ range .Site.Menus.menujira }}
+    <li{{if $currentNode.IsMenuCurrent "menujira" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+    {{ end }}
+</ul>
