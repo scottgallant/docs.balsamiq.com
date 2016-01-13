@@ -7,7 +7,7 @@ menu:
 weight: 20
 ---
 
-This page contains links to installation, pricing and licensing information for [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
+This page contains links to installation, pricing, and licensing information for [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
 {{% alert info %}}**Using JIRA Server?** If you are hosting JIRA behind the firewall, please see [this article](/jira/admin-guide/) instead.{{% /alert %}}
 

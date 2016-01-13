@@ -8,7 +8,7 @@ menu:
 weight: 20
 ---
 
-The Confluence Cloud Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview) **when hosted on Atlassian Cloud**.
+The Confluence Cloud Admin Guide contains installation, registration, updating, and uninstalling instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview) **when hosted on Atlassian Cloud**.
 
 {{% alert info %}}**Using Confluence Server?** If you are hosting Confluence behind the firewall, please see [this article](/confluence/admin-guide/) instead.{{% /alert %}}
 
@@ -71,7 +71,7 @@ Every Atlassian Cloud customer has the same version of our plugin, updated by At
 
 ## How Maintenance Works
 
-Because updates are not optional, if you want to use our plugin inside of Atlassian Cloud, you have to make sure your [maintenance license](/sales/maintenance/) is valid. You will have to purchase a maintenance license yearly in order to keep using the plugin.
+Because updates are not optional, if you want to use our plugin inside of Atlassian Cloud, you have to make sure your [maintenance license](https://support.balsamiq.com/sales/maintenance/) is valid. You will have to purchase a maintenance license yearly in order to keep using the plugin.
 
 If you don't wish to renew, you can disable the plugin by going to "Manage Add-Ons" when your maintenance period ends. The mockup files will no longer be editable, however, the mockup data (and images) will still be attachments to your Confluence pages.
 
