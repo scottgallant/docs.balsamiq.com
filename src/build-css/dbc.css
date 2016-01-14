@@ -307,9 +307,7 @@ body {
       .local-nav ul li.active a {
         color: #292E31 !important;
         font-weight: bold; }
-      .local-nav ul li:hover,
-      .local-nav ul li.active,
-      .local-nav ul li.active:hover,
+      .local-nav ul li:hover, .local-nav ul li.active, .local-nav ul li.active:hover,
       .local-nav ul li a,
       .local-nav ul li a:hover,
       .local-nav ul li a:focus {
