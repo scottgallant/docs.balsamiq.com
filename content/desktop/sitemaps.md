@@ -35,7 +35,23 @@ This is what the outline above looks like in vertical orientation (default):
 
 {{% alert info %}}**Note:** The Horizontal Site Map is only available in Mockups 3 for Desktop and Mockups 3 for Google Drive for now.{{% /alert %}}
 
-* * *
+---
+
+## Generating Site Maps Automatically
+
+Next to the options for changing the orientation in the [Property Inspector](/desktop/inspector/) is a button that allows you to automatically populate a site map based on the order and structure of your mockups in the [Navigator Panel](https://docs.balsamiq.com/desktop/overview/#the-navigator-panel). 
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/site-map-settings.png)
+
+Each time you click the "Populate from Project" project the site map will be updated to reflect the current project structure.
+
+If you have [nested mockups](https://docs.balsamiq.com/desktop/overview/#nesting-mockups) they will be shown as child nodes in the site map, as shown below.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/site-map-populated.png)
+
+Links will be added to each node in the site map to the corresponding mockup in your project.
+
+---
 
 ## Notes and Options
 
