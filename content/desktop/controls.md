@@ -73,6 +73,12 @@ You can also use the keyboard to resize selected controls. CTRL/CMD+ALT+arrow ke
 
 Another way to resize some controls to their "natural size" is to use the Auto-Size function found in the [Property Inspector](/desktop/inspector/).
 
+To resize one or more controls to match the size of another (to be the same width or height), you can use the "Resize To..." function in the Edit menu.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/resize-to.png)
+
+Select multiple controls and use this option to size all the selected controls to match the narrowest, widest, shortest, or tallest control in the selection.
+
 * * *
 
 ## Aligning UI Controls
