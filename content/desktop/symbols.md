@@ -11,9 +11,7 @@ Balsamiq Mockups supports the concept of Symbols. A Symbol is a group of control
 
 In essence, Symbols let you create reusable common elements that you can use across different mockups.
 
-<span class="alert alert-info show" role="alert">
-**Note:** To work with Symbols in **myBalsamiq**, see [this article](/mybalsamiq/symbols) in the myBalsamiq Documentation.
-</span>
+{{% alert info %}}**Note:** To work with Symbols in **myBalsamiq**, see [this article](/mybalsamiq/symbols) in the myBalsamiq Documentation.{{% /alert %}}
 
 ## Creating Symbols
 
@@ -41,9 +39,7 @@ This new Symbol will be displayed in the Symbols category of the UI Library for 
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/symbols-uilibrary.png)
 
-<span class="alert alert-info show" role="alert">
-**Tip:** Once a Symbol has been created you can also add it via [Quick Add](/desktop/overview/#the-quick-add-tool) using the first few letters of its name, just like other controls.
-</span>
+{{% alert info %}}**Tip:** Once a Symbol has been created you can also add it via [Quick Add](/desktop/overview/#the-quick-add-tool) using the first few letters of its name, just like other controls.{{% /alert %}}
 
 ### 2\. Using the Symbols View
 
@@ -75,9 +71,7 @@ The icon at the top of the list of Symbols allows you to choose whether you want
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/symbols-showother.png)
 
-<span class="alert alert-info show" role="alert">
-**Note:** The Symbol Library that a Symbol belongs to is ignored in the UI Library and Quick Add. You will see a list of all your Symbols, regardless of which Symbol Library they belong to.
-</span>
+{{% alert info %}}**Note:** The Symbol Library that a Symbol belongs to is ignored in the UI Library and Quick Add. You will see a list of all your Symbols, regardless of which Symbol Library they belong to.{{% /alert %}}
 
 ### Creating Symbols in the Symbols View 
 
@@ -87,9 +81,7 @@ As described above you can add a new Symbol to an existing Symbol Library or ins
 
 When you create a new Symbol Library two sample Symbols are created automatically to help you learn about how Symbols work. Feel free to modify or delete them.
 
-<span class="alert alert-info show" role="alert">
-**Note:** You can add controls to the Symbol Library itself, but these controls will not be shown when the Symbols are used in your mockups. Adding controls such as sticky notes to your Symbol Libraries can be useful for making notes about them that don't need to be shown in the UI.
-</span>
+{{% alert info %}}**Note:** You can add controls to the Symbol Library itself, but these controls will not be shown when the Symbols are used in your mockups. Adding controls such as sticky notes to your Symbol Libraries can be useful for making notes about them that don't need to be shown in the UI.{{% /alert %}}
 
 * * *
 
@@ -131,9 +123,7 @@ When you select a Symbol on the Mockups canvas you'll see two Symbol properties 
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/symbols-hideother.png)
 
-<span class="alert alert-info show" role="alert">
-**Tip:** You can also edit a Symbol by right-clicking on it in the UI Library and selecting "Edit Symbol Source."
-</span>
+{{% alert info %}}**Tip:** You can also edit a Symbol by right-clicking on it in the UI Library and selecting "Edit Symbol Source."{{% /alert %}}
 
 * * *
 
@@ -181,9 +171,7 @@ To rename either a Symbol or Symbol Library you can double-click its name in the
 
 You can also use the [context menu](/desktop/overview/#context-menu-actions) to delete Symbols and Symbol Libraries from your project. In the case of Symbol Libraries, like with mockups and images, deleting will move them to the trash, where you can delete them permanently or restore them. Deleting an individual Symbol from a Symbol Library, however, deletes it permanently.
 
-<span class="alert alert-info show" role="alert">
-**Tip:** You can hold down Shift or Control/CMD to select multiple Symbols and delete or move multiple Symbols at once.
-</span>
+{{% alert info %}}**Tip:** You can hold down Shift or Control/CMD to select multiple Symbols and delete or move multiple Symbols at once.{{% /alert %}}
 
 
 Just like with images, deleting a Symbol from a mockup does not delete the Symbol, only that instance of the Symbol.

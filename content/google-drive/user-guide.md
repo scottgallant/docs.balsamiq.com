@@ -69,9 +69,7 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 
 ​Either method will launch the Balsamiq Mockups editor to allow you to create your mockups (or [import existing ones](#importing-from-other-versions-of-balsamiq-mockups)). This will also create a new Balsamiq Mockups file (.bmpr file extension) in your Google Drive. If you launched Mockups for Google Drive from the Chrome Apps page your files will be saved in your Drive's home folder. Otherwise they will be saved in the folder you had selected when you created the new Mockups project.
 
-<span class="alert alert-info show" role="alert">
-**Note:** Your work is always automatically saved on Google Drive as you make edits. To exit the editor, use the "Quit" command in the Project menu.
-</span>
+{{% alert info %}}**Note:** Your work is always automatically saved on Google Drive as you make edits. To exit the editor, use the "Quit" command in the Project menu.{{% /alert %}}
 
 * * *
 
@@ -139,9 +137,7 @@ Wireframes created with Mockups for Google Drive are saved as .bmpr files that c
 
 If the Google Drive users you are sharing with do not have Mockups for Google Drive installed, they will be prompted to install it (_you can see [screenshots of this process here](https://support.balsamiq.com/plugins/sharingwithgoogledrive/)_). **Remember that viewing mockups with Mockups for Google Drive is free, it's only the saving functionality that expires after 30 days. So share away!**
 
-<span class="alert alert-info show" role="alert">
-**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.
-</span>
+{{% alert info %}}**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.{{% /alert %}}
 
 Alternatively, you can export your mockups as PNG images or an interactive PDF and use sharing in Google Drive to allow others to view them. See the [section above](#exporting-your-mockups) for how to export to PNG or PDF.
 
@@ -167,9 +163,7 @@ You can see previous versions of your mockups via the Google Drive interface. Ri
 
 ![Manage revisions](//media.balsamiq.com/img/support/docs/gdrive/userguide/managerevisions.png)
 
-<span class="alert alert-info show" role="alert">
-**Note:** A new version is created each time you [quit](#returning-to-google-drive-closing-the-editor) the application or if you manually save via the editor menu (Project > Save Project).
-</span>
+{{% alert info %}}**Note:** A new version is created each time you [quit](#returning-to-google-drive-closing-the-editor) the application or if you manually save via the editor menu (Project > Save Project).{{% /alert %}}
 
 Clicking on a previous version will download the .bmpr file.
 

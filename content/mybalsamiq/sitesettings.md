@@ -7,9 +7,7 @@ menu:
 weight: 170
 ---
 
-<span class="alert alert-info show" role="alert">
-**Note:** the actions described below are available to **site owners** only.
-</span>
+{{% alert info %}}**Note:** the actions described below are available to **site owners** only.{{% /alert %}}
 
 You can access your site settings by clicking the “Settings” link in the header at the top of the page.
 
@@ -85,9 +83,7 @@ Once your site is deleted, we'll stop charging you and prevent users from loggin
 
 If you want to keep your myBalsamiq site around until the end of your currently paid period, instead of deleting your site you can select "Cancel Subscription" in your [payment settings](https://support.balsamiq.com/sales/mybsubscriptions/#stopping-your-subscription). Once your current paid period is over your site will be suspended.
 
-<span class="alert alert-warning show" role="alert">
-**Be sure to [download](/mybalsamiq/project/#project-actions) any projects you would like to keep before deleting your site or stopping your subscription.**
-</span>
+{{% alert warning %}}**Be sure to [download](/mybalsamiq/project/#project-actions) any projects you would like to keep before deleting your site or stopping your subscription.**{{% /alert %}}
 
 Your site data is kept in our database for one month after deletion or suspension (you'd be surprised how many times people change their mind and ask us to reinstate their deleted or suspended sites). We delete your data permanently from our database following our [Terms of Use](/mybalsamiq/tos/#how-can-i-access-or-correct-my-information). If you would like us to destroy your data immediately, delete your site first, then [email us](https://balsamiq.com/company/contact/#/s/myb) and we'll be happy to comply.
 

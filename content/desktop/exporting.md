@@ -12,6 +12,7 @@ tags:
   - "Printing"
   - "Image"
 ---
+{{% alert info %}}**Note:** To learn how to export your mockups in **myBalsamiq**, see [this article](/mybalsamiq/exporting/) in the myBalsamiq Documentation.{{% /alert %}}
 
 The Export menu contains the following export options:
 
@@ -22,10 +23,6 @@ Read on for descriptions of each.
 ## Exporting to PDF
 
 You can export the mockups in your project as a PDF, which can be useful for printing, sending by email, presenting to clients, or posting online. If your mockups contain links, these will work in your exported PDF as well, which will allow you to create click-through prototypes of your designs. _(To learn more about linking, see [Linking Mockups Together](/desktop/linking/).)_
-
-<span class="alert alert-info show" role="alert">
-**Note:** To export to PDF in **myBalsamiq**, see [this article](/mybalsamiq/exporting/) in the myBalsamiq Documentation.
-</span>
 
 To export to PDF select the Project > Export to PDF... menu command (shortcut: CTRL/CMD+P). Each mockup will be displayed on a separate page of a PDF document. The mockups will be in the same order as in the project, so arrange them in the order you'd like before exporting.
 
@@ -46,10 +43,6 @@ To save one or all of your mockups as image files choose one of the export to PN
 The shortcuts for exporting a mockup and project to image files are CTRL/CMD+R and CTRL/CMD+Shift+R, respectively. Exporting all mockups will also generate images for any [alternates](/desktop/alternates/) you have created.
 
 To easily copy a mockup as an image to paste into another application, select Export > Mockup to Clipboard.
-
-<span class="alert alert-info show" role="alert">
-**Note:** To export to an image in **myBalsamiq**, see [this article](/mybalsamiq/exporting/#exporting-to-png-images) in the myBalsamiq Documentation.
-</span>
 
 You can also export a subset of the controls in your mockup by selecting them on the canvas and using the Export Current Mockup to PNG command. The export dialog will ask you if you want to export only the selected controls or the entire mockup.
 
@@ -77,9 +70,7 @@ You can also export your project for use in a previous version of Balsamiq Mocku
 
 Selecting Export > Project to BMMLs ZIP... will save your mockups as a ZIP file containing individual BMML files (compatible with Balsamiq Mockups version 2) and images and Symbols stored in an assets sub-folder. You can then upload this file to myBalsamiq or unzip it and open the mockups with an older version of Balsamiq Mockups.
 
-<span class="alert alert-info show" role="alert">
-**Note:** This is also how you would export your mockups for use with Balsamiq Mockups for Confluence or JIRA. [Detailed instructions are here](https://support.balsamiq.com/plugins/importtoatlassian/).
-</span>
+{{% alert info %}}**Note:** This is also how you would export your mockups for use with Balsamiq Mockups for Confluence or JIRA Server. [Detailed instructions are here](https://support.balsamiq.com/plugins/importtoatlassian/).{{% /alert %}}
 
 * * *
 

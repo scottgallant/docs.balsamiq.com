@@ -37,9 +37,7 @@ If you want to keep your project private but don't want to force your customers 
 
 Just launch the prototype view, copy the long and nearly-impossible-to-guess URL (it makes it secure) and send it to them. They will be able to see it and click around without having to log in.
 
-<span class="alert alert-warning show" role="alert">
-**Note:** Once the URL is shared, it will be accessible to whomever has it.
-</span>
+{{% alert warning %}}**Note:** Once the URL is shared, it will be accessible to whomever has it.{{% /alert %}}
 
 ---
 
@@ -53,9 +51,7 @@ This link doesn't require people to log in (but is secure due to it's crazy-long
 
 This makes it possible to share mockups that are not linked together or even to embed them in other tools that let you insert images (a simple web page you're putting together or even a usability testing tool).
 
-<span class="alert alert-warning show" role="alert">
-**Note:** People you share this URL with will NOT be able to add comments within myBalsamiq this way, and once the URL is shared, it will be accessible to whomever has it.
-</span>
+{{% alert warning %}}**Note:** People you share this URL with will NOT be able to add comments within myBalsamiq this way, and once the URL is shared, it will be accessible to whomever has it.{{% /alert %}}
 
 * * *
 

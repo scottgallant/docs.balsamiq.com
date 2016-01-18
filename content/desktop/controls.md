@@ -21,9 +21,7 @@ To add UI controls to your mockup, double-click or drag a control in [the UI Lib
 
 You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D). ALT/Option + drag will also duplicate controls and allow you to place them using your mouse.
 
-<span class="alert alert-info show" role="alert">
-**Note:** Full list of [keyboard shortcuts here](/desktop/shortcuts/).
-</span>
+{{% alert info %}}**Note:** Full list of [keyboard shortcuts here](/desktop/shortcuts/).{{% /alert %}}
 
 * * *
 
@@ -41,9 +39,7 @@ To select a control that is behind another control, right-click on the top contr
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/select_from_layers.png)
 
-<span class="alert alert-info show" role="alert">
-**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](https://support.balsamiq.com/tutorials/controls/).
-</span>
+{{% alert info %}}**Note:** To see this and the other techniques in this article demonstrated in a video, see [this tutorial on Tips for Working with Controls](https://support.balsamiq.com/tutorials/controls/).{{% /alert %}}
 
 
 * * *
@@ -76,6 +72,12 @@ If you want to constrain proportions while dragging from a corner, hold the SHIF
 You can also use the keyboard to resize selected controls. CTRL/CMD+ALT+arrow keys to resize in 1px increments, CTRL/CMD+ALT+SHIFT+arrow keys for 10px increments.
 
 Another way to resize some controls to their "natural size" is to use the Auto-Size function found in the [Property Inspector](/desktop/inspector/).
+
+To resize one or more controls to match the size of another (to be the same width or height), you can use the "Resize To..." function in the Edit menu.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/resize-to.png)
+
+Select multiple controls and use this option to size all the selected controls to match the narrowest, widest, shortest, or tallest control in the selection.
 
 * * *
 

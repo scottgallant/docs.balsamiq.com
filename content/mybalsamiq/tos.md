@@ -19,9 +19,9 @@ Most Terms of Service and Privacy Policy documents are unreadable. They are writ
 
 Because **we believe in establishing long-term relationships with our customers**, we decided to use plain English instead, to make our terms as clear as possible.
 
-Please don't forget that we are real people: take a look at [our company page](http://balsamiq.com/company) to get to know us a little. We are not perfect, but we're trying our hardest, because we genuinely care about your success.
+Please don't forget that we are real people: take a look at [our company page](https://balsamiq.com/company) to get to know us a little. We are not perfect, but we're trying our hardest, because we genuinely care about your success.
 
-When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([contact information](http://balsamiq.com/company/#contact)), its affiliates (including our parent company [Balsamiq SRL](http://www.balsamiq.it)) and agents.
+When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([contact information](https://balsamiq.com/company/#contact)), its affiliates (including our parent company [Balsamiq SRL](http://www.balsamiq.it)) and agents.
 
 Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
 
@@ -438,7 +438,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 *   2011, Nov 24: Specified that you need to accept cookies from mybalsamiq.com, not cookies in general. Also fixed a typo. Both ideas by Max S. - thanks! Peldi
 *   2011, Nov 3: Did another pass, looks pretty good now (still a little too much legalese for my taste though). Peldi
 *   2011, Nov 2: First official draft! Removed "this is a draft" warning from the top. Peldi
-*   2011, Nov 1: Replaced ToS link in mybalsamiq from the generic [http://balsamiq.com/termsofuse](http://balsamiq.com/termsofuse) and [http://balsamiq.com/privacy](http://balsamiq.com/privacy) with a link to this page, which is meant to supersede both of them with regards to myBalsamiq. Peldi
+*   2011, Nov 1: Replaced ToS link in mybalsamiq from the generic [https://balsamiq.com/termsofuse](https://balsamiq.com/termsofuse) and [https://balsamiq.com/privacy](https://balsamiq.com/privacy) with a link to this page, which is meant to supersede both of them with regards to myBalsamiq. Peldi
 *   2011, Oct 30: Updated with introduction. Peldi
 *   2011, Oct 28: Published a table-of-contents document with a "this is not ready" warning. Peldi
 

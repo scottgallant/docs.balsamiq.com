@@ -1,17 +1,17 @@
 ---
 date: 2015-07-30T15:52:28-07:00
-title: "Mockups for JIRA User Guide"
+title: "Mockups for JIRA Server User Guide"
 menu:
   menujira:
     parent: jira
-weight: 10
+weight: 30
 ---
 
-## Welcome to the Online Help of Mockups for JIRA
+This page contains usage instructions for [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups/server/overview).
 
-This page contains usage instructions for [Mockups for JIRA](http://balsamiq.com/products/mockups/jira).
+{{% alert info %}}**Using JIRA Cloud?** If you are using JIRA Cloud (on atlassian.net), please see [this article](/jira/user-guide-cloud/) instead.{{% /alert %}}
 
-JIRA Administrators: the [Mockups for JIRA Admin Guide](/jira/admin-guide) is for you.
+JIRA Administrators: the [Mockups for JIRA Server Admin Guide](/jira/admin-guide) is for you.
 
 * * *
 
@@ -23,7 +23,7 @@ To add a UI Mockup to a particular JIRA issue you simply click on the “Add/Edi
 
 You will be taken to the Mockups editor, where you can create your mockup (or import an existing mockup - see [this page](https://support.balsamiq.com/plugins/importtoatlassian/) for instructions).
 
-If you have never used Balsamiq Mockups before, here's a quick video introduction of what you can do with it when using the JIRA plugin:
+If you have never used Balsamiq Mockups before, here's a quick video introduction of what you can do with it when using the JIRA Server plugin:
 
 <div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/nLNdx9kI7OM?rel=0"></iframe></div>
 
@@ -31,7 +31,7 @@ When you are happy with your mockup, you simply go to the Mockup menu:
 
 ![](//media.balsamiq.com/img/support/docs/jira/userguide/mockupmenujira.png)
 
-and select “Save and Close” (also note the “Save as New Mockup” menu item, which is exclusive to Mockups for JIRA. More on that below).
+and select “Save and Close”.
 
 You will be prompted to name your mockup, and the software will auto-generate a simple date-based name for you, which is handy when you have many mockups on the same issue:
 
@@ -43,11 +43,9 @@ You will be taken back to the issue. Here's a sample one (click for a larger vie
 
 [![](//media.balsamiq.com/img/support/docs/jira/userguide/attachedissue.png)](//media.balsamiq.com/img/support/docs/jira/userguide/attachedissue.png)
 
-Notice how the UI Mockup is now attached to the issue, both as an image and as a bmml data file (BMML is the flavor of XML that Mockups uses). Also notice how Mockups for JIRA has added a comment to the issue for you, saying “Added UI Mockup: <_mockup name_>“. This means that if any of your co-workers is watching the issue, they’ll get an email notification to check out your new work of art. :)
+Notice how the UI Mockup is now attached to the issue, both as an image and as a bmml data file. Also notice how Mockups for JIRA Server has added a comment to the issue for you, saying “Added UI Mockup: <_mockup name_>“. This means that if any of your co-workers is watching the issue, they’ll get an email notification to check out your new work of art. :)
 
-<span class="alert alert-info show" role="alert">
-**Note:** Even if your Balsamiq Mockups license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/jira/admin-guide)), anyone with access to your JIRA site will be able to see them.
-</span>
+{{% alert info %}}**Note:** Even if your Balsamiq Mockups for JIRA Server license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/jira/admin-guide)), anyone with access to your JIRA site will be able to see them.{{% /alert %}}
 
 So that’s the basic workflow of creating a new mockup for an issue. It gets better!
 
@@ -75,4 +73,6 @@ If you select “Save and Close”, you’ll have a chance to enter an optional 
 
 As the dialog says, if you leave the field blank no notifications will be sent. Otherwise your comment will appear on the Issue’s comments list, and watchers will be notified.
 
-That’s it! Couldn’t be simpler right? :)
+That’s it!
+
+For instructions on **how to use the mockup editor itself**, please refer to the [editor documentation PDF](https://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf).

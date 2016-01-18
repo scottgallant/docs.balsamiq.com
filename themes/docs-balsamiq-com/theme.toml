@@ -8,5 +8,5 @@ min_version = 0.13
 
 [author]
     name = "Balsamiq"
-    homepage = "http://balsamiq.com"
+    homepage = "https://balsamiq.com"
     repo = "https://github.com/balsamiq/docs.balsamiq.com"

@@ -36,12 +36,10 @@ You can use the following notation to format only certain parts of your control'
 
 All of the above syntax works around words separated by white spaces, and underline will work within words.
 
-<span class="alert alert-info show" role="alert">
-**Notes:**  
+{{% alert info %}}**Notes:**
 1.  The #FF0000 above is the color in HEX form, just like HTML. The macro will work with or without the pound sign. You can also use certain color names (green, yellow, etc.) which you can find by moving your mouse over the colors in the color palette in the Property Inspector.
 2.  See the [next section](#making-links-in-text-actually-work) for how to turn [linked text] into functioning links to websites or other mockups.  
-3.  This formatting syntax also works for text entered into the [Notes panel](/desktop/inspector/#adding-notes-to-your-mockups-symbols-and-assets) _except_ italic and strikethrough.
-</span>
+3.  This formatting syntax also works for text entered into the [Notes panel](/desktop/inspector/#adding-notes-to-your-mockups-symbols-and-assets) _except_ italic and strikethrough.{{% /alert %}}
 
 Here's a screenshot of what the above text looks like in a Paragraph control, for instance:
 
@@ -82,7 +80,7 @@ Web addresses:
 	[Balsamiq Website](balsamiq.com)
 	[Balsamiq Website](www.balsamiq.com)
 	[Balsamiq Website](http://www.balsamiq.com)
-	[Balsamiq Website](http://balsamiq.com)
+	[Balsamiq Website](https://balsamiq.com)
 
 Mockups in the same project:
 
@@ -101,9 +99,7 @@ results in
 
 You can link specific strings of text as well as the whole control.
 
-<span class="alert alert-info show" role="alert">
-**Note:** If the whole control is linked, text links will be disabled. If the whole control is subsequently unlinked, the previous text links will return.
-</span>
+{{% alert info %}}**Note:** If the whole control is linked, text links will be disabled. If the whole control is subsequently unlinked, the previous text links will return.{{% /alert %}}
 
 * * *
 

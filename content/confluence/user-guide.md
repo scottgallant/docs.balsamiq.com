@@ -10,9 +10,11 @@ weight: 10
 
 ## Welcome 
 
-This page contains usage instructions for [Mockups for Confluence](http://balsamiq.com/products/mockups/confluence).
+This page contains usage instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview).
 
-Confluence Administrators: the **[Mockups for Confluence Admin Guide](/confluence/admin-guide)** is for you.
+Confluence Server Administrators: the **[Mockups for Confluence Server Admin Guide](/confluence/admin-guide/)** is for you.
+
+Confluence Cloud Administrators: the **[Mockups for Confluence Cloud Admin Guide](/confluence/admin-guide-cloud/)** is for you.
 
 * * *
 
@@ -38,13 +40,9 @@ Once you name your mockup you can continue working on it and saving it periodica
 
 When you are ready to go back to the wiki page, just click on "Close" or select "Close Editor" from the Mockup menu. You will be taken back to the Confluence editor. Save the page and you're done!
 
-<span class="alert alert-info show" role="alert">
-**Note:** Even if your Balsamiq Mockups license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/confluence/admin-guide)), anyone with access to your Confluence site will be able to see them.
-</span>
+{{% alert info %}}**Note:** Even if your Balsamiq Mockups license is configured so that only specific people can create and edit mockups (explained in the [Admin Guide](/confluence/admin-guide)), anyone with access to your Confluence site will be able to see them.{{% /alert %}}
 
-<span class="alert alert-info show" role="alert">
-**A note for Confluence 3.x users:** In Confluence 3.x, you have to add a mockup by selecting the "Add UI Mockup" menu under the "Add Content" menu section of your wiki page.
-</span>
+{{% alert info %}}**A note for Confluence 3.x users:** In Confluence 3.x, you have to add a mockup by selecting the "Add UI Mockup" menu under the "Add Content" menu section of your wiki page.{{% /alert %}}
 
 ## Editing a Mockup
 
@@ -52,9 +50,7 @@ To make changes to a mockup, edit the wiki page, select the mockup image and cli
 
 ![](//media.balsamiq.com/img/support/docs/confluence/userguide/confluence2.png)
 
-<span class="alert alert-info show" role="alert">
-**A note for Confluence 3.x users:** In Confluence 3.x, you edit a mockup by clicking on the "edit this mockup" link under the mockup you want to edit.
-</span>
+{{% alert info %}}**A note for Confluence 3.x users:** In Confluence 3.x, you edit a mockup by clicking on the "edit this mockup" link under the mockup you want to edit.{{% /alert %}}
 
 * * *
 

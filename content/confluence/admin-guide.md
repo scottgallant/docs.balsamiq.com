@@ -1,7 +1,7 @@
 ---
 date: 2015-07-30T15:52:20-07:00
 draft: false
-title: "Mockups for Confluence Admin Guide"
+title: "Mockups for Confluence Server Admin Guide"
 menu:
   menuconfluence:
     parent: confluence
@@ -10,9 +10,9 @@ weight: 20
 
 ## Welcome
 
-The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](http://balsamiq.com/products/mockups/confluence) **when installed on your own server**.
+The Confluence Admin Guide contains installation, registration, updating and uninstalling instructions for [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/cloud/overview) **when installed on your own server**.
 
-Instructions for Atlassian Cloud are [here](https://support.balsamiq.com/sales/atlassiancloud/).
+{{% alert info %}}**Using Confluence Cloud?** If you are using Confluence Cloud (on atlassian.net), please see [this article](/confluence/admin-guide-cloud/) instead.{{% /alert %}}
 
 Usage instructions for the plugin are [here](/confluence/user-guide).
 
@@ -68,7 +68,7 @@ This is what you'll see if you have a license you purchased from Balsamiq but se
 
 If you receive an error when registering, [this FAQ](https://support.balsamiq.com/plugins/failedtovalidatelicense/) may help.
 
-UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](https://support.balsamiq.com/plugins/atlassianlicensenotshowing/)
+UPM still showing the plugin as "Unlicensed" or "Free Trial" after you install the Balsamiq-issued license? [This FAQ is for you](https://support.balsamiq.com/plugins/atlassianlicensenotshowing/).
 
 * * *
 
@@ -86,7 +86,7 @@ You can add and remove users to this group whenever you like, just make sure you
 
 If instead you bought an unlimited version of the plugin, everyone will be able to create and edit mockups.
 
-Using both Mockups for Confluence and Mockups for JIRA? Please see [this article](https://support.balsamiq.com/plugins/atlassiancloudandldap/) as well.
+Using both Mockups for Confluence and Mockups for JIRA? Please see [this article](https://support.balsamiq.com/plugins/atlassianldap/) as well.
 
 * * *
 
