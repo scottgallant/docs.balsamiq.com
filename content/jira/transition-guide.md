@@ -41,7 +41,7 @@ Clicking "show more details" shows this message:
 
 ![](//media.balsamiq.com/img/support/docs/jira/transitionguide/transition2.png)
 
-To start the conversion process, just click the "to Balsamiq Mockups 3 for JIRA Cloud" button
+To start the conversion process for the BMMLS on this JIRA issue, just click the "to Balsamiq Mockups 3 for JIRA Cloud" button
 
 ![](//media.balsamiq.com/img/support/docs/jira/transitionguide/transition3.png)
 
