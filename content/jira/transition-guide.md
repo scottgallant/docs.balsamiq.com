@@ -7,7 +7,9 @@ menu:
 weight: 50
 ---
 
-Mockups 3 for JIRA Cloud was released January 18, 2016. We will soon be moving all JIRA Cloud instances to this new connect add-on, however, in the meantime, you may be using an older version of the plugin.
+Mockups 3 for JIRA Cloud was released January 18, 2016. The new version has projects, symbols, real time collaboration and lots of other improvements.
+
+We will soon be moving all JIRA Cloud instances to this new connect add-on, however, in the meantime, you may be using an older version of the plugin.
 
 **If you haven't yet purchased Mockups for JIRA**, but have a Cloud instance older than January 18, 2016, you will have the older plugin pre-installed. You may have even trialed this version. As this older version will shortly be removed from your Cloud instance, we suggest you disable it via the UPM, install the [Mockups for 3 JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) version, and trial this add-on. Here are details on [how it install the connect plugin](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/installation).
 
@@ -17,19 +19,15 @@ Mockups 3 for JIRA Cloud was released January 18, 2016. We will soon be moving a
 
 If you have any questions, don't hesitate to [contact us](https://balsamiq.com/company/contact/#/s/m4j).
 
-Balsamiq Mockups for JIRA for Cloud users has been updated to a new version which has projects, symbols, real time collaboration and lots of other improvements.
-
 ## A New File Format
 
-In the old version of Balsamiq Mockups for JIRA, we stored each mockup in its own BMML attachment, and only linked to images. Balsamiq Mockups 3 for JIRA Cloud introduces a new project file format called BMPR: everything that belongs to a project (mockups, symbols, images, icons) is in a single file, save as an attachment to your JIRA issues. This makes it much easier to link and keep everything together. Learn more about the new plugin [here](/jira/user-guide-cloud).
+In the old version of Balsamiq Mockups for JIRA, we stored each mockup in its own BMML attachment, and only linked to images. Balsamiq Mockups 3 for JIRA Cloud introduces a new project file format called BMPR: everything that belongs to a project (mockups, symbols, images, icons) is in a single file, saved as an attachment to your JIRA issues. This makes it much easier to link and keep everything together. Learn more about the new plugin [here](/jira/user-guide-cloud).
 
 In order to take advantage of the new feature you need to migrate the old files to the new project format.
 
 ## Installing Balsamiq Mockups for JIRA 3 Cloud
 
-You can install the new plugin simply via UPM, just search for "Balsamiq Mockups 3 for JIRA Cloud" and click "Install" to start the 30-day trial.
-
-(TODO add img here)
+You can install the new plugin simply via the UPM, just search for "Balsamiq Mockups 3 for JIRA Cloud" and click "Install" to start the 30-day trial.
 
 {{% alert info %}}**Note**: you can install the new plugin even if you still have the old version of Mockups for JIRA installed and enabled, the two plugins can work side-by-side.{{% /alert %}}
 
