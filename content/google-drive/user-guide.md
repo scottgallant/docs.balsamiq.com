@@ -83,9 +83,9 @@ Just like the other versions of Mockups, you can export your wireframes to PDF, 
 
 ![Export options](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)		
 
-To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporting-to-other-versions-of-balsamiq-mockups)
+Exports are saved onto your Google Drive. You can download them to your computer from [drive.google.com](https://drive.google.com).
 
-{{% alert info %}}**Note:** Exports are saved onto your Google Drive. You can download them to your computer from [drive.google.com](https://drive.google.com).{{% /alert %}}
+To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporting-to-other-versions-of-balsamiq-mockups)
 
 * * *
 
