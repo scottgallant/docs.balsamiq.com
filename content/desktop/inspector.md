@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:21+02:00
 title: "The Property Inspector"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 60
 tags:
   - "Property Inspector"

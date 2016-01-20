@@ -1,9 +1,7 @@
 ---
 date: 2015-05-10T10:33:47+02:00
 title: "Linking Mockups Together"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 180
 tags:
   - "Linking"

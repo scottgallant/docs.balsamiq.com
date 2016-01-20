@@ -19,29 +19,4 @@ blackfriday:
 taxonomies:
   category:  "categories"
   tag:  "tags"
-
-menu.menudesktop:
-  name:  "desktop"
-  identifier:  "desktop"
-  url:  "/desktop/"
-
-menu.menumybalsamiq:
-  name:  "mybalsamiq"
-  identifier:  "mybalsamiq"
-  url:  "/mybalsamiq/"
-
-menu.menugoogledrive:
-  name:  "googledrive"
-  identifier:  "googledrive"
-  url:  "/google-drive/"
-
-menu.menujira:
-  name:  "jira"
-  identifier:  "jira"
-  url:  "/jira/"
-
-menu.menuconfluence:
-  name:  "confluence"
-  identifier:  "confluence"
-  url:  "/confluence/"
 ---

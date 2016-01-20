@@ -1,9 +1,7 @@
 ---
 date: 2015-07-30T15:52:28-07:00
 title: "Mockups 3 for JIRA Cloud User Guide"
-menu:
-  menujira:
-    parent: jira
+menu: "menujira"
 weight: 10
 ---
 

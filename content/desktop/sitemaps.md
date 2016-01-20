@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:59:07+02:00
 title: "Working with Site Maps"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 150
 ---
 

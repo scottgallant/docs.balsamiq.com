@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:47:53+02:00
 title: "Working with Text"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 90
 ---
 

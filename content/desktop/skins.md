@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T17:03:44+02:00
 title: "Working with Skins (Sketch vs. Wireframe)"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 85
 ---
 
