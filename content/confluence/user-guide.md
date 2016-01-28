@@ -2,9 +2,7 @@
 date: 2015-07-30T15:52:20-07:00
 draft: false
 title: "Mockups for Confluence User Guide"
-menu:
-  menuconfluence:
-    parent: confluence
+menu: "menuconfluence"
 weight: 10
 ---
 

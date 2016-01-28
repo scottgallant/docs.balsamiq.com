@@ -346,9 +346,18 @@ body {
       margin-bottom: 1em;
     }
     // ARTICLES
-    // IMAGE ALIGNMENT IN ARTICLES
     #page-article {
+      // WHITE SPACE BETWEEN H2'S AND HRS FOR TOC MENU ISSUES
+      h2 {
+        margin-top: 36px;
+      }
+      hr {
+        margin: 35px 0 36px 0;
+      }
+      // BOTTOM MARGIN FOR TOC MENU ISSUES
+      margin-bottom: 150px;
       .content.article {
+        // IMAGE ALIGNMENT IN ARTICLES
         img {
           display: block;
           margin-left: auto;
@@ -374,6 +383,7 @@ body {
       @include fontsize(14,14);
       .pager li > a {
         margin-bottom: 12px;
+        border-radius: 18px;
       }
     }
   // ========================================

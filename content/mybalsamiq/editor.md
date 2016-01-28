@@ -1,9 +1,7 @@
 ---
 date: 2015-09-23T15:48:49-07:00
 title: "myBalsamiq Mockups Editor"
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 70
 ---
 

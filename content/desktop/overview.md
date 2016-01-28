@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:44:43+02:00
 title: "Mockups Application Overview"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 40
 ---
 
@@ -64,7 +62,7 @@ Try out Quick Add now! As you become familiar with it, you could even hide the U
 
 ## The UI Library
 
-The UI Library, or UI Controls Library, is the long strip of UI Controls just below the Toolbar. It lists all of the UI control types that come with Mockups as well as [Assets](/desktop/images/), [Icons](/desktop/icons/), and [Symbols](/desktop/symbols/). The main goal of the UI Library is to let you add UI Controls to the mockup canvas, but you can also use it to see what's possible and to get inspiration for your UI mockup.
+The UI Library, or UI Controls Library, is the long strip of UI Controls just below the toolbar. It lists all of the UI control types that come with Mockups as well as [Assets](/desktop/images/), [Icons](/desktop/icons/), and [Symbols](/desktop/symbols/). The main goal of the UI Library is to let you add UI Controls to the mockup canvas, but you can also use it to see what's possible and to get inspiration for your UI mockup.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/uilibrary.png)
 

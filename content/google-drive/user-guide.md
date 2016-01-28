@@ -1,9 +1,7 @@
 ---
 date: 2015-07-30T15:52:12-07:00
 title: "Mockups for Google Drive User Guide"
-menu:
-  menugoogledrive:
-    parent: google-drive
+menu: "menugoogledrive"
 weight: 0
 ---
 
@@ -73,9 +71,21 @@ There are two ways to create a new Balsamiq Mockups project in Google Drive.
 
 * * *
 
-## Using the Balsamiq Mockups Editor 
+## Using the Balsamiq Mockups Editor
 
 The Balsamiq Mockups editor allows you to create wireframes just like our other products. The user interface is very similar to the desktop version, so reviewing the [Desktop application overview](/desktop/overview/) may be helpful if you have any questions after reading the instructions below.
+
+* * *
+
+## Exporting Your Mockups		
+
+Just like the other versions of Mockups, you can export your wireframes to PDF, PNG images, or as text (for importing into another version of Mockups). These options can be found in the **Project menu**. For more details see [this article on exporting in the desktop version](/desktop/exporting/).		
+
+![Export options](//media.balsamiq.com/img/support/docs/gdrive/userguide/projectmenu_export.png)		
+
+Exports are saved onto your Google Drive. You can download them to your computer from [drive.google.com](https://drive.google.com).
+
+To export the entire project (including Symbols and images) for use in another version of Balsamiq Mockups, see the section below on [Exporting to Other Versions of Balsamiq Mockups](#exporting-to-other-versions-of-balsamiq-mockups)
 
 * * *
 
