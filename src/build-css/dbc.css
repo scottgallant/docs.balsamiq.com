@@ -393,18 +393,24 @@ body {
     margin-bottom: 12px; }
   #body-main #page-topic ul li {
     margin-bottom: 1em; }
-  #body-main #page-article .content.article img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    max-width: 100%; }
-  #body-main #page-article .content.article .imgleft img,
-  #body-main #page-article .content.article img.imgleft {
-    margin-left: 0;
-    margin-right: 0;
-    text-align: left;
-    max-width: 100%; }
+  #body-main #page-article {
+    margin-bottom: 150px; }
+    #body-main #page-article h2 {
+      margin-top: 36px; }
+    #body-main #page-article hr {
+      margin: 35px 0 36px 0; }
+    #body-main #page-article .content.article img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      max-width: 100%; }
+    #body-main #page-article .content.article .imgleft img,
+    #body-main #page-article .content.article img.imgleft {
+      margin-left: 0;
+      margin-right: 0;
+      text-align: left;
+      max-width: 100%; }
   #body-main .section-pager {
     margin-top: 2em;
     font-size: 14px;
@@ -414,7 +420,8 @@ body {
     #body-main .section-pager .section-next {
       text-align: right; }
     #body-main .section-pager .pager li > a {
-      margin-bottom: 12px; }
+      margin-bottom: 12px;
+      border-radius: 18px; }
 
 ul.tags.listing {
   -webkit-column-width: 400px;
