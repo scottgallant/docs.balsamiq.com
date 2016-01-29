@@ -62,11 +62,11 @@ In the [Settings](//docs.balsamiq.com/desktop/fullscreen#settings) panel, you wi
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_link.png)
 
-Clicking that link will open a window that gives you an overview of the size of all the mockups in your project. It will also show you what mockups are being used to determine your presentation's center. The longest mockup will have its width in red, while the tallest mockup will have it's height in blue. This should give you a hint as to what mockup is causing your project to center incorrectly.
+Clicking that link will open a window that gives you an overview of the size of all the mockups in your project. It will show you the longest and widest mockups in project, and the effective size they are making your project as a whole. The longest mockup will have its width in red, while the tallest mockup will have it's height in blue. This should give you a hint as to what mockup is causing your project to center incorrectly.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_default.png)
 
-Clicking the checkbox next to the trouble mockup (or mockups) will take them out of the centering calculation (and will recalculate the new longest/widest mockups).
+Clicking the checkbox next to the trouble mockup (or mockups) will take them out of the centering calculation (and will recalculate the new longest/widest mockups, adjusting the overall project size).
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_changed.png)
 
