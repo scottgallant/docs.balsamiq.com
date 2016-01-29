@@ -58,7 +58,7 @@ To exit Full Screen Presentation mode, hit the ESC key or click the icon in the 
 
 Full Screen Presentation Mode centers your entire project based on the mockup that is the tallest, and the mockup that is the widest. While this normally results in a presentation that is centered (and whose focus doesn't jump around), if you have a mockup that is a great deal larger than your other mockups, it may result in your project being off center, or pushed to the top of the screen.
 
-In the [Settings](//docs.balsamiq.com/fullscreen#settings) panel, you will find a link called **Project Centering Rules**.
+In the [Settings](//docs.balsamiq.com/desktop/fullscreen#settings) panel, you will find a link called **Project Centering Rules**.
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_link.png)
 
