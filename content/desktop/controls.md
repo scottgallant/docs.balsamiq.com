@@ -153,7 +153,7 @@ You can double-click on a group to "enter it" and edit its contents. A small flo
 
 Here's a video that shows grouping in action:
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/rGNnhbY19yY?rel=0"></iframe></div>
+{{< yt rGNnhbY19yY >}}
 
 You can optionally give a group a name via the Property Inspector. This can be helpful when you have a lot of groups and need to "know where you are" when you edit their contents. Naming groups is also useful when creating [Symbols](/desktop/symbols/#1-creating-symbols-in-the-mockups-view).
 
@@ -161,11 +161,13 @@ You can optionally give a group a name via the Property Inspector. This can be h
 
 ## Cropping Groups
 
-It is possible to crop (mask) groups to only show a selected portion of them.
+It is possible to crop (mask) a group of controls to only show a selected portion of it. When a [group](#grouping-ui-controls) is selected, a crop icon will show in the [Property Inspector](/desktop/inspector/). Click on it to edit the visible area of the group.
 
-The video below illustrates how to use this powerful feature:
+The video below illustrates how to use this feature.
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/36imBnhykZw"></iframe></div>
+{{< yt 36imBnhykZw >}}
+
+{{% alert info %}}**Note:** To crop a single control, select it and [group](#grouping-ui-controls) it (yes, a group with only one element). You will then be able to crop it.{{% /alert %}}
 
 ---
 
@@ -175,6 +177,6 @@ There are three controls that you can add to the canvas by "drawing" them with y
 
 See the video below for a demonstration. 
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/nuKPp-QFzOY"></iframe></div>
+{{< yt nuKPp-QFzOY >}}
 
 After you've added these controls, you can easily convert them to other controls by using the [transform menu described above](#transforming-ui-controls).

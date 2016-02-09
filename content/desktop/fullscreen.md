@@ -51,3 +51,25 @@ There are keyboard shortcuts for each setting, shown next to the setting name in
 The info icon next to the settings icon will open a panel to view and edit notes for the selected mockup, just like in normal edit mode.
 
 To exit Full Screen Presentation mode, hit the ESC key or click the icon in the upper right corner.
+
+* * *
+
+## Adjusting Your Project's Centering
+
+Full Screen Presentation Mode centers your entire project based on the mockup that is the tallest, and the mockup that is the widest. While this normally results in a presentation that is centered (and whose focus doesn't jump around), if you have a mockup that is a great deal larger than your other mockups, it may result in your project being off center, or pushed to the top of the screen.
+
+In the [Settings](//docs.balsamiq.com/desktop/fullscreen#settings) panel, you will find a link called **Project Centering Rules**.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_link.png)
+
+Clicking that link will open a window that gives you an overview of the size of all the mockups in your project. It will show you the longest and widest mockups in project, and the effective size they are making your project as a whole. The longest mockup will have its width in red, while the tallest mockup will have it's height in blue. This should give you a hint as to what mockup is causing your project to center incorrectly.
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_default.png)
+
+Clicking the checkbox next to the trouble mockup (or mockups) will take them out of the centering calculation (and will recalculate the new longest/widest mockups, adjusting the overall project size).
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_changed.png)
+
+This should solve any centering issues you have!
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_after.png)
